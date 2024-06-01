@@ -1,0 +1,836 @@
+Script started on 2024-06-01 03:56:57+02:00 [COMMAND="paru mupdf" TERM="xterm-kitty" TTY="/dev/pts/8" COLUMNS="71" LINES="37"]
+[35m 1[0m [1;38;5;12mextra[0m/[1mmupdf[0m [1;32m1.24.2-2[0m [[1m56.02 KiB 145.13 KiB[0m]
+    Lightweight PDF and XPS viewer
+[35m 2[0m [1;38;5;12mextra[0m/[1mlibmupdf[0m [1;32m1.24.2-2[0m [[1m0 B 50.37 MiB[0m] [1;36m[Installed][0m
+    Library for Lightweight PDF and XPS viewer
+[35m 3[0m [1;38;5;12mextra[0m/[1mmupdf-gl[0m [1;32m1.24.2-2[0m [[1m0 B 266.04 KiB[0m] [1;36m[Installed][0m
+    Lightweight PDF and XPS viewer with OpenGL backend
+[35m 4[0m [1;38;5;12mextra[0m/[1mmupdf-tools[0m [1;32m1.24.2-2[0m [[1m0 B 533.38 KiB[0m] [1;36m[Installed][0m
+    Tools for Lightweight PDF and XPS viewer
+[35m 5[0m [1;38;5;12mextra[0m/[1mpython-mupdf[0m [1;32m1.24.2-2[0m [[1m0 B 12.51 MiB[0m] [1;36m[Installed][0m
+    Library for Lightweight PDF and XPS viewer - Python bindings
+[35m 6[0m [1;38;5;12mextra[0m/[1mpython-pymupdf[0m [1;32m1.24.5-1[0m [[1m0 B 3.82 MiB[0m] [1;36m[Installed][0m
+    Python bindings for MuPDF's rendering library
+[35m 7[0m [1;38;5;12mextra[0m/[1mzathura-pdf-mupdf[0m [1;32m0.4.2-1[0m [[1m0 B 27.60 KiB[0m]
+    PDF support for Zathura (MuPDF backend) (Supports PDF, ePub, and 
+    OpenXPS)
+[35m 8[0m [1;38;5;14maur[0m/[1mfbpdf-git[0m [1;32mr102.6276360-3[0m [[1m+43 ~0.00[0m] [1;36m[Installed][0m
+    A small framebuffer pdf viewer, based on MuPDF.
+[35m 9[0m [1;38;5;14maur[0m/[1mzathura-pdf-mupdf-git[0m [1;32m0.4.1.r8.gc742d4c-2[0m [[1m+21 ~0.00[0m] [1;36m[Installed: 0.4.1.r10.gf08f2f5-1][0m
+    PDF support for zathura (mupdf backend) (Supports PDF, ePub, and 
+    OpenXPS)
+[35m10[0m [1;38;5;14maur[0m/[1mmupdf-git[0m [1;32m20231101.dc7489fd9-1[0m [[1m+17 ~0.00[0m]
+    Lightweight PDF, XPS, and E-book viewer
+[35m11[0m [1;38;5;14maur[0m/[1mokular-backend-mupdf-git[0m [1;32mr81.1ba0160-1[0m [[1m+11 ~0.01[0m] [1;31m[Out-of-date: 2023-11-23][0m
+    MuPDF-based backend for Okular (git version)
+[35m12[0m [1;38;5;14maur[0m/[1mllpp[0m [1;32m42-1[0m [[1m+8 ~0.11[0m]
+    opengl accelerated pdf viewer based on mupdf
+[35m13[0m [1;38;5;14maur[0m/[1mvim-live-latex-preview[0m [1;32m0.9-1[0m [[1m+7 ~0.00[0m] [1;31m[Orphaned][0m
+    Vim plugin and helper scripts to provide a live-updating PDF 
+    preview of LaTeX documents with MuPDF
+[35m14[0m [1;38;5;14maur[0m/[1mpdftxt[0m [1;32m0.7-6[0m [[1m+6 ~0.00[0m]
+    Simple wrapper around libmupdf to extract text from PDF files
+[35m15[0m [1;38;5;14maur[0m/[1mmupdf-bgcolor-git[0m [1;32m20180322.90defd07-1[0m [[1m+0 ~0.00[0m]
+    Lightweight PDF, XPS, and E-book viewer. Patched to allow custom 
+    background color.
+[1;34m::[0m [1mPackages to install (eg: 1 2 3, 1-3):[0m
+[1;34m::[0m 19 0
+[1;34m::[0m [1mResolving dependencies...[0m
+[1;34m::[0m [1mCalculating conflicts...[0m
+[1;34m::[0m [1mCalculating inner conflicts...[0m
+
+[31m::[0m [1mConflicts found:[0m
+    mupdf-git: mupdf-gl (mupdf)  mupdf-gl (mupdf)  mupdf-gl  mupdf-tools  
+
+[33m::[0m [1mConflicting packages will have to be confirmed manually[0m
+
+[1mAur (1)[0m        [1mOld Version[0m  [1mNew Version[0m           [1mMake Only[0m
+aur/mupdf-git               20231101.dc7489fd9-1  No
+
+[1;34m::[0m [1mProceed to review?[0m [1m[Y/n]:[0m 
+
+[1;34m::[0m [1mDownloading PKGBUILDs...[0m
+ (1/1) downloading: mupdf-git-20231101.dc7489fd9-1
+[?1h[1m/home/heini/.cache/paru/clone/mupdf-git/PKGBUILD[0m[m
+[38;2;124;120;101m#[0m[38;2;124;120;101m Maintainer: Gaetan Bisson <bisson@archlinux.org>[0m[m
+[38;2;124;120;101m#[0m[38;2;124;120;101m Contributor: Stefan Husmann <stefan-husmannt-online.de> [0m[m
+[38;2;124;120;101m#[0m[38;2;124;120;101m Contributor: Army <uli armbruster>[0m[m
+[m
+[38;2;255;255;255mpkgname[0m[38;2;249;38;114m=[0m[38;2;230;219;116mmupdf-git[0m[m
+[38;2;255;255;255m_pkgname[0m[38;2;249;38;114m=[0m[38;2;230;219;116mmupdf[0m[m
+[38;2;255;255;255mpkgver[0m[38;2;249;38;114m=[0m[38;2;230;219;116m20231101.dc7489fd9[0m[m
+[38;2;255;255;255mpkgrel[0m[38;2;249;38;114m=[0m[38;2;230;219;116m1[0m[m
+[38;2;255;255;255mpkgdesc[0m[38;2;249;38;114m=[0m[38;2;255;255;255m'[0m[38;2;230;219;116mLightweight PDF, XPS, and E-book viewer[0m[38;2;255;255;255m'[0m[m
+[38;2;255;255;255march[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m'[0m[38;2;230;219;116mx86_64[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116marmv7h[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116maarch64[0m[38;2;255;255;255m'[0m[38;2;255;255;255m)[0m[m
+[38;2;255;255;255murl[0m[38;2;249;38;114m=[0m[38;2;255;255;255m'[0m[38;2;230;219;116mhttps://mupdf.com/[0m[38;2;255;255;255m'[0m[m
+[38;2;255;255;255mlicense[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m'[0m[38;2;230;219;116mAGPL3[0m[38;2;255;255;255m'[0m[38;2;255;255;255m)[0m[m
+[38;2;255;255;255mmakedepends[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m'[0m[38;2;230;219;116mgit[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mlibxi[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mglu[0m[38;2;255;255;255m'[0m[38;2;255;255;255m)[0m[m
+[38;2;255;255;255mdepends[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m'[0m[38;2;230;219;116mgumbo-parser[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mharfbuzz[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mjbig2dec[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mlibarchive[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mlibgl[0m[38;2;255;255;255m'[0m[m
+[38;2;255;255;255m         [0m[38;2;255;255;255m'[0m[38;2;230;219;116mlibjpeg-turbo[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mlibxrandr[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mmujs[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mopenjpeg2[0m[38;2;255;255;255m'[0m[38;2;255;255;255m)[0m[m
+[38;2;255;255;255msource[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m'[0m[38;2;230;219;116mgit://git.ghostscript.com/mupdf.git[0m[38;2;255;255;255m'[0m[m
+[38;2;255;255;255m        [0m[38;2;255;255;255m'[0m[38;2;230;219;116mgit://git.ghostscript.com/thirdparty-extract.git[0m[38;2;255;255;255m'[0m[m
+[38;2;255;255;255m        [0m[38;2;255;255;255m'[0m[38;2;230;219;116mgit://git.ghostscript.com/thirdparty-freeglut.git[0m[38;2;255;255;255m'[0m[m
+[38;2;255;255;255m        [0m[38;2;255;255;255m'[0m[38;2;230;219;116mgit://git.ghostscript.com/thirdparty-lcms2.git#branch=lcms2mt[0m[38;2;255;255;255m'[0m[m
+[38;2;255;255;255m        [0m[38;2;255;255;255m'[0m[38;2;230;219;116mdesktop[0m[38;2;255;255;255m'[0m[38;2;255;255;255m)[0m[m
+[38;2;255;255;255msha256sums[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m'[0m[38;2;230;219;116mSKIP[0m[38;2;255;255;255m'[0m[m
+[38;2;255;255;255m            [0m[38;2;255;255;255m'[0m[38;2;230;219;116mSKIP[0m[38;2;255;255;255m'[0m[m
+[38;2;255;255;255m            [0m[38;2;255;255;255m'[0m[38;2;230;219;116mSKIP[0m[38;2;255;255;255m'[0m[m
+[38;2;255;255;255m            [0m[38;2;255;255;255m'[0m[38;2;230;219;116mSKIP[0m[38;2;255;255;255m'[0m[m
+[38;2;255;255;255m            [0m[38;2;255;255;255m'[0m[38;2;230;219;116m3240d4ebda002cb2c4f42cd42793c6160f1701d349d0acb797819dfd1[m[7m>[27m
+[m
+[38;2;255;255;255mconflicts[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m"[0m[38;2;255;255;255m$[0m[38;2;230;219;116m{[0m[38;2;255;255;255m_pkgname[0m[38;2;230;219;116m}[0m[38;2;255;255;255m"[0m[38;2;255;255;255m{[0m[38;2;255;255;255m,[0m[38;2;255;255;255m-gl[0m[38;2;255;255;255m,[0m[38;2;255;255;255m-tools[0m[38;2;255;255;255m}[0m[38;2;255;255;255m)[0m[m
+[38;2;255;255;255mprovides[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m"[0m[38;2;255;255;255m$[0m[38;2;230;219;116m{[0m[38;2;255;255;255m_pkgname[0m[38;2;230;219;116m}[0m[38;2;255;255;255m"[0m[38;2;255;255;255m{[0m[38;2;255;255;255m,[0m[38;2;255;255;255m-gl[0m[38;2;255;255;255m,[0m[38;2;255;255;255m-tools[0m[38;2;255;255;255m}[0m[38;2;255;255;255m)[0m[m
+[m
+[38;2;166;226;46mpkgver[0m[38;2;255;255;255m([0m[38;2;255;255;255m)[0m[38;2;255;255;255m [0m[38;2;255;255;255m{[0m[m
+[38;2;255;255;255m        [0m[38;2;102;217;239mcd[0m[38;2;255;255;255m [0m[38;2;255;255;255m"[0m[38;2;255;255;255m$[0m[38;2;230;219;116m{[0m[38;2;255;255;255msrcdir[0m[38;2;230;219;116m}[0m[38;2;230;219;116m/[0m[38;2;255;255;255m$[0m[38;2;230;219;116m{[0m[38;2;255;255;255m_pkgname[0m[38;2;230;219;116m}[0m[38;2;255;255;255m"[0m[m
+[38;2;255;255;255m        [0m[38;2;255;255;255mgit[0m[38;2;255;255;255m log[0m[38;2;253;151;31m -[0m[38;2;253;151;31m1[0m[38;2;253;151;31m --[0m[38;2;253;151;31mformat[0m[38;2;249;38;114m=[0m[38;2;255;255;255m'[0m[38;2;230;219;116m%cd.%h[0m[38;2;255;255;255m'[0m[38;2;253;151;31m --[0m[38;2;253;151;31mdate[0m[38;2;249;38;114m=[0m[38;2;255;255;255mshort[0m[38;2;255;255;255m [0m[38;2;249;38;114m|[0m[38;2;255;255;255m [0m[38;2;255;255;255mtr[0m[38;2;253;151;31m -[0m[38;2;253;151;31md[0m[38;2;255;255;255m -[0m[m
+[38;2;255;255;255m}[0m[m
+[m
+[38;2;166;226;46mprepare[0m[38;2;255;255;255m([0m[38;2;255;255;255m)[0m[38;2;255;255;255m [0m[38;2;255;255;255m{[0m[m
+:[K[K[?1l[1;34m::[0m [1mAccept changes?[0m [1m[Y/n]:[0m Y
+fetching devel info...
+[1m[32m==>(B[m[1m Making package: mupdf-git 20231101.dc7489fd9-1 (2024-06-01T03:57:21 CEST)(B[m
+[1m[32m==>(B[m[1m Retrieving sources...(B[m
+[1m[34m  ->(B[m[1m Cloning mupdf git repo...(B[m
+Cloning into bare repository '/home/heini/.cache/paru/clone/mupdf-git/mupdf'...
+remote: Enumerating objects: 92609, done.[K
+remote: Counting objects:   0% (1/10038)[Kremote: Counting objects:   1% (101/10038)[Kremote: Counting objects:   2% (201/10038)[Kremote: Counting objects:   3% (302/10038)[Kremote: Counting objects:   4% (402/10038)[Kremote: Counting objects:   5% (502/10038)[Kremote: Counting objects:   6% (603/10038)[Kremote: Counting objects:   7% (703/10038)[Kremote: Counting objects:   8% (804/10038)[Kremote: Counting objects:   9% (904/10038)[Kremote: Counting objects:  10% (1004/10038)[Kremote: Counting objects:  11% (1105/10038)[Kremote: Counting objects:  12% (1205/10038)[Kremote: Counting objects:  13% (1305/10038)[Kremote: Counting objects:  14% (1406/10038)[Kremote: Counting objects:  15% (1506/10038)[Kremote: Counting objects:  16% (1607/10038)[Kremote: Counting objects:  17% (1707/10038)[Kremote: Counting objects:  18% (1807/10038)[Kremote: Counting objects:  19% (1908/10038)[Kremote: Counting objects:  20% (2008/10038)[Kremote: Counting objects:  21% (2108/10038)[Kremote: Counting objects:  22% (2209/10038)[Kremote: Counting objects:  23% (2309/10038)[Kremote: Counting objects:  24% (2410/10038)[Kremote: Counting objects:  25% (2510/10038)[Kremote: Counting objects:  26% (2610/10038)[Kremote: Counting objects:  27% (2711/10038)[Kremote: Counting objects:  28% (2811/10038)[Kremote: Counting objects:  29% (2912/10038)[Kremote: Counting objects:  30% (3012/10038)[Kremote: Counting objects:  31% (3112/10038)[Kremote: Counting objects:  32% (3213/10038)[Kremote: Counting objects:  33% (3313/10038)[Kremote: Counting objects:  34% (3413/10038)[Kremote: Counting objects:  35% (3514/10038)[Kremote: Counting objects:  36% (3614/10038)[Kremote: Counting objects:  37% (3715/10038)[Kremote: Counting objects:  38% (3815/10038)[Kremote: Counting objects:  39% (3915/10038)[Kremote: Counting objects:  40% (4016/10038)[Kremote: Counting objects:  41% (4116/10038)[Kremote: Counting objects:  42% (4216/10038)[Kremote: Counting objects:  43% (4317/10038)[Kremote: Counting objects:  44% (4417/10038)[Kremote: Counting objects:  45% (4518/10038)[Kremote: Counting objects:  46% (4618/10038)[Kremote: Counting objects:  47% (4718/10038)[Kremote: Counting objects:  48% (4819/10038)[Kremote: Counting objects:  49% (4919/10038)[Kremote: Counting objects:  50% (5019/10038)[Kremote: Counting objects:  51% (5120/10038)[Kremote: Counting objects:  52% (5220/10038)[Kremote: Counting objects:  53% (5321/10038)[Kremote: Counting objects:  54% (5421/10038)[Kremote: Counting objects:  55% (5521/10038)[Kremote: Counting objects:  56% (5622/10038)[Kremote: Counting objects:  57% (5722/10038)[Kremote: Counting objects:  58% (5823/10038)[Kremote: Counting objects:  59% (5923/10038)[Kremote: Counting objects:  60% (6023/10038)[Kremote: Counting objects:  61% (6124/10038)[Kremote: Counting objects:  62% (6224/10038)[Kremote: Counting objects:  63% (6324/10038)[Kremote: Counting objects:  64% (6425/10038)[Kremote: Counting objects:  65% (6525/10038)[Kremote: Counting objects:  66% (6626/10038)[Kremote: Counting objects:  67% (6726/10038)[Kremote: Counting objects:  68% (6826/10038)[Kremote: Counting objects:  69% (6927/10038)[Kremote: Counting objects:  70% (7027/10038)[Kremote: Counting objects:  71% (7127/10038)[Kremote: Counting objects:  72% (7228/10038)[Kremote: Counting objects:  73% (7328/10038)[Kremote: Counting objects:  74% (7429/10038)[Kremote: Counting objects:  75% (7529/10038)[Kremote: Counting objects:  76% (7629/10038)[Kremote: Counting objects:  77% (7730/10038)[Kremote: Counting objects:  78% (7830/10038)[Kremote: Counting objects:  79% (7931/10038)[Kremote: Counting objects:  80% (8031/10038)[Kremote: Counting objects:  81% (8131/10038)[Kremote: Counting objects:  82% (8232/10038)[Kremote: Counting objects:  83% (8332/10038)[Kremote: Counting objects:  84% (8432/10038)[Kremote: Counting objects:  85% (8533/10038)[Kremote: Counting objects:  86% (8633/10038)[Kremote: Counting objects:  87% (8734/10038)[Kremote: Counting objects:  88% (8834/10038)[Kremote: Counting objects:  89% (8934/10038)[Kremote: Counting objects:  90% (9035/10038)[Kremote: Counting objects:  91% (9135/10038)[Kremote: Counting objects:  92% (9235/10038)[Kremote: Counting objects:  93% (9336/10038)[Kremote: Counting objects:  94% (9436/10038)[Kremote: Counting objects:  95% (9537/10038)[Kremote: Counting objects:  96% (9637/10038)[Kremote: Counting objects:  97% (9737/10038)[Kremote: Counting objects:  98% (9838/10038)[Kremote: Counting objects:  99% (9938/10038)[Kremote: Counting objects: 100% (10038/10038)[Kremote: Counting objects: 100% (10038/10038), done.[K
+remote: Compressing objects:   0% (1/3420)[Kremote: Compressing objects:   1% (35/3420)[Kremote: Compressing objects:   2% (69/3420)[Kremote: Compressing objects:   3% (103/3420)[Kremote: Compressing objects:   4% (137/3420)[Kremote: Compressing objects:   5% (171/3420)[Kremote: Compressing objects:   6% (206/3420)[Kremote: Compressing objects:   7% (240/3420)[Kremote: Compressing objects:   8% (274/3420)[Kremote: Compressing objects:   9% (308/3420)[Kremote: Compressing objects:  10% (342/3420)[Kremote: Compressing objects:  11% (377/3420)[Kremote: Compressing objects:  12% (411/3420)[Kremote: Compressing objects:  13% (445/3420)[Kremote: Compressing objects:  14% (479/3420)[Kremote: Compressing objects:  15% (513/3420)[Kremote: Compressing objects:  16% (548/3420)[Kremote: Compressing objects:  17% (582/3420)[Kremote: Compressing objects:  18% (616/3420)[Kremote: Compressing objects:  19% (650/3420)[Kremote: Compressing objects:  20% (684/3420)[Kremote: Compressing objects:  21% (719/3420)[Kremote: Compressing objects:  22% (753/3420)[Kremote: Compressing objects:  23% (787/3420)[Kremote: Compressing objects:  24% (821/3420)[Kremote: Compressing objects:  25% (855/3420)[Kremote: Compressing objects:  26% (890/3420)[Kremote: Compressing objects:  27% (924/3420)[Kremote: Compressing objects:  28% (958/3420)[Kremote: Compressing objects:  29% (992/3420)[Kremote: Compressing objects:  30% (1026/3420)[Kremote: Compressing objects:  31% (1061/3420)[Kremote: Compressing objects:  32% (1095/3420)[Kremote: Compressing objects:  33% (1129/3420)[Kremote: Compressing objects:  34% (1163/3420)[Kremote: Compressing objects:  35% (1197/3420)[Kremote: Compressing objects:  36% (1232/3420)[Kremote: Compressing objects:  37% (1266/3420)[Kremote: Compressing objects:  38% (1300/3420)[Kremote: Compressing objects:  39% (1334/3420)[Kremote: Compressing objects:  40% (1368/3420)[Kremote: Compressing objects:  41% (1403/3420)[Kremote: Compressing objects:  42% (1437/3420)[Kremote: Compressing objects:  43% (1471/3420)[Kremote: Compressing objects:  44% (1505/3420)[Kremote: Compressing objects:  45% (1539/3420)[Kremote: Compressing objects:  46% (1574/3420)[Kremote: Compressing objects:  47% (1608/3420)[Kremote: Compressing objects:  48% (1642/3420)[Kremote: Compressing objects:  49% (1676/3420)[Kremote: Compressing objects:  50% (1710/3420)[Kremote: Compressing objects:  51% (1745/3420)[Kremote: Compressing objects:  52% (1779/3420)[Kremote: Compressing objects:  53% (1813/3420)[Kremote: Compressing objects:  54% (1847/3420)[Kremote: Compressing objects:  55% (1881/3420)[Kremote: Compressing objects:  56% (1916/3420)[Kremote: Compressing objects:  57% (1950/3420)[Kremote: Compressing objects:  58% (1984/3420)[Kremote: Compressing objects:  59% (2018/3420)[Kremote: Compressing objects:  60% (2052/3420)[Kremote: Compressing objects:  61% (2087/3420)[Kremote: Compressing objects:  62% (2121/3420)[Kremote: Compressing objects:  63% (2155/3420)[Kremote: Compressing objects:  64% (2189/3420)[Kremote: Compressing objects:  65% (2223/3420)[Kremote: Compressing objects:  66% (2258/3420)[Kremote: Compressing objects:  67% (2292/3420)[Kremote: Compressing objects:  68% (2326/3420)[Kremote: Compressing objects:  69% (2360/3420)[Kremote: Compressing objects:  70% (2394/3420)[Kremote: Compressing objects:  71% (2429/3420)[Kremote: Compressing objects:  72% (2463/3420)[Kremote: Compressing objects:  73% (2497/3420)[Kremote: Compressing objects:  74% (2531/3420)[Kremote: Compressing objects:  75% (2565/3420)[Kremote: Compressing objects:  76% (2600/3420)[Kremote: Compressing objects:  77% (2634/3420)[Kremote: Compressing objects:  78% (2668/3420)[Kremote: Compressing objects:  79% (2702/3420)[Kremote: Compressing objects:  80% (2736/3420)[Kremote: Compressing objects:  81% (2771/3420)[Kremote: Compressing objects:  82% (2805/3420)[Kremote: Compressing objects:  83% (2839/3420)[Kremote: Compressing objects:  84% (2873/3420)[Kremote: Compressing objects:  85% (2907/3420)[Kremote: Compressing objects:  86% (2942/3420)[Kremote: Compressing objects:  87% (2976/3420)[Kremote: Compressing objects:  88% (3010/3420)[Kremote: Compressing objects:  89% (3044/3420)[Kremote: Compressing objects:  90% (3078/3420)[Kremote: Compressing objects:  91% (3113/3420)[Kremote: Compressing objects:  92% (3147/3420)[Kremote: Compressing objects:  93% (3181/3420)[Kremote: Compressing objects:  94% (3215/3420)[Kremote: Compressing objects:  95% (3249/3420)[Kremote: Compressing objects:  96% (3284/3420)[Kremote: Compressing objects:  97% (3318/3420)[Kremote: Compressing objects:  98% (3352/3420)[Kremote: Compressing objects:  99% (3386/3420)[Kremote: Compressing objects: 100% (3420/3420)[Kremote: Compressing objects: 100% (3420/3420), done.[K
+Receiving objects:   0% (1/92609)Receiving objects:   1% (927/92609)Receiving objects:   2% (1853/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:   3% (2779/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:   4% (3705/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:   5% (4631/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:   6% (5557/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:   7% (6483/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:   8% (7409/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:   9% (8335/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  10% (9261/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  11% (10187/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  12% (11114/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  13% (12040/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  14% (12966/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  15% (13892/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  16% (14818/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  17% (15744/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  18% (16670/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  19% (17596/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  20% (18522/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  21% (19448/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  22% (20374/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  22% (20447/92609), 400.01 KiB | 784.00 KiB/sReceiving objects:  23% (21301/92609), 7.12 MiB | 7.11 MiB/s    Receiving objects:  24% (22227/92609), 7.12 MiB | 7.11 MiB/sReceiving objects:  25% (23153/92609), 7.12 MiB | 7.11 MiB/sReceiving objects:  26% (24079/92609), 7.12 MiB | 7.11 MiB/sReceiving objects:  26% (24671/92609), 28.45 MiB | 14.22 MiB/sReceiving objects:  27% (25005/92609), 28.45 MiB | 14.22 MiB/sReceiving objects:  28% (25931/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  29% (26857/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  30% (27783/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  31% (28709/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  32% (29635/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  33% (30561/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  34% (31488/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  35% (32414/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  36% (33340/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  37% (34266/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  38% (35192/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  39% (36118/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  40% (37044/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  41% (37970/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  42% (38896/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  43% (39822/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  44% (40748/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  45% (41675/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  46% (42601/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  46% (43522/92609), 40.63 MiB | 16.25 MiB/sReceiving objects:  47% (43527/92609), 53.23 MiB | 17.74 MiB/sReceiving objects:  48% (44453/92609), 53.23 MiB | 17.74 MiB/sReceiving objects:  49% (45379/92609), 53.23 MiB | 17.74 MiB/sReceiving objects:  50% (46305/92609), 53.23 MiB | 17.74 MiB/sReceiving objects:  51% (47231/92609), 53.23 MiB | 17.74 MiB/sReceiving objects:  52% (48157/92609), 65.65 MiB | 18.75 MiB/sReceiving objects:  53% (49083/92609), 65.65 MiB | 18.75 MiB/sReceiving objects:  54% (50009/92609), 65.65 MiB | 18.75 MiB/sReceiving objects:  55% (50935/92609), 65.65 MiB | 18.75 MiB/sReceiving objects:  56% (51862/92609), 65.65 MiB | 18.75 MiB/sReceiving objects:  56% (52062/92609), 77.95 MiB | 19.49 MiB/sReceiving objects:  57% (52788/92609), 77.95 MiB | 19.49 MiB/sReceiving objects:  58% (53714/92609), 77.95 MiB | 19.49 MiB/sReceiving objects:  59% (54640/92609), 77.95 MiB | 19.49 MiB/sReceiving objects:  60% (55566/92609), 77.95 MiB | 19.49 MiB/sReceiving objects:  61% (56492/92609), 77.95 MiB | 19.49 MiB/sReceiving objects:  62% (57418/92609), 77.95 MiB | 19.49 MiB/sReceiving objects:  63% (58344/92609), 77.95 MiB | 19.49 MiB/sReceiving objects:  64% (59270/92609), 77.95 MiB | 19.49 MiB/sReceiving objects:  65% (60196/92609), 77.95 MiB | 19.49 MiB/sReceiving objects:  66% (61122/92609), 77.95 MiB | 19.49 MiB/sReceiving objects:  67% (62049/92609), 77.95 MiB | 19.49 MiB/sReceiving objects:  68% (62975/92609), 77.95 MiB | 19.49 MiB/sReceiving objects:  69% (63901/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  70% (64827/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  71% (65753/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  72% (66679/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  73% (67605/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  74% (68531/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  75% (69457/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  76% (70383/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  77% (71309/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  78% (72236/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  79% (73162/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  80% (74088/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  81% (75014/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  82% (75940/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  83% (76866/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  84% (77792/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  85% (78718/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  86% (79644/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  87% (80570/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  88% (81496/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  89% (82423/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  90% (83349/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  91% (84275/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  92% (85201/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  93% (86127/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  94% (87053/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  94% (87397/92609), 90.66 MiB | 20.14 MiB/sReceiving objects:  95% (87979/92609), 101.11 MiB | 22.38 MiB/sReceiving objects:  96% (88905/92609), 101.11 MiB | 22.38 MiB/sReceiving objects:  97% (89831/92609), 101.11 MiB | 22.38 MiB/sReceiving objects:  98% (90757/92609), 101.11 MiB | 22.38 MiB/sReceiving objects:  99% (91683/92609), 101.11 MiB | 22.38 MiB/sremote: Total 92609 (delta 7464), reused 8347 (delta 6082), pack-reused 82571[K
+Receiving objects: 100% (92609/92609), 101.11 MiB | 22.38 MiB/sReceiving objects: 100% (92609/92609), 102.31 MiB | 19.94 MiB/s, done.
+Resolving deltas:   0% (0/70806)Resolving deltas:   1% (709/70806)Resolving deltas:   2% (1417/70806)Resolving deltas:   3% (2125/70806)Resolving deltas:   4% (2833/70806)Resolving deltas:   5% (3541/70806)Resolving deltas:   6% (4249/70806)Resolving deltas:   7% (4957/70806)Resolving deltas:   8% (5665/70806)Resolving deltas:   9% (6375/70806)Resolving deltas:  10% (7081/70806)Resolving deltas:  11% (7789/70806)Resolving deltas:  12% (8498/70806)Resolving deltas:  13% (9205/70806)Resolving deltas:  14% (9913/70806)Resolving deltas:  15% (10621/70806)Resolving deltas:  16% (11329/70806)Resolving deltas:  17% (12038/70806)Resolving deltas:  18% (12746/70806)Resolving deltas:  19% (13454/70806)Resolving deltas:  20% (14162/70806)Resolving deltas:  21% (14871/70806)Resolving deltas:  22% (15579/70806)Resolving deltas:  23% (16286/70806)Resolving deltas:  24% (16996/70806)Resolving deltas:  25% (17702/70806)Resolving deltas:  26% (18410/70806)Resolving deltas:  27% (19118/70806)Resolving deltas:  28% (19826/70806)Resolving deltas:  29% (20534/70806)Resolving deltas:  30% (21242/70806)Resolving deltas:  31% (21950/70806)Resolving deltas:  32% (22658/70806)Resolving deltas:  33% (23366/70806)Resolving deltas:  34% (24075/70806)Resolving deltas:  35% (24783/70806)Resolving deltas:  36% (25491/70806)Resolving deltas:  37% (26199/70806)Resolving deltas:  38% (26907/70806)Resolving deltas:  39% (27615/70806)Resolving deltas:  40% (28323/70806)Resolving deltas:  41% (29031/70806)Resolving deltas:  42% (29739/70806)Resolving deltas:  43% (30447/70806)Resolving deltas:  44% (31155/70806)Resolving deltas:  45% (31863/70806)Resolving deltas:  46% (32571/70806)Resolving deltas:  47% (33279/70806)Resolving deltas:  48% (33987/70806)Resolving deltas:  49% (34695/70806)Resolving deltas:  50% (35403/70806)Resolving deltas:  51% (36112/70806)Resolving deltas:  52% (36820/70806)Resolving deltas:  53% (37528/70806)Resolving deltas:  54% (38236/70806)Resolving deltas:  55% (38944/70806)Resolving deltas:  56% (39652/70806)Resolving deltas:  57% (40360/70806)Resolving deltas:  58% (41068/70806)Resolving deltas:  59% (41776/70806)Resolving deltas:  59% (42060/70806)Resolving deltas:  60% (42484/70806)Resolving deltas:  61% (43192/70806)Resolving deltas:  62% (43900/70806)Resolving deltas:  63% (44608/70806)Resolving deltas:  64% (45316/70806)Resolving deltas:  65% (46024/70806)Resolving deltas:  66% (46732/70806)Resolving deltas:  67% (47441/70806)Resolving deltas:  68% (48149/70806)Resolving deltas:  69% (48857/70806)Resolving deltas:  70% (49565/70806)Resolving deltas:  71% (50273/70806)Resolving deltas:  72% (50981/70806)Resolving deltas:  73% (51690/70806)Resolving deltas:  74% (52397/70806)Resolving deltas:  75% (53105/70806)Resolving deltas:  76% (53813/70806)Resolving deltas:  77% (54521/70806)Resolving deltas:  78% (55229/70806)Resolving deltas:  78% (55572/70806)Resolving deltas:  79% (55937/70806)Resolving deltas:  80% (56645/70806)Resolving deltas:  81% (57353/70806)Resolving deltas:  82% (58061/70806)Resolving deltas:  83% (58769/70806)Resolving deltas:  84% (59478/70806)Resolving deltas:  85% (60186/70806)Resolving deltas:  86% (60894/70806)Resolving deltas:  87% (61602/70806)Resolving deltas:  88% (62312/70806)Resolving deltas:  89% (63018/70806)Resolving deltas:  90% (63726/70806)Resolving deltas:  91% (64435/70806)Resolving deltas:  92% (65142/70806)Resolving deltas:  93% (65850/70806)Resolving deltas:  94% (66558/70806)Resolving deltas:  95% (67266/70806)Resolving deltas:  96% (67976/70806)Resolving deltas:  97% (68682/70806)Resolving deltas:  98% (69390/70806)Resolving deltas:  99% (70098/70806)Resolving deltas: 100% (70806/70806)Resolving deltas: 100% (70806/70806), done.
+[1m[34m  ->(B[m[1m Cloning thirdparty-extract git repo...(B[m
+Cloning into bare repository '/home/heini/.cache/paru/clone/mupdf-git/thirdparty-extract'...
+remote: Enumerating objects: 1874, done.[K
+remote: Counting objects:   0% (1/129)[Kremote: Counting objects:   1% (2/129)[Kremote: Counting objects:   2% (3/129)[Kremote: Counting objects:   3% (4/129)[Kremote: Counting objects:   4% (6/129)[Kremote: Counting objects:   5% (7/129)[Kremote: Counting objects:   6% (8/129)[Kremote: Counting objects:   7% (10/129)[Kremote: Counting objects:   8% (11/129)[Kremote: Counting objects:   9% (12/129)[Kremote: Counting objects:  10% (13/129)[Kremote: Counting objects:  11% (15/129)[Kremote: Counting objects:  12% (16/129)[Kremote: Counting objects:  13% (17/129)[Kremote: Counting objects:  14% (19/129)[Kremote: Counting objects:  15% (20/129)[Kremote: Counting objects:  16% (21/129)[Kremote: Counting objects:  17% (22/129)[Kremote: Counting objects:  18% (24/129)[Kremote: Counting objects:  19% (25/129)[Kremote: Counting objects:  20% (26/129)[Kremote: Counting objects:  21% (28/129)[Kremote: Counting objects:  22% (29/129)[Kremote: Counting objects:  23% (30/129)[Kremote: Counting objects:  24% (31/129)[Kremote: Counting objects:  25% (33/129)[Kremote: Counting objects:  26% (34/129)[Kremote: Counting objects:  27% (35/129)[Kremote: Counting objects:  28% (37/129)[Kremote: Counting objects:  29% (38/129)[Kremote: Counting objects:  30% (39/129)[Kremote: Counting objects:  31% (40/129)[Kremote: Counting objects:  32% (42/129)[Kremote: Counting objects:  33% (43/129)[Kremote: Counting objects:  34% (44/129)[Kremote: Counting objects:  35% (46/129)[Kremote: Counting objects:  36% (47/129)[Kremote: Counting objects:  37% (48/129)[Kremote: Counting objects:  38% (50/129)[Kremote: Counting objects:  39% (51/129)[Kremote: Counting objects:  40% (52/129)[Kremote: Counting objects:  41% (53/129)[Kremote: Counting objects:  42% (55/129)[Kremote: Counting objects:  43% (56/129)[Kremote: Counting objects:  44% (57/129)[Kremote: Counting objects:  45% (59/129)[Kremote: Counting objects:  46% (60/129)[Kremote: Counting objects:  47% (61/129)[Kremote: Counting objects:  48% (62/129)[Kremote: Counting objects:  49% (64/129)[Kremote: Counting objects:  50% (65/129)[Kremote: Counting objects:  51% (66/129)[Kremote: Counting objects:  52% (68/129)[Kremote: Counting objects:  53% (69/129)[Kremote: Counting objects:  54% (70/129)[Kremote: Counting objects:  55% (71/129)[Kremote: Counting objects:  56% (73/129)[Kremote: Counting objects:  57% (74/129)[Kremote: Counting objects:  58% (75/129)[Kremote: Counting objects:  59% (77/129)[Kremote: Counting objects:  60% (78/129)[Kremote: Counting objects:  61% (79/129)[Kremote: Counting objects:  62% (80/129)[Kremote: Counting objects:  63% (82/129)[Kremote: Counting objects:  64% (83/129)[Kremote: Counting objects:  65% (84/129)[Kremote: Counting objects:  66% (86/129)[Kremote: Counting objects:  67% (87/129)[Kremote: Counting objects:  68% (88/129)[Kremote: Counting objects:  69% (90/129)[Kremote: Counting objects:  70% (91/129)[Kremote: Counting objects:  71% (92/129)[Kremote: Counting objects:  72% (93/129)[Kremote: Counting objects:  73% (95/129)[Kremote: Counting objects:  74% (96/129)[Kremote: Counting objects:  75% (97/129)[Kremote: Counting objects:  76% (99/129)[Kremote: Counting objects:  77% (100/129)[Kremote: Counting objects:  78% (101/129)[Kremote: Counting objects:  79% (102/129)[Kremote: Counting objects:  80% (104/129)[Kremote: Counting objects:  81% (105/129)[Kremote: Counting objects:  82% (106/129)[Kremote: Counting objects:  83% (108/129)[Kremote: Counting objects:  84% (109/129)[Kremote: Counting objects:  85% (110/129)[Kremote: Counting objects:  86% (111/129)[Kremote: Counting objects:  87% (113/129)[Kremote: Counting objects:  88% (114/129)[Kremote: Counting objects:  89% (115/129)[Kremote: Counting objects:  90% (117/129)[Kremote: Counting objects:  91% (118/129)[Kremote: Counting objects:  92% (119/129)[Kremote: Counting objects:  93% (120/129)[Kremote: Counting objects:  94% (122/129)[Kremote: Counting objects:  95% (123/129)[Kremote: Counting objects:  96% (124/129)[Kremote: Counting objects:  97% (126/129)[Kremote: Counting objects:  98% (127/129)[Kremote: Counting objects:  99% (128/129)[Kremote: Counting objects: 100% (129/129)[Kremote: Counting objects: 100% (129/129), done.[K
+remote: Compressing objects:   0% (1/124)[Kremote: Compressing objects:   1% (2/124)[Kremote: Compressing objects:   2% (3/124)[Kremote: Compressing objects:   3% (4/124)[Kremote: Compressing objects:   4% (5/124)[Kremote: Compressing objects:   5% (7/124)[Kremote: Compressing objects:   6% (8/124)[Kremote: Compressing objects:   7% (9/124)[Kremote: Compressing objects:   8% (10/124)[Kremote: Compressing objects:   9% (12/124)[Kremote: Compressing objects:  10% (13/124)[Kremote: Compressing objects:  11% (14/124)[Kremote: Compressing objects:  12% (15/124)[Kremote: Compressing objects:  13% (17/124)[Kremote: Compressing objects:  14% (18/124)[Kremote: Compressing objects:  15% (19/124)[Kremote: Compressing objects:  16% (20/124)[Kremote: Compressing objects:  17% (22/124)[Kremote: Compressing objects:  18% (23/124)[Kremote: Compressing objects:  19% (24/124)[Kremote: Compressing objects:  20% (25/124)[Kremote: Compressing objects:  21% (27/124)[Kremote: Compressing objects:  22% (28/124)[Kremote: Compressing objects:  23% (29/124)[Kremote: Compressing objects:  24% (30/124)[Kremote: Compressing objects:  25% (31/124)[Kremote: Compressing objects:  26% (33/124)[Kremote: Compressing objects:  27% (34/124)[Kremote: Compressing objects:  28% (35/124)[Kremote: Compressing objects:  29% (36/124)[Kremote: Compressing objects:  30% (38/124)[Kremote: Compressing objects:  31% (39/124)[Kremote: Compressing objects:  32% (40/124)[Kremote: Compressing objects:  33% (41/124)[Kremote: Compressing objects:  34% (43/124)[Kremote: Compressing objects:  35% (44/124)[Kremote: Compressing objects:  36% (45/124)[Kremote: Compressing objects:  37% (46/124)[Kremote: Compressing objects:  38% (48/124)[Kremote: Compressing objects:  39% (49/124)[Kremote: Compressing objects:  40% (50/124)[Kremote: Compressing objects:  41% (51/124)[Kremote: Compressing objects:  42% (53/124)[Kremote: Compressing objects:  43% (54/124)[Kremote: Compressing objects:  44% (55/124)[Kremote: Compressing objects:  45% (56/124)[Kremote: Compressing objects:  46% (58/124)[Kremote: Compressing objects:  47% (59/124)[Kremote: Compressing objects:  48% (60/124)[Kremote: Compressing objects:  49% (61/124)[Kremote: Compressing objects:  50% (62/124)[Kremote: Compressing objects:  51% (64/124)[Kremote: Compressing objects:  52% (65/124)[Kremote: Compressing objects:  53% (66/124)[Kremote: Compressing objects:  54% (67/124)[Kremote: Compressing objects:  55% (69/124)[Kremote: Compressing objects:  56% (70/124)[Kremote: Compressing objects:  57% (71/124)[Kremote: Compressing objects:  58% (72/124)[Kremote: Compressing objects:  59% (74/124)[Kremote: Compressing objects:  60% (75/124)[Kremote: Compressing objects:  61% (76/124)[Kremote: Compressing objects:  62% (77/124)[Kremote: Compressing objects:  63% (79/124)[Kremote: Compressing objects:  64% (80/124)[Kremote: Compressing objects:  65% (81/124)[Kremote: Compressing objects:  66% (82/124)[Kremote: Compressing objects:  67% (84/124)[Kremote: Compressing objects:  68% (85/124)[Kremote: Compressing objects:  69% (86/124)[Kremote: Compressing objects:  70% (87/124)[Kremote: Compressing objects:  71% (89/124)[Kremote: Compressing objects:  72% (90/124)[Kremote: Compressing objects:  73% (91/124)[Kremote: Compressing objects:  74% (92/124)[Kremote: Compressing objects:  75% (93/124)[Kremote: Compressing objects:  76% (95/124)[Kremote: Compressing objects:  77% (96/124)[Kremote: Compressing objects:  78% (97/124)[Kremote: Compressing objects:  79% (98/124)[Kremote: Compressing objects:  80% (100/124)[Kremote: Compressing objects:  81% (101/124)[Kremote: Compressing objects:  82% (102/124)[Kremote: Compressing objects:  83% (103/124)[Kremote: Compressing objects:  84% (105/124)[Kremote: Compressing objects:  85% (106/124)[Kremote: Compressing objects:  86% (107/124)[Kremote: Compressing objects:  87% (108/124)[Kremote: Compressing objects:  88% (110/124)[Kremote: Compressing objects:  89% (111/124)[Kremote: Compressing objects:  90% (112/124)[Kremote: Compressing objects:  91% (113/124)[Kremote: Compressing objects:  92% (115/124)[Kremote: Compressing objects:  93% (116/124)[Kremote: Compressing objects:  94% (117/124)[Kremote: Compressing objects:  95% (118/124)[Kremote: Compressing objects:  96% (120/124)[Kremote: Compressing objects:  97% (121/124)[Kremote: Compressing objects:  98% (122/124)[Kremote: Compressing objects:  99% (123/124)[Kremote: Compressing objects: 100% (124/124)[Kremote: Compressing objects: 100% (124/124), done.[K
+Receiving objects:   0% (1/1874)Receiving objects:   1% (19/1874)Receiving objects:   2% (38/1874)Receiving objects:   3% (57/1874)Receiving objects:   4% (75/1874)Receiving objects:   5% (94/1874)Receiving objects:   6% (113/1874)Receiving objects:   7% (132/1874)Receiving objects:   8% (150/1874)Receiving objects:   9% (169/1874)Receiving objects:  10% (188/1874)Receiving objects:  11% (207/1874)Receiving objects:  12% (225/1874)Receiving objects:  13% (244/1874)Receiving objects:  14% (263/1874)Receiving objects:  15% (282/1874)Receiving objects:  16% (300/1874)Receiving objects:  17% (319/1874)Receiving objects:  18% (338/1874)Receiving objects:  19% (357/1874)Receiving objects:  20% (375/1874)Receiving objects:  21% (394/1874)Receiving objects:  22% (413/1874)Receiving objects:  23% (432/1874)Receiving objects:  24% (450/1874)Receiving objects:  25% (469/1874)Receiving objects:  26% (488/1874)Receiving objects:  27% (506/1874)Receiving objects:  28% (525/1874)Receiving objects:  29% (544/1874)Receiving objects:  30% (563/1874)Receiving objects:  31% (581/1874)Receiving objects:  32% (600/1874)Receiving objects:  33% (619/1874)Receiving objects:  34% (638/1874)Receiving objects:  35% (656/1874)Receiving objects:  36% (675/1874)Receiving objects:  37% (694/1874)Receiving objects:  38% (713/1874)Receiving objects:  39% (731/1874)Receiving objects:  40% (750/1874)Receiving objects:  41% (769/1874)Receiving objects:  42% (788/1874)Receiving objects:  43% (806/1874)Receiving objects:  44% (825/1874)Receiving objects:  45% (844/1874)Receiving objects:  46% (863/1874)Receiving objects:  47% (881/1874)Receiving objects:  48% (900/1874)Receiving objects:  49% (919/1874)Receiving objects:  50% (937/1874)Receiving objects:  51% (956/1874)Receiving objects:  52% (975/1874)Receiving objects:  53% (994/1874)Receiving objects:  54% (1012/1874)Receiving objects:  55% (1031/1874)Receiving objects:  56% (1050/1874)Receiving objects:  57% (1069/1874)Receiving objects:  58% (1087/1874)Receiving objects:  59% (1106/1874)Receiving objects:  60% (1125/1874)Receiving objects:  61% (1144/1874)Receiving objects:  62% (1162/1874)Receiving objects:  63% (1181/1874)Receiving objects:  64% (1200/1874)Receiving objects:  65% (1219/1874)Receiving objects:  66% (1237/1874)Receiving objects:  67% (1256/1874)Receiving objects:  68% (1275/1874)Receiving objects:  69% (1294/1874)Receiving objects:  70% (1312/1874)Receiving objects:  71% (1331/1874)Receiving objects:  72% (1350/1874)Receiving objects:  73% (1369/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  74% (1387/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  75% (1406/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  76% (1425/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  77% (1443/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  78% (1462/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  79% (1481/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  80% (1500/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  81% (1518/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  82% (1537/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  83% (1556/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  84% (1575/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  85% (1593/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  86% (1612/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  87% (1631/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  88% (1650/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  89% (1668/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  90% (1687/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  91% (1706/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  92% (1725/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  93% (1743/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  94% (1762/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  95% (1781/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  96% (1800/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  97% (1818/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  98% (1837/1874), 672.01 KiB | 1.30 MiB/sReceiving objects:  99% (1856/1874), 672.01 KiB | 1.30 MiB/sremote: Total 1874 (delta 68), reused 0 (delta 0), pack-reused 1745[K
+Receiving objects: 100% (1874/1874), 672.01 KiB | 1.30 MiB/sReceiving objects: 100% (1874/1874), 1.63 MiB | 2.61 MiB/s, done.
+Resolving deltas:   0% (0/1376)Resolving deltas:   1% (15/1376)Resolving deltas:   2% (28/1376)Resolving deltas:   3% (42/1376)Resolving deltas:   4% (56/1376)Resolving deltas:   5% (69/1376)Resolving deltas:   6% (83/1376)Resolving deltas:   7% (97/1376)Resolving deltas:   8% (111/1376)Resolving deltas:   9% (124/1376)Resolving deltas:  10% (138/1376)Resolving deltas:  11% (152/1376)Resolving deltas:  12% (166/1376)Resolving deltas:  13% (179/1376)Resolving deltas:  14% (193/1376)Resolving deltas:  15% (207/1376)Resolving deltas:  16% (221/1376)Resolving deltas:  17% (234/1376)Resolving deltas:  18% (248/1376)Resolving deltas:  19% (262/1376)Resolving deltas:  20% (276/1376)Resolving deltas:  21% (289/1376)Resolving deltas:  22% (303/1376)Resolving deltas:  23% (317/1376)Resolving deltas:  24% (331/1376)Resolving deltas:  25% (345/1376)Resolving deltas:  26% (358/1376)Resolving deltas:  27% (372/1376)Resolving deltas:  28% (386/1376)Resolving deltas:  29% (400/1376)Resolving deltas:  30% (413/1376)Resolving deltas:  31% (427/1376)Resolving deltas:  32% (441/1376)Resolving deltas:  33% (455/1376)Resolving deltas:  34% (468/1376)Resolving deltas:  35% (482/1376)Resolving deltas:  36% (497/1376)Resolving deltas:  37% (511/1376)Resolving deltas:  38% (523/1376)Resolving deltas:  39% (537/1376)Resolving deltas:  40% (551/1376)Resolving deltas:  41% (565/1376)Resolving deltas:  42% (578/1376)Resolving deltas:  43% (593/1376)Resolving deltas:  44% (606/1376)Resolving deltas:  45% (620/1376)Resolving deltas:  46% (633/1376)Resolving deltas:  47% (649/1376)Resolving deltas:  48% (662/1376)Resolving deltas:  49% (675/1376)Resolving deltas:  50% (688/1376)Resolving deltas:  51% (702/1376)Resolving deltas:  52% (716/1376)Resolving deltas:  53% (730/1376)Resolving deltas:  54% (744/1376)Resolving deltas:  55% (757/1376)Resolving deltas:  56% (771/1376)Resolving deltas:  57% (785/1376)Resolving deltas:  58% (799/1376)Resolving deltas:  59% (812/1376)Resolving deltas:  60% (826/1376)Resolving deltas:  61% (840/1376)Resolving deltas:  62% (854/1376)Resolving deltas:  63% (867/1376)Resolving deltas:  64% (881/1376)Resolving deltas:  65% (895/1376)Resolving deltas:  66% (909/1376)Resolving deltas:  67% (922/1376)Resolving deltas:  68% (936/1376)Resolving deltas:  69% (950/1376)Resolving deltas:  70% (964/1376)Resolving deltas:  71% (977/1376)Resolving deltas:  72% (991/1376)Resolving deltas:  73% (1005/1376)Resolving deltas:  74% (1019/1376)Resolving deltas:  75% (1033/1376)Resolving deltas:  76% (1046/1376)Resolving deltas:  77% (1060/1376)Resolving deltas:  78% (1074/1376)Resolving deltas:  79% (1088/1376)Resolving deltas:  80% (1101/1376)Resolving deltas:  81% (1115/1376)Resolving deltas:  82% (1129/1376)Resolving deltas:  83% (1143/1376)Resolving deltas:  84% (1156/1376)Resolving deltas:  85% (1170/1376)Resolving deltas:  86% (1184/1376)Resolving deltas:  87% (1198/1376)Resolving deltas:  88% (1211/1376)Resolving deltas:  89% (1225/1376)Resolving deltas:  90% (1239/1376)Resolving deltas:  91% (1253/1376)Resolving deltas:  92% (1266/1376)Resolving deltas:  93% (1280/1376)Resolving deltas:  94% (1294/1376)Resolving deltas:  95% (1308/1376)Resolving deltas:  96% (1321/1376)Resolving deltas:  97% (1335/1376)Resolving deltas:  98% (1349/1376)Resolving deltas:  99% (1363/1376)Resolving deltas: 100% (1376/1376)Resolving deltas: 100% (1376/1376), done.
+[1m[34m  ->(B[m[1m Cloning thirdparty-freeglut git repo...(B[m
+Cloning into bare repository '/home/heini/.cache/paru/clone/mupdf-git/thirdparty-freeglut'...
+remote: Enumerating objects: 305, done.[K
+remote: Counting objects:   0% (1/305)[Kremote: Counting objects:   1% (4/305)[Kremote: Counting objects:   2% (7/305)[Kremote: Counting objects:   3% (10/305)[Kremote: Counting objects:   4% (13/305)[Kremote: Counting objects:   5% (16/305)[Kremote: Counting objects:   6% (19/305)[Kremote: Counting objects:   7% (22/305)[Kremote: Counting objects:   8% (25/305)[Kremote: Counting objects:   9% (28/305)[Kremote: Counting objects:  10% (31/305)[Kremote: Counting objects:  11% (34/305)[Kremote: Counting objects:  12% (37/305)[Kremote: Counting objects:  13% (40/305)[Kremote: Counting objects:  14% (43/305)[Kremote: Counting objects:  15% (46/305)[Kremote: Counting objects:  16% (49/305)[Kremote: Counting objects:  17% (52/305)[Kremote: Counting objects:  18% (55/305)[Kremote: Counting objects:  19% (58/305)[Kremote: Counting objects:  20% (61/305)[Kremote: Counting objects:  21% (65/305)[Kremote: Counting objects:  22% (68/305)[Kremote: Counting objects:  23% (71/305)[Kremote: Counting objects:  24% (74/305)[Kremote: Counting objects:  25% (77/305)[Kremote: Counting objects:  26% (80/305)[Kremote: Counting objects:  27% (83/305)[Kremote: Counting objects:  28% (86/305)[Kremote: Counting objects:  29% (89/305)[Kremote: Counting objects:  30% (92/305)[Kremote: Counting objects:  31% (95/305)[Kremote: Counting objects:  32% (98/305)[Kremote: Counting objects:  33% (101/305)[Kremote: Counting objects:  34% (104/305)[Kremote: Counting objects:  35% (107/305)[Kremote: Counting objects:  36% (110/305)[Kremote: Counting objects:  37% (113/305)[Kremote: Counting objects:  38% (116/305)[Kremote: Counting objects:  39% (119/305)[Kremote: Counting objects:  40% (122/305)[Kremote: Counting objects:  41% (126/305)[Kremote: Counting objects:  42% (129/305)[Kremote: Counting objects:  43% (132/305)[Kremote: Counting objects:  44% (135/305)[Kremote: Counting objects:  45% (138/305)[Kremote: Counting objects:  46% (141/305)[Kremote: Counting objects:  47% (144/305)[Kremote: Counting objects:  48% (147/305)[Kremote: Counting objects:  49% (150/305)[Kremote: Counting objects:  50% (153/305)[Kremote: Counting objects:  51% (156/305)[Kremote: Counting objects:  52% (159/305)[Kremote: Counting objects:  53% (162/305)[Kremote: Counting objects:  54% (165/305)[Kremote: Counting objects:  55% (168/305)[Kremote: Counting objects:  56% (171/305)[Kremote: Counting objects:  57% (174/305)[Kremote: Counting objects:  58% (177/305)[Kremote: Counting objects:  59% (180/305)[Kremote: Counting objects:  60% (183/305)[Kremote: Counting objects:  61% (187/305)[Kremote: Counting objects:  62% (190/305)[Kremote: Counting objects:  63% (193/305)[Kremote: Counting objects:  64% (196/305)[Kremote: Counting objects:  65% (199/305)[Kremote: Counting objects:  66% (202/305)[Kremote: Counting objects:  67% (205/305)[Kremote: Counting objects:  68% (208/305)[Kremote: Counting objects:  69% (211/305)[Kremote: Counting objects:  70% (214/305)[Kremote: Counting objects:  71% (217/305)[Kremote: Counting objects:  72% (220/305)[Kremote: Counting objects:  73% (223/305)[Kremote: Counting objects:  74% (226/305)[Kremote: Counting objects:  75% (229/305)[Kremote: Counting objects:  76% (232/305)[Kremote: Counting objects:  77% (235/305)[Kremote: Counting objects:  78% (238/305)[Kremote: Counting objects:  79% (241/305)[Kremote: Counting objects:  80% (244/305)[Kremote: Counting objects:  81% (248/305)[Kremote: Counting objects:  82% (251/305)[Kremote: Counting objects:  83% (254/305)[Kremote: Counting objects:  84% (257/305)[Kremote: Counting objects:  85% (260/305)[Kremote: Counting objects:  86% (263/305)[Kremote: Counting objects:  87% (266/305)[Kremote: Counting objects:  88% (269/305)[Kremote: Counting objects:  89% (272/305)[Kremote: Counting objects:  90% (275/305)[Kremote: Counting objects:  91% (278/305)[Kremote: Counting objects:  92% (281/305)[Kremote: Counting objects:  93% (284/305)[Kremote: Counting objects:  94% (287/305)[Kremote: Counting objects:  95% (290/305)[Kremote: Counting objects:  96% (293/305)[Kremote: Counting objects:  97% (296/305)[Kremote: Counting objects:  98% (299/305)[Kremote: Counting objects:  99% (302/305)[Kremote: Counting objects: 100% (305/305)[Kremote: Counting objects: 100% (305/305), done.[K
+remote: Compressing objects:   0% (1/238)[Kremote: Compressing objects:   1% (3/238)[Kremote: Compressing objects:   2% (5/238)[Kremote: Compressing objects:   3% (8/238)[Kremote: Compressing objects:   4% (10/238)[Kremote: Compressing objects:   5% (12/238)[Kremote: Compressing objects:   6% (15/238)[Kremote: Compressing objects:   7% (17/238)[Kremote: Compressing objects:   8% (20/238)[Kremote: Compressing objects:   9% (22/238)[Kremote: Compressing objects:  10% (24/238)[Kremote: Compressing objects:  11% (27/238)[Kremote: Compressing objects:  12% (29/238)[Kremote: Compressing objects:  13% (31/238)[Kremote: Compressing objects:  14% (34/238)[Kremote: Compressing objects:  15% (36/238)[Kremote: Compressing objects:  16% (39/238)[Kremote: Compressing objects:  17% (41/238)[Kremote: Compressing objects:  18% (43/238)[Kremote: Compressing objects:  19% (46/238)[Kremote: Compressing objects:  20% (48/238)[Kremote: Compressing objects:  21% (50/238)[Kremote: Compressing objects:  22% (53/238)[Kremote: Compressing objects:  23% (55/238)[Kremote: Compressing objects:  24% (58/238)[Kremote: Compressing objects:  25% (60/238)[Kremote: Compressing objects:  26% (62/238)[Kremote: Compressing objects:  27% (65/238)[Kremote: Compressing objects:  28% (67/238)[Kremote: Compressing objects:  29% (70/238)[Kremote: Compressing objects:  30% (72/238)[Kremote: Compressing objects:  31% (74/238)[Kremote: Compressing objects:  32% (77/238)[Kremote: Compressing objects:  33% (79/238)[Kremote: Compressing objects:  34% (81/238)[Kremote: Compressing objects:  35% (84/238)[Kremote: Compressing objects:  36% (86/238)[Kremote: Compressing objects:  37% (89/238)[Kremote: Compressing objects:  38% (91/238)[Kremote: Compressing objects:  39% (93/238)[Kremote: Compressing objects:  40% (96/238)[Kremote: Compressing objects:  41% (98/238)[Kremote: Compressing objects:  42% (100/238)[Kremote: Compressing objects:  43% (103/238)[Kremote: Compressing objects:  44% (105/238)[Kremote: Compressing objects:  45% (108/238)[Kremote: Compressing objects:  46% (110/238)[Kremote: Compressing objects:  47% (112/238)[Kremote: Compressing objects:  48% (115/238)[Kremote: Compressing objects:  49% (117/238)[Kremote: Compressing objects:  50% (119/238)[Kremote: Compressing objects:  51% (122/238)[Kremote: Compressing objects:  52% (124/238)[Kremote: Compressing objects:  53% (127/238)[Kremote: Compressing objects:  54% (129/238)[Kremote: Compressing objects:  55% (131/238)[Kremote: Compressing objects:  56% (134/238)[Kremote: Compressing objects:  57% (136/238)[Kremote: Compressing objects:  58% (139/238)[Kremote: Compressing objects:  59% (141/238)[Kremote: Compressing objects:  60% (143/238)[Kremote: Compressing objects:  61% (146/238)[Kremote: Compressing objects:  62% (148/238)[Kremote: Compressing objects:  63% (150/238)[Kremote: Compressing objects:  64% (153/238)[Kremote: Compressing objects:  65% (155/238)[Kremote: Compressing objects:  66% (158/238)[Kremote: Compressing objects:  67% (160/238)[Kremote: Compressing objects:  68% (162/238)[Kremote: Compressing objects:  69% (165/238)[Kremote: Compressing objects:  70% (167/238)[Kremote: Compressing objects:  71% (169/238)[Kremote: Compressing objects:  72% (172/238)[Kremote: Compressing objects:  73% (174/238)[Kremote: Compressing objects:  74% (177/238)[Kremote: Compressing objects:  75% (179/238)[Kremote: Compressing objects:  76% (181/238)[Kremote: Compressing objects:  77% (184/238)[Kremote: Compressing objects:  78% (186/238)[Kremote: Compressing objects:  79% (189/238)[Kremote: Compressing objects:  80% (191/238)[Kremote: Compressing objects:  81% (193/238)[Kremote: Compressing objects:  82% (196/238)[Kremote: Compressing objects:  83% (198/238)[Kremote: Compressing objects:  84% (200/238)[Kremote: Compressing objects:  85% (203/238)[Kremote: Compressing objects:  86% (205/238)[Kremote: Compressing objects:  87% (208/238)[Kremote: Compressing objects:  88% (210/238)[Kremote: Compressing objects:  89% (212/238)[Kremote: Compressing objects:  90% (215/238)[Kremote: Compressing objects:  91% (217/238)[Kremote: Compressing objects:  92% (219/238)[Kremote: Compressing objects:  93% (222/238)[Kremote: Compressing objects:  94% (224/238)[Kremote: Compressing objects:  95% (227/238)[Kremote: Compressing objects:  96% (229/238)[Kremote: Compressing objects:  97% (231/238)[Kremote: Compressing objects:  98% (234/238)[Kremote: Compressing objects:  99% (236/238)[Kremote: Compressing objects: 100% (238/238)[Kremote: Compressing objects: 100% (238/238), done.[K
+Receiving objects:   0% (1/305)Receiving objects:   1% (4/305)Receiving objects:   2% (7/305)Receiving objects:   3% (10/305)Receiving objects:   4% (13/305)Receiving objects:   5% (16/305)Receiving objects:   6% (19/305)Receiving objects:   7% (22/305)Receiving objects:   8% (25/305)Receiving objects:   9% (28/305)Receiving objects:  10% (31/305)Receiving objects:  11% (34/305)Receiving objects:  12% (37/305)Receiving objects:  13% (40/305)Receiving objects:  14% (43/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  15% (46/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  16% (49/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  17% (52/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  18% (55/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  19% (58/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  20% (61/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  21% (65/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  22% (68/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  23% (71/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  24% (74/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  25% (77/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  26% (80/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  27% (83/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  28% (86/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  29% (89/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  30% (92/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  31% (95/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  32% (98/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  33% (101/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  34% (104/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  35% (107/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  36% (110/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  37% (113/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  38% (116/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  39% (119/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  40% (122/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  41% (126/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  42% (129/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  43% (132/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  44% (135/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  45% (138/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  46% (141/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  47% (144/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  48% (147/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  49% (150/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  50% (153/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  51% (156/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  52% (159/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  53% (162/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  54% (165/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  55% (168/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  56% (171/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  57% (174/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  58% (177/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  59% (180/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  60% (183/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  61% (187/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  62% (190/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  63% (193/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  64% (196/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  65% (199/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  66% (202/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  67% (205/305), 100.00 KiB | 180.00 KiB/sremote: Total 305 (delta 129), reused 189 (delta 51), pack-reused 0[K
+Receiving objects:  68% (208/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  69% (211/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  70% (214/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  71% (217/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  72% (220/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  73% (223/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  74% (226/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  75% (229/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  76% (232/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  77% (235/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  78% (238/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  79% (241/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  80% (244/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  81% (248/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  82% (251/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  83% (254/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  84% (257/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  85% (260/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  86% (263/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  87% (266/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  88% (269/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  89% (272/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  90% (275/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  91% (278/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  92% (281/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  93% (284/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  94% (287/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  95% (290/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  96% (293/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  97% (296/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  98% (299/305), 100.00 KiB | 180.00 KiB/sReceiving objects:  99% (302/305), 100.00 KiB | 180.00 KiB/sReceiving objects: 100% (305/305), 100.00 KiB | 180.00 KiB/sReceiving objects: 100% (305/305), 483.14 KiB | 662.00 KiB/s, done.
+Resolving deltas:   0% (0/129)Resolving deltas:   1% (2/129)Resolving deltas:   2% (3/129)Resolving deltas:   3% (4/129)Resolving deltas:   4% (6/129)Resolving deltas:   5% (7/129)Resolving deltas:   6% (8/129)Resolving deltas:   7% (10/129)Resolving deltas:   8% (11/129)Resolving deltas:  10% (14/129)Resolving deltas:  11% (15/129)Resolving deltas:  12% (16/129)Resolving deltas:  13% (17/129)Resolving deltas:  14% (19/129)Resolving deltas:  15% (20/129)Resolving deltas:  16% (21/129)Resolving deltas:  17% (22/129)Resolving deltas:  19% (25/129)Resolving deltas:  20% (26/129)Resolving deltas:  22% (29/129)Resolving deltas:  23% (30/129)Resolving deltas:  24% (31/129)Resolving deltas:  25% (33/129)Resolving deltas:  26% (34/129)Resolving deltas:  27% (35/129)Resolving deltas:  28% (37/129)Resolving deltas:  29% (38/129)Resolving deltas:  30% (39/129)Resolving deltas:  31% (40/129)Resolving deltas:  32% (42/129)Resolving deltas:  33% (43/129)Resolving deltas:  34% (44/129)Resolving deltas:  35% (46/129)Resolving deltas:  36% (47/129)Resolving deltas:  37% (48/129)Resolving deltas:  38% (50/129)Resolving deltas:  39% (51/129)Resolving deltas:  41% (54/129)Resolving deltas:  42% (55/129)Resolving deltas:  43% (56/129)Resolving deltas:  44% (57/129)Resolving deltas:  45% (59/129)Resolving deltas:  46% (60/129)Resolving deltas:  47% (61/129)Resolving deltas:  48% (62/129)Resolving deltas:  50% (65/129)Resolving deltas:  51% (66/129)Resolving deltas:  52% (68/129)Resolving deltas:  53% (69/129)Resolving deltas:  54% (70/129)Resolving deltas:  55% (71/129)Resolving deltas:  56% (73/129)Resolving deltas:  57% (74/129)Resolving deltas:  58% (75/129)Resolving deltas:  59% (77/129)Resolving deltas:  60% (78/129)Resolving deltas:  61% (79/129)Resolving deltas:  62% (80/129)Resolving deltas:  63% (82/129)Resolving deltas:  64% (83/129)Resolving deltas:  65% (84/129)Resolving deltas:  66% (86/129)Resolving deltas:  67% (87/129)Resolving deltas:  68% (88/129)Resolving deltas:  69% (90/129)Resolving deltas:  70% (91/129)Resolving deltas:  71% (92/129)Resolving deltas:  72% (93/129)Resolving deltas:  73% (95/129)Resolving deltas:  74% (96/129)Resolving deltas:  75% (97/129)Resolving deltas:  76% (99/129)Resolving deltas:  78% (101/129)Resolving deltas:  79% (102/129)Resolving deltas:  80% (104/129)Resolving deltas:  81% (105/129)Resolving deltas:  82% (106/129)Resolving deltas:  83% (108/129)Resolving deltas:  84% (109/129)Resolving deltas:  85% (110/129)Resolving deltas:  86% (111/129)Resolving deltas:  87% (113/129)Resolving deltas:  88% (114/129)Resolving deltas:  89% (116/129)Resolving deltas:  90% (117/129)Resolving deltas:  93% (120/129)Resolving deltas:  94% (122/129)Resolving deltas:  95% (123/129)Resolving deltas:  96% (124/129)Resolving deltas:  97% (126/129)Resolving deltas:  98% (127/129)Resolving deltas:  99% (128/129)Resolving deltas: 100% (129/129)Resolving deltas: 100% (129/129), done.
+[1m[34m  ->(B[m[1m Cloning thirdparty-lcms2 git repo...(B[m
+Cloning into bare repository '/home/heini/.cache/paru/clone/mupdf-git/thirdparty-lcms2'...
+remote: Enumerating objects: 11081, done.[K
+remote: Counting objects:   0% (1/11081)[Kremote: Counting objects:   1% (111/11081)[Kremote: Counting objects:   2% (222/11081)[Kremote: Counting objects:   3% (333/11081)[Kremote: Counting objects:   4% (444/11081)[Kremote: Counting objects:   5% (555/11081)[Kremote: Counting objects:   6% (665/11081)[Kremote: Counting objects:   7% (776/11081)[Kremote: Counting objects:   8% (887/11081)[Kremote: Counting objects:   9% (998/11081)[Kremote: Counting objects:  10% (1109/11081)[Kremote: Counting objects:  11% (1219/11081)[Kremote: Counting objects:  12% (1330/11081)[Kremote: Counting objects:  13% (1441/11081)[Kremote: Counting objects:  14% (1552/11081)[Kremote: Counting objects:  15% (1663/11081)[Kremote: Counting objects:  16% (1773/11081)[Kremote: Counting objects:  17% (1884/11081)[Kremote: Counting objects:  18% (1995/11081)[Kremote: Counting objects:  19% (2106/11081)[Kremote: Counting objects:  20% (2217/11081)[Kremote: Counting objects:  21% (2328/11081)[Kremote: Counting objects:  22% (2438/11081)[Kremote: Counting objects:  23% (2549/11081)[Kremote: Counting objects:  24% (2660/11081)[Kremote: Counting objects:  25% (2771/11081)[Kremote: Counting objects:  26% (2882/11081)[Kremote: Counting objects:  27% (2992/11081)[Kremote: Counting objects:  28% (3103/11081)[Kremote: Counting objects:  29% (3214/11081)[Kremote: Counting objects:  30% (3325/11081)[Kremote: Counting objects:  31% (3436/11081)[Kremote: Counting objects:  32% (3546/11081)[Kremote: Counting objects:  33% (3657/11081)[Kremote: Counting objects:  34% (3768/11081)[Kremote: Counting objects:  35% (3879/11081)[Kremote: Counting objects:  36% (3990/11081)[Kremote: Counting objects:  37% (4100/11081)[Kremote: Counting objects:  38% (4211/11081)[Kremote: Counting objects:  39% (4322/11081)[Kremote: Counting objects:  40% (4433/11081)[Kremote: Counting objects:  41% (4544/11081)[Kremote: Counting objects:  42% (4655/11081)[Kremote: Counting objects:  43% (4765/11081)[Kremote: Counting objects:  44% (4876/11081)[Kremote: Counting objects:  45% (4987/11081)[Kremote: Counting objects:  46% (5098/11081)[Kremote: Counting objects:  47% (5209/11081)[Kremote: Counting objects:  48% (5319/11081)[Kremote: Counting objects:  49% (5430/11081)[Kremote: Counting objects:  50% (5541/11081)[Kremote: Counting objects:  51% (5652/11081)[Kremote: Counting objects:  52% (5763/11081)[Kremote: Counting objects:  53% (5873/11081)[Kremote: Counting objects:  54% (5984/11081)[Kremote: Counting objects:  55% (6095/11081)[Kremote: Counting objects:  56% (6206/11081)[Kremote: Counting objects:  57% (6317/11081)[Kremote: Counting objects:  58% (6427/11081)[Kremote: Counting objects:  59% (6538/11081)[Kremote: Counting objects:  60% (6649/11081)[Kremote: Counting objects:  61% (6760/11081)[Kremote: Counting objects:  62% (6871/11081)[Kremote: Counting objects:  63% (6982/11081)[Kremote: Counting objects:  64% (7092/11081)[Kremote: Counting objects:  65% (7203/11081)[Kremote: Counting objects:  66% (7314/11081)[Kremote: Counting objects:  67% (7425/11081)[Kremote: Counting objects:  68% (7536/11081)[Kremote: Counting objects:  69% (7646/11081)[Kremote: Counting objects:  70% (7757/11081)[Kremote: Counting objects:  71% (7868/11081)[Kremote: Counting objects:  72% (7979/11081)[Kremote: Counting objects:  73% (8090/11081)[Kremote: Counting objects:  74% (8200/11081)[Kremote: Counting objects:  75% (8311/11081)[Kremote: Counting objects:  76% (8422/11081)[Kremote: Counting objects:  77% (8533/11081)[Kremote: Counting objects:  78% (8644/11081)[Kremote: Counting objects:  79% (8754/11081)[Kremote: Counting objects:  80% (8865/11081)[Kremote: Counting objects:  81% (8976/11081)[Kremote: Counting objects:  82% (9087/11081)[Kremote: Counting objects:  83% (9198/11081)[Kremote: Counting objects:  84% (9309/11081)[Kremote: Counting objects:  85% (9419/11081)[Kremote: Counting objects:  86% (9530/11081)[Kremote: Counting objects:  87% (9641/11081)[Kremote: Counting objects:  88% (9752/11081)[Kremote: Counting objects:  89% (9863/11081)[Kremote: Counting objects:  90% (9973/11081)[Kremote: Counting objects:  91% (10084/11081)[Kremote: Counting objects:  92% (10195/11081)[Kremote: Counting objects:  93% (10306/11081)[Kremote: Counting objects:  94% (10417/11081)[Kremote: Counting objects:  95% (10527/11081)[Kremote: Counting objects:  96% (10638/11081)[Kremote: Counting objects:  97% (10749/11081)[Kremote: Counting objects:  98% (10860/11081)[Kremote: Counting objects:  99% (10971/11081)[Kremote: Counting objects: 100% (11081/11081)[Kremote: Counting objects: 100% (11081/11081), done.[K
+remote: Compressing objects:   0% (1/5459)[Kremote: Compressing objects:   1% (55/5459)[Kremote: Compressing objects:   2% (110/5459)[Kremote: Compressing objects:   3% (164/5459)[Kremote: Compressing objects:   4% (219/5459)[Kremote: Compressing objects:   5% (273/5459)[Kremote: Compressing objects:   6% (328/5459)[Kremote: Compressing objects:   7% (383/5459)[Kremote: Compressing objects:   8% (437/5459)[Kremote: Compressing objects:   9% (492/5459)[Kremote: Compressing objects:  10% (546/5459)[Kremote: Compressing objects:  11% (601/5459)[Kremote: Compressing objects:  12% (656/5459)[Kremote: Compressing objects:  13% (710/5459)[Kremote: Compressing objects:  14% (765/5459)[Kremote: Compressing objects:  15% (819/5459)[Kremote: Compressing objects:  16% (874/5459)[Kremote: Compressing objects:  17% (929/5459)[Kremote: Compressing objects:  18% (983/5459)[Kremote: Compressing objects:  19% (1038/5459)[Kremote: Compressing objects:  20% (1092/5459)[Kremote: Compressing objects:  21% (1147/5459)[Kremote: Compressing objects:  22% (1201/5459)[Kremote: Compressing objects:  23% (1256/5459)[Kremote: Compressing objects:  24% (1311/5459)[Kremote: Compressing objects:  25% (1365/5459)[Kremote: Compressing objects:  26% (1420/5459)[Kremote: Compressing objects:  27% (1474/5459)[Kremote: Compressing objects:  28% (1529/5459)[Kremote: Compressing objects:  29% (1584/5459)[Kremote: Compressing objects:  30% (1638/5459)[Kremote: Compressing objects:  31% (1693/5459)[Kremote: Compressing objects:  32% (1747/5459)[Kremote: Compressing objects:  33% (1802/5459)[Kremote: Compressing objects:  34% (1857/5459)[Kremote: Compressing objects:  35% (1911/5459)[Kremote: Compressing objects:  36% (1966/5459)[Kremote: Compressing objects:  37% (2020/5459)[Kremote: Compressing objects:  38% (2075/5459)[Kremote: Compressing objects:  39% (2130/5459)[Kremote: Compressing objects:  40% (2184/5459)[Kremote: Compressing objects:  41% (2239/5459)[Kremote: Compressing objects:  42% (2293/5459)[Kremote: Compressing objects:  43% (2348/5459)[Kremote: Compressing objects:  44% (2402/5459)[Kremote: Compressing objects:  45% (2457/5459)[Kremote: Compressing objects:  46% (2512/5459)[Kremote: Compressing objects:  47% (2566/5459)[Kremote: Compressing objects:  48% (2621/5459)[Kremote: Compressing objects:  49% (2675/5459)[Kremote: Compressing objects:  50% (2730/5459)[Kremote: Compressing objects:  51% (2785/5459)[Kremote: Compressing objects:  52% (2839/5459)[Kremote: Compressing objects:  53% (2894/5459)[Kremote: Compressing objects:  54% (2948/5459)[Kremote: Compressing objects:  55% (3003/5459)[Kremote: Compressing objects:  56% (3058/5459)[Kremote: Compressing objects:  57% (3112/5459)[Kremote: Compressing objects:  58% (3167/5459)[Kremote: Compressing objects:  59% (3221/5459)[Kremote: Compressing objects:  60% (3276/5459)[Kremote: Compressing objects:  61% (3330/5459)[Kremote: Compressing objects:  62% (3385/5459)[Kremote: Compressing objects:  63% (3440/5459)[Kremote: Compressing objects:  64% (3494/5459)[Kremote: Compressing objects:  65% (3549/5459)[Kremote: Compressing objects:  66% (3603/5459)[Kremote: Compressing objects:  67% (3658/5459)[Kremote: Compressing objects:  68% (3713/5459)[Kremote: Compressing objects:  69% (3767/5459)[Kremote: Compressing objects:  70% (3822/5459)[Kremote: Compressing objects:  71% (3876/5459)[Kremote: Compressing objects:  72% (3931/5459)[Kremote: Compressing objects:  73% (3986/5459)[Kremote: Compressing objects:  74% (4040/5459)[Kremote: Compressing objects:  75% (4095/5459)[Kremote: Compressing objects:  76% (4149/5459)[Kremote: Compressing objects:  77% (4204/5459)[Kremote: Compressing objects:  78% (4259/5459)[Kremote: Compressing objects:  79% (4313/5459)[Kremote: Compressing objects:  80% (4368/5459)[Kremote: Compressing objects:  81% (4422/5459)[Kremote: Compressing objects:  82% (4477/5459)[Kremote: Compressing objects:  83% (4531/5459)[Kremote: Compressing objects:  84% (4586/5459)[Kremote: Compressing objects:  85% (4641/5459)[Kremote: Compressing objects:  86% (4695/5459)[Kremote: Compressing objects:  86% (4725/5459)[Kremote: Compressing objects:  87% (4750/5459)[Kremote: Compressing objects:  88% (4804/5459)[Kremote: Compressing objects:  89% (4859/5459)[Kremote: Compressing objects:  90% (4914/5459)[Kremote: Compressing objects:  91% (4968/5459)[Kremote: Compressing objects:  92% (5023/5459)[Kremote: Compressing objects:  93% (5077/5459)[Kremote: Compressing objects:  94% (5132/5459)[Kremote: Compressing objects:  95% (5187/5459)[Kremote: Compressing objects:  96% (5241/5459)[Kremote: Compressing objects:  97% (5296/5459)[Kremote: Compressing objects:  97% (5346/5459)[Kremote: Compressing objects:  98% (5350/5459)[Kremote: Compressing objects:  99% (5405/5459)[Kremote: Compressing objects:  99% (5422/5459)[Kremote: Compressing objects:  99% (5436/5459)[Kremote: Compressing objects:  99% (5453/5459)[Kremote: Compressing objects: 100% (5459/5459)[Kremote: Compressing objects: 100% (5459/5459), done.[K
+Receiving objects:   0% (1/11081)Receiving objects:   1% (111/11081)Receiving objects:   2% (222/11081)Receiving objects:   3% (333/11081)Receiving objects:   4% (444/11081)Receiving objects:   5% (555/11081)Receiving objects:   6% (665/11081)Receiving objects:   7% (776/11081)Receiving objects:   8% (887/11081)Receiving objects:   9% (998/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  10% (1109/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  11% (1219/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  12% (1330/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  13% (1441/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  14% (1552/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  15% (1663/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  16% (1773/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  17% (1884/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  18% (1995/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  19% (2106/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  20% (2217/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  21% (2328/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  22% (2438/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  23% (2549/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  24% (2660/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  25% (2771/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  26% (2882/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  27% (2992/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  28% (3103/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  29% (3214/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  30% (3325/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  31% (3436/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  32% (3546/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  33% (3657/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  34% (3768/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  35% (3879/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  36% (3990/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  37% (4100/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  38% (4211/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  39% (4322/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  40% (4433/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  41% (4544/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  42% (4655/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  43% (4765/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  44% (4876/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  45% (4987/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  46% (5098/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  47% (5209/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  48% (5319/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  49% (5430/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  50% (5541/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  51% (5652/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  52% (5763/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  52% (5771/11081), 288.00 KiB | 560.00 KiB/sReceiving objects:  53% (5873/11081), 4.71 MiB | 4.68 MiB/s    Receiving objects:  54% (5984/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  55% (6095/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  56% (6206/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  57% (6317/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  58% (6427/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  59% (6538/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  60% (6649/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  61% (6760/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  62% (6871/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  63% (6982/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  64% (7092/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  65% (7203/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  66% (7314/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  67% (7425/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  68% (7536/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  69% (7646/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  70% (7757/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  71% (7868/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  72% (7979/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  73% (8090/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  74% (8200/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  75% (8311/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  76% (8422/11081), 4.71 MiB | 4.68 MiB/sReceiving objects:  77% (8533/11081), 12.29 MiB | 8.03 MiB/sReceiving objects:  77% (8591/11081), 12.29 MiB | 8.03 MiB/sReceiving objects:  78% (8644/11081), 12.29 MiB | 8.03 MiB/sReceiving objects:  79% (8754/11081), 17.73 MiB | 8.74 MiB/sReceiving objects:  80% (8865/11081), 17.73 MiB | 8.74 MiB/sReceiving objects:  81% (8976/11081), 17.73 MiB | 8.74 MiB/sReceiving objects:  82% (9087/11081), 17.73 MiB | 8.74 MiB/sReceiving objects:  82% (9187/11081), 38.33 MiB | 12.60 MiB/sReceiving objects:  83% (9198/11081), 38.33 MiB | 12.60 MiB/sReceiving objects:  84% (9309/11081), 38.33 MiB | 12.60 MiB/sReceiving objects:  85% (9419/11081), 38.33 MiB | 12.60 MiB/sReceiving objects:  86% (9530/11081), 38.33 MiB | 12.60 MiB/sReceiving objects:  87% (9641/11081), 52.48 MiB | 14.82 MiB/sReceiving objects:  88% (9752/11081), 52.48 MiB | 14.82 MiB/sReceiving objects:  89% (9863/11081), 52.48 MiB | 14.82 MiB/sReceiving objects:  90% (9973/11081), 52.48 MiB | 14.82 MiB/sReceiving objects:  90% (10076/11081), 52.48 MiB | 14.82 MiB/sReceiving objects:  91% (10084/11081), 52.48 MiB | 14.82 MiB/sReceiving objects:  92% (10195/11081), 65.82 MiB | 16.29 MiB/sReceiving objects:  93% (10306/11081), 65.82 MiB | 16.29 MiB/sReceiving objects:  94% (10417/11081), 65.82 MiB | 16.29 MiB/sReceiving objects:  95% (10527/11081), 65.82 MiB | 16.29 MiB/sReceiving objects:  96% (10638/11081), 65.82 MiB | 16.29 MiB/sReceiving objects:  97% (10749/11081), 65.82 MiB | 16.29 MiB/sReceiving objects:  98% (10860/11081), 79.23 MiB | 17.44 MiB/sReceiving objects:  99% (10971/11081), 79.23 MiB | 17.44 MiB/sReceiving objects:  99% (11072/11081), 79.23 MiB | 17.44 MiB/sremote: Total 11081 (delta 8062), reused 7645 (delta 5463), pack-reused 0[K
+Receiving objects: 100% (11081/11081), 88.79 MiB | 19.49 MiB/sReceiving objects: 100% (11081/11081), 89.61 MiB | 17.68 MiB/s, done.
+Resolving deltas:   0% (0/8062)Resolving deltas:   1% (81/8062)Resolving deltas:   2% (162/8062)Resolving deltas:   3% (242/8062)Resolving deltas:   4% (323/8062)Resolving deltas:   5% (404/8062)Resolving deltas:   6% (484/8062)Resolving deltas:   7% (565/8062)Resolving deltas:   8% (646/8062)Resolving deltas:   9% (726/8062)Resolving deltas:  10% (807/8062)Resolving deltas:  11% (888/8062)Resolving deltas:  12% (968/8062)Resolving deltas:  13% (1049/8062)Resolving deltas:  14% (1129/8062)Resolving deltas:  15% (1210/8062)Resolving deltas:  16% (1290/8062)Resolving deltas:  17% (1372/8062)Resolving deltas:  18% (1452/8062)Resolving deltas:  19% (1532/8062)Resolving deltas:  20% (1613/8062)Resolving deltas:  21% (1694/8062)Resolving deltas:  22% (1775/8062)Resolving deltas:  23% (1855/8062)Resolving deltas:  24% (1935/8062)Resolving deltas:  25% (2016/8062)Resolving deltas:  26% (2097/8062)Resolving deltas:  27% (2177/8062)Resolving deltas:  28% (2258/8062)Resolving deltas:  29% (2340/8062)Resolving deltas:  30% (2419/8062)Resolving deltas:  31% (2500/8062)Resolving deltas:  32% (2580/8062)Resolving deltas:  33% (2662/8062)Resolving deltas:  34% (2742/8062)Resolving deltas:  35% (2822/8062)Resolving deltas:  36% (2903/8062)Resolving deltas:  37% (2983/8062)Resolving deltas:  38% (3064/8062)Resolving deltas:  39% (3145/8062)Resolving deltas:  40% (3225/8062)Resolving deltas:  41% (3306/8062)Resolving deltas:  42% (3387/8062)Resolving deltas:  43% (3467/8062)Resolving deltas:  44% (3548/8062)Resolving deltas:  45% (3628/8062)Resolving deltas:  46% (3709/8062)Resolving deltas:  47% (3790/8062)Resolving deltas:  48% (3870/8062)Resolving deltas:  49% (3951/8062)Resolving deltas:  50% (4032/8062)Resolving deltas:  51% (4112/8062)Resolving deltas:  52% (4194/8062)Resolving deltas:  53% (4274/8062)Resolving deltas:  54% (4354/8062)Resolving deltas:  55% (4435/8062)Resolving deltas:  56% (4515/8062)Resolving deltas:  57% (4596/8062)Resolving deltas:  58% (4676/8062)Resolving deltas:  59% (4757/8062)Resolving deltas:  60% (4838/8062)Resolving deltas:  61% (4918/8062)Resolving deltas:  62% (5001/8062)Resolving deltas:  63% (5080/8062)Resolving deltas:  64% (5160/8062)Resolving deltas:  65% (5241/8062)Resolving deltas:  66% (5322/8062)Resolving deltas:  67% (5402/8062)Resolving deltas:  68% (5483/8062)Resolving deltas:  69% (5563/8062)Resolving deltas:  70% (5644/8062)Resolving deltas:  71% (5725/8062)Resolving deltas:  72% (5805/8062)Resolving deltas:  73% (5886/8062)Resolving deltas:  74% (5966/8062)Resolving deltas:  75% (6047/8062)Resolving deltas:  76% (6128/8062)Resolving deltas:  77% (6208/8062)Resolving deltas:  78% (6290/8062)Resolving deltas:  79% (6369/8062)Resolving deltas:  80% (6450/8062)Resolving deltas:  81% (6531/8062)Resolving deltas:  82% (6611/8062)Resolving deltas:  83% (6692/8062)Resolving deltas:  84% (6773/8062)Resolving deltas:  85% (6853/8062)Resolving deltas:  86% (6934/8062)Resolving deltas:  87% (7014/8062)Resolving deltas:  88% (7095/8062)Resolving deltas:  89% (7176/8062)Resolving deltas:  90% (7256/8062)Resolving deltas:  91% (7337/8062)Resolving deltas:  92% (7418/8062)Resolving deltas:  93% (7498/8062)Resolving deltas:  94% (7579/8062)Resolving deltas:  95% (7659/8062)Resolving deltas:  96% (7740/8062)Resolving deltas:  97% (7821/8062)Resolving deltas:  98% (7901/8062)Resolving deltas:  99% (7982/8062)Resolving deltas: 100% (8062/8062)Resolving deltas: 100% (8062/8062), done.
+[1m[34m  ->(B[m[1m Found desktop(B[m
+[1m[32m==>(B[m[1m Validating source files with sha256sums...(B[m
+    mupdf ... Skipped
+    thirdparty-extract ... Skipped
+    thirdparty-freeglut ... Skipped
+    thirdparty-lcms2 ... Skipped
+    desktop ... Passed
+[1m[32m==>(B[m[1m Making package: mupdf-git 20231101.dc7489fd9-1 (2024-06-01T03:57:51 CEST)(B[m
+[1m[32m==>(B[m[1m Checking runtime dependencies...(B[m
+[1m[32m==>(B[m[1m Checking buildtime dependencies...(B[m
+[1m[32m==>(B[m[1m Retrieving sources...(B[m
+[1m[34m  ->(B[m[1m Updating mupdf git repo...(B[m
+[1m[34m  ->(B[m[1m Updating thirdparty-extract git repo...(B[m
+[1m[34m  ->(B[m[1m Updating thirdparty-freeglut git repo...(B[m
+[1m[34m  ->(B[m[1m Updating thirdparty-lcms2 git repo...(B[m
+[1m[34m  ->(B[m[1m Found desktop(B[m
+[1m[32m==>(B[m[1m Validating source files with sha256sums...(B[m
+    mupdf ... Skipped
+    thirdparty-extract ... Skipped
+    thirdparty-freeglut ... Skipped
+    thirdparty-lcms2 ... Skipped
+    desktop ... Passed
+[1m[32m==>(B[m[1m Removing existing $srcdir/ directory...(B[m
+[1m[32m==>(B[m[1m Extracting sources...(B[m
+[1m[34m  ->(B[m[1m Creating working copy of mupdf git repo...(B[m
+Cloning into 'mupdf'...
+done.
+[1m[34m  ->(B[m[1m Creating working copy of thirdparty-extract git repo...(B[m
+Cloning into 'thirdparty-extract'...
+done.
+[1m[34m  ->(B[m[1m Creating working copy of thirdparty-freeglut git repo...(B[m
+Cloning into 'thirdparty-freeglut'...
+done.
+[1m[34m  ->(B[m[1m Creating working copy of thirdparty-lcms2 git repo...(B[m
+Cloning into 'thirdparty-lcms2'...
+done.
+Switched to a new branch 'makepkg'
+[1m[32m==>(B[m[1m Starting prepare()...(B[m
+[1m[32m==>(B[m[1m Starting pkgver()...(B[m
+[1m[32m==>(B[m[1m Updated version: mupdf-git 20240531.cefdd83d1-1(B[m
+[1m[32m==>(B[m[1m Sources are ready.(B[m
+mupdf-git-20231101.dc7489fd9-1: parsing pkg list...
+[1m[32m==>(B[m[1m Making package: mupdf-git 20240531.cefdd83d1-1 (2024-06-01T03:58:04 CEST)(B[m
+[1m[32m==>(B[m[1m Checking runtime dependencies...(B[m
+[1m[32m==>(B[m[1m Checking buildtime dependencies...(B[m
+[1m[33m==> WARNING:(B[m[1m Using existing $srcdir/ tree(B[m
+[1m[32m==>(B[m[1m Starting pkgver()...(B[m
+[1m[32m==>(B[m[1m Starting build()...(B[m
+make build=release
+make[1]: Entering directory '/home/heini/.cache/paru/clone/mupdf-git/src/mupdf'
+    CC build/release-archive/source/fitz/archive.o
+    CC build/release-archive/source/fitz/bbox-device.o
+    CC build/release-archive/source/fitz/bidi-std.o
+    CC build/release-archive/source/fitz/bidi.o
+    CC build/release-archive/source/fitz/bitmap.o
+    CC build/release-archive/source/fitz/buffer.o
+    CC build/release-archive/source/fitz/color-fast.o
+    CC build/release-archive/source/fitz/color-icc-create.o
+    CC build/release-archive/source/fitz/color-lcms.o
+    CC build/release-archive/source/fitz/colorspace.o
+    CC build/release-archive/source/fitz/compress.o
+    CC build/release-archive/source/fitz/compressed-buffer.o
+    CC build/release-archive/source/fitz/context.o
+    CC build/release-archive/source/fitz/crypt-aes.o
+    CC build/release-archive/source/fitz/crypt-arc4.o
+    CC build/release-archive/source/fitz/crypt-md5.o
+    CC build/release-archive/source/fitz/crypt-sha2.o
+    CC build/release-archive/source/fitz/deskew.o
+    CC build/release-archive/source/fitz/device.o
+    CC build/release-archive/source/fitz/directory.o
+    CC build/release-archive/source/fitz/document-all.o
+    CC build/release-archive/source/fitz/document.o
+    CC build/release-archive/source/fitz/draw-affine.o
+    CC build/release-archive/source/fitz/draw-blend.o
+    CC build/release-archive/source/fitz/draw-device.o
+    CC build/release-archive/source/fitz/draw-edge.o
+    CC build/release-archive/source/fitz/draw-edgebuffer.o
+    CC build/release-archive/source/fitz/draw-glyph.o
+    CC build/release-archive/source/fitz/draw-mesh.o
+    CC build/release-archive/source/fitz/draw-paint.o
+    CC build/release-archive/source/fitz/draw-path.o
+    CC build/release-archive/source/fitz/draw-rasterize.o
+    CC build/release-archive/source/fitz/draw-scale-simple.o
+    CC build/release-archive/source/fitz/draw-unpack.o
+    CC build/release-archive/source/fitz/encode-basic.o
+    CC build/release-archive/source/fitz/encode-fax.o
+    CC build/release-archive/source/fitz/encode-jpx.o
+    CC build/release-archive/source/fitz/encodings.o
+    CC build/release-archive/source/fitz/error.o
+    CC build/release-archive/source/fitz/filter-basic.o
+    CC build/release-archive/source/fitz/filter-dct.o
+    CC build/release-archive/source/fitz/filter-fax.o
+    CC build/release-archive/source/fitz/filter-flate.o
+    CC build/release-archive/source/fitz/filter-jbig2.o
+    CC build/release-archive/source/fitz/filter-leech.o
+    CC build/release-archive/source/fitz/filter-lzw.o
+    CC build/release-archive/source/fitz/filter-predict.o
+    CC build/release-archive/source/fitz/filter-sgi.o
+    CC build/release-archive/source/fitz/filter-thunder.o
+    CC build/release-archive/source/fitz/font.o
+    CC build/release-archive/source/fitz/ftoa.o
+    CC build/release-archive/source/fitz/geometry.o
+    CC build/release-archive/source/fitz/getopt.o
+    CC build/release-archive/source/fitz/glyph.o
+    CC build/release-archive/source/fitz/glyphbox.o
+    CC build/release-archive/source/fitz/gz-doc.o
+    CC build/release-archive/source/fitz/halftone.o
+    CC build/release-archive/source/fitz/harfbuzz.o
+    CC build/release-archive/source/fitz/hash.o
+    CC build/release-archive/source/fitz/heap.o
+    CC build/release-archive/source/fitz/image.o
+    CC build/release-archive/source/fitz/jmemcust.o
+    CC build/release-archive/source/fitz/leptonica-wrap.o
+    CC build/release-archive/source/fitz/link.o
+    CC build/release-archive/source/fitz/list-device.o
+    CC build/release-archive/source/fitz/load-bmp.o
+    CC build/release-archive/source/fitz/load-gif.o
+    CC build/release-archive/source/fitz/load-jbig2.o
+    CC build/release-archive/source/fitz/load-jpeg.o
+    CC build/release-archive/source/fitz/load-jpx.o
+    CC build/release-archive/source/fitz/load-jxr.o
+    CC build/release-archive/source/fitz/load-png.o
+    CC build/release-archive/source/fitz/load-pnm.o
+    CC build/release-archive/source/fitz/load-psd.o
+    CC build/release-archive/source/fitz/load-tiff.o
+    CC build/release-archive/source/fitz/log.o
+    CC build/release-archive/source/fitz/memento.o
+    CC build/release-archive/source/fitz/memory.o
+    CC build/release-archive/source/fitz/noto.o
+    CC build/release-archive/source/fitz/ocr-device.o
+    CC build/release-archive/source/fitz/outline.o
+    CC build/release-archive/source/fitz/output-cbz.o
+    CC build/release-archive/source/fitz/output-docx.o
+    CC build/release-archive/source/fitz/output-jpeg.o
+    CC build/release-archive/source/fitz/output-pcl.o
+    CC build/release-archive/source/fitz/output-pclm.o
+    CC build/release-archive/source/fitz/output-pdfocr.o
+    CC build/release-archive/source/fitz/output-png.o
+    CC build/release-archive/source/fitz/output-pnm.o
+    CC build/release-archive/source/fitz/output-ps.o
+    CC build/release-archive/source/fitz/output-psd.o
+    CC build/release-archive/source/fitz/output-pwg.o
+    CC build/release-archive/source/fitz/output-svg.o
+    CC build/release-archive/source/fitz/output.o
+[01m[Ksource/fitz/output.c:[m[K In function ‘[01m[Kfile_truncate[m[K’:
+[01m[Ksource/fitz/output.c:202:31:[m[K [01;35m[Kwarning: [m[Kignoring return value of ‘[01m[Kftruncate[m[K’ declared with attribute ‘[01m[Kwarn_unused_result[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Warning-Options.html#index-Wno-unused-result-Wunused-result]8;;[m[K]
+  202 |                         (void)[01;35m[Kftruncate(fileno(file), pos)[m[K;
+      |                               [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+    CC build/release-archive/source/fitz/path.o
+    CC build/release-archive/source/fitz/pixmap.o
+    CC build/release-archive/source/fitz/pool.o
+    CC build/release-archive/source/fitz/printf.o
+    CC build/release-archive/source/fitz/random.o
+    CC build/release-archive/source/fitz/separation.o
+    CC build/release-archive/source/fitz/shade.o
+    CC build/release-archive/source/fitz/skew.o
+    CC build/release-archive/source/fitz/stext-device.o
+    CC build/release-archive/source/fitz/stext-output.o
+    CC build/release-archive/source/fitz/stext-search.o
+    CC build/release-archive/source/fitz/store.o
+    CC build/release-archive/source/fitz/stream-open.o
+    CC build/release-archive/source/fitz/stream-read.o
+    CC build/release-archive/source/fitz/string.o
+    CC build/release-archive/source/fitz/strtof.o
+    CC build/release-archive/source/fitz/subset-cff.o
+    CC build/release-archive/source/fitz/subset-ttf.o
+    CC build/release-archive/source/fitz/svg-device.o
+    CC build/release-archive/source/fitz/test-device.o
+    CC build/release-archive/source/fitz/text-decoder.o
+    CC build/release-archive/source/fitz/text.o
+    CC build/release-archive/source/fitz/time.o
+    CC build/release-archive/source/fitz/trace-device.o
+    CC build/release-archive/source/fitz/track-usage.o
+    CC build/release-archive/source/fitz/transition.o
+    CC build/release-archive/source/fitz/tree.o
+    CC build/release-archive/source/fitz/ucdn.o
+    CC build/release-archive/source/fitz/uncfb.o
+    CC build/release-archive/source/fitz/unlibarchive.o
+[01m[Ksource/fitz/unlibarchive.c:[m[K In function ‘[01m[Kfz_open_libarchive_archive_with_stream[m[K’:
+[01m[Ksource/fitz/unlibarchive.c:435:46:[m[K [01;35m[Kwarning: [m[Kpassing argument 2 of ‘[01m[Kfz_free[m[K’ discards ‘[01m[Kconst[m[K’ qualifier from pointer target type [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Warning-Options.html#index-Wdiscarded-qualifiers-Wdiscarded-qualifiers]8;;[m[K]
+  435 |                                 fz_free(ctx, [01;35m[Kpath[m[K);
+      |                                              [01;35m[K^~~~[m[K
+In file included from [01m[Kinclude/mupdf/fitz.h:33[m[K,
+                 from [01m[Ksource/fitz/unlibarchive.c:23[m[K:
+[01m[Kinclude/mupdf/fitz/context.h:697:37:[m[K [01;36m[Knote: [m[Kexpected ‘[01m[Kvoid *[m[K’ but argument is of type ‘[01m[Kconst char *[m[K’
+  697 | void fz_free(fz_context *ctx, [01;36m[Kvoid *p[m[K);
+      |                               [01;36m[K~~~~~~^[m[K
+[01m[Ksource/fitz/unlibarchive.c:449:38:[m[K [01;35m[Kwarning: [m[Kpassing argument 2 of ‘[01m[Kfz_free[m[K’ discards ‘[01m[Kconst[m[K’ qualifier from pointer target type [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Warning-Options.html#index-Wdiscarded-qualifiers-Wdiscarded-qualifiers]8;;[m[K]
+  449 |                         fz_free(ctx, [01;35m[Kpath[m[K);
+      |                                      [01;35m[K^~~~[m[K
+[01m[Kinclude/mupdf/fitz/context.h:697:37:[m[K [01;36m[Knote: [m[Kexpected ‘[01m[Kvoid *[m[K’ but argument is of type ‘[01m[Kconst char *[m[K’
+  697 | void fz_free(fz_context *ctx, [01;36m[Kvoid *p[m[K);
+      |                               [01;36m[K~~~~~~^[m[K
+    CC build/release-archive/source/fitz/untar.o
+    CC build/release-archive/source/fitz/unzip.o
+    CC build/release-archive/source/fitz/util.o
+    CC build/release-archive/source/fitz/warp.o
+    CC build/release-archive/source/fitz/writer.o
+    CC build/release-archive/source/fitz/xml-write.o
+    CC build/release-archive/source/fitz/xml.o
+    CC build/release-archive/source/fitz/xmltext-device.o
+    CC build/release-archive/source/fitz/zip.o
+    CXX build/release-archive/source/fitz/tessocr.o
+    CC build/release-archive/source/pdf/pdf-annot.o
+    CC build/release-archive/source/pdf/pdf-appearance.o
+    CC build/release-archive/source/pdf/pdf-clean-file.o
+    CC build/release-archive/source/pdf/pdf-clean.o
+    CC build/release-archive/source/pdf/pdf-cmap-load.o
+    CC build/release-archive/source/pdf/pdf-cmap-parse.o
+    CC build/release-archive/source/pdf/pdf-cmap.o
+    CC build/release-archive/source/pdf/pdf-colorspace.o
+    CC build/release-archive/source/pdf/pdf-crypt.o
+    CC build/release-archive/source/pdf/pdf-device.o
+    CC build/release-archive/source/pdf/pdf-event.o
+    CC build/release-archive/source/pdf/pdf-font-add.o
+    CC build/release-archive/source/pdf/pdf-font.o
+    CC build/release-archive/source/pdf/pdf-form.o
+    CC build/release-archive/source/pdf/pdf-function.o
+    CC build/release-archive/source/pdf/pdf-graft.o
+    CC build/release-archive/source/pdf/pdf-image-rewriter.o
+    CC build/release-archive/source/pdf/pdf-image.o
+    CC build/release-archive/source/pdf/pdf-interpret.o
+    CC build/release-archive/source/pdf/pdf-js.o
+    CC build/release-archive/source/pdf/pdf-layer.o
+    CC build/release-archive/source/pdf/pdf-layout.o
+    CC build/release-archive/source/pdf/pdf-lex.o
+    CC build/release-archive/source/pdf/pdf-link.o
+    CC build/release-archive/source/pdf/pdf-metrics.o
+    CC build/release-archive/source/pdf/pdf-nametree.o
+    CC build/release-archive/source/pdf/pdf-object.o
+    CC build/release-archive/source/pdf/pdf-op-buffer.o
+    CC build/release-archive/source/pdf/pdf-op-color.o
+    CC build/release-archive/source/pdf/pdf-op-filter.o
+    CC build/release-archive/source/pdf/pdf-op-run.o
+    CC build/release-archive/source/pdf/pdf-outline.o
+    CC build/release-archive/source/pdf/pdf-page.o
+    CC build/release-archive/source/pdf/pdf-parse.o
+    CC build/release-archive/source/pdf/pdf-pattern.o
+    CC build/release-archive/source/pdf/pdf-repair.o
+    CC build/release-archive/source/pdf/pdf-resources.o
+    CC build/release-archive/source/pdf/pdf-run.o
+    CC build/release-archive/source/pdf/pdf-shade-recolor.o
+    CC build/release-archive/source/pdf/pdf-shade.o
+    CC build/release-archive/source/pdf/pdf-signature.o
+    CC build/release-archive/source/pdf/pdf-store.o
+    CC build/release-archive/source/pdf/pdf-stream.o
+    CC build/release-archive/source/pdf/pdf-subset.o
+    CC build/release-archive/source/pdf/pdf-type3.o
+    CC build/release-archive/source/pdf/pdf-unicode.o
+    CC build/release-archive/source/pdf/pdf-util.o
+    CC build/release-archive/source/pdf/pdf-write.o
+    CC build/release-archive/source/pdf/pdf-xobject.o
+    CC build/release-archive/source/pdf/pdf-xref.o
+    CC build/release-archive/source/xps/xps-common.o
+    CC build/release-archive/source/xps/xps-doc.o
+    CC build/release-archive/source/xps/xps-glyphs.o
+    CC build/release-archive/source/xps/xps-gradient.o
+    CC build/release-archive/source/xps/xps-image.o
+    CC build/release-archive/source/xps/xps-link.o
+    CC build/release-archive/source/xps/xps-outline.o
+    CC build/release-archive/source/xps/xps-path.o
+    CC build/release-archive/source/xps/xps-resource.o
+    CC build/release-archive/source/xps/xps-tile.o
+    CC build/release-archive/source/xps/xps-util.o
+    CC build/release-archive/source/xps/xps-zip.o
+    CC build/release-archive/source/svg/svg-color.o
+    CC build/release-archive/source/svg/svg-doc.o
+    CC build/release-archive/source/svg/svg-parse.o
+    CC build/release-archive/source/svg/svg-run.o
+    CC build/release-archive/source/html/css-apply.o
+    CC build/release-archive/source/html/css-parse.o
+    CC build/release-archive/source/html/epub-doc.o
+    CC build/release-archive/source/html/html-doc.o
+    CC build/release-archive/source/html/html-font.o
+    CC build/release-archive/source/html/html-layout.o
+    CC build/release-archive/source/html/html-outline.o
+    CC build/release-archive/source/html/html-parse.o
+    CC build/release-archive/source/html/mobi.o
+    CC build/release-archive/source/html/office.o
+    CC build/release-archive/source/html/story-writer.o
+    CC build/release-archive/source/html/txt.o
+    CC build/release-archive/source/html/xml-dom.o
+    CC build/release-archive/source/reflow/reflow-doc.o
+    CC build/release-archive/source/cbz/mucbz.o
+    CC build/release-archive/source/cbz/muimg.o
+    OBJCOPY build/release-archive/resources/fonts/urw/Dingbats.cff.o
+    OBJCOPY build/release-archive/resources/fonts/urw/NimbusBoxes-Regular.cff.o
+    OBJCOPY build/release-archive/resources/fonts/urw/NimbusMonoPS-Bold.cff.o
+    OBJCOPY build/release-archive/resources/fonts/urw/NimbusMonoPS-BoldItalic.cff.o
+    OBJCOPY build/release-archive/resources/fonts/urw/NimbusMonoPS-Italic.cff.o
+    OBJCOPY build/release-archive/resources/fonts/urw/NimbusMonoPS-Regular.cff.o
+    OBJCOPY build/release-archive/resources/fonts/urw/NimbusRoman-Bold.cff.o
+    OBJCOPY build/release-archive/resources/fonts/urw/NimbusRoman-BoldItalic.cff.o
+    OBJCOPY build/release-archive/resources/fonts/urw/NimbusRoman-Italic.cff.o
+    OBJCOPY build/release-archive/resources/fonts/urw/NimbusRoman-Regular.cff.o
+    OBJCOPY build/release-archive/resources/fonts/urw/NimbusSans-Bold.cff.o
+    OBJCOPY build/release-archive/resources/fonts/urw/NimbusSans-BoldItalic.cff.o
+    OBJCOPY build/release-archive/resources/fonts/urw/NimbusSans-Italic.cff.o
+    OBJCOPY build/release-archive/resources/fonts/urw/NimbusSans-Regular.cff.o
+    OBJCOPY build/release-archive/resources/fonts/urw/StandardSymbolsPS.cff.o
+    OBJCOPY build/release-archive/resources/fonts/han/SourceHanSerif-Regular.ttc.o
+    OBJCOPY build/release-archive/resources/fonts/droid/DroidSansFallbackFull.ttf.o
+    OBJCOPY build/release-archive/resources/fonts/droid/DroidSansFallback.ttf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoMusic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoNaskhArabic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoNastaliqUrdu-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSans-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansAdlam-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansAnatolianHieroglyphs-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansAvestan-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansBamum-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansBassaVah-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansBatak-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansBhaiksuki-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansBrahmi-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansBuginese-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansBuhid-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansCanadianAboriginal-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansCarian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansCaucasianAlbanian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansChakma-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansCham-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansCherokee-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansCoptic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansCuneiform-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansCypriot-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansDeseret-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansDuployan-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansEgyptianHieroglyphs-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansElbasan-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansElymaic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansGlagolitic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansGothic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansGunjalaGondi-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansHanifiRohingya-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansHanunoo-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansHatran-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansImperialAramaic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansInscriptionalPahlavi-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansInscriptionalParthian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansJavanese-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansKaithi-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansKayahLi-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansKharoshthi-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansKhudawadi-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansLepcha-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansLimbu-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansLinearA-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansLinearB-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansLisu-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansLycian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansLydian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansMahajani-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansMandaic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansManichaean-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansMarchen-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansMasaramGondi-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansMath-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansMedefaidrin-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansMeeteiMayek-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansMendeKikakui-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansMeroitic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansMiao-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansModi-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansMongolian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansMro-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansMultani-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansNKo-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansNabataean-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansNewTaiLue-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansNewa-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansNushu-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansOgham-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansOlChiki-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansOldHungarian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansOldItalic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansOldNorthArabian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansOldPermic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansOldPersian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansOldSogdian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansOldSouthArabian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansOldTurkic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansOriya-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansOsage-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansOsmanya-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansPahawhHmong-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansPalmyrene-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansPauCinHau-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansPhagsPa-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansPhoenician-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansPsalterPahlavi-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansRejang-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansRunic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansSamaritan-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansSaurashtra-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansSharada-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansShavian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansSiddham-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansSogdian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansSoraSompeng-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansSoyombo-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansSundanese-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansSylotiNagri-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansSymbols-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansSymbols2-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansSyriac-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansTagalog-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansTagbanwa-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansTaiLe-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansTaiTham-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansTaiViet-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansTakri-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansThaana-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansTifinagh-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansTirhuta-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansUgaritic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansVai-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansWancho-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansWarangCiti-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansYi-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSansZanabazarSquare-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerif-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifAhom-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifArmenian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifBalinese-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifBengali-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifDevanagari-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifDogra-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifEthiopic-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifGeorgian-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifGrantha-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifGujarati-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifGurmukhi-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifHebrew-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifKannada-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifKhmer-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifKhojki-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifLao-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifMalayalam-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifMyanmar-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifNyiakengPuachueHmong-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifSinhala-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifTamil-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifTangut-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifTelugu-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifThai-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifTibetan-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoSerifYezidi-Regular.otf.o
+    OBJCOPY build/release-archive/resources/fonts/noto/NotoEmoji-Regular.ttf.o
+    OBJCOPY build/release-archive/resources/fonts/sil/CharisSIL-Bold.cff.o
+    OBJCOPY build/release-archive/resources/fonts/sil/CharisSIL-BoldItalic.cff.o
+    OBJCOPY build/release-archive/resources/fonts/sil/CharisSIL-Italic.cff.o
+    OBJCOPY build/release-archive/resources/fonts/sil/CharisSIL.cff.o
+    AR build/release-archive/libmupdf.a
+    CC build/release-archive/thirdparty/lcms2/src/cmsalpha.o
+    CC build/release-archive/thirdparty/lcms2/src/cmscam02.o
+    CC build/release-archive/thirdparty/lcms2/src/cmscgats.o
+    CC build/release-archive/thirdparty/lcms2/src/cmscnvrt.o
+    CC build/release-archive/thirdparty/lcms2/src/cmserr.o
+    CC build/release-archive/thirdparty/lcms2/src/cmsgamma.o
+    CC build/release-archive/thirdparty/lcms2/src/cmsgmt.o
+    CC build/release-archive/thirdparty/lcms2/src/cmshalf.o
+    CC build/release-archive/thirdparty/lcms2/src/cmsintrp.o
+    CC build/release-archive/thirdparty/lcms2/src/cmsio0.o
+    CC build/release-archive/thirdparty/lcms2/src/cmsio1.o
+    CC build/release-archive/thirdparty/lcms2/src/cmslut.o
+    CC build/release-archive/thirdparty/lcms2/src/cmsmd5.o
+    CC build/release-archive/thirdparty/lcms2/src/cmsmtrx.o
+    CC build/release-archive/thirdparty/lcms2/src/cmsnamed.o
+    CC build/release-archive/thirdparty/lcms2/src/cmsopt.o
+    CC build/release-archive/thirdparty/lcms2/src/cmspack.o
+    CC build/release-archive/thirdparty/lcms2/src/cmspcs.o
+    CC build/release-archive/thirdparty/lcms2/src/cmsplugin.o
+    CC build/release-archive/thirdparty/lcms2/src/cmsps2.o
+    CC build/release-archive/thirdparty/lcms2/src/cmssamp.o
+    CC build/release-archive/thirdparty/lcms2/src/cmssm.o
+    CC build/release-archive/thirdparty/lcms2/src/cmstypes.o
+    CC build/release-archive/thirdparty/lcms2/src/cmsvirt.o
+    CC build/release-archive/thirdparty/lcms2/src/cmswtpnt.o
+    CC build/release-archive/thirdparty/lcms2/src/cmsxform.o
+    CC build/release-archive/thirdparty/extract/src/alloc.o
+    CC build/release-archive/thirdparty/extract/src/astring.o
+    CC build/release-archive/thirdparty/extract/src/boxer.o
+    CC build/release-archive/thirdparty/extract/src/buffer.o
+    CC build/release-archive/thirdparty/extract/src/document.o
+    CC build/release-archive/thirdparty/extract/src/docx.o
+    GEN thirdparty/extract/src/docx_template.c
+    CC build/release-archive/thirdparty/extract/src/docx_template.o
+    CC build/release-archive/thirdparty/extract/src/extract.o
+    CC build/release-archive/thirdparty/extract/src/join.o
+    CC build/release-archive/thirdparty/extract/src/json.o
+    CC build/release-archive/thirdparty/extract/src/mem.o
+    CC build/release-archive/thirdparty/extract/src/html.o
+    CC build/release-archive/thirdparty/extract/src/odt.o
+    CC build/release-archive/thirdparty/extract/src/odt_template.o
+    CC build/release-archive/thirdparty/extract/src/outf.o
+    CC build/release-archive/thirdparty/extract/src/rect.o
+    CC build/release-archive/thirdparty/extract/src/sys.o
+    CC build/release-archive/thirdparty/extract/src/text.o
+    CC build/release-archive/thirdparty/extract/src/xml.o
+    CC build/release-archive/thirdparty/extract/src/zip.o
+    AR build/release-archive/libmupdf-third.a
+    CC build/release-archive/source/tools/mutool.o
+    CC build/release-archive/source/tools/muconvert.o
+    CC build/release-archive/source/tools/mudraw.o
+    CC build/release-archive/source/tools/murun.o
+    CC build/release-archive/source/tools/mutrace.o
+    CC build/release-archive/source/tools/cmapdump.o
+    CC build/release-archive/source/tools/pdfbake.o
+    CC build/release-archive/source/tools/pdfclean.o
+    CC build/release-archive/source/tools/pdfcreate.o
+    CC build/release-archive/source/tools/pdfextract.o
+    CC build/release-archive/source/tools/pdfinfo.o
+    CC build/release-archive/source/tools/pdfmerge.o
+    CC build/release-archive/source/tools/pdfpages.o
+    CC build/release-archive/source/tools/pdfposter.o
+    CC build/release-archive/source/tools/pdfrecolor.o
+    CC build/release-archive/source/tools/pdfshow.o
+    CC build/release-archive/source/tools/pdfsign.o
+    CC build/release-archive/source/tools/pdftrim.o
+    CC build/release-archive/source/helpers/pkcs7/pkcs7-openssl.o
+    AR build/release-archive/libmupdf-pkcs7.a
+    CC build/release-archive/source/helpers/mu-threads/mu-threads.o
+    AR build/release-archive/libmupdf-threads.a
+    LINK build/release-archive/mutool
+    CC build/release-archive/source/tools/muraster.o
+    LINK build/release-archive/muraster
+    CC build/release-archive/platform/gl/gl-annotate.o
+    CC build/release-archive/platform/gl/gl-file.o
+    CC build/release-archive/platform/gl/gl-font.o
+    CC build/release-archive/platform/gl/gl-form.o
+    CC build/release-archive/platform/gl/gl-input.o
+    CC build/release-archive/platform/gl/gl-main.o
+    CC build/release-archive/platform/gl/gl-ui.o
+    CC build/release-archive/platform/gl/gl-win32.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_callbacks.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_cursor.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_display.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_ext.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_font.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_font_data.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_gamemode.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_geometry.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_gl2.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_init.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_input_devices.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_joystick.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_main.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_menu.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_misc.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_overlay.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_spaceball.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_state.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_stroke_mono_roman.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_stroke_roman.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_structure.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_teapot.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_videoresize.o
+    CC build/release-archive/thirdparty/freeglut/src/fg_window.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_cursor_x11.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_display_x11_glx.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_ext_x11.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_gamemode_x11.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_init_x11.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_input_devices_x11.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_joystick_x11.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_main_x11.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_menu_x11.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_spaceball_x11.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_state_x11.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_state_x11_glx.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_structure_x11.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_window_x11.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_window_x11_glx.o
+    CC build/release-archive/thirdparty/freeglut/src/x11/fg_xinput_x11.o
+    AR build/release-archive/libmupdf-glut.a
+    LINK build/release-archive/mupdf-gl
+[01m[Kthirdparty/freeglut/include/GL/freeglut_std.h:230:18:[m[K [01;35m[Kwarning: [m[Ktype of ‘[01m[KglutStrokeRoman[m[K’ does not match original declaration [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Warning-Options.html#index-Wlto-type-mismatch-Wlto-type-mismatch]8;;[m[K]
+  230 |     extern void* glutStrokeRoman;
+      |                  [01;35m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:94:27:[m[K [01;36m[Knote: [m[K‘[01m[KglutStrokeRoman[m[K’ was previously declared here
+   94 | struct freeglutStrokeFont glutStrokeRoman ;
+      |                           [01;36m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:94:27:[m[K [01;36m[Knote: [m[Kcode may be misoptimized unless ‘[01m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Optimize-Options.html#index-fstrict-aliasing-fno-strict-aliasing]8;;[m[K’ is used
+[01m[Kthirdparty/freeglut/include/GL/freeglut_std.h:231:18:[m[K [01;35m[Kwarning: [m[Ktype of ‘[01m[KglutStrokeMonoRoman[m[K’ does not match original declaration [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Warning-Options.html#index-Wlto-type-mismatch-Wlto-type-mismatch]8;;[m[K]
+  231 |     extern void* glutStrokeMonoRoman;
+      |                  [01;35m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:95:27:[m[K [01;36m[Knote: [m[K‘[01m[KglutStrokeMonoRoman[m[K’ was previously declared here
+   95 | struct freeglutStrokeFont glutStrokeMonoRoman ;
+      |                           [01;36m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:95:27:[m[K [01;36m[Knote: [m[Kcode may be misoptimized unless ‘[01m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Optimize-Options.html#index-fstrict-aliasing-fno-strict-aliasing]8;;[m[K’ is used
+[01m[Kthirdparty/freeglut/include/GL/freeglut_std.h:232:18:[m[K [01;35m[Kwarning: [m[Ktype of ‘[01m[KglutBitmap9By15[m[K’ does not match original declaration [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Warning-Options.html#index-Wlto-type-mismatch-Wlto-type-mismatch]8;;[m[K]
+  232 |     extern void* glutBitmap9By15;
+      |                  [01;35m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:97:27:[m[K [01;36m[Knote: [m[K‘[01m[KglutBitmap9By15[m[K’ was previously declared here
+   97 | struct freeglutBitmapFont glutBitmap9By15 ;
+      |                           [01;36m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:97:27:[m[K [01;36m[Knote: [m[Kcode may be misoptimized unless ‘[01m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Optimize-Options.html#index-fstrict-aliasing-fno-strict-aliasing]8;;[m[K’ is used
+[01m[Kthirdparty/freeglut/include/GL/freeglut_std.h:233:18:[m[K [01;35m[Kwarning: [m[Ktype of ‘[01m[KglutBitmap8By13[m[K’ does not match original declaration [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Warning-Options.html#index-Wlto-type-mismatch-Wlto-type-mismatch]8;;[m[K]
+  233 |     extern void* glutBitmap8By13;
+      |                  [01;35m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:98:27:[m[K [01;36m[Knote: [m[K‘[01m[KglutBitmap8By13[m[K’ was previously declared here
+   98 | struct freeglutBitmapFont glutBitmap8By13 ;
+      |                           [01;36m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:98:27:[m[K [01;36m[Knote: [m[Kcode may be misoptimized unless ‘[01m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Optimize-Options.html#index-fstrict-aliasing-fno-strict-aliasing]8;;[m[K’ is used
+[01m[Kthirdparty/freeglut/include/GL/freeglut_std.h:234:18:[m[K [01;35m[Kwarning: [m[Ktype of ‘[01m[KglutBitmapTimesRoman10[m[K’ does not match original declaration [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Warning-Options.html#index-Wlto-type-mismatch-Wlto-type-mismatch]8;;[m[K]
+  234 |     extern void* glutBitmapTimesRoman10;
+      |                  [01;35m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:99:27:[m[K [01;36m[Knote: [m[K‘[01m[KglutBitmapTimesRoman10[m[K’ was previously declared here
+   99 | struct freeglutBitmapFont glutBitmapTimesRoman10 ;
+      |                           [01;36m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:99:27:[m[K [01;36m[Knote: [m[Kcode may be misoptimized unless ‘[01m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Optimize-Options.html#index-fstrict-aliasing-fno-strict-aliasing]8;;[m[K’ is used
+[01m[Kthirdparty/freeglut/include/GL/freeglut_std.h:235:18:[m[K [01;35m[Kwarning: [m[Ktype of ‘[01m[KglutBitmapTimesRoman24[m[K’ does not match original declaration [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Warning-Options.html#index-Wlto-type-mismatch-Wlto-type-mismatch]8;;[m[K]
+  235 |     extern void* glutBitmapTimesRoman24;
+      |                  [01;35m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:100:27:[m[K [01;36m[Knote: [m[K‘[01m[KglutBitmapTimesRoman24[m[K’ was previously declared here
+  100 | struct freeglutBitmapFont glutBitmapTimesRoman24 ;
+      |                           [01;36m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:100:27:[m[K [01;36m[Knote: [m[Kcode may be misoptimized unless ‘[01m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Optimize-Options.html#index-fstrict-aliasing-fno-strict-aliasing]8;;[m[K’ is used
+[01m[Kthirdparty/freeglut/include/GL/freeglut_std.h:236:18:[m[K [01;35m[Kwarning: [m[Ktype of ‘[01m[KglutBitmapHelvetica10[m[K’ does not match original declaration [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Warning-Options.html#index-Wlto-type-mismatch-Wlto-type-mismatch]8;;[m[K]
+  236 |     extern void* glutBitmapHelvetica10;
+      |                  [01;35m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:101:27:[m[K [01;36m[Knote: [m[K‘[01m[KglutBitmapHelvetica10[m[K’ was previously declared here
+  101 | struct freeglutBitmapFont glutBitmapHelvetica10 ;
+      |                           [01;36m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:101:27:[m[K [01;36m[Knote: [m[Kcode may be misoptimized unless ‘[01m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Optimize-Options.html#index-fstrict-aliasing-fno-strict-aliasing]8;;[m[K’ is used
+[01m[Kthirdparty/freeglut/include/GL/freeglut_std.h:237:18:[m[K [01;35m[Kwarning: [m[Ktype of ‘[01m[KglutBitmapHelvetica12[m[K’ does not match original declaration [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Warning-Options.html#index-Wlto-type-mismatch-Wlto-type-mismatch]8;;[m[K]
+  237 |     extern void* glutBitmapHelvetica12;
+      |                  [01;35m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:102:27:[m[K [01;36m[Knote: [m[K‘[01m[KglutBitmapHelvetica12[m[K’ was previously declared here
+  102 | struct freeglutBitmapFont glutBitmapHelvetica12 ;
+      |                           [01;36m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:102:27:[m[K [01;36m[Knote: [m[Kcode may be misoptimized unless ‘[01m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Optimize-Options.html#index-fstrict-aliasing-fno-strict-aliasing]8;;[m[K’ is used
+[01m[Kthirdparty/freeglut/include/GL/freeglut_std.h:238:18:[m[K [01;35m[Kwarning: [m[Ktype of ‘[01m[KglutBitmapHelvetica18[m[K’ does not match original declaration [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Warning-Options.html#index-Wlto-type-mismatch-Wlto-type-mismatch]8;;[m[K]
+  238 |     extern void* glutBitmapHelvetica18;
+      |                  [01;35m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:103:27:[m[K [01;36m[Knote: [m[K‘[01m[KglutBitmapHelvetica18[m[K’ was previously declared here
+  103 | struct freeglutBitmapFont glutBitmapHelvetica18 ;
+      |                           [01;36m[K^[m[K
+[01m[Kthirdparty/freeglut/src/x11/fg_glutfont_definitions_x11.c:103:27:[m[K [01;36m[Knote: [m[Kcode may be misoptimized unless ‘[01m[K]8;;https://gcc.gnu.org/onlinedocs/gcc-14.1.0/gcc/Optimize-Options.html#index-fstrict-aliasing-fno-strict-aliasing]8;;[m[K’ is used
+make[1]: Leaving directory '/home/heini/.cache/paru/clone/mupdf-git/src/mupdf'
+[1m[32m==>(B[m[1m Entering fakeroot environment...(B[m
+[1m[32m==>(B[m[1m Starting package()...(B[m
+install -d /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/include/mupdf
+install -d /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/include/mupdf/fitz
+install -d /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/include/mupdf/pdf
+install -m 644 include/mupdf/*.h /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/include/mupdf
+install -m 644 include/mupdf/fitz/*.h /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/include/mupdf/fitz
+install -m 644 include/mupdf/pdf/*.h /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/include/mupdf/pdf
+install -d /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/lib
+install -m 644 build/release-archive/libmupdf.a build/release-archive/libmupdf-third.a /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/lib
+install -d /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/bin
+install -m 755  build/release-archive/mutool build/release-archive/muraster build/release-archive/mupdf-gl /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/bin
+install -d /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/share/man/man1
+install -m 644 docs/man/*.1 /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/share/man/man1
+install -d /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/share/doc/mupdf
+install -d /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/share/doc/mupdf/examples
+install -m 644 README CHANGES /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/share/doc/mupdf
+install -m 644 COPYING /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/share/doc/mupdf
+install -m 644 docs/examples/* /home/heini/.cache/paru/clone/mupdf-git/pkg/mupdf-git/usr/share/doc/mupdf/examples
+[1m[32m==>(B[m[1m Tidying install...(B[m
+[1m[34m  ->(B[m[1m Removing libtool files...(B[m
+[1m[34m  ->(B[m[1m Purging unwanted files...(B[m
+[1m[34m  ->(B[m[1m Removing static library files...(B[m
+[1m[34m  ->(B[m[1m Stripping unneeded symbols from binaries and libraries...(B[m
+[1m[34m  ->(B[m[1m Compressing man and info pages...(B[m
+[1m[32m==>(B[m[1m Checking for packaging issues...(B[m
+[1m[32m==>(B[m[1m Creating package "mupdf-git"...(B[m
+[1m[34m  ->(B[m[1m Generating .PKGINFO file...(B[m
+[1m[34m  ->(B[m[1m Generating .BUILDINFO file...(B[m
+[1m[34m  ->(B[m[1m Generating .MTREE file...(B[m
+[1m[34m  ->(B[m[1m Compressing package...(B[m
+[1m[32m==>(B[m[1m Creating package "mupdf-git-debug"...(B[m
+[1m[34m  ->(B[m[1m Generating .PKGINFO file...(B[m
+[1m[34m  ->(B[m[1m Generating .BUILDINFO file...(B[m
+[1m[34m  ->(B[m[1m Generating .MTREE file...(B[m
+[1m[34m  ->(B[m[1m Compressing package...(B[m
+[1m[32m==>(B[m[1m Leaving fakeroot environment.(B[m
+[1m[32m==>(B[m[1m Finished making: mupdf-git 20240531.cefdd83d1-1 (2024-06-01T04:01:45 CEST)(B[m
+[1m[32m==>(B[m[1m Cleaning up...(B[m
+[?25lloading packages...
+resolving dependencies...
+looking for conflicting packages...
+[1;34m::[0;1m mupdf-git-[38;5;243m20240531.cefdd83d1-1[0m and mupdf-gl-[38;5;243m1.24.2-2[0m are in conflict (mupdf). Remove mupdf-gl? [y/N] [0m[?25hY
+[?25l[1;34m::[0;1m mupdf-git-[38;5;243m20240531.cefdd83d1-1[0m and mupdf-tools-[38;5;243m1.24.2-2[0m are in conflict. Remove mupdf-tools? [y/N] [0m[?25hY
+[?25l
+[0;1mPackage (3)[0m  [0;1mOld Version[0m  [0;1mNew Version         [0m  [0;1mNet Change[0m
+
+mupdf-gl     1.24.2-2                            -0,26 MiB
+mupdf-tools  1.24.2-2                            -0,52 MiB
+mupdf-git                 20240531.cefdd83d1-1   14,84 MiB
+
+[0;1mTotal Installed Size:[0m  14,84 MiB
+[0;1mNet Upgrade Size:    [0m  14,06 MiB
+
+[1;34m::[0;1m Proceed with installation? [Y/n] [0m[?25hY
+[?25l(0/1) checking keys in keyring                     [-------------]   0%(1/1) checking keys in keyring                     [#############] 100%
+(0/1) checking package integrity                   [-------------]   0%(1/1) checking package integrity                   [#############] 100%
+(0/1) loading package files                        [-------------]   0%(1/1) loading package files                        [#############] 100%
+(0/1) checking for file conflicts                  [-------------]   0%(1/1) checking for file conflicts                  [#############] 100%
+(0/3) checking available disk space                [-------------]   0%(1/3) checking available disk space                [####---------]  33%(2/3) checking available disk space                [########-----]  66%(3/3) checking available disk space                [#############] 100%
+[1;34m::[0;1m Processing package changes...
+[0m(1/2) removing mupdf-tools                         [-------------]   0%(1/2) removing mupdf-tools                         [-------------]   0%(1/2) removing mupdf-tools                         [#############] 100%
+(2/2) removing mupdf-gl                            [-------------]   0%(2/2) removing mupdf-gl                            [-------------]   0%(2/2) removing mupdf-gl                            [#############] 100%
+(1/1) installing mupdf-git                         [-------------]   0%(1/1) installing mupdf-git                         [-------------]   0%(1/1) installing mupdf-git                         [-------------]   0%(1/1) installing mupdf-git                         [-------------]   0%(1/1) installing mupdf-git                         [-------------]   0%(1/1) installing mupdf-git                         [-------------]   0%(1/1) installing mupdf-git                         [-------------]   0%(1/1) installing mupdf-git                         [#############] 100%
+[1;34m::[0;1m Running post-transaction hooks...
+[0m(1/2) Arming ConditionNeedsUpdate...
+(2/2) Updating the desktop file MIME type cache...
+[?25h
+Script done on 2024-06-01 04:03:46+02:00 [COMMAND_EXIT_CODE="0"]

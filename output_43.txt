@@ -1,0 +1,143 @@
+Script started on 2024-06-01 04:51:09+02:00 [COMMAND="paru selinux" TERM="xterm-kitty" TTY="/dev/pts/4" COLUMNS="145" LINES="37"]
+[35m 1[0m [1;38;5;12mextra[0m/[1mpython-selinux[0m [1;32m0.3.0-3[0m [[1m8.16 KiB 17.06 KiB[0m]
+    Pure-python selinux shim module for use in virtualenvs
+[35m 2[0m [1;38;5;14maur[0m/[1mlibselinux[0m [1;32m3.6-4[0m [[1m+131 ~0.83[0m] [1;36m[Installed][0m
+    SELinux library and simple utilities
+[35m 3[0m [1;38;5;14maur[0m/[1mlibsepol[0m [1;32m3.6-2[0m [[1m+113 ~0.68[0m] [1;36m[Installed][0m
+    SELinux binary policy manipulation library
+[35m 4[0m [1;38;5;14maur[0m/[1mcoreutils-selinux[0m [1;32m9.5-1[0m [[1m+24 ~0.42[0m] [1;36m[Installed][0m
+    The basic file, shell and text manipulation utilities of the GNU operating system with SELinux support
+[35m 5[0m [1;38;5;14maur[0m/[1mpam-selinux[0m [1;32m1.6.1-2[0m [[1m+22 ~0.06[0m] [1;36m[Installed][0m
+    SELinux aware PAM (Pluggable Authentication Modules) library
+[35m 6[0m [1;38;5;14maur[0m/[1mlibsemanage[0m [1;32m3.6-3[0m [[1m+21 ~0.06[0m] [1;36m[Installed][0m
+    SELinux binary policy manipulation library
+[35m 7[0m [1;38;5;14maur[0m/[1mcheckpolicy[0m [1;32m3.6-1[0m [[1m+20 ~0.06[0m]
+    SELinux policy compiler
+[35m 8[0m [1;38;5;14maur[0m/[1mopenssh-selinux[0m [1;32m9.7p1-2[0m [[1m+20 ~0.06[0m]
+    SSH protocol implementation for remote login, command execution and file transfer, with SELinux support
+[35m 9[0m [1;38;5;14maur[0m/[1msetools[0m [1;32m4.5.1-1[0m [[1m+20 ~0.06[0m]
+    Policy analysis tools for SELinux
+[35m10[0m [1;38;5;14maur[0m/[1mcronie-selinux[0m [1;32m1.7.2-1[0m [[1m+19 ~0.06[0m]
+    Daemon that runs specified programs at scheduled times and related tools with SELinux support
+[35m11[0m [1;38;5;14maur[0m/[1mpolicycoreutils[0m [1;32m3.6-1[0m [[1m+19 ~0.06[0m]
+    SELinux policy core utilities
+[35m12[0m [1;38;5;14maur[0m/[1mlogrotate-selinux[0m [1;32m3.21.0-2[0m [[1m+18 ~0.06[0m]
+    Rotates system logs automatically with SELinux support
+[35m13[0m [1;38;5;14maur[0m/[1mpsmisc-selinux[0m [1;32m23.7-1[0m [[1m+18 ~0.06[0m] [1;36m[Installed][0m
+    Miscellaneous procfs tools with SELinux support
+[35m14[0m [1;38;5;14maur[0m/[1msystemd-libs-selinux[0m [1;32m255.6-1[0m [[1m+18 ~0.06[0m]
+    systemd client libraries with SELinux support
+[35m15[0m [1;38;5;14maur[0m/[1msystemd-resolvconf-selinux[0m [1;32m255.6-1[0m [[1m+18 ~0.06[0m]
+    systemd resolvconf replacement with SELinux support (for use with systemd-resolved)
+[35m16[0m [1;38;5;14maur[0m/[1msystemd-selinux[0m [1;32m255.6-1[0m [[1m+18 ~0.06[0m]
+    system and service manager with SELinux support
+[35m17[0m [1;38;5;14maur[0m/[1msystemd-sysvcompat-selinux[0m [1;32m255.6-1[0m [[1m+18 ~0.06[0m]
+    sysvinit compat for systemd with SELinux support
+[35m18[0m [1;38;5;14maur[0m/[1msystemd-ukify-selinux[0m [1;32m255.6-1[0m [[1m+18 ~0.06[0m]
+    Combine kernel and initrd into a signed Unified Kernel Image with SELinux support
+[35m19[0m [1;38;5;14maur[0m/[1mfindutils-selinux[0m [1;32m4.9.0-2[0m [[1m+17 ~0.06[0m]
+    GNU utilities to locate files with SELinux support
+[35m20[0m [1;38;5;14maur[0m/[1mutil-linux-libs-selinux[0m [1;32m2.40.1-1[0m [[1m+17 ~0.06[0m]
+    util-linux-selinux runtime libraries
+[35m21[0m [1;38;5;14maur[0m/[1mutil-linux-selinux[0m [1;32m2.40.1-1[0m [[1m+17 ~0.06[0m]
+    SELinux aware miscellaneous system utilities for Linux
+[35m22[0m [1;38;5;14maur[0m/[1msudo-selinux[0m [1;32m1.9.15.p5-1[0m [[1m+16 ~0.06[0m]
+    Give certain users the ability to run some commands as root - SELinux support
+[35m23[0m [1;38;5;14maur[0m/[1mpambase-selinux[0m [1;32m20230918-1[0m [[1m+15 ~0.06[0m] [1;36m[Installed][0m
+    SELinux aware base PAM configuration for services
+[35m24[0m [1;38;5;14maur[0m/[1msepolgen[0m [1;32m2.6-2[0m [[1m+15 ~0.00[0m]
+    SELinux policy generator
+[35m25[0m [1;38;5;14maur[0m/[1mshadow-selinux[0m [1;32m4.15.1-1[0m [[1m+15 ~0.06[0m] [1;36m[Installed][0m
+    Password and account management tool suite with support for shadow files and PAM - SELinux support
+[35m26[0m [1;38;5;14maur[0m/[1mselinux-refpolicy-src[0m [1;32m20231002-1[0m [[1m+14 ~0.00[0m]
+    SELinux reference policy sources
+[35m27[0m [1;38;5;14maur[0m/[1mdbus-docs-selinux[0m [1;32m1.14.10-2[0m [[1m+13 ~0.06[0m] [1;31m[Out-of-date: 2024-04-30][0m
+    Freedesktop.org message bus system with SELinux support - Documentation
+[35m28[0m [1;38;5;14maur[0m/[1mdbus-selinux[0m [1;32m1.14.10-2[0m [[1m+13 ~0.06[0m] [1;31m[Out-of-date: 2024-04-30][0m
+    Freedesktop.org message bus system with SELinux support
+[35m29[0m [1;38;5;14maur[0m/[1miproute2-selinux[0m [1;32m6.9.0-1[0m [[1m+12 ~0.06[0m]
+    IP Routing Utilities with SELinux support
+[35m30[0m [1;38;5;14maur[0m/[1mselinux-refpolicy-arch[0m [1;32m20231002-1[0m [[1m+11 ~0.06[0m] [1;31m[Out-of-date: 2024-04-30][0m
+    Modular SELinux reference policy including headers and docs with Arch Linux patches
+[35m31[0m [1;38;5;14maur[0m/[1mselinux-alpm-hook[0m [1;32m0.1-4[0m [[1m+8 ~0.06[0m]
+    SELinux ALPM hook
+[35m32[0m [1;38;5;14maur[0m/[1mselinux-python[0m [1;32m3.6-3[0m [[1m+8 ~0.06[0m]
+    SELinux python tools and libraries
+[35m33[0m [1;38;5;14maur[0m/[1mustr-selinux[0m [1;32m1.0.4-4[0m [[1m+7 ~0.00[0m]
+    micro string API for C with patches to make it work with gcc>=5.1
+[35m34[0m [1;38;5;14maur[0m/[1msemodule-utils[0m [1;32m3.6-1[0m [[1m+6 ~0.06[0m]
+    SELinux module tools
+[35m35[0m [1;38;5;14maur[0m/[1msecilc[0m [1;32m3.6-1[0m [[1m+5 ~0.06[0m]
+    SELinux Common Intermediate Language Compiler
+[35m36[0m [1;38;5;14maur[0m/[1mselinux-refpolicy-git[0m [1;32mRELEASE_2_20210908.r29.ge49243a08f4d-1[0m [[1m+5 ~0.07[0m]
+    Modular SELinux reference policy including headers and docs
+[35m37[0m [1;38;5;14maur[0m/[1mmcstrans[0m [1;32m3.6-2[0m [[1m+4 ~0.06[0m]
+    SELinux MCS translation daemon
+[35m38[0m [1;38;5;14maur[0m/[1mrestorecond[0m [1;32m3.6-1[0m [[1m+4 ~0.06[0m]
+    SELinux restorecon daemon
+[35m39[0m [1;38;5;14maur[0m/[1mselinux-dbus-config[0m [1;32m3.6-1[0m [[1m+4 ~0.06[0m]
+    DBus service which allows managing SELinux configuration
+[35m40[0m [1;38;5;14maur[0m/[1mselinux-gui[0m [1;32m3.6-1[0m [[1m+4 ~0.07[0m]
+    SELinux GUI tools
+[35m41[0m [1;38;5;14maur[0m/[1maide-selinux[0m [1;32m0.17.4-2[0m [[1m+3 ~0.00[0m]
+    A file integrity checker and intrusion detection program.
+[35m42[0m [1;38;5;14maur[0m/[1mselinux-sandbox[0m [1;32m3.6-1[0m [[1m+3 ~0.06[0m]
+    sandboxing tool for SELinux
+[35m43[0m [1;38;5;14maur[0m/[1mlxc-selinux[0m [1;32m1:4.0.9-1[0m [[1m+2 ~0.00[0m]
+    Linux Containers
+[35m44[0m [1;38;5;14maur[0m/[1mlibselinux-python2[0m [1;32m3.4-1[0m [[1m+1 ~0.00[0m] [1;31m[Out-of-date: 2024-04-19][0m
+    SELinux library and simple utilities (python 2.x bindings)
+[35m45[0m [1;38;5;14maur[0m/[1mpyxml[0m [1;32m0.8.4-2[0m [[1m+1 ~0.00[0m]
+    Python XML, Dependency for selinux-refpolicy
+[35m46[0m [1;38;5;14maur[0m/[1msetroubleshoot[0m [1;32m3.3.23-1[0m [[1m+1 ~0.00[0m] [1;31m[Out-of-date: 2022-05-30][0m
+    Provides tools to help diagnose SELinux problems - GUI
+[35m47[0m [1;38;5;14maur[0m/[1msetroubleshoot-server[0m [1;32m3.3.23-1[0m [[1m+1 ~0.00[0m] [1;31m[Out-of-date: 2022-05-30][0m
+    SELinux troubleshoot server
+[35m48[0m [1;38;5;14maur[0m/[1mbase-devel-selinux[0m [1;32m1-1[0m [[1m+0 ~0.00[0m]
+    Meta package that substitutes base-devel group with SELinux support
+[35m49[0m [1;38;5;14maur[0m/[1mbase-selinux[0m [1;32m1-1[0m [[1m+0 ~0.00[0m]
+    Minimal packages for Arch Linux installation with SELinux support
+[35m50[0m [1;38;5;14maur[0m/[1mdbus-broker-selinux[0m [1;32m36-2[0m [[1m+0 ~0.00[0m]
+    Linux D-Bus Message Broker with SELinux support
+[35m51[0m [1;38;5;14maur[0m/[1mglib2-selinux[0m [1;32m2.80.2-1[0m [[1m+0 ~0.00[0m]
+    Low level core library
+[35m52[0m [1;38;5;14maur[0m/[1mglib2-selinux-docs[0m [1;32m2.80.2-1[0m [[1m+0 ~0.00[0m]
+    Documentation for GLib
+[35m53[0m [1;38;5;14maur[0m/[1mlibselinux-static[0m [1;32m3.6-1[0m [[1m+0 ~0.00[0m]
+    SELinux library (static version)
+[35m54[0m [1;38;5;14maur[0m/[1moddjob-selinux[0m [1;32m0.34.7-2[0m [[1m+0 ~0.00[0m]
+    A D-Bus service which runs odd jobs on behalf of client applications (with selinux support)
+[35m55[0m [1;38;5;14maur[0m/[1msetroubleshoot-git[0m [1;32m3.3.32.r3.g502d06c-5[0m [[1m+0 ~0.00[0m]
+    Provides tools to help diagnose SELinux problems - GUI
+[35m56[0m [1;38;5;14maur[0m/[1msetroubleshoot-server-git[0m [1;32m3.3.32.r3.g502d06c-5[0m [[1m+0 ~0.00[0m]
+    SELinux troubleshoot server
+[1;34m::[0m [1mPackages to install (eg: 1 2 3, 1-3):[0m
+[1;34m::[0m 1-27 6
+[?25lresolving dependencies...
+looking for conflicting packages...
+
+[0;1mPackage (2)         [0m  [0;1mNew Version[0m  [0;1mNet Change[0m  [0;1mDownload Size[0m
+
+extra/python-distro   1.9.0-2        0,19 MiB       0,04 MiB
+extra/python-selinux  0.3.0-3        0,02 MiB       0,01 MiB
+
+[0;1mTotal Download Size: [0m  0,04 MiB
+[0;1mTotal Installed Size:[0m  0,20 MiB
+
+[1;34m::[0;1m Proceed with installation? [Y/n] [0m[?25h
+[?25l[1;34m::[0;1m Retrieving packages...
+[0m python-distro-1.9.0-2-any
+ Total (0/2)                                                  0,0   B  0,00   B/s 00:00 [--------------------------------------------------]   0%
+[1F python-selinux-0.3.0-3-any
+ Total (0/2)                                                  0,0   B  0,00   B/s 00:00 [--------------------------------------------------]   0%
+[2F python-selinux-0.3.0-3-any                                   0,0   B  0,00   B/s --:-- [--------------------------------------------------]   0%[1E Total (0/2)                                                  0,0   B  0,00   B/s --:-- [--------------------------------------------------]   0%[1F python-distro-1.9.0-2-any                                    0,0   B  0,00   B/s 00:00 [##################################################] 100%[1F python-selinux-0.3.0-3-any                                   8,2 KiB  52,0 KiB/s 00:00 [##################################################] 100%[1E python-distro-1.9.0-2-any                                   15,9 KiB  0,00   B/s --:-- [######################----------------------------]  44% python-distro-1.9.0-2-any                                   36,0 KiB   204 KiB/s 00:00 [##################################################] 100%[1E Total (2/2)                                                 44,2 KiB   228 KiB/s 00:00 [##################################################] 100%
+(0/2) checking keys in keyring                                                          [--------------------------------------------------]   0%(1/2) checking keys in keyring                                                          [#########################-------------------------]  50%(2/2) checking keys in keyring                                                          [##################################################] 100%
+(0/2) checking package integrity                                                        [--------------------------------------------------]   0%(1/2) checking package integrity                                                        [########################################----------]  81%(2/2) checking package integrity                                                        [##################################################] 100%
+(0/2) loading package files                                                             [--------------------------------------------------]   0%(1/2) loading package files                                                             [########################################----------]  81%(2/2) loading package files                                                             [##################################################] 100%
+(0/2) checking for file conflicts                                                       [--------------------------------------------------]   0%(1/2) checking for file conflicts                                                       [#########################-------------------------]  50%(2/2) checking for file conflicts                                                       [##################################################] 100%
+[1;31merror: [0mfailed to commit transaction (conflicting files)
+python-selinux: /usr/lib/python3.12/site-packages/selinux/__init__.py exists in filesystem (owned by libselinux)
+python-selinux: /usr/lib/python3.12/site-packages/selinux/__pycache__/__init__.cpython-312.pyc exists in filesystem (owned by libselinux)
+Errors occurred, no packages were upgraded.
+[?25h
+Script done on 2024-06-01 04:51:52+02:00 [COMMAND_EXIT_CODE="1"]

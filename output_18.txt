@@ -1,0 +1,1621 @@
+Script started on 2024-05-31 15:54:20+02:00 [COMMAND="yay node" TERM="xterm-kitty" TTY="/dev/pts/8" COLUMNS="71" LINES="18"]
+[35m750[0m [1m[34maur[0m[0m/[1mlightmon[0m [36m0.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A lightweight, cross-platform, language-agnostic 'run code on file change' tool, inspired by Nodemon
+[35m749[0m [1m[34maur[0m[0m/[1mderocli-bin[0m [36m0.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    a cli tool to fetch information from a dero rpc node
+[35m748[0m [1m[34maur[0m[0m/[1mflcluster[0m [36m1.0.7-2[0m[1m (+0[0m [1m0.00) [0m
+    Amateur (Ham) Radio program for accessing dxcluster nodes.
+[35m747[0m [1m[34maur[0m[0m/[1mbitcoinxt-only-bigblocks-git[0m [36m20150806.83e0b45-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-12-08)[0m[0m 
+    BitcoinXT headless P2P node with only bigblocks patch
+[35m746[0m [1m[34maur[0m[0m/[1mpython-linode_api4-git[0m [36m1:5.3.0.r1.g1c65238-1[0m[1m (+0[0m [1m0.00) [0m
+    Bindings for the Linode API v4
+[35m745[0m [1m[34maur[0m[0m/[1mwiki-js-git[0m [36mpkgver=v2.5.275-1[0m[1m (+0[0m [1m0.00) [0m
+    Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+[35m744[0m [1m[34maur[0m[0m/[1mmdbook-compress[0m [36m0.2.1-0[0m[1m (+0[0m [1m0.00) [0m
+    An mdBook single PDF generator using pure Rust and some Node.js
+[35m743[0m [1m[34maur[0m[0m/[1mgraal-nodejs-jdk8-bin[0m [36m21.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    GraalVM-based, ployglot-enabled implementation of Node.js, Java 8 version
+[35m742[0m [1m[34maur[0m[0m/[1mimage-scraper-suite-git[0m [36mae73bc8.20240123.11-1[0m[1m (+0[0m [1m0.00) [0m
+    ImageScraperSuite (ISS) is a Node.js script collection for automated image downloading and management.
+[35m741[0m [1m[34maur[0m[0m/[1mlibnode[0m [36m21.7.1-4[0m[1m (+0[0m [1m0.00) [0m
+    Evented I/O for V8 javascript
+[35m740[0m [1m[34maur[0m[0m/[1mfdlog[0m [36m152i-6[0m[1m (+0[0m [1m0.00) [0m
+    Ham Radio - Field Day Logger with networked nodes
+[35m739[0m [1m[34maur[0m[0m/[1mcellframe-node-debug[0m [36m5.2.518-2[0m[1m (+0[0m [1m0.00) [0m
+    Cellframe blockchain node with a powerful SDK
+[35m738[0m [1m[34maur[0m[0m/[1mhs-client[0m [36m0.0.11-1[0m[1m (+0[0m [1m0.00) [0m
+    Handshake daemon node and wallet client
+[35m737[0m [1m[34maur[0m[0m/[1mbitcoincashd[0m [36m26.0.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Bitcoin Cash Node with bitcoincashd, bitcoincash-tx, and bitcoincash-cli
+[35m736[0m [1m[34maur[0m[0m/[1mgraal-nodejs-jdk20-bin[0m [36m23.0.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    GraalVM-based, ployglot-enabled implementation of Node.js, Java 20 version
+[35m735[0m [1m[34maur[0m[0m/[1mmatrix-puppet-hangouts-git[0m [36mr57.b055642-3[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-01-29)[0m[0m 
+    Unmaintained, single user Node.js Hangouts bridge for Matrix-Synapse <1.10.x
+[35m734[0m [1m[34maur[0m[0m/[1mhush3[0m [36m3.10.2-1[0m[1m (+0[0m [1m0.00) [0m
+    HUSH (Privacy Cryptocurrency and Messenger) full node that supports z-addresses
+[35m733[0m [1m[34maur[0m[0m/[1mruby-running-sushi[0m [36m0.5.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-12-01)[0m[0m 
+    Running Sushi, software to keep cookbooks, clients, databags, environments, nodes, roles and users in sync
+[35m732[0m [1m[34maur[0m[0m/[1mgraal-nodejs-jdk19-bin[0m [36m22.3.1-1[0m[1m (+0[0m [1m0.00) [0m
+    GraalVM-based, ployglot-enabled implementation of Node.js, Java 19 version
+[35m731[0m [1m[34maur[0m[0m/[1msatstack-bin[0m [36m0.19.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Use Ledger Live with your Bitcoin full node
+[35m730[0m [1m[34maur[0m[0m/[1mpython-nodepy[0m [36m1.0.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Analysis of initial value ODE solvers
+[35m729[0m [1m[34maur[0m[0m/[1mocaml-ppx_log[0m [36m0.17.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Ppx_sexp_message-like extension nodes for lazily rendering log messages
+[35m728[0m [1m[34maur[0m[0m/[1mhelioslauncher-bin[0m [36m2.2.1-2[0m[1m (+0[0m [1m0.00) [0m
+    Custom launcher for modded minecraft written in Electron and Node.js
+[35m727[0m [1m[34maur[0m[0m/[1mcarto-sql-api[0m [36m1.43.1.r6.c4e6f3c-1[0m[1m (+0[0m [1m0.00) [0m
+    Provides a node.js based API for running SQL queries against CARTO
+[35m726[0m [1m[34maur[0m[0m/[1mosmo-sgsn-git[0m [36m1.11.1.r2.gf2545b1b8-1[0m[1m (+0[0m [1m0.00) [0m
+    Osmocom's Serving GPRS Support Node for 2G and 3G packet-switched mobile networks
+[35m725[0m [1m[34maur[0m[0m/[1mc-lightning-rest[0m [36m0.10.7-1[0m[1m (+0[0m [1m0.00) [0m
+    REST APIs for c-lightning written in Node.js
+[35m724[0m [1m[34maur[0m[0m/[1mcardano-node-bin[0m [36m1.35.4-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-02-24)[0m[0m 
+    The core component that is used to participate in a Cardano decentralised blockchain (binary package).
+[35m723[0m [1m[34maur[0m[0m/[1mquiltix[0m [36m0.5.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A graphical node editor to edit, and author MaterialX based materials of 3D assets
+[35m722[0m [1m[34maur[0m[0m/[1mkde-sdk-nodevel-meta[0m [36m22.12-1[0m[1m (+0[0m [1m0.00) [0m
+    Meta package for KDE SDK applications - nodevel
+[35m721[0m [1m[34maur[0m[0m/[1mosmo-ggsn[0m [36m1.9.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Open Source implementation of a GGSN (Gateway GPRS Support Node)
+[35m720[0m [1m[34maur[0m[0m/[1mosctl[0m [36m0.3.2-1[0m[1m (+0[0m [1m0.00) [0m
+    A CLI for out-of-band management of Kubernetes nodes created by Talos
+[35m719[0m [1m[34maur[0m[0m/[1mzeno[0m [36mr11.e6cf2fd-1[0m[1m (+0[0m [1m0.00) [0m
+    Open-source node system framework for simulation and others
+[35m718[0m [1m[34maur[0m[0m/[1mfresh-node[0m [36m23.08.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Wikimedia tool to create Docker containers for running isolated npm tests
+[35m717[0m [1m[34maur[0m[0m/[1mdiscord-qt[0m [36m0.5.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Discord client powered by Node.JS and Qt Widgets.
+[35m716[0m [1m[34maur[0m[0m/[1mwalt-node[0m [36m6-1[0m[1m (+0[0m [1m0.00) [0m
+    WalT optional software embedded in images
+[35m715[0m [1m[34maur[0m[0m/[1mcncli[0m [36m5.3.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-04-23)[0m[0m 
+    A community-based cardano-node CLI tool
+[35m714[0m [1m[34maur[0m[0m/[1mbitcanna-wallet-bin[0m [36m1.0.3-4[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Full node BitCanna (BCNA) versions of bitcannad, bitcanna-cli, bitcanna-qt, and bitcanna-tx, w/GUI and wallet
+[35m713[0m [1m[34maur[0m[0m/[1mperl-xml-libxml-debugging[0m [36m0.103-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    get debugging information from XML::LibXML nodes
+[35m712[0m [1m[34maur[0m[0m/[1mmevn-cli[0m [36m1.8.2-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Light speed setup for MEVN(Mongo Express Vue Node) Apps
+[35m711[0m [1m[34maur[0m[0m/[1mosmo-ggsn-git[0m [36m1.11.0.r2.g8d97644-1[0m[1m (+0[0m [1m0.00) [0m
+    Open Source implementation of a GGSN (Gateway GPRS Support Node)
+[35m710[0m [1m[34maur[0m[0m/[1mbangin-server-node[0m [36m0.1.1-2[0m[1m (+0[0m [1m0.00) [0m
+    A basic web server around bangin written in Node.js.
+[35m709[0m [1m[34maur[0m[0m/[1mvfox[0m [36m0.5.3-1[0m[1m (+0[0m [1m0.00) [0m
+    A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+[35m708[0m [1m[34maur[0m[0m/[1mgit-good-bin[0m [36m0.1.4-10[0m[1m (+0[0m [1m0.00) [0m
+    Just a simple git client using electron and nodegit, focus on lightweight and performance
+[35m707[0m [1m[34maur[0m[0m/[1mcellframe-node[0m [36m5.2.518-1[0m[1m (+0[0m [1m0.00) [0m
+    Cellframe blockchain node with a powerful SDK
+[35m706[0m [1m[34maur[0m[0m/[1mselvania-launcher-bin[0m [36m2.0.7-1[0m[1m (+0[0m [1m0.00) [0m
+    Custom launcher for modded minecraft written in electron.js and Node.js
+[35m705[0m [1m[34maur[0m[0m/[1mgrinplusplus-bin[0m [36m1.2.8-9[0m[1m (+0[0m [1m0.00) [0m
+    A C++ Grin Node & Wallet For Linux
+[35m704[0m [1m[34maur[0m[0m/[1mqnodeeditor[0m [36m2.1.7-1[0m[1m (+0[0m [1m0.00) [0m
+    Qt-based library aimed at graph-controlled data processing (qv2ray edition)
+[35m703[0m [1m[34maur[0m[0m/[1mknem[0m [36m1.1.4-1[0m[1m (+0[0m [1m0.00) [0m
+    High-Performance Intra-Node MPI Communication
+[35m702[0m [1m[34maur[0m[0m/[1msass-lint[0m [36m1.12.1-1[0m[1m (+0[0m [1m0.00) [0m
+    All Node Sass linter!
+[35m701[0m [1m[34maur[0m[0m/[1mpython-numerai-cli[0m [36m0.1.22-3[0m[1m (+0[0m [1m0.00) [0m
+    A library for helping to deploy a Numer.ai compute node
+[35m700[0m [1m[34maur[0m[0m/[1methoscope-node[0m [36mr1969.g0521648-2[0m[1m (+0[0m [1m0.00) [0m
+    A platform for monitoring animal behaviour in real time from a raspberry pi
+[35m699[0m [1m[34maur[0m[0m/[1mblender-plugin-geometry-script[0m [36m0.1.2-1[0m[1m (+0[0m [1m0.00) [0m
+    A scripting API for Blender's Geometry Nodes
+[35m698[0m [1m[34maur[0m[0m/[1mperl-xml-treepp-xmlpath[0m [36m0.72-1[0m[1m (+0[0m [1m0.00) [0m
+    Similar to XPath, defines a path as an accessor to nodes of an XML::TreePP parsed XML Document.
+[35m697[0m [1m[34maur[0m[0m/[1mosmo-sgsn[0m [36m1.11.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Osmocom's Serving GPRS Support Node for 2G and 3G packet-switched mobile networks
+[35m696[0m [1m[34maur[0m[0m/[1mkde-applications-nogames-nodevel-noedu-meta[0m [36m22.12-1[0m[1m (+0[0m [1m0.00) [0m
+    Meta package for KDE Applications without games
+[35m695[0m [1m[34maur[0m[0m/[1mvfox-bin[0m [36m0.5.3-1[0m[1m (+0[0m [1m0.00) [0m
+    A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+[35m694[0m [1m[34maur[0m[0m/[1mgraal-nodejs-jdk17-bin[0m [36m23.0.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    GraalVM-based, ployglot-enabled implementation of Node.js, Java 17 version
+[35m693[0m [1m[34maur[0m[0m/[1mdroidstar-git[0m [36mr61.7463728-1[0m[1m (+0[0m [1m0.00) [0m
+    This software connects to M17, Fusion (YSF/FCS, DN and VW modes are supported), DMR, P25, NXDN, D-STAR (REF/XRF/DCS) reflectors and AllStar nodes (as an IAX2 client) over UDP.
+[35m692[0m [1m[34maur[0m[0m/[1mswarm-desktop[0m [36m0.37.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Electron Desktop app that helps you easily spin up and manage Swarm node
+[35m691[0m [1m[34maur[0m[0m/[1mpython-pymitter-git[0m [36mv0.3.1.r0.g17acaf0-1[0m[1m (+0[0m [1m0.00) [0m
+    Python port of the extended Node.js EventEmitter 2 approach
+[35m690[0m [1m[34maur[0m[0m/[1msubstratumnode[0m [36m0.4.6-1[0m[1m (+0[0m [1m0.00) [0m
+    SubstratumNode is the foundation of the decentralized SubstratumNetwork. SubstratumNodes work together to relay CORES packages and content on the network.
+[35m689[0m [1m[34maur[0m[0m/[1mgraal-nodejs-jdk11-bin[0m [36m22.3.2-1[0m[1m (+0[0m [1m0.00) [0m
+    GraalVM-based, ployglot-enabled implementation of Node.js, Java 11 version
+[35m688[0m [1m[34maur[0m[0m/[1mamethyst-player-git[0m [36mv1.9.16.r29.g1e8a644-1[0m[1m (+0[0m [1m0.00) [0m
+    Amethyst is an Electron-based cross-platform audio player with a node-based audio routing system.
+[35m687[0m [1m[34maur[0m[0m/[1mzerotier-one-with-controller[0m [36m1.1.14-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2018-01-05)[0m[0m 
+    Creates virtual Ethernet networks of almost unlimited size. controller node version
+[35m686[0m [1m[34maur[0m[0m/[1mdature-cli[0m [36m0.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A Crawler for Sina Blog, Based on Node.js
+[35m685[0m [1m[34maur[0m[0m/[1mcanopenlinux-git[0m [36m4.0.r11.gebcc3c8-2[0m[1m (+0[0m [1m0.00) [0m
+    CANopenNode on Linux devices
+[35m684[0m [1m[34maur[0m[0m/[1mgraal-nodejs-jdk16-bin[0m [36m21.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    GraalVM-based, ployglot-enabled implementation of Node.js, Java 16 version
+[35m683[0m [1m[34maur[0m[0m/[1msubstratumnode-cli[0m [36m0.4.6-1[0m[1m (+0[0m [1m0.00) [0m
+    Command line binary of SubstratumNode. SubstratumNode is the foundation of the decentralized SubstratumNetwork. SubstratumNodes work together to relay CORES packages and content on the network.
+[35m682[0m [1m[34maur[0m[0m/[1msubstratumnode-cli-git[0m [36m0.4.6.r0.g811054ed-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2022-03-24)[0m[0m 
+    Command line binary of SubstratumNode. SubstratumNode is the foundation of the decentralized SubstratumNetwork. SubstratumNodes work together to relay CORES packages and content on the network.
+[35m681[0m [1m[34maur[0m[0m/[1morogene-git[0m [36mr637.472e481-1[0m[1m (+0[0m [1m0.00) [0m
+    A next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects
+[35m680[0m [1m[34maur[0m[0m/[1morogene-bin[0m [36m0.3.27-1[0m[1m (+0[0m [1m0.00) [0m
+    A next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects
+[35m679[0m [1m[34maur[0m[0m/[1morogene[0m [36m0.3.34-1[0m[1m (+0[0m [1m0.00) [0m
+    A next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects
+[35m678[0m [1m[34maur[0m[0m/[1mr-cosnet[0m [36m1.38.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Cost Sensitive Network for node label prediction on graphs with highly unbalanced labelings
+[35m677[0m [1m[34maur[0m[0m/[1mkwok[0m [36m0.1.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-11-29)[0m[0m 
+    Kubernetes WithOut Kubelet - set up a cluster of thousands of (fake) nodes in seconds
+[35m676[0m [1m[34maur[0m[0m/[1mkwok-bin[0m [36m0.5.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.
+[35m675[0m [1m[34maur[0m[0m/[1mr-influencer[0m [36m0.1.5-1[0m[1m (+0[0m [1m0.00) [0m
+    Software Tools to Quantify Structural Importance of Nodes in a Network
+[35m674[0m [1m[34maur[0m[0m/[1melectron-widgets-git[0m [36m2.1.0.r0.gec8d3e9-1[0m[1m (+0[0m [1m0.00) [0m
+    A desktop application developed using Electron.js and Node.js. The application allows users to create and manage widgets on their desktops.
+[35m673[0m [1m[34maur[0m[0m/[1mlinode-dynamic-dns[0m [36m0.6.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Update Linode DNS records to point to local IPv4 and IPv6 addresses.
+[35m672[0m [1m[34maur[0m[0m/[1mgin-cli[0m [36m1.12-1[0m[1m (+0[0m [1m0.00) [0m
+    Command line client for the G-Node Infrastructure (GIN) services
+[35m671[0m [1m[34maur[0m[0m/[1mopencomic[0m [36m1.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Comic and Manga reader, written with Node.js and using Electron
+[35m670[0m [1m[34maur[0m[0m/[1mcellframe-dashboard[0m [36m2.14.17-1[0m[1m (+0[0m [1m0.00) [0m
+    Super application for managing Cellframe node
+[35m669[0m [1m[34maur[0m[0m/[1mgpk-git[0m [36m2.0.4-1[0m[1m (+0[0m [1m0.00) [0m
+    A decentralized and secure package manager for nodejs.
+[35m668[0m [1m[34maur[0m[0m/[1moicq[0m [36m2.1.9-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2022-04-07)[0m[0m 
+    Tecent chat bot in nodejs
+[35m667[0m [1m[34maur[0m[0m/[1mtdarr[0m [36m2.17.01-1[0m[1m (+1[0m [1m0.02) [0m
+    Transcoding application for processing media libraries. Server + Node
+[35m666[0m [1m[34maur[0m[0m/[1mthunderhub[0m [36m0.13.16-2[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Lightning Node Manager
+[35m665[0m [1m[34maur[0m[0m/[1mperl-data-treedumper-renderer-gtk[0m [36m0.02-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-25)[0m[0m 
+    This Gtk2::TreeView derived widget allows you to diplay a Data::TreeDumper generated dump in a GTK window. The nodes are collapsable.
+[35m664[0m [1m[34maur[0m[0m/[1mskywire[0m [36m1.3.21-1[0m[1m (+1[0m [1m0.00) [0m
+    Skywire node implementation + deployment services, service discovery, & dmsg utilities. Skycoin.com
+[35m663[0m [1m[34maur[0m[0m/[1mreadability-extractor-git[0m [36mr7.0098f14-2[0m[1m (+1[0m [1m0.00) [0m
+    Wrapper around mozilla/readability to keep archivebox free from nodejs
+[35m662[0m [1m[34maur[0m[0m/[1mfaraday-bin[0m [36m0.2.11_alpha-1[0m[1m (+1[0m [1m0.00) [0m
+    Faraday is a suite of tools built to help node operators and businesses run lnd, the leading implementation of the Lightning Network.
+[35m661[0m [1m[34maur[0m[0m/[1mgtknodes-git[0m [36m0.1-9[0m[1m (+1[0m [1m0.00) [0m
+    A GTK-based library to create functional flow graphs with the ability to pass arbitrary data between connected elements.
+[35m660[0m [1m[34maur[0m[0m/[1mci-node-modules[0m [36m1.1.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Clean install node_modules using the appropriate installation command
+[35m659[0m [1m[34maur[0m[0m/[1mbitcoin-cash-node[0m [36m27.0.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Bitcoin Cash Node with bitcoind, bitcoin-tx, bitcoin-seeder and bitcoin-cli
+[35m658[0m [1m[34maur[0m[0m/[1mveilid-git[0m [36m0.2.5.r13.g7d1b789-1[0m[1m (+1[0m [1m0.01) [0m
+    Veilid headless node
+[35m657[0m [1m[34maur[0m[0m/[1mdiscord-qt-appimage[0m [36m0.5.1-1[0m[1m (+1[0m [1m0.00) [0m
+    Discord client powered by Node.JS and Qt Widgets.
+[35m656[0m [1m[34maur[0m[0m/[1mplotframes[0m [36m2.0.2-2[0m[1m (+1[0m [1m0.00) [0m
+    A Node.js frame plotter inspired by FFmpeg plotframes
+[35m655[0m [1m[34maur[0m[0m/[1maptos-bin[0m [36m1.0.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    The aptos tool is a command line interface (CLI) for debugging, development, and node operations
+[35m654[0m [1m[34maur[0m[0m/[1mleafnode[0m [36m1.12.0-1[0m[1m (+1[0m [1m0.00) [0m
+    implements a store & forward NNTP proxy (client and server) with IPv4 and IPv6
+[35m653[0m [1m[34maur[0m[0m/[1mthingweb.node-wot[0m [36m0.7.7-1[0m[1m (+1[0m [1m0.00) [0m
+    W3C Web of Things implementation on NodeJS.
+[35m652[0m [1m[34maur[0m[0m/[1mpktd[0m [36m1.6.1-1[0m[1m (+1[0m [1m0.00) [0m
+    The PKT full node and wallet (Github binary release)
+[35m651[0m [1m[34maur[0m[0m/[1mpro-bitcoin-git[0m [36mv24.0.1.1.r0.g9353e8ad0-1[0m[1m (+1[0m [1m0.00) [0m
+    Prometheus enabled bitcoin node
+[35m650[0m [1m[34maur[0m[0m/[1mderper[0m [36m1.66.4-1[0m[1m (+1[0m [1m0.14) [0m
+    Tailscale runs DERP relay servers to help connect your nodes.
+[35m649[0m [1m[34maur[0m[0m/[1mvscode-node-debug2[0m [36m1.43.0-1[0m[1m (+1[0m [1m0.00) [0m
+    A VS Code debug adapter that supports debugging Node via the Chrome Debugging Protocol.
+[35m648[0m [1m[34maur[0m[0m/[1mopen-stage-control-node[0m [36m1.6.0-1[0m[1m (+1[0m [1m0.00) [0m
+    A libre desktop OSC bi-directional control surface application (node-only package)
+[35m647[0m [1m[34maur[0m[0m/[1meks-node-viewer-bin[0m [36m0.6.0-1[0m[1m (+1[0m [1m0.07) [0m
+    A tool to visualize dynamic node usage within an AWS EKS Kubernetes cluster
+[35m646[0m [1m[34maur[0m[0m/[1mhush3-bin[0m [36m3.10.2-1[0m[1m (+1[0m [1m0.00) [0m
+    HUSH (Privacy Cryptocurrency and Messenger) full node that supports z-addresses
+[35m645[0m [1m[34maur[0m[0m/[1mperl-webservice-linode[0m [36m0.28-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-11-16)[0m[0m 
+    Perl Interface to the Linode.com API
+[35m644[0m [1m[34maur[0m[0m/[1mrtl-git[0m [36mv0.12.3.r0.f84719e2-19[0m[1m (+1[0m [1m0.00) [0m
+    RTL is a full function, device agnostic, web user interface to help manage lightning node operations.
+[35m643[0m [1m[34maur[0m[0m/[1mfrp-panel[0m [36m0.0.30-1[0m[1m (+1[0m [1m0.08) [0m
+    A multi node frp webui and for frp server and client management
+[35m642[0m [1m[34maur[0m[0m/[1mdashlane-cli-git[0m [36mv1.15.1.r0.g8368d87-68[0m[1m (+1[0m [1m0.04) [0m
+    Dashlane CLI GitHub repository version bundled with asdf-vm to ensure using the correct node version.
+[35m641[0m [1m[34maur[0m[0m/[1mzephyr-node-bin[0m [36m1.0.4-1[0m[1m (+1[0m [1m0.16) [0m
+    This package provides the Zephyr protocol node software and a cli wallet.
+[35m640[0m [1m[34maur[0m[0m/[1mbee-git[0m [36m0.2.1.r0.g1fbe96ab-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-05-08)[0m[0m 
+    A framework for IOTA nodes, clients and applications in Rust
+[35m639[0m [1m[34maur[0m[0m/[1malgorand-bin[0m [36m3.22.0-1[0m[1m (+1[0m [1m0.01) [0m
+    Implementation of the Algorand protocol and node software
+[35m638[0m [1m[34maur[0m[0m/[1midena-go-git[0m [36mv0.4.0.r258.gab3ae34-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    The idena-go node for the Idena network
+[35m637[0m [1m[34maur[0m[0m/[1mgraphite-editor-git[0m [36mr1409.46a9fc0-1[0m[1m (+1[0m [1m0.49) [0m
+    2D raster & vector editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow
+[35m636[0m [1m[34maur[0m[0m/[1mogar-git[0m [36mgit-4[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-13)[0m[0m 
+    An open source Agar.io server implementation, written with Node.js.
+[35m635[0m [1m[34maur[0m[0m/[1mergo-node[0m [36m4.0.104-1[0m[1m (+1[0m [1m0.00) [0m
+    Reference implementation of the Ergo protocol. Ergo is a smart contract platform and cryptocurrency. This package provides a Systemd service and a script that runs Ergo node using Xdg base dirs.
+[35m634[0m [1m[34maur[0m[0m/[1mpuppet-bolt-git[0m [36m1.48.0.r21.g9064dbe6-1[0m[1m (+1[0m [1m0.00) [0m
+    Bolt is an orchestration tool that automates remote nodes with SSH or WinRM
+[35m633[0m [1m[34maur[0m[0m/[1mpanoply-nodesktop[0m [36m4.10.5-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-04)[0m[0m 
+    NetCDF, HDF and GRIB Data Viewer by NASA GISS (no freedesktop.org support)
+[35m632[0m [1m[34maur[0m[0m/[1mocaml-ppx_assert[0m [36m1:0.17.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Assert-like extension nodes that raise useful errors on failure
+[35m631[0m [1m[34maur[0m[0m/[1mfish-nvm-git[0m [36m2.2.0.r0.g3b99c85-3[0m[1m (+0[0m [1m0.00) [0m
+    Node.js version manager lovingly made for Fish (master branch)
+[35m630[0m [1m[34maur[0m[0m/[1mtinc-boot-bin[0m [36m0.1.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Bootstrap your Tinc node quickly and easy
+[35m629[0m [1m[34maur[0m[0m/[1mtinc-boot-git[0m [36m1:54.c55df72-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2021-04-03)[0m[0m 
+    Bootstrap your Tinc node quickly and easy
+[35m628[0m [1m[34maur[0m[0m/[1mros2-humble-nav2-lifecycle-manager[0m [36m1.1.7-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A controller/manager for the lifecycle nodes of the Navigation 2 system
+[35m627[0m [1m[34maur[0m[0m/[1mros2-humble-moveit-ros-move-group[0m [36m2.5.4-4[0m[1m (+0[0m [1m0.00) [0m
+    The move_group node for MoveIt
+[35m626[0m [1m[34maur[0m[0m/[1mros2-humble-teleop-twist-keyboard[0m [36m2.3.2-4[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A robot-agnostic teleoperation node to convert keyboard commands to Twist messages
+[35m625[0m [1m[34maur[0m[0m/[1mros-noetic-hector-imu-attitude-to-tf[0m [36m0.5.2-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - hector_imu_attitude_to_tf is a lightweight node that can be used to publish the roll/pitch attitude angles reported via a imu message to tf.
+[35m624[0m [1m[34maur[0m[0m/[1meslint-plugin-node[0m [36m11.1.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Additional ESLint rules for Node.js
+[35m623[0m [1m[34maur[0m[0m/[1mmonodevelop-versioncontrol-bin[0m [36m7.8.4-1[0m[1m (+0[0m [1m0.00) [0m
+    VersionControl addins compatible with the monodevelop-bin package
+[35m622[0m [1m[34maur[0m[0m/[1mminetest-mod-scifi_nodes-git[0m [36m42.83a1a8c-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-07-29)[0m[0m 
+    D00Med's sci-fi node collection
+[35m621[0m [1m[34maur[0m[0m/[1mdocker-machine-driver-linode[0m [36m0.0.12-1[0m[1m (+0[0m [1m0.00) [0m
+    Linode driver for Docker Machine
+[35m620[0m [1m[34maur[0m[0m/[1mros-noetic-dynamic-reconfigure[0m [36m1.7.3-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-16)[0m[0m 
+    ROS - This unary stack contains the dynamic_reconfigure package which provides a means to change node parameters at any time without having to restart the node.
+[35m619[0m [1m[34maur[0m[0m/[1mtailwindcss-bin[0m [36m3.4.3-1[0m[1m (+2[0m [1m0.78) [0m
+    Standalone Tailwind CLI without dependency on Node.js
+[35m618[0m [1m[34maur[0m[0m/[1msnm[0m [36m0.8.0-1[0m[1m (+2[0m [1m0.00) [0m
+    Smol and simple node version manager
+[35m617[0m [1m[34maur[0m[0m/[1mzennode[0m [36m1.2.1-8[0m[1m (+2[0m [1m0.01) [0m
+    A node builder for Doom WAD files
+[35m616[0m [1m[34maur[0m[0m/[1mbcoin-git[0m [36m1.0.2.50.g8630a8ee-1[0m[1m (+2[0m [1m0.00) [0m
+    An alternative implementation of the bitcoin protocol, written in node.js.
+[35m615[0m [1m[34maur[0m[0m/[1mzecwallet[0m [36m0.8.1-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2020-03-19)[0m[0m 
+    A z-Addr first full node and UI wallet for zcash
+[35m614[0m [1m[34maur[0m[0m/[1mbtcd[0m [36m0.24.0-1[0m[1m (+2[0m [1m0.00) [0m
+    An alternative full node Bitcoin implementation written in Go
+[35m613[0m [1m[34maur[0m[0m/[1mbcash-git[0m [36m1.0.2.4.g28cf1ef8-1[0m[1m (+2[0m [1m0.00) [0m
+    An alternative implementation of the Bitcoin Cash protocol, written in node.js.
+[35m612[0m [1m[34maur[0m[0m/[1mbitcoin-cash-node-qt[0m [36m27.0.0-1[0m[1m (+2[0m [1m0.00) [0m
+    Bitcoin Cash Node with bitcoind, bitcoin-cli, bitcoin-tx, bitcoin-seeder and bitcoin-qt
+[35m611[0m [1m[34maur[0m[0m/[1mweb3j[0m [36m4.5.4-1[0m[1m (+2[0m [1m0.00) [0m
+    A lightweight, reactive, type safe Java and Android library for integrating with nodes on Ethereum blockchains
+[35m610[0m [1m[34maur[0m[0m/[1mpython-linode_api4[0m [36m5.11-1[0m[1m (+2[0m [1m0.00) [0m
+    Bindings for the Linode API v4
+[35m609[0m [1m[34maur[0m[0m/[1mfienode-git[0m [36m1.0.r9.g57ab25b-1[0m[1m (+2[0m [1m0.05) [0m
+    Discover identical CoW copies, analogous to an inode
+[35m608[0m [1m[34maur[0m[0m/[1mfusion-render-node[0m [36m18.5-1[0m[1m (+2[0m [1m0.02) [0m
+    GPU accelerated 2D and 3D compositing and motion graphics software. Requires USB activation dongle.
+[35m607[0m [1m[34maur[0m[0m/[1mros-noetic-nodelet-topic-tools[0m [36m1.10.2-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-16)[0m[0m 
+    ROS - This package contains common nodelet tools such as a mux, demux and throttle.
+[35m606[0m [1m[34maur[0m[0m/[1mros-melodic-turtlebot3-fake[0m [36m1.3.1-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - Package for TurtleBot3 fake node. With this package, simple tests can be done without a robot. You can do simple tests using this package on rviz without real robots.
+[35m605[0m [1m[34maur[0m[0m/[1mros-melodic-video-stream-opencv[0m [36m1.1.6-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - node to publish a video stream in ROS image topics
+[35m604[0m [1m[34maur[0m[0m/[1mr-genomicinteractionnodes[0m [36m1.8.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A R/Bioconductor package to detect the interaction nodes from HiC/HiChIP/HiCAR data
+[35m603[0m [1m[34maur[0m[0m/[1mros-noetic-franka-control[0m [36m0.9.0-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-07-19)[0m[0m 
+    franka_control provides a hardware node to control a Franka Emika research robot
+[35m602[0m [1m[34maur[0m[0m/[1mros-melodic-depth-image-proc[0m [36m1.15.0-4[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - Contains nodelets for processing depth images such as those produced by OpenNI camera.
+[35m601[0m [1m[34maur[0m[0m/[1mros-noetic-video-stream-opencv[0m [36m1.1.6-2[0m[1m (+0[0m [1m0.00) [0m
+    ROS - node to publish a video stream in ROS image topics.
+[35m600[0m [1m[34maur[0m[0m/[1mros-noetic-turtlebot3-fake[0m [36m1.3.2-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - Package for TurtleBot3 fake node. With this package, simple tests can be done without a robot. You can do simple tests using this package on rviz without real robots.
+[35m599[0m [1m[34maur[0m[0m/[1mros-melodic-socketcan-bridge[0m [36m0.8.5-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Conversion nodes for messages from SocketCAN to a ROS Topic and vice versa.
+[35m598[0m [1m[34maur[0m[0m/[1mros-melodic-moveit-ros-move-group[0m [36m1.0.8-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-09-06)[0m[0m 
+    ROS - The move_group node for MoveIt.
+[35m597[0m [1m[34maur[0m[0m/[1mros-melodic-fake-localization[0m [36m1.16.7-3[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - A ROS node that simply forwards odometry information.
+[35m596[0m [1m[34maur[0m[0m/[1mros-noetic-depth-image-proc[0m [36m1.17.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-16)[0m[0m 
+    ROS - Contains nodelets for processing depth images such as those produced by OpenNI camera.
+[35m595[0m [1m[34maur[0m[0m/[1mros-noetic-rqt-logger-level[0m [36m0.4.11-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-17)[0m[0m 
+    ROS - rqt_logger_level provides a GUI plugin for configuring the logger level of ROS nodes.
+[35m594[0m [1m[34maur[0m[0m/[1mros-melodic-laser-assembler[0m [36m1.7.7-6[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - Provides nodes to assemble point clouds from either LaserScan or PointCloud messages.
+[35m593[0m [1m[34maur[0m[0m/[1mros-melodic-image-publisher[0m [36m1.15.0-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - Contains a node publish an image stream from single image file or avi motion file.
+[35m592[0m [1m[34maur[0m[0m/[1mros-melodic-octomap-server[0m [36m0.6.5-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - This library loads a 3D map (as Octree-based OctoMap) and distributes it to other nodes in a compact binary format
+[35m591[0m [1m[34maur[0m[0m/[1mros-noetic-moveit-ros-move-group[0m [36m1.1.13-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - The move_group node for MoveIt.
+[35m590[0m [1m[34maur[0m[0m/[1mpython-nodegraphqt[0m [36m0.6.35-1[0m[1m (+0[0m [1m0.00) [0m
+    Node graph framework for PySide2/PyQt5
+[35m589[0m [1m[34maur[0m[0m/[1mros-noetic-hector-geotiff[0m [36m0.5.2-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - hector_geotiff provides a node that can be used to save occupancy grid map, robot trajectory and object of interest data to RoboCup Rescue compliant GeoTiff images.
+[35m588[0m [1m[34maur[0m[0m/[1mros-noetic-nodelet-tutorial-math[0m [36m0.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - Package for Nodelet tutorial.
+[35m587[0m [1m[34maur[0m[0m/[1mros-noetic-laser-assembler[0m [36m1.7.8-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - Provides nodes to assemble point clouds from either LaserScan or PointCloud messages.
+[35m586[0m [1m[34maur[0m[0m/[1mros-melodic-polled-camera[0m [36m1.11.13-4[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - polled_camera contains a service and C++ helper classes for implementing a polled camera driver node and requesting images from it.
+[35m585[0m [1m[34maur[0m[0m/[1mros-noetic-image-publisher[0m [36m1.16.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-16)[0m[0m 
+    ROS - Contains a node publish an image stream from single image file or avi motion file.
+[35m584[0m [1m[34maur[0m[0m/[1mros-melodic-franka-control[0m [36m0.7.1-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - franka_control provides a hardware node to control a Franka Emika research robot.
+[35m583[0m [1m[34maur[0m[0m/[1mros-noetic-octomap-server[0m [36m0.6.5-2[0m[1m (+0[0m [1m0.00) [0m
+    ROS - This library loads a 3D map (as Octree-based OctoMap) and distributes it to other nodes in a compact binary format
+[35m582[0m [1m[34maur[0m[0m/[1mnethermind-ethereum-bin[0m [36m1.26.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A robust execution client for Ethereum node operators. Binary distribution.
+[35m581[0m [1m[34maur[0m[0m/[1moctez-smart-rollup-node[0m [36m20.0-4[0m[1m (+0[0m [1m0.00) [0m
+    Unofficial binary release for the octez-smart-rollup-node from Octez
+[35m580[0m [1m[34maur[0m[0m/[1mros2-humble-octomap-server[0m [36m2.0.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Loads a 3D map (as Octree-based OctoMap) and distributes it to other nodes.
+[35m579[0m [1m[34maur[0m[0m/[1mros-melodic-image-rotate[0m [36m1.15.0-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - Contains a node that rotates an image stream in a way that minimizes the angle between a vector in some arbitrary frame and a vector in the camera frame.
+[35m578[0m [1m[34maur[0m[0m/[1mros-melodic-swri-nodelet[0m [36m2.14.2-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - This package provides a simple script to write simple launch files that can easily switch between running nodelets together or as standalone nodes.
+[35m577[0m [1m[34maur[0m[0m/[1mros-noetic-polled-camera[0m [36m1.12.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-17)[0m[0m 
+    ROS - polled_camera contains a service and C++ helper classes for implementing a polled camera driver node and requesting images from it.
+[35m576[0m [1m[34maur[0m[0m/[1mpeerflix-server-git[0m [36m247.f4d7aff-1[0m[1m (+2[0m [1m0.00) [0m
+    Streaming torrent client for node.js with web ui
+[35m575[0m [1m[34maur[0m[0m/[1mros-melodic-spacenav-node[0m [36m1.14.0-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - ROS interface to the 3Dconnexion SpaceNavigator 6DOF joystick.
+[35m574[0m [1m[34maur[0m[0m/[1mros-melodic-rgbd-launch[0m [36m2.2.2-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-09-06)[0m[0m 
+    ROS - Launch files to open an RGBD device and load all nodelets to convert raw depth/RGB/IR streams to depth images, disparity images, and (registered) point clouds.
+[35m573[0m [1m[34maur[0m[0m/[1mros-noetic-image-rotate[0m [36m1.16.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-16)[0m[0m 
+    ROS - Contains a node that rotates an image stream in a way that minimizes the angle between a vector in some arbitrary frame and a vector in the camera frame.
+[35m572[0m [1m[34maur[0m[0m/[1mluvit[0m [36m2.18.1-1[0m[1m (+1[0m [1m0.00) [0m
+    node.js style APIs for luvi as either a luvi app or library.
+[35m571[0m [1m[34maur[0m[0m/[1mros-melodic-opencv-apps[0m [36m2.0.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - opencv_apps provides various nodes that run internally OpenCVs functionalities and publish the result as ROS topics.
+[35m570[0m [1m[34maur[0m[0m/[1mros-melodic-pr2-machine[0m [36m1.12.4-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - This package contains the xxx.machine files that describe the different hosts a node can be spawned on.
+[35m569[0m [1m[34maur[0m[0m/[1mros-noetic-spacenav-node[0m [36m1.15.0-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - ROS interface to the 3Dconnexion SpaceNavigator 6DOF joystick.
+[35m568[0m [1m[34maur[0m[0m/[1mconcordium-client-bin[0m [36m1.0.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A command-line client to interact with a Concordium node
+[35m567[0m [1m[34maur[0m[0m/[1mcom.yunkanpan.numnode[0m [36m1.2.3.1-1[0m[1m (+0[0m [1m0.00) [0m
+    欢迎使用云看盘软件
+[35m566[0m [1m[34maur[0m[0m/[1mros-noetic-rgbd-launch[0m [36m2.2.2-3[0m[1m (+0[0m [1m0.00) [0m
+    ROS - Launch files to open an RGBD device and load all nodelets to convert raw depth/RGB/IR streams to depth images, disparity images, and (registered) point clouds.
+[35m565[0m [1m[34maur[0m[0m/[1moasis-node[0m [36m23.0.9-1[0m[1m (+0[0m [1m0.00) [0m
+    Node for Oasis Network blockchain
+[35m564[0m [1m[34maur[0m[0m/[1mros-melodic-global-planner[0m [36m1.16.7-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - A path planner library and node.
+[35m563[0m [1m[34maur[0m[0m/[1mros-noetic-pr2-machine[0m [36m1.12.4-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - This package contains the xxx.machine files that describe the different hosts a node can be spawned on.
+[35m562[0m [1m[34maur[0m[0m/[1mros-melodic-sound-play[0m [36m0.3.11-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - sound_play provides a ROS node that translates commands on a ROS topic (robotsound) into sounds.
+[35m561[0m [1m[34maur[0m[0m/[1miptv-checker[0m [36m0.28.0-1[0m[1m (+1[0m [1m0.75) [0m
+    Node.js CLI tool for checking links in IPTV playlists
+[35m560[0m [1m[34maur[0m[0m/[1mros-melodic-mavros-extras[0m [36m1.8.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - Extra nodes and plugins for MAVROS.
+[35m559[0m [1m[34maur[0m[0m/[1mros-melodic-map-server[0m [36m1.16.7-3[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - map_server provides the map_server ROS Node, which offers map data as a ROS Service.
+[35m558[0m [1m[34maur[0m[0m/[1mros-noetic-mavros-extras[0m [36m1.17.0-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - Extra nodes and plugins for MAVROS.
+[35m557[0m [1m[34maur[0m[0m/[1mstellar-core-git[0m [36mv13.2.0.67.g670982dc-1[0m[1m (+2[0m [1m0.00) [0m
+    core daemon for full nodes in the Stellar payment network
+[35m556[0m [1m[34maur[0m[0m/[1mros-noetic-sound-play[0m [36m0.3.11-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - sound_play provides a ROS node that translates commands on a ROS topic (robotsound) into sounds.
+[35m555[0m [1m[34maur[0m[0m/[1mros-noetic-map-server[0m [36m1.16.2-3[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-17)[0m[0m 
+    ROS - map_server provides the map_server ROS Node, which offers map data as a ROS Service.
+[35m554[0m [1m[34maur[0m[0m/[1mandroid-toolkit-bin[0m [36m1.5.21-1[0m[1m (+0[0m [1m0.00) [0m
+    A cross platform desktop app written in Typescript/Node using React and Electron.A GUI for adb and can be used to modify android devices such as firesticks and google TVs.
+[35m553[0m [1m[34maur[0m[0m/[1mandroid-toolkit-git[0m [36m1.5.23.r0.ge23050c-1[0m[1m (+0[0m [1m0.00) [0m
+    A cross platform desktop app written in Typescript/Node using React and Electron.A GUI for adb and can be used to modify android devices such as firesticks and google TVs.
+[35m552[0m [1m[34maur[0m[0m/[1mscanservjs[0m [36m3.0.3-2[0m[1m (+2[0m [1m0.02) [0m
+    SANE scanner nodejs web ui
+[35m551[0m [1m[34maur[0m[0m/[1mros-melodic-audio-play[0m [36m0.3.11-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - Outputs audio to a speaker from a source node.
+[35m550[0m [1m[34maur[0m[0m/[1mlibaxon-bin[0m [36m1.0.2-6[0m[1m (+0[0m [1m0.00) [0m
+    Nodejs backend for purple-oicq
+[35m549[0m [1m[34maur[0m[0m/[1msubnode-git[0m [36m1.1.15.5.gf0f649d-1[0m[1m (+1[0m [1m0.00) [0m
+    Node app to download subtitles for you TV Shows
+[35m548[0m [1m[34maur[0m[0m/[1mconcordium-mainnet-node-bin[0m [36m4.1.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Concordium Mainnet Node
+[35m547[0m [1m[34maur[0m[0m/[1mspiffy-git[0m [36m20150818.r11.3b66e66-1[0m[1m (+3[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-12-08)[0m[0m 
+    spiffy builds a binary spiffs image for you to write_flash to a esp8266 runing nodemcu so you can get all the files onto your cool IoT device in one fell swoop. (git-version)
+[35m546[0m [1m[34maur[0m[0m/[1mrevanced-builder[0m [36m3.9.3-1[0m[1m (+3[0m [1m0.00) [0m
+    A NodeJS ReVanced builder
+[35m545[0m [1m[34maur[0m[0m/[1mdecrediton[0m [36m2.0.1-1[0m[1m (+3[0m [1m0.00) [0m
+    Decrediton is a cross-platform GUI for decred written in node.js using Electron.
+[35m544[0m [1m[34maur[0m[0m/[1mmysterium-node[0m [36m1.22.1-1[0m[1m (+3[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-05-03)[0m[0m 
+    Mysterium Node for decentralised VPN Network
+[35m543[0m [1m[34maur[0m[0m/[1mglbsp[0m [36m2.24-5[0m[1m (+3[0m [1m0.00) [0m
+    A node builder for OpenGL-based Doom ports
+[35m542[0m [1m[34maur[0m[0m/[1mros-melodic-wiimote[0m [36m1.14.0-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - The wiimote package allows ROS nodes to communicate with a Nintendo Wiimote and its related peripherals, including the Nunchuk, Motion Plus, and (experimentally) the Classic.
+[35m541[0m [1m[34maur[0m[0m/[1mnginx-mainline-mod-passenger[0m [36m6.0.7-1[0m[1m (+1[0m [1m0.00) [0m
+    Fast and robust web server and application server for Ruby, Python and Node.js (module for mainline nginx)
+[35m540[0m [1m[34maur[0m[0m/[1mros-noetic-ros-comm[0m [36m1.16.0-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - ROS communications-related packages, including core client libraries (roscpp, rospy) and graph introspection tools (rostopic, rosnode, rosservice, rosparam).
+[35m539[0m [1m[34maur[0m[0m/[1mros-noetic-audio-play[0m [36m0.3.11-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - Outputs audio to a speaker from a source node.
+[35m538[0m [1m[34maur[0m[0m/[1mros-noetic-ros-base[0m [36m1.5.0-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - A metapackage which extends ros_core and includes other basic non-robot tools like actionlib, dynamic reconfigure, nodelets, and pluginlib.
+[35m537[0m [1m[34maur[0m[0m/[1msafe-mail-tutorial[0m [36m0.4.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A tutorial app showcasing how to use the low level API from safe_app_nodejs library to build a simple email application.
+[35m536[0m [1m[34maur[0m[0m/[1myoutube-dl-gui-bin[0m [36m2.5.4-1[0m[1m (+0[0m [1m0.00) [0m
+    A cross-platform GUI for youtube-dl made in Electron and node.js (binary release)
+[35m535[0m [1m[34maur[0m[0m/[1mros-noetic-nodelet-core[0m [36m1.10.2-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-16)[0m[0m 
+    ROS - Nodelet Core Metapackage.
+[35m534[0m [1m[34maur[0m[0m/[1mros-noetic-imu-transformer[0m [36m0.3.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-03-16)[0m[0m 
+    Node/nodelet combination to transform sensor_msgs::Imu data from one frame into another.
+[35m533[0m [1m[34maur[0m[0m/[1mros-noetic-gennodejs[0m [36m2.0.1-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - Javascript ROS message and service generators.
+[35m532[0m [1m[34maur[0m[0m/[1mros-noetic-wiimote[0m [36m1.13.0-3[0m[1m (+0[0m [1m0.00) [0m
+    ROS - The wiimote package allows ROS nodes to communicate with a Nintendo Wiimote and its related peripherals, including the Nunchuk, Motion Plus, and (experimentally) the Classic.
+[35m531[0m [1m[34maur[0m[0m/[1myoutube-tui-nodefaults-bin[0m [36m0.6.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-02-01)[0m[0m 
+    An aesthetically pleasing TUI frontend to browsing YouTube written in Rust. (Binary)
+[35m530[0m [1m[34maur[0m[0m/[1mminetest-mod-meshnodes-git[0m [36m30.5901137-1[0m[1m (+1[0m [1m0.00) [0m
+    Meshnodes is a Minetest-mod that transforms ordinary minetest nodes into a connected array of replica entities to which players can attach to and manoeuvre.
+[35m529[0m [1m[34maur[0m[0m/[1mros-noetic-nodelet[0m [36m1.10.2-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-16)[0m[0m 
+    ROS - The nodelet package is designed to provide a way to run multiple algorithms in the same process with zero copy transport between algorithms.
+[35m528[0m [1m[34maur[0m[0m/[1mros-noetic-rosnode[0m [36m1.16.0-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - rosnode is a command-line tool for displaying debug information about ROS Nodes, including publications, subscriptions and connections.
+[35m527[0m [1m[34maur[0m[0m/[1mplaywright[0m [36m1.44.0-1[0m[1m (+2[0m [1m0.75) [0m
+    Node.js library to automate Chromium, Firefox and WebKit with a single API
+[35m526[0m [1m[34maur[0m[0m/[1mros-melodic-rqt-logger-level[0m [36m0.4.8-2[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - rqt_logger_level provides a GUI plugin for configuring the logger level of ROS nodes.
+[35m525[0m [1m[34maur[0m[0m/[1mros-melodic-mavros[0m [36m1.8.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - MAVROS -- MAVLink extendable communication node for ROS with proxy for Ground Control Station.
+[35m524[0m [1m[34maur[0m[0m/[1mnanocurrency-node[0m [36m22.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Nano (formerly RaiBlocks) is a cryptocurrency designed from the ground up for scalable instant transactions and zero transaction fees. Command-line version without wallet GUI or Qt dependencies.
+[35m523[0m [1m[34maur[0m[0m/[1mros-noetic-urg-node[0m [36m0.1.18-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - Wrapper for the Hokuyo urg_c library.
+[35m522[0m [1m[34maur[0m[0m/[1mkube-scheduler1.26[0m [36m1.26.10-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Kubernetes control plane component watching over pods on nodes
+[35m521[0m [1m[34maur[0m[0m/[1mros-noetic-mavros[0m [36m1.17.0-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - MAVROS -- MAVLink extendable communication node for ROS with proxy for Ground Control Station.
+[35m520[0m [1m[34maur[0m[0m/[1marweave-deploy-bin[0m [36m1.9.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Arweave-deploy binary with bundled nodejs
+[35m519[0m [1m[34maur[0m[0m/[1mpaperspace-node[0m [36m0.1.17-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    The Paperspace API is the official devkit for automating your Paperspace account
+[35m518[0m [1m[34maur[0m[0m/[1mandroid-toolkit[0m [36m1.5.23-1[0m[1m (+0[0m [1m0.00) [0m
+    A cross platform desktop app written in Typescript/Node using React and Electron.A GUI for adb and can be used to modify android devices such as firesticks and google TVs.
+[35m517[0m [1m[34maur[0m[0m/[1mcardano-node[0m [36m1.34.1-1[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-01-17)[0m[0m 
+    The core component that is used to participate in a Cardano decentralised blockchain.
+[35m516[0m [1m[34maur[0m[0m/[1mrenode-bin[0m [36m1.15.0-1[0m[1m (+4[0m [1m0.01) [0m
+    A virtual development framework for multinode embedded networks
+[35m515[0m [1m[34maur[0m[0m/[1mbitcoin-core-git[0m [36m20210115-1[0m[1m (+4[0m [1m0.00) [0m
+    Bitcoin Core headless P2P node
+[35m514[0m [1m[34maur[0m[0m/[1mopensubtitles-uploader[0m [36m2.7.0-1[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-05-15)[0m[0m 
+    Desktop app to upload subtitles to OpenSubtitles, using Node.JS and NWjs
+[35m513[0m [1m[34maur[0m[0m/[1mpkg[0m [36m5.3.2-1[0m[1m (+4[0m [1m0.02) [0m[1m[31m(Out-of-date: 2022-11-21)[0m[0m 
+    Package your Node.js project into an executable
+[35m512[0m [1m[34maur[0m[0m/[1mwiki-js[0m [36m2.5.302-1[0m[1m (+4[0m [1m0.00) [0m
+    Wiki.js | A modern, lightweight and powerful wiki app built on Node.js
+[35m511[0m [1m[34maur[0m[0m/[1mperl-xml-nodefilter[0m [36m0.01-4[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    XML-NodeFilter perl module (generic XML::NodeFilter class)
+[35m510[0m [1m[34maur[0m[0m/[1mgenode-toolchain-bin[0m [36m23.05-1[0m[1m (+4[0m [1m0.00) [0m
+    GCC-based toolchain for the genode framework
+[35m509[0m [1m[34maur[0m[0m/[1mlinode-cli-git[0m [36m5.48.2.r24.gfeecb3a-1[0m[1m (+4[0m [1m0.00) [0m
+    The Linode Command Line Interface (development version)
+[35m508[0m [1m[34maur[0m[0m/[1mminetest-minegistic[0m [36m2023.06.08-1[0m[1m (+1[0m [1m0.00) [0m
+    Basic game of connecting resource nodes together
+[35m507[0m [1m[34maur[0m[0m/[1mros-noetic-roslaunch[0m [36m1.16.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-16)[0m[0m 
+    ROS - roslaunch is a tool for easily launching multiple ROS nodes locally and remotely via SSH, as well as setting parameters on the Parameter Server.
+[35m506[0m [1m[34maur[0m[0m/[1mnonograms-katana-nativefier[0m [36m1.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A nodejs nativefier client for Nonograms Katana, a logic puzzle game developed and published by ucdevs.
+[35m505[0m [1m[34maur[0m[0m/[1mros-melodic-nodelet-topic-tools[0m [36m1.9.16-6[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - This package contains common nodelet tools such as a mux, demux and throttle.
+[35m504[0m [1m[34maur[0m[0m/[1moctez-node-19[0m [36m2-1[0m[1m (+0[0m [1m0.00) [0m
+    Unofficial binary release for the octez-node from Octez 19
+[35m503[0m [1m[34maur[0m[0m/[1moctez-node-20[0m [36m0_rc1-1[0m[1m (+0[0m [1m0.00) [0m
+    Unofficial binary release for the octez-node from Octez 20
+[35m502[0m [1m[34maur[0m[0m/[1mminetest-nodecore[0m [36m02683559-1[0m[1m (+1[0m [1m0.00) [0m
+    Original, immersive puzzle/adventure game with NO popup GUIs, minimal HUDs.
+[35m501[0m [1m[34maur[0m[0m/[1mros-melodic-pid[0m [36m0.0.27-4[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - Launch a PID control node.
+[35m500[0m [1m[34maur[0m[0m/[1mros-melodic-nodelet-tutorial-math[0m [36m0.1.11-4[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - Package for Nodelet tutorial.
+[35m499[0m [1m[34maur[0m[0m/[1mr-networktools[0m [36m1.5.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Tools for Identifying Important Nodes in Networks
+[35m498[0m [1m[34maur[0m[0m/[1mkube-proxy1.26[0m [36m1.26.10-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Kubernetes network proxy that runs on each node
+[35m497[0m [1m[34maur[0m[0m/[1mpipes.js-git[0m [36m1.0.1-1.1[0m[1m (+0[0m [1m0.00) [0m
+    Rewrite of pipes.sh in nodejs. Faster, more config options, and overall better.
+[35m496[0m [1m[34maur[0m[0m/[1mpolkadot-bin[0m [36m0.9.10-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2021-11-25)[0m[0m 
+    Binary builds of the Polkadot Node Implementation
+[35m495[0m [1m[34maur[0m[0m/[1mkomodo-ide-nightly[0m [36m11.0.1_90763-1[0m[1m (+1[0m [1m0.00) [0m
+    Code smarter and faster with the leading IDE for today's major web languages, including Python, PHP, Node.js, Perl, Go and Ruby. - XUL based
+[35m494[0m [1m[34maur[0m[0m/[1mros-noetic-pid[0m [36m0.0.24-2[0m[1m (+0[0m [1m0.00) [0m
+    ROS - Launch a PID control node.
+[35m493[0m [1m[34maur[0m[0m/[1mbsp[0m [36m5.2-7[0m[1m (+5[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-09-24)[0m[0m 
+    The most popular nodebuilder for DOOM
+[35m492[0m [1m[34maur[0m[0m/[1mlibedssharp-git[0m [36mr526.6f67539-1[0m[1m (+1[0m [1m0.00) [0m
+    A CanOpen EDS editor and library in C# with CanOpenNode export for Object Dictionary
+[35m491[0m [1m[34maur[0m[0m/[1mnanocurrency-node-git[0m [36m23.0.0.pre99.68936b470-1[0m[1m (+2[0m [1m0.00) [0m
+    Nano (formerly RaiBlocks) is a cryptocurrency designed from the ground up for scalable instant transactions and zero transaction fees. Command-line version without wallet GUI or Qt dependencies.
+[35m490[0m [1m[34maur[0m[0m/[1mros-melodic-roslaunch[0m [36m1.14.11-2[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - roslaunch is a tool for easily launching multiple ROS nodes locally and remotely via SSH, as well as setting parameters on the Parameter Server.
+[35m489[0m [1m[34maur[0m[0m/[1mvolunode-git[0m [36mr30264.41d8578cd-1[0m[1m (+0[0m [1m0.00) [0m
+    Next generation client for Berkeley Open Infrastructure for Network Computing.
+[35m488[0m [1m[34maur[0m[0m/[1mfish-nvm[0m [36m2.2.11-1[0m[1m (+3[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-11-01)[0m[0m 
+    Node.js version manager lovingly made for Fish
+[35m487[0m [1m[34maur[0m[0m/[1mros-melodic-ros-comm[0m [36m1.14.11-2[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - ROS communications-related packages, including core client libraries (roscpp, rospy) and graph introspection tools (rostopic, rosnode, rosservice, rosparam).
+[35m486[0m [1m[34maur[0m[0m/[1mpolkadot-git[0m [36m0.7.34.814-1[0m[1m (+0[0m [1m0.00) [0m
+    Polkadot Node Implementation built from current git master
+[35m485[0m [1m[34maur[0m[0m/[1mkubelet1.26[0m [36m1.26.10-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    An agent that runs on each node in a Kubernetes cluster making sure that containers are running in a Pod
+[35m484[0m [1m[34maur[0m[0m/[1mopencomic-bin[0m [36m1.2.0-1[0m[1m (+5[0m [1m0.00) [0m
+    Comic and Manga reader, written with Node.js and using Electron.
+[35m483[0m [1m[34maur[0m[0m/[1mros-melodic-nodelet-core[0m [36m1.9.16-3[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - Nodelet Core Metapackage.
+[35m482[0m [1m[34maur[0m[0m/[1mros-melodic-gennodejs[0m [36m2.0.1-2[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - Javascript ROS message and service generators.
+[35m481[0m [1m[34maur[0m[0m/[1mros-melodic-nodelet[0m [36m1.9.16-6[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - The nodelet package is designed to provide a way to run multiple algorithms in the same process with zero copy transport between algorithms.
+[35m480[0m [1m[34maur[0m[0m/[1mros-melodic-rosnode[0m [36m1.14.11-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - rosnode is a command-line tool for displaying debug information about ROS Nodes, including publications, subscriptions and connections.
+[35m479[0m [1m[34maur[0m[0m/[1mtox-node-rs-git[0m [36mv0.0.8.r0.g924b61e-1[0m[1m (+1[0m [1m0.00) [0m
+    A server application to run tox node written in pure Rust
+[35m478[0m [1m[34maur[0m[0m/[1mkubectl-node-shell[0m [36m1.8.0-0[0m[1m (+2[0m [1m0.00) [0m
+    Exec into node via kubectl
+[35m477[0m [1m[34maur[0m[0m/[1mminetest-nodeverse[0m [36m0.4.1-1[0m[1m (+2[0m [1m0.05) [0m
+    A procedurally generated space exploration game
+[35m476[0m [1m[34maur[0m[0m/[1mkubeeye-bin[0m [36m0.5.0-1[0m[1m (+0[0m [1m0.00) [0m
+    KubeEye aims to find various problems on Kubernetes, such as application misconfiguration, unhealthy cluster components and node problems.
+[35m475[0m [1m[34maur[0m[0m/[1mvocdoni-node[0m [36m1.0.3.r0.gb447fa39-1[0m[1m (+0[0m [1m0.00) [0m
+    Vocdoni blockchain voting node
+[35m474[0m [1m[34maur[0m[0m/[1mtox-node-rs[0m [36m0.1.1-1[0m[1m (+0[0m [1m0.00) [0m
+    A server application to run tox node written in pure Rust
+[35m473[0m [1m[34maur[0m[0m/[1mgo-filecoin-git[0m [36mnightly_33814_fb13ac_246_gd75e700d-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A decentralized storage network, full node implementation in Go
+[35m472[0m [1m[34maur[0m[0m/[1mnvm-desktop[0m [36m3.3.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A version management desktop client for the Nodejs.
+[35m471[0m [1m[34maur[0m[0m/[1mconcordium-node-bin[0m [36m1.0.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2021-12-09)[0m[0m 
+    Node for the Concordium blockchain
+[35m470[0m [1m[34maur[0m[0m/[1moctez-node[0m [36m20.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Unofficial binary release for the octez-node from Octez
+[35m469[0m [1m[34maur[0m[0m/[1mnwjs-sdk-bin[0m [36m0.85.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-05-12)[0m[0m 
+    node-webkit is an app runtime based on Chromium and node.js. SDK release with DevTools
+[35m468[0m [1m[34maur[0m[0m/[1msilentdragon[0m [36m1.4.2-2[0m[1m (+1[0m [1m0.00) [0m
+    HUSH desktop full node GUI wallet that supports z-addresses
+[35m467[0m [1m[34maur[0m[0m/[1mardrive-cli[0m [36m1.20.2-1[0m[1m (+0[0m [1m0.00) [0m
+    ArDrive CLI written in node.js
+[35m466[0m [1m[34maur[0m[0m/[1mjailbox-git[0m [36mv0.5.0.r0.gd82c0be-2[0m[1m (+6[0m [1m2.87) [0m
+    Torify the system with multiple tor exit nodes and load balance
+[35m465[0m [1m[34maur[0m[0m/[1mros-melodic-ros-base[0m [36m1.4.1-3[0m[1m (+3[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - A metapackage which extends ros_core and includes other basic non-robot tools like actionlib, dynamic reconfigure, nodelets, and pluginlib.
+[35m464[0m [1m[34maur[0m[0m/[1mmimejs-git[0m [36m0.1.3a90bfb-1[0m[1m (+0[0m [1m0.00) [0m
+    A replacement for xdg-open written in Node.js
+[35m463[0m [1m[34maur[0m[0m/[1myoutube-dl-gui[0m [36m2.5.4-1[0m[1m (+2[0m [1m0.01) [0m
+    A cross-platform GUI for youtube-dl made in Electron and node.js
+[35m462[0m [1m[34maur[0m[0m/[1mlibedssharp[0m [36m0.8-1[0m[1m (+1[0m [1m0.00) [0m
+    A CanOpen EDS editor and library in C# with CanOpenNode export for Object Dictionary
+[35m461[0m [1m[34maur[0m[0m/[1mzdbsp[0m [36m1.19-1[0m[1m (+7[0m [1m0.00) [0m
+    Standalone version of ZDoom's internal node builder
+[35m460[0m [1m[34maur[0m[0m/[1mlinux-linode[0m [36m6.1.31.hardened1-1[0m[1m (+7[0m [1m0.00) [0m
+    Kernel for Linode servers
+[35m459[0m [1m[34maur[0m[0m/[1metherdraw[0m [36m1:1.0.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A real time collaborative drawing tool using nodejs, socket.io & paper.js
+[35m458[0m [1m[34maur[0m[0m/[1mradicle-node-bin[0m [36m1:1.0.0rc.9-1[0m[1m (+3[0m [1m0.26) [0m
+    open source, peer-to-peer code collaboration stack built on Git - node
+[35m457[0m [1m[34maur[0m[0m/[1mkube-spawn[0m [36m0.3.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-09-09)[0m[0m 
+    A tool for creating multi-node Kubernetes clusters on a Linux machine using kubeadm & systemd-nspawn. Brought to you by the Kinvolk team. https://kinvolk.io
+[35m456[0m [1m[34maur[0m[0m/[1mpurescript-language-server[0m [36m0.18.0-1[0m[1m (+3[0m [1m0.08) [0m
+    Node-based Language Server Protocol server for PureScript.
+[35m455[0m [1m[34maur[0m[0m/[1mblender-plugin-animation-nodes-git[0m [36m2.3.0.r5663.b1e3ace8-1[0m[1m (+6[0m [1m0.00) [0m
+    Node based visual scripting system designed for motion graphics in Blender.
+[35m454[0m [1m[34maur[0m[0m/[1mgo-filecoin[0m [36m0.3.2-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2021-10-09)[0m[0m 
+    A decentralized storage network, full node implementation in Go
+[35m453[0m [1m[34maur[0m[0m/[1mnppcrypt[0m [36m1.0.1.6-3[0m[1m (+0[0m [1m0.00) [0m
+    Cryptography plugin from Nodepad++
+[35m452[0m [1m[34maur[0m[0m/[1mnccl-git[0m [36m2.21.5.1.r0.ab2b89c-1[0m[1m (+0[0m [1m0.00) [0m
+    Library for NVIDIA multi-GPU and multi-node collective communication primitives
+[35m451[0m [1m[34maur[0m[0m/[1mpolkadot[0m [36m0.9.10-1[0m[1m (+0[0m [1m0.00) [0m
+    Rust implementation of a polkadot node
+[35m450[0m [1m[34maur[0m[0m/[1mfnm[0m [36m1.35.1-1[0m[1m (+8[0m [1m0.08) [0m
+    Fast and simple Node.js version manager, built with Rust
+[35m449[0m [1m[34maur[0m[0m/[1minstagram-nativefier[0m [36m1.0-2[0m[1m (+8[0m [1m0.00) [0m
+    Chat with friends! Instagram Client built with nodejs-nativefier (electron)
+[35m448[0m [1m[34maur[0m[0m/[1mhornet-bin[0m [36m1.2.8-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-05-07)[0m[0m 
+    Powerful, community driven IOTA fullnode software written in Go (official precompiled binary)
+[35m447[0m [1m[34maur[0m[0m/[1mkubedee-git[0m [36m0.7.0.r25.c12a800-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Multi-node Kubernetes clusters on LXD
+[35m446[0m [1m[34maur[0m[0m/[1mhornet-git[0m [36m1.1.3.r0.g1d93f0b7-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-05-08)[0m[0m 
+    HORNET is a powerful IOTA fullnode software
+[35m445[0m [1m[34maur[0m[0m/[1mnodejs-generator-jhipster-vuejs[0m [36m1.1.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Vue.js blueprint for JHipster
+[35m444[0m [1m[34maur[0m[0m/[1mnodejs-markdown-table-formatter[0m [36m1.4.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A tool for checking markdown table formatting and applying fixes
+[35m443[0m [1m[34maur[0m[0m/[1mnodejs-compose-language-service[0m [36m0.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Language service for Docker Compose documents
+[35m442[0m [1m[34maur[0m[0m/[1mride-the-lightning[0m [36m0.15.0-1[0m[1m (+1[0m [1m0.08) [0m
+    RTL is a full function, device agnostic, web user interface to help manage lightning node operations.
+[35m441[0m [1m[34maur[0m[0m/[1mfoundry-nuke[0m [36m15.0v2-1[0m[1m (+2[0m [1m0.00) [0m
+    Nuke is a node-based digital compositing and visual effects application
+[35m440[0m [1m[34maur[0m[0m/[1masdf-vm-git[0m [36m0.10.1.1.g0bc8c3a-1[0m[1m (+2[0m [1m0.00) [0m
+    Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more. Git version.
+[35m439[0m [1m[34maur[0m[0m/[1mnodejs-gitlab-ci-variables-cli[0m [36m3.0.0-1[0m[1m (+0[0m [1m0.00) [0m
+    CLI tool to set/get pipeline variables on Gitlab CI.
+[35m438[0m [1m[34maur[0m[0m/[1mnodejs-generator-web-extension[0m [36m0.0.5-1[0m[1m (+0[0m [1m0.00) [0m
+    Yeoman generator for Webextensions
+[35m437[0m [1m[34maur[0m[0m/[1mnodejs-whistle-plugins-inspect[0m [36m2.2.6-1[0m[1m (+0[0m [1m0.00) [0m
+    集成 vConsole、eruda、mdebug 等调试H5页面工具的插件
+[35m436[0m [1m[34maur[0m[0m/[1mnodejs-is-fullwidth-code-point[0m [36m3.0.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Check if the character represented by a given Unicode code point is fullwidth
+[35m435[0m [1m[34maur[0m[0m/[1mnodejs-generator-react-webpack[0m [36m3.3.4-1[0m[1m (+0[0m [1m0.00) [0m
+    Yeoman generator for ReactJS with Webpack
+[35m434[0m [1m[34maur[0m[0m/[1mton-node[0m [36m1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2022-07-20)[0m[0m 
+    Telegram Open Network Full Node and Validator
+[35m433[0m [1m[34maur[0m[0m/[1mnodejs-generator-angular-fullstack[0m [36m5.0.0rc4-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Yeoman generator for AngularJS with an Express server http://yeoman.io
+[35m432[0m [1m[34maur[0m[0m/[1mnodejs-whistle-plugins-script[0m [36m1.2.9-1[0m[1m (+0[0m [1m0.00) [0m
+    The plugin for the extension script for whistle
+[35m431[0m [1m[34maur[0m[0m/[1mnpm-accel[0m [36m2.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Accelerator for npm, the Node.js package manager
+[35m430[0m [1m[34maur[0m[0m/[1mnodejs-budgie-launcher-super[0m [36m1.1.11-3[0m[1m (+0[0m [1m0.00) [0m
+    A simple script to switch tasks using "super + 1" number keys, the same feature exists with other desktops like windows and unity, this adds it to budgie desktop.
+[35m429[0m [1m[34maur[0m[0m/[1mkadnode[0m [36m2.3.0-1[0m[1m (+0[0m [1m0.00) [0m
+    P2P DNS with content key, crypto key and PKI support. DynDNS alternative.
+[35m428[0m [1m[34maur[0m[0m/[1mpeerflix-server[0m [36m0.6.0-1[0m[1m (+9[0m [1m0.00) [0m
+    Streaming torrent client for node.js with web ui
+[35m427[0m [1m[34maur[0m[0m/[1mchainner-bin[0m [36m0.23.3-1[0m[1m (+7[0m [1m0.07) [0m
+    Node-based image processing and AI upscaling GUI
+[35m426[0m [1m[34maur[0m[0m/[1mnodejs-semantic-release-cli[0m [36m5.4.6-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    setup automated semver compliant package publishing
+[35m425[0m [1m[34maur[0m[0m/[1mtorcheck[0m [36mr1.266839a-1[0m[1m (+1[0m [1m0.00) [0m
+    A very simple program that checks if your public endpoint IP address is Tor exit node
+[35m424[0m [1m[34maur[0m[0m/[1mpeerflix-git[0m [36m0.37.0.r0.gf48f7a0-1[0m[1m (+9[0m [1m0.00) [0m[1m[31m(Out-of-date: 2022-05-25)[0m[0m 
+    Streaming torrent client for node.js
+[35m423[0m [1m[34maur[0m[0m/[1myoutubemusic-nativefier[0m [36m1.1-4[0m[1m (+6[0m [1m0.01) [0m
+    YouTube Music Client built with nodejs-nativefier (electron)
+[35m422[0m [1m[34maur[0m[0m/[1mloramon[0m [36m0.9.7-3[0m[1m (+0[0m [1m0.00) [0m
+    LoRa packet sniffer for RNode hardware
+[35m421[0m [1m[34maur[0m[0m/[1mnodejs-npm-profile-manager[0m [36m0.1.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-12)[0m[0m 
+    Profile management for npm
+[35m420[0m [1m[34maur[0m[0m/[1mnodejs-broken-link-checker[0m [36m0.7.8-1[0m[1m (+0[0m [1m0.00) [0m
+    Find broken links, missing images, etc in your HTML.
+[35m419[0m [1m[34maur[0m[0m/[1mnodejs-generator-scala-app[0m [36m0.1.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Yeoman Generator for Scala/SBT projects
+[35m418[0m [1m[34maur[0m[0m/[1mnodejs-icon-font-generator[0m [36m2.1.10-1[0m[1m (+0[0m [1m0.00) [0m
+    Easy-to-use cli tool to generate webfont icon kits from a bunch of .svg files
+[35m417[0m [1m[34maur[0m[0m/[1mnodejs-less-plugin-autoprefix[0m [36m2.0.0-4[0m[1m (+1[0m [1m0.00) [0m
+    Uses autoprefixer to add prefixes to css after conversion from less
+[35m416[0m [1m[34maur[0m[0m/[1mnodejs-gltf-transform-cli[0m [36m4.0.0-1[0m[1m (+0[0m [1m0.00) [0m
+    CLI interface to glTF Transform
+[35m415[0m [1m[34maur[0m[0m/[1mnode-snapdrop-electron-bin[0m [36m1.0.4-7[0m[1m (+0[0m [1m0.00) [0m
+    A Self Contained Desktop Version Of Snapdrop Made With Electron
+[35m414[0m [1m[34maur[0m[0m/[1mlinode-cli[0m [36m5.49.1-2[0m[1m (+11[0m [1m0.00) [0m
+    Linode API wrapper
+[35m413[0m [1m[34maur[0m[0m/[1mkamailio-erlang-modules[0m [36m5.5.3-1[0m[1m (+11[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2022-08-08)[0m[0m 
+    Erlang node interaction module for Kamailio
+[35m412[0m [1m[34maur[0m[0m/[1mbitcoin-core[0m [36m27.0-1[0m[1m (+11[0m [1m0.00) [0m
+    Bitcoin Core headless P2P node
+[35m411[0m [1m[34maur[0m[0m/[1mbitcoinxt[0m [36m0.11F-1[0m[1m (+11[0m [1m0.00) [0m
+    BitcoinXT headless P2P node
+[35m410[0m [1m[34maur[0m[0m/[1mnodejs-cordova-check-plugins[0m [36m4.0.5-1[0m[1m (+1[0m [1m0.01) [0m
+    A CLI tool to check for / manage plugin updates in Cordova/Phonegap projects.
+[35m409[0m [1m[34maur[0m[0m/[1mnvs-git[0m [36mv1.6.0.r15.g024dea3-1[0m[1m (+1[0m [1m0.00) [0m
+    A cross-platform tool for switching between versions and forks of Node.js
+[35m408[0m [1m[34maur[0m[0m/[1mkubedee[0m [36m0.7.0-2[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Multi-node Kubernetes clusters on LXD
+[35m407[0m [1m[34maur[0m[0m/[1mnodejs-perl-navigator-web-server[0m [36m0.6.3-1[0m[1m (+2[0m [1m0.03) [0m
+    Perl language server implementation in a web extension
+[35m406[0m [1m[34maur[0m[0m/[1mnodejs-generator-scalatra[0m [36m0.4.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Generates a basic structure for Scalatra REST Application and includes Casbah for MongoDB if you wish.
+[35m405[0m [1m[34maur[0m[0m/[1mnodejs-wenku8-downloader[0m [36m4.0.0-1[0m[1m (+0[0m [1m0.00) [0m
+    轻小说文库下载器
+[35m404[0m [1m[34maur[0m[0m/[1mnodejs-generator-ansible[0m [36m0.0.5-1[0m[1m (+0[0m [1m0.00) [0m
+    Yeoman generator for ansible
+[35m403[0m [1m[34maur[0m[0m/[1mnpkill[0m [36m0.11.1-1[0m[1m (+0[0m [1m0.00) [0m
+    List any node_modules package dir in your system and how heavy they are. You can then select which ones you want to erase to free up space
+[35m402[0m [1m[34maur[0m[0m/[1mmonodevelop-bin[0m [36m7.8.4.1_0xamarin6_ubuntu1804b1-4[0m[1m (+6[0m [1m1.14) [0m
+    MonoDevelop is a GNOME IDE primarily designed for C# and other CLI (.NET) languages
+[35m401[0m [1m[34maur[0m[0m/[1mnodejs-unblockneteasemusic[0m [36m0.25.3-6[0m[1m (+1[0m [1m0.00) [0m
+    Revive unavailable songs for Netease Cloud Music
+[35m400[0m [1m[34maur[0m[0m/[1mnodejs-dockerfile-utils[0m [36m0.10.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Utilities for formatting and linting a Dockerfile.
+[35m399[0m [1m[34maur[0m[0m/[1mnodejs-git-file-history[0m [36m1.0.1-0[0m[1m (+0[0m [1m0.00) [0m
+    Quickly browse the history of a file from any git repository.
+[35m398[0m [1m[34maur[0m[0m/[1msubstance-designer[0m [36m12.2.1-1[0m[1m (+10[0m [1m0.00) [0m
+    Node-based, non-destructive PBR material authoring tool.
+[35m397[0m [1m[34maur[0m[0m/[1mnodejs-base16-builder-git[0m [36m1.3.0.r7.d022b9d-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2021-11-03)[0m[0m 
+    A nimble command-line tool that generates themes for your favourite programs.
+[35m396[0m [1m[34maur[0m[0m/[1mnodejs-pouchdb-dump-cli[0m [36m2.0.6-1[0m[1m (+0[0m [1m0.00) [0m
+    Command-line tool for dumping a CouchDB/PouchDB database to a file
+[35m395[0m [1m[34maur[0m[0m/[1mflood-git[0m [36m4.8.2.r4.g812f351-1[0m[1m (+13[0m [1m0.00) [0m
+    A modern web UI for various torrent clients with a Node.js backend and React frontend.
+[35m394[0m [1m[34maur[0m[0m/[1mnodejs-http-server-spa[0m [36m1.3.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A small but fast static file server running on node
+[35m393[0m [1m[34maur[0m[0m/[1mnodejs-readability-git[0m [36m0.4.1.r11.g28843b6-1[0m[1m (+0[0m [1m0.00) [0m
+    A standalone version of the readability library used for Firefox Reader View
+[35m392[0m [1m[34maur[0m[0m/[1mnodejs-perlnavigator-client[0m [36m0.6.3-1[0m[1m (+2[0m [1m0.03) [0m
+    Perl language server client
+[35m391[0m [1m[34maur[0m[0m/[1mnodejs-perlnavigator-server[0m [36m0.6.3-1[0m[1m (+2[0m [1m0.03) [0m
+    Perl language server that includes syntax checking, perl critic, and code navigation
+[35m390[0m [1m[34maur[0m[0m/[1mnodejs-cz-conventional-changelog[0m [36m3.3.0-2[0m[1m (+3[0m [1m0.02) [0m
+    Commitizen plugin for conventional changelogs commit messages
+[35m389[0m [1m[34maur[0m[0m/[1mnodejs-git-stats-html[0m [36m1.0.9-1[0m[1m (+0[0m [1m0.00) [0m
+    Turn git-stats result into HTML output.
+[35m388[0m [1m[34maur[0m[0m/[1mnodejs-jasmine-runner[0m [36m0.2.9-1[0m[1m (+0[0m [1m0.00) [0m
+    Jasmine BDD utility tool and commandline runner
+[35m387[0m [1m[34maur[0m[0m/[1mnodejs-serverless-git[0m [36m1.6.1.36.g88c9dc88-1[0m[1m (+0[0m [1m0.00) [0m
+    Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more
+[35m386[0m [1m[34maur[0m[0m/[1mnettee[0m [36m0.1.9.1-3[0m[1m (+1[0m [1m0.00) [0m
+    A network "tee" program that can typically transfer data between "N" nodes.
+[35m385[0m [1m[34maur[0m[0m/[1mnodejs-bower-installer[0m [36m1.3.5-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2021-11-03)[0m[0m 
+    Tool for installing bower dependencies
+[35m384[0m [1m[34maur[0m[0m/[1mnodejs-epicgames-client[0m [36m2.0.25-1[0m[1m (+1[0m [1m0.00) [0m
+    Unofficial EpicGames Client for Node.js
+[35m383[0m [1m[34maur[0m[0m/[1mkomodo-ide[0m [36m12.0.1_91869-1[0m[1m (+5[0m [1m0.00) [0m
+    Code smarter and faster with the leading IDE for today's major web languages, including Python, PHP, Node.js, Perl, Go and Ruby. - XUL based
+[35m382[0m [1m[34maur[0m[0m/[1mnodejs-formality-lang[0m [36m0.4.91-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-21)[0m[0m 
+    An efficient proof-gramming language. It aims to be: Fast, Safe, Portable
+[35m381[0m [1m[34maur[0m[0m/[1mnodejs-instant-markdown-d[0m [36m0.3.0-1[0m[1m (+2[0m [1m0.00) [0m
+    Small instant Markdown preview server
+[35m380[0m [1m[34maur[0m[0m/[1mnodejs-unsplash-wallpaper[0m [36m6.1.0-1[0m[1m (+2[0m [1m0.57) [0m[1m[31m(Out-of-date: 2023-11-18)[0m[0m 
+    Set an image from Unsplash as your wallpaper.
+[35m379[0m [1m[34maur[0m[0m/[1mlndhub[0m [36m1.4.1-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    BlueWallet Lightning Node Manager
+[35m378[0m [1m[34maur[0m[0m/[1mnodemcu-firmware-git[0m [36m2319.4f679277-1[0m[1m (+0[0m [1m0.00) [0m
+    A Lua based firmware for ESP8266 WiFi SOC
+[35m377[0m [1m[34maur[0m[0m/[1mnodejs-reveal.js-git[0m [36m5.0.5.r20.g6410c756-1[0m[1m (+0[0m [1m0.00) [0m
+    The HTML Presentation Framework
+[35m376[0m [1m[34maur[0m[0m/[1mnodejs-color-convert[0m [36m2.0.1-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Plain color conversion functions in JavaScript.
+[35m375[0m [1m[34maur[0m[0m/[1mnodestatus-client-go[0m [36m1.0.9-1[0m[1m (+0[0m [1m0.00) [0m
+    The client of NodeStatus / Go Version
+[35m374[0m [1m[34maur[0m[0m/[1mnodejs-timezones-cli[0m [36m1.1.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A cli tool to convert a date or timestamp into different timezones.
+[35m373[0m [1m[34maur[0m[0m/[1mnodejs-storybook-cli[0m [36m6.3.10-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Storybook's CLI - easiest method of adding storybook to your projects
+[35m372[0m [1m[34maur[0m[0m/[1mnodejs-passport-saml[0m [36m3.2.4-1[0m[1m (+0[0m [1m0.00) [0m
+    SAML 2.0 authentication with passport
+[35m371[0m [1m[34maur[0m[0m/[1mnodejs-supports-color[0m [36m7.2.0-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Detect whether a terminal supports color.
+[35m370[0m [1m[34maur[0m[0m/[1mnodejs-markdown-styles[0m [36m3.2.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Markdown to HTML generator and multiple CSS themes for Markdown
+[35m369[0m [1m[34maur[0m[0m/[1mnodejs-create-nuxt-app[0m [36m2.6.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Create a Nuxt.js project in seconds
+[35m368[0m [1m[34maur[0m[0m/[1mnodejs-sword-interface[0m [36m0.235.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Javascript (N-API) interface to SWORD library
+[35m367[0m [1m[34maur[0m[0m/[1mnodejs-ffmpeg-concat[0m [36m1.0.13-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Concats a list of videos together using ffmpeg with sexy OpenGL transitions.
+[35m366[0m [1m[34maur[0m[0m/[1mnodemcu-uploader-git[0m [36mv1.0.0.r0.g6893b41-1[0m[1m (+0[0m [1m0.00) [0m
+    tool for uploading files to the filesystem of an ESP8266 running NodeMCU.
+[35m365[0m [1m[34maur[0m[0m/[1mnodejs-readability-cli[0m [36m2.4.5-1[0m[1m (+1[0m [1m0.00) [0m
+    Firefox Reader Mode in your terminal! - CLI tool for Mozilla's Readability library
+[35m364[0m [1m[34maur[0m[0m/[1mwaves[0m [36m1.2.4-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2021-03-27)[0m[0m 
+    Reference Waves Blockchain Node (client) implementation in Scala
+[35m363[0m [1m[34maur[0m[0m/[1mnodejs-css-b64-images[0m [36m0.2.5-1[0m[1m (+0[0m [1m0.00) [0m
+    Base64 images in your css
+[35m362[0m [1m[34maur[0m[0m/[1mnodejs-jsonschema2md[0m [36m7.1.5-0[0m[1m (+0[0m [1m0.00) [0m
+    Convert Complex JSON Schemas into Markdown Documentation
+[35m361[0m [1m[34maur[0m[0m/[1mnginx-unit-nodejs[0m [36m1.31.0-1[0m[1m (+10[0m [1m0.43) [0m
+    Lightweight, dynamic, open-source server for diverse web applications.
+[35m360[0m [1m[34maur[0m[0m/[1mnodejs-gitlab-ci-lint[0m [36m1.1.0-1[0m[1m (+1[0m [1m0.00) [0m
+    GitLab CI/CD cli to lint .gitlab-ci.yml files
+[35m359[0m [1m[34maur[0m[0m/[1mnodejs-generator-code[0m [36m1.8.2-1[0m[1m (+1[0m [1m0.00) [0m
+    Visual Studio Code extension generator
+[35m358[0m [1m[34maur[0m[0m/[1mnodejs-foundation-cli[0m [36m2.3.2-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    The command line installer for Foundation Sites, Emails, Apps.
+[35m357[0m [1m[34maur[0m[0m/[1mnodenv-node-build-git[0m [36m2.3.1.r7.gf47f7ad-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-10-17)[0m[0m 
+    Install NodeJS versions
+[35m356[0m [1m[34maur[0m[0m/[1mnodejs-relaypro-cli[0m [36m0.1.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Relay developer CLI
+[35m355[0m [1m[34maur[0m[0m/[1mnodejs-feathers-cli[0m [36m5.0.25-0[0m[1m (+0[0m [1m0.00) [0m
+    The command line interface for Feathers applications
+[35m354[0m [1m[34maur[0m[0m/[1mnodejs-string-width[0m [36m4.2.0-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Get the visual width of a string.
+[35m353[0m [1m[34maur[0m[0m/[1mnodejs-concurrently[0m [36m8.2.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-03-22)[0m[0m 
+    Run multiple commands concurrently
+[35m352[0m [1m[34maur[0m[0m/[1mnodejs-rollup-watch[0m [36m4.0.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Watch files for changes and perform incremental rebuilds with Rollup
+[35m351[0m [1m[34maur[0m[0m/[1mlongview[0m [36m1.1.5-1[0m[1m (+5[0m [1m0.00) [0m
+    A system monitoring agent for Linode customers.
+[35m350[0m [1m[34maur[0m[0m/[1mnodejs-generator-aspnet[0m [36m0.3.3-1[0m[1m (+2[0m [1m0.00) [0m
+    Yeoman generator for ASP.NET Core 1.0 apps
+[35m349[0m [1m[34maur[0m[0m/[1mmongosh[0m [36m2.2.1-1[0m[1m (+4[0m [1m0.04) [0m
+    Rich Node.js REPL for interacting with MongoDB instances.
+[35m348[0m [1m[34maur[0m[0m/[1mhsd-git[0m [36m2.1.5.56.g22be7faa-1[0m[1m (+4[0m [1m0.00) [0m
+    Handshake decentralized naming system Daemon & Full Node
+[35m347[0m [1m[34maur[0m[0m/[1mnodejs-afterwriting[0m [36m1.11.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2021-11-03)[0m[0m 
+    Afterwriting CLI is a command line tool that lets you generate PDF from your fountain script using node.js.
+[35m346[0m [1m[34maur[0m[0m/[1mnodejs-generator-jhipster[0m [36m8.4.0-1[0m[1m (+3[0m [1m0.00) [0m
+    Spring Boot + Angular/React in one handy generator
+[35m345[0m [1m[34maur[0m[0m/[1mgocho[0m [36m0.1.0-2[0m[1m (+1[0m [1m0.00) [0m
+    A local area network file-sharing application with nodes auto-discovery
+[35m344[0m [1m[34maur[0m[0m/[1mnodejs-inshellisense[0m [36m0.0.1_rc.9-1[0m[1m (+1[0m [1m0.09) [0m
+    IDE style command line auto complete
+[35m343[0m [1m[34maur[0m[0m/[1mnodejs-socket-cli-js[0m [36m0.9.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    The Socket CLI tool
+[35m342[0m [1m[34maur[0m[0m/[1mnodejs-clean-css-cli[0m [36m5.6.3-1[0m[1m (+1[0m [1m0.00) [0m
+    The command line interface to clean-css CSS optimizer
+[35m341[0m [1m[34maur[0m[0m/[1mnodejs-jsondiffpatch[0m [36m0.6.0-1[0m[1m (+1[0m [1m0.00) [0m
+    diff and patch JavaScript objects (JSON)
+[35m340[0m [1m[34maur[0m[0m/[1mnodejs-solid-server[0m [36m5.7.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Solid server on top of the file-system
+[35m339[0m [1m[34maur[0m[0m/[1mnodejs-generator-angular[0m [36m0.16.0-1[0m[1m (+3[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Yeoman generator for AngularJS
+[35m338[0m [1m[34maur[0m[0m/[1mnodejs-emoji-regex[0m [36m9.2.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Align-text with ANSI support for CLIs.
+[35m337[0m [1m[34maur[0m[0m/[1mnodejs-widest-line[0m [36m3.1.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Get the visual width of the widest line in a string.
+[35m336[0m [1m[34maur[0m[0m/[1mnodejs-lts-fermium[0m [36m14.21.3-3[0m[1m (+0[0m [1m0.00) [0m
+    Evented I/O for V8 javascript (LTS release: Fermium)
+[35m335[0m [1m[34maur[0m[0m/[1mnodejs-http-master[0m [36m1.2.7-2[0m[1m (+0[0m [1m0.00) [0m
+    a front end http service with with easy setup of reverse proxy/redirecting/other-actions logic
+[35m334[0m [1m[34maur[0m[0m/[1mnodejs-webpack-cli[0m [36m4.6.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    CLI for webpack & friends
+[35m333[0m [1m[34maur[0m[0m/[1mnodejs-graphql-cli[0m [36m4.1.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Repo and documentation at: https://github.com/Urigo/graphql-cli
+[35m332[0m [1m[34maur[0m[0m/[1mnodejs-modern-syslog[0m [36m1.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    modern syslog - streaming, async, native, uses nan
+[35m331[0m [1m[34maur[0m[0m/[1mnodejs-mochawesome[0m [36m3.0.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Mochawesome is a custom reporter for use with the Javascript testing framework, mocha.
+[35m330[0m [1m[34maur[0m[0m/[1mnodejs-node-lambda[0m [36m0.22.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Command line tool to locally run and deploy your node.js application to Amazon Lambda
+[35m329[0m [1m[34maur[0m[0m/[1mnodejs-nomnoml-cli[0m [36m0.2.3-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-18)[0m[0m 
+    Generates images from nomnoml diagram sources on the command line
+[35m328[0m [1m[34maur[0m[0m/[1mnodejs-autoprefixer[0m [36m10.4.19-1[0m[1m (+1[0m [1m0.00) [0m
+    Parse CSS and add vendor prefixes to rules by Can I Use
+[35m327[0m [1m[34maur[0m[0m/[1mnodejs-broccoli-cli[0m [36m1.0.0-2[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-12-08)[0m[0m 
+    Global CLI for broccoli.js
+[35m326[0m [1m[34maur[0m[0m/[1mnodejs-terminalizer[0m [36m0.9.0-0[0m[1m (+1[0m [1m0.00) [0m
+    Record your terminal and generate animated gif images
+[35m325[0m [1m[34maur[0m[0m/[1mnodejs-vinefeed-git[0m [36m0.1.0.r11-2[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-19)[0m[0m 
+    RSS/Atom feed generator for Vine users
+[35m324[0m [1m[34maur[0m[0m/[1mnodejs-graphite-cli[0m [36m0.20.19-1[0m[1m (+1[0m [1m0.00) [0m
+    graphite.dev terminal client
+[35m323[0m [1m[34maur[0m[0m/[1mnodejs-webpack-dev-server[0m [36m4.9.0-1[0m[1m (+4[0m [1m0.00) [0m
+    Serves a webpack app. Updates the browser on changes.
+[35m322[0m [1m[34maur[0m[0m/[1mcodelite-unstable[0m [36m17.9.0-1[0m[1m (+3[0m [1m0.00) [0m
+    Cross platform IDE for C, C++, Rust, Python, PHP and Node.js written in C++
+[35m321[0m [1m[34maur[0m[0m/[1mnodejs-ts-standard[0m [36m11.0.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2022-12-09)[0m[0m 
+    Typescript Standard Style based on StandardJS
+[35m320[0m [1m[34maur[0m[0m/[1mnodejs-mumble-web[0m [36m0.5.1-2[0m[1m (+0[0m [1m0.00) [0m
+    An HTML5 Mumble client - stable
+[35m319[0m [1m[34maur[0m[0m/[1mnodejs-nodemailer[0m [36m6.7.5-1[0m[1m (+0[0m [1m0.00) [0m
+    Send e-mails with Node.JS – easy as cake!
+[35m318[0m [1m[34maur[0m[0m/[1mnodejs-nestjs-cli[0m [36m10.3.1-0[0m[1m (+0[0m [1m0.00) [0m
+    The command line interface for nestjs
+[35m317[0m [1m[34maur[0m[0m/[1mnodejs-editly-git[0m [36m0.11.1_git-0[0m[1m (+0[0m [1m0.00) [0m
+    create video from a set of clips, images and titles, NLE, non-linear video editing
+[35m316[0m [1m[34maur[0m[0m/[1mnodejs-color-name[0m [36m1.1.4-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A JSON with CSS color names.
+[35m315[0m [1m[34maur[0m[0m/[1mnodejs-shrinkpack[0m [36m0.18.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Fast, resilient, reproducible builds with npm install.
+[35m314[0m [1m[34maur[0m[0m/[1mnodejs-strip-ansi[0m [36m6.0.0-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Strip ANSI escape codes from a string
+[35m313[0m [1m[34maur[0m[0m/[1mnodejs-groovebasin-git[0m [36m1.5.1.43.ge165f9a-1[0m[1m (+3[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-03)[0m[0m 
+    Music player server with a web-based user interface inspired by Amarok 1.4
+[35m312[0m [1m[34maur[0m[0m/[1mnodejs-git-split-diffs[0m [36m1.1.0-1[0m[1m (+3[0m [1m0.00) [0m
+    GitHub style split diffs with syntax highlighting in your terminal.
+[35m311[0m [1m[34maur[0m[0m/[1mtorque[0m [36m6.1.3.h5-1[0m[1m (+4[0m [1m0.00) [0m
+    An open source resource manager providing control over batch jobs and distributed compute nodes
+[35m310[0m [1m[34maur[0m[0m/[1mfnm-bin[0m [36m1.37.0-0[0m[1m (+20[0m [1m0.08) [0m
+    Fast and simple Node.js version manager, built in Rust
+[35m309[0m [1m[34maur[0m[0m/[1mnodejs-markmap-cli[0m [36m0.16.2-1[0m[1m (+1[0m [1m0.00) [0m
+    Create markmaps (mindmaps from markdown) from CLI
+[35m308[0m [1m[34maur[0m[0m/[1mnodejs-postcss-cli[0m [36m11.0.0-1[0m[1m (+1[0m [1m0.08) [0m
+    CLI for postcss
+[35m307[0m [1m[34maur[0m[0m/[1mnodejs-acme-client[0m [36m4.2.5-1[0m[1m (+1[0m [1m0.00) [0m
+    A simple and unopinionated ACME client.
+[35m306[0m [1m[34maur[0m[0m/[1mnodejs-npm-upgrade[0m [36m3.1.0-1[0m[1m (+1[0m [1m0.00) [0m
+    CLI utility to update outdated NPM dependencies with changelogs inspection
+[35m305[0m [1m[34maur[0m[0m/[1mnodejs-wintersmith[0m [36m2.5.0-2[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A flexible static site generator.
+[35m304[0m [1m[34maur[0m[0m/[1mnodejs-shadow-cljs[0m [36m2.11.23-1[0m[1m (+1[0m [1m0.00) [0m
+    ClojureScript compilation made easy http://shadow-cljs.org/
+[35m303[0m [1m[34maur[0m[0m/[1mnodejs-live-server[0m [36m1.2.2-1[0m[1m (+1[0m [1m0.00) [0m
+    A simple development HTTP server with live reload capability
+[35m302[0m [1m[34maur[0m[0m/[1mnodejs-asciicast2gif[0m [36m0.2.1-1[0m[1m (+2[0m [1m0.00) [0m
+    Generate GIF animations from asciicasts (asciinema recordings)
+[35m301[0m [1m[34maur[0m[0m/[1mnodejs-imapnotify-git[0m [36mr39.f886715-1[0m[1m (+3[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Execute scripts on new messages using IDLE imap command
+[35m300[0m [1m[34maur[0m[0m/[1mnodejs-json-to-js[0m [36m1.0.2-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-03-07)[0m[0m 
+    Convert JSON to JS and output to stdout
+[35m299[0m [1m[34maur[0m[0m/[1mnodejs-carto-git[0m [36m1.2.0+28+r1971.20201014.3051072-3[0m[1m (+0[0m [1m0.00) [0m
+    Mapbox carto: Translates Carto MML/ CartoCSS to Mapnik XML or a JSON variant of Mapnik XML.
+[35m298[0m [1m[34maur[0m[0m/[1mnodejs-is-up-cli[0m [36m4.0.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Check whether a website is up or down using the isitup.org API
+[35m297[0m [1m[34maur[0m[0m/[1mcoil[0m [36m2.0.2-1[0m[1m (+0[0m [1m0.00) [0m
+    CNI IPAM + intra-node routing plugin in favor of UNIX philosophy
+[35m296[0m [1m[34maur[0m[0m/[1mnodejs-type-fest[0m [36m0.19.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A collection of essential TypeScript types.
+[35m295[0m [1m[34maur[0m[0m/[1mnodejs-reveal.js[0m [36m5.1.0-1[0m[1m (+0[0m [1m0.00) [0m
+    The HTML Presentation Framework
+[35m294[0m [1m[34maur[0m[0m/[1moor[0m [36m1.3.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Open Overlay Router (formerly LISPmob) - Locator/ID Separation Protocol (LISP) and LISP Mobile Node implementation
+[35m293[0m [1m[34maur[0m[0m/[1mnodejs-barcelona[0m [36m0.0.26-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2018-02-20)[0m[0m 
+    Opinionated deployment pipeline tool
+[35m292[0m [1m[34maur[0m[0m/[1mnodejs-csvtojson[0m [36m2.0.10-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Blazing fast and Comprehensive CSV Parser
+[35m291[0m [1m[34maur[0m[0m/[1mcorepack[0m [36m0.11.2-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-23)[0m[0m 
+    Zero-runtime-dependency package acting as bridge between Node projects and their package managers.
+[35m290[0m [1m[34maur[0m[0m/[1mnodejs-leapp-cli[0m [36m0.1.43-1[0m[1m (+0[0m [1m0.00) [0m
+    Leapp's Command Line Interface.
+[35m289[0m [1m[34maur[0m[0m/[1mnodejs-gitignore[0m [36m0.6.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Automatically fetch gitignore files for any project type from github into your new project
+[35m288[0m [1m[34maur[0m[0m/[1mhsd[0m [36m4.0.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Handshake daemon node
+[35m287[0m [1m[34maur[0m[0m/[1mnodejs-npm-cache[0m [36m0.7.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A command line utility that caches dependencies installed via npm.
+[35m286[0m [1m[34maur[0m[0m/[1mnody-greeter[0m [36m1.5.2-1[0m[1m (+0[0m [1m0.00) [0m
+    LightDM greeter that allows to create wonderful themes with web technologies. Made in Node.js
+[35m285[0m [1m[34maur[0m[0m/[1mnvs[0m [36m1.7.1-1[0m[1m (+0[0m [1m0.00) [0m
+    A cross-platform tool for switching between versions and forks of Node.js
+[35m284[0m [1m[34maur[0m[0m/[1mnodejs-js2coffee[0m [36m2.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    JavaScript to CoffeeScript
+[35m283[0m [1m[34maur[0m[0m/[1mnodejs-vulcanize[0m [36m1.16.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Process Web Components into one output file
+[35m282[0m [1m[34maur[0m[0m/[1mnodejs-vim-debugger[0m [36m1.0.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-24)[0m[0m 
+    node.js step by step debugging from vim
+[35m281[0m [1m[34maur[0m[0m/[1mnodejs-generator-karma[0m [36m2.0.0-1[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-01-07)[0m[0m 
+    Yeoman generator for Karma
+[35m280[0m [1m[34maur[0m[0m/[1mnodejs-wenyan-cli[0m [36m0.3.4-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-03-14)[0m[0m 
+    文言文編程語言。A programming language for the ancient Chinese. Command-line compiler
+[35m279[0m [1m[34maur[0m[0m/[1mnodejs-resume-cli[0m [36m3.0.8-1[0m[1m (+1[0m [1m0.00) [0m
+    The command line tool for JSON Resume
+[35m278[0m [1m[34maur[0m[0m/[1mnodejs-handlebars[0m [36m4.7.6-1[0m[1m (+1[0m [1m0.00) [0m
+    Handlebars provides the power necessary to let you build semantic templates effectively with no frustration.
+[35m277[0m [1m[34maur[0m[0m/[1mnodejs-strongloop[0m [36m6.0.1-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-13)[0m[0m 
+    Strongloop controller CLI
+[35m276[0m [1m[34maur[0m[0m/[1mnodejs-soccer-go[0m [36m1.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    soccer-go is a node command line application to gather soccer stats and results
+[35m275[0m [1m[34maur[0m[0m/[1mnodejs-configurable-http-proxy[0m [36m4.6.1-1[0m[1m (+4[0m [1m0.00) [0m
+    node-http-proxy plus a REST API
+[35m274[0m [1m[34maur[0m[0m/[1mnodejs-camelcase[0m [36m6.2.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Convert a dash/dot/underscore/space separated string to camelCase.
+[35m273[0m [1m[34maur[0m[0m/[1mnodejs-google-clasp[0m [36m2.3.0-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Out-of-date: 2021-08-29)[0m[0m 
+    Develop Apps Script Projects locally
+[35m272[0m [1m[34maur[0m[0m/[1mnvm-git[0m [36m0.39.7.r0.gbab86d5-1[0m[1m (+6[0m [1m0.00) [0m
+    Node Version Manager - Simple bash script to manage multiple active node.js versions (git sources)
+[35m271[0m [1m[34maur[0m[0m/[1mnodejs-airfile-git[0m [36m2019.10.23-1[0m[1m (+2[0m [1m0.10) [0m[1m[31m(Orphaned)[0m[0m 
+    Transfer files from android to your local machine
+[35m270[0m [1m[34maur[0m[0m/[1mnodejs-fauna-shell[0m [36m0.12.5-1[0m[1m (+2[0m [1m0.00) [0m
+    faunadb access via the cli
+[35m269[0m [1m[34maur[0m[0m/[1mnodejs-localtunnel[0m [36m2.0.2-1[0m[1m (+2[0m [1m0.00) [0m
+    Expose localhost to the world
+[35m268[0m [1m[34maur[0m[0m/[1mnodejs-local-npm[0m [36m2.2.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Local and offline-first npm mirror.
+[35m267[0m [1m[34maur[0m[0m/[1mnodejs-redis-commander[0m [36m0.7.0-2[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Out-of-date: 2021-12-28)[0m[0m 
+    Redis management tool written in node.js
+[35m266[0m [1m[34maur[0m[0m/[1mnodejs-less-plugin-clean-css[0m [36m1.5.1-3[0m[1m (+7[0m [1m0.00) [0m
+    Post-process and compress CSS using clean-css
+[35m265[0m [1m[34maur[0m[0m/[1mtorrentflix[0m [36m9.0.7-8[0m[1m (+10[0m [1m0.00) [0m
+    Nodejs cli app to search torrent sites and stream using peerflix
+[35m264[0m [1m[34maur[0m[0m/[1mnodejs-dicy-cli[0m [36m0.12.3-1[0m[1m (+0[0m [1m0.00) [0m
+    A JavaScript based builder for LaTeX, knitr and literate Haskell that automatically builds dependencies.
+[35m263[0m [1m[34maur[0m[0m/[1mnodejs-passport[0m [36m0.5.3-1[0m[1m (+0[0m [1m0.00) [0m
+    Passport is Express-compatible authentication middleware for Node.js.
+[35m262[0m [1m[34maur[0m[0m/[1mnodejs-push-dir[0m [36m0.4.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Push the contents of a directory to a remote branch
+[35m261[0m [1m[34maur[0m[0m/[1mnodejs-wstunnel[0m [36m1.1.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2017-06-18)[0m[0m 
+    Tunnels a TCP socket over a WebSocket connection
+[35m260[0m [1m[34maur[0m[0m/[1mnodejs-neon-cli[0m [36m0.9.1-0[0m[1m (+0[0m [1m0.00) [0m
+    The Neon Command-Line Tool: Build native Node.js plugins with Rust.
+[35m259[0m [1m[34maur[0m[0m/[1mnodejs-ynab-cli[0m [36m1.2.2-1[0m[1m (+0[0m [1m0.00) [0m
+    CLI tool for YNAB budgeting software
+[35m258[0m [1m[34maur[0m[0m/[1mnodejs-markserv[0m [36m1.17.4-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Markserv serves Markdown files as GitHub style HTML and LiveReloads your files in the browser as you edit.
+[35m257[0m [1m[34maur[0m[0m/[1mnodejs-fast-cli[0m [36m4.0.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Test your download and upload speed using fast.com from Netflix
+[35m256[0m [1m[34maur[0m[0m/[1mnodejs-bootlint[0m [36m1.1.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    HTML linter for Bootstrap projects
+[35m255[0m [1m[34maur[0m[0m/[1mnodejs-inherits[0m [36m2.0.4-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-04-20)[0m[0m 
+    Browser-friendly inheritance fully compatible with standard node.js
+[35m254[0m [1m[34maur[0m[0m/[1mnodejs-wordwrap[0m [36m1.0.0-2[0m[1m (+0[0m [1m0.00) [0m
+    Light-weight option parsing with an argv hash. No optstrings attached.
+[35m253[0m [1m[34maur[0m[0m/[1mnodejs-istanbul[0m [36m0.4.4-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2022-05-15)[0m[0m 
+    Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests
+[35m252[0m [1m[34maur[0m[0m/[1mnodejs-has-flag[0m [36m4.0.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Check if argv has a specific flag.
+[35m251[0m [1m[34maur[0m[0m/[1mnodejs-jslinter[0m [36m1.5.47-1[0m[1m (+0[0m [1m0.00) [0m
+    JSLint for Node.js
+[35m250[0m [1m[34maur[0m[0m/[1mnodejs-wiki-cli[0m [36m0.0.4-1[0m[1m (+0[0m [1m0.00) [0m
+    Search Wikipedia and read summaries directly in your terminal!
+[35m249[0m [1m[34maur[0m[0m/[1mnodejs-optimist[0m [36m0.6.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Light-weight option parsing with an argv hash. No optstrings attached.
+[35m248[0m [1m[34maur[0m[0m/[1mnodejs-thumbsup[0m [36m2.16.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-12-10)[0m[0m 
+    Photo / video gallery generator
+[35m247[0m [1m[34maur[0m[0m/[1mnodejs-lhci-cli[0m [36m0.13.0-1[0m[1m (+0[0m [1m0.00) [0m
+    The Lighthouse CI CLI
+[35m246[0m [1m[34maur[0m[0m/[1mnodejs-cmake-js[0m [36m7.3.0-1[0m[1m (+0[0m [1m0.00) [0m
+    CMake.js - a Node.js native addon build tool
+[35m245[0m [1m[34maur[0m[0m/[1mnodejs-json-diff[0m [36m0.5.4-1[0m[1m (+1[0m [1m0.00) [0m
+    JSON diff
+[35m244[0m [1m[34maur[0m[0m/[1mnodejs-ionic-cli[0m [36m6.4.1-1[0m[1m (+1[0m [1m0.00) [0m
+    The Ionic command-line interface (CLI) for developing Ionic apps.
+[35m243[0m [1m[34maur[0m[0m/[1mnodejs-slack-tui[0m [36m0.1.2-2[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2021-06-14)[0m[0m 
+    TUI-based Slack client.
+[35m242[0m [1m[34maur[0m[0m/[1mpython-node-semver[0m [36m0.8.1-2[0m[1m (+25[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-09-17)[0m[0m 
+    python version of node-semver
+[35m241[0m [1m[34maur[0m[0m/[1mnodemcu-pyflasher[0m [36m5.0.0-1[0m[1m (+2[0m [1m0.00) [0m
+    Self-contained NodeMCU flasher with GUI based on esptool.py and wxPython.
+[35m240[0m [1m[34maur[0m[0m/[1mnodejs-gatsby-cli[0m [36m4.11.2-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-08-10)[0m[0m 
+    Gatsby command-line interface for creating new sites and running Gatsby commands
+[35m239[0m [1m[34maur[0m[0m/[1mnodejs-gitter-cli[0m [36m0.8.5-1[0m[1m (+2[0m [1m0.00) [0m
+    A gitter client for your console.
+[35m238[0m [1m[34maur[0m[0m/[1mnodejs-coffeelint[0m [36m2.0.6-4[0m[1m (+2[0m [1m0.00) [0m
+    Style checker for CoffeeScript
+[35m237[0m [1m[34maur[0m[0m/[1mnodejs-markdown-toc[0m [36m1.2.0-1[0m[1m (+3[0m [1m0.60) [0m
+    generate markdown TOC (table of contents)
+[35m236[0m [1m[34maur[0m[0m/[1mnodejs-jsinspect[0m [36m0.12.7-1[0m[1m (+1[0m [1m0.00) [0m
+    Detect copy-pasted and structurally similar JavaScript code.
+[35m235[0m [1m[34maur[0m[0m/[1mnodejs-cli-boxes[0m [36m2.2.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Boxes for use in the terminal.
+[35m234[0m [1m[34maur[0m[0m/[1mnodejs-xml2json[0m [36m0.12.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Converts XML to JSON using node-expat
+[35m233[0m [1m[34maur[0m[0m/[1mnodejs-cross-seed[0m [36m5.9.2-1[0m[1m (+2[0m [1m0.15) [0m
+    Download torrents to cross seed based on your existing torrents.
+[35m232[0m [1m[34maur[0m[0m/[1mnodejs-stegcloak[0m [36m1.1.1-1[0m[1m (+1[0m [1m0.01) [0m
+    Hide secrets with invisible characters in plain text securely using passwords
+[35m231[0m [1m[34maur[0m[0m/[1mnodejs-hackmyresume[0m [36m1.9.0_beta-1[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
+[35m230[0m [1m[34maur[0m[0m/[1mnodejs-shelljs[0m [36m0.8.2-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-03-12)[0m[0m 
+    ShellJS - Unix shell commands for Node.js
+[35m229[0m [1m[34maur[0m[0m/[1mnodejs-whistle[0m [36m2.9.70-1[0m[1m (+0[0m [1m0.00) [0m
+    HTTP, HTTP2, HTTPS, Websocket debugging proxy
+[35m228[0m [1m[34maur[0m[0m/[1mnodejs-nodeppt[0m [36m2.2.2-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A simple, in-browser, markdown-driven presentation framework
+[35m227[0m [1m[34maur[0m[0m/[1mnodejs-lint-md[0m [36m0.1.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Cli tool to lint your markdown file for Chinese.
+[35m226[0m [1m[34maur[0m[0m/[1mnodejs-jwt-cli[0m [36m2.0.0-1[0m[1m (+0[0m [1m0.00) [0m
+    An npm package for decoding JSON Web Tokens (JWT) in a cli
+[35m225[0m [1m[34maur[0m[0m/[1mnodejs-maildev[0m [36m2.0.5-1[0m[1m (+0[0m [1m0.00) [0m
+    SMTP Server + Web Interface for viewing and testing emails during development.
+[35m224[0m [1m[34maur[0m[0m/[1mnodejs-calipso[0m [36m0.3.54-1[0m[1m (+0[0m [1m0.00) [0m
+    A NodeJS CMS
+[35m223[0m [1m[34maur[0m[0m/[1mnodejs-redbird[0m [36m0.10.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A modern reverse proxy for node
+[35m222[0m [1m[34maur[0m[0m/[1mnodejs-squiffy[0m [36m4.0.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-11-14)[0m[0m 
+    A tool for creating multiple-choice interactive stories
+[35m221[0m [1m[34maur[0m[0m/[1mnodejs-nodeunit[0m [36m0.11.3-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Easy unit testing for node.js and the browser.
+[35m220[0m [1m[34maur[0m[0m/[1mnodejs-birthday[0m [36m1.2.12-1[0m[1m (+1[0m [1m0.00) [0m
+    Know when a friend's birthday is coming.
+[35m219[0m [1m[34maur[0m[0m/[1mnodejs-html-pdf[0m [36m2.1.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-01-21)[0m[0m 
+    HTML to PDF converter
+[35m218[0m [1m[34maur[0m[0m/[1mnodejs-wildduck[0m [36m1.41.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Opinionated email server
+[35m217[0m [1m[34maur[0m[0m/[1mnodejs-keyoxide[0m [36m0.4.4-1[0m[1m (+1[0m [1m0.00) [0m
+    CLI for Keyoxide
+[35m216[0m [1m[34maur[0m[0m/[1mnodejs-termcolors[0m [36m0.7.3-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Convert terminal color schemes
+[35m215[0m [1m[34maur[0m[0m/[1mnodejs-ember-cli[0m [36m4.0.1-1[0m[1m (+2[0m [1m0.00) [0m
+    The ember command line interface
+[35m214[0m [1m[34maur[0m[0m/[1mnodejs-lumo-cljs[0m [36m1.10.1-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Fast, cross-platform, standalone ClojureScript REPL
+[35m213[0m [1m[34maur[0m[0m/[1mnodejs-commitizen[0m [36m4.3.0-1[0m[1m (+3[0m [1m0.02) [0m
+    Git plugin to help you write consistent commit messages
+[35m212[0m [1m[34maur[0m[0m/[1mnodejs-autocannon[0m [36m7.15.0-1[0m[1m (+3[0m [1m0.00) [0m
+    fast HTTP/1.1 benchmarking tool written in Node.js
+[35m211[0m [1m[34maur[0m[0m/[1mnodejs-percollate[0m [36m2.1.0-1[0m[1m (+3[0m [1m0.31) [0m[1m[31m(Out-of-date: 2022-09-02)[0m[0m 
+    Percollate is a command-line tool that turns web pages into beautifully formatted PDF, EPUB, or HTML files.
+[35m210[0m [1m[34maur[0m[0m/[1mnodenv-node-build[0m [36m5.0.4-1[0m[1m (+3[0m [1m0.49) [0m
+    Install NodeJS versions
+[35m209[0m [1m[34maur[0m[0m/[1mnodejs-aws-lib[0m [36m0.3.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Extensible Node.js library for the Amazon Web Services API
+[35m208[0m [1m[34maur[0m[0m/[1mnodejs-nearley[0m [36m2.16.0-0[0m[1m (+0[0m [1m0.00) [0m
+    nearley is a simple, fast and powerful parsing toolkit.
+[35m207[0m [1m[34maur[0m[0m/[1mnodejs-node.io[0m [36m0.5.1-1[0m[1m (+0[0m [1m0.00) [0m
+    A distributed data scraping and processing framework
+[35m206[0m [1m[34maur[0m[0m/[1mnncp[0m [36m8.10.0-7[0m[1m (+1[0m [1m0.00) [0m
+    Node-to-Node Copy Protocol utilities for secure store-and-forward
+[35m205[0m [1m[34maur[0m[0m/[1mnodejs-cz-emoji[0m [36m1.3.1-2[0m[1m (+1[0m [1m0.00) [0m
+    Commitizen plugin to use gitmojis in your commits
+[35m204[0m [1m[34maur[0m[0m/[1mnodejs-node-pre-gyp[0m [36m1.0.11-2[0m[1m (+3[0m [1m0.00) [0m
+    Node.js tool for easy binary deployment of C++ addons
+[35m203[0m [1m[34maur[0m[0m/[1mnode-spellchecker[0m [36m3.7.1-1[0m[1m (+1[0m [1m0.00) [0m
+    node.js bindings to native spellchecker
+[35m202[0m [1m[34maur[0m[0m/[1mnodejs-telegraf[0m [36m3.38.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Modern Telegram Bot Framework for Node.js
+[35m201[0m [1m[34maur[0m[0m/[1mnodejs-csv2json[0m [36m1.4.2-1[0m[1m (+1[0m [1m0.00) [0m
+    Stream and CLI to convert CSV to JSON
+[35m200[0m [1m[34maur[0m[0m/[1mnodejs-mermaid-git[0m [36m7.0.5.r196.ga499296-1[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-03-19)[0m[0m 
+    Generation of diagram and flowchart from text in a similar manner as markdown
+[35m199[0m [1m[34maur[0m[0m/[1mqodejs-bin[0m [36m18.12.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Lightly modified fork of Node.js that allows injecting a third party event loop alongside Node's event loop
+[35m198[0m [1m[34maur[0m[0m/[1mnodejs-fontmin[0m [36m1.0.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Font converter/Optimizer
+[35m197[0m [1m[34maur[0m[0m/[1mnodejs-zone-mta[0m [36m3.9.3-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Modern outbound MTA cross platform and extendable server application
+[35m196[0m [1m[34maur[0m[0m/[1mnodejs-entropic[0m [36m0.0.1-1[0m[1m (+2[0m [1m0.00) [0m
+    The Entropic package registry's ds command-line interface
+[35m195[0m [1m[34maur[0m[0m/[1mnode-hp-scan-to[0m [36m1.4.2-0[0m[1m (+2[0m [1m0.00) [0m
+    Little command line program that allow to send scan from device to computer. For this purpose, the original HP Windows application's interaction with the device has been reverse engineered.
+[35m194[0m [1m[34maur[0m[0m/[1mnodejs-winston[0m [36m3.4.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A logger for just about everything.
+[35m193[0m [1m[34maur[0m[0m/[1mnodejs-mapscii[0m [36m0.3.1-4[0m[1m (+1[0m [1m0.00) [0m
+    Map+Ascii -> MapSCII! Console Map Viewer.
+[35m192[0m [1m[34maur[0m[0m/[1mnodejs-sqlite3[0m [36m5.1.7-1[0m[1m (+1[0m [1m0.00) [0m
+    Asynchronous, non-blocking SQLite3 bindings
+[35m191[0m [1m[34maur[0m[0m/[1mnodejs-gamedig[0m [36m4.3.1-1[0m[1m (+1[0m [1m0.09) [0m
+    A CLI tool for querying the status of nearly any game or voice server
+[35m190[0m [1m[34maur[0m[0m/[1mnodejs-js-yaml[0m [36m4.1.0-1[0m[1m (+1[0m [1m0.00) [0m
+    YAML 1.2 parser and writer
+[35m189[0m [1m[34maur[0m[0m/[1mnodejs-ajv-cli[0m [36m5.0.0-1[0m[1m (+1[0m [1m0.00) [0m
+    A command line interface for epoberezkin/ajv JSON schema validator
+[35m188[0m [1m[34maur[0m[0m/[1mnodejs-have-it[0m [36m1.12.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-03-07)[0m[0m 
+    The fastest NPM install does nothing because you already have it
+[35m187[0m [1m[34maur[0m[0m/[1mnodejs-pandiff[0m [36m0.6.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Prose diffs for any document format supported by Pandoc
+[35m186[0m [1m[34maur[0m[0m/[1mnodejs-nodekey[0m [36m1.1.0-1[0m[1m (+1[0m [1m0.00) [0m
+    A Simple interactive CLI password manager, store and generator based on scrypt
+[35m185[0m [1m[34maur[0m[0m/[1mnodejs-express-generator[0m [36m4.16.1-2[0m[1m (+9[0m [1m0.00) [0m
+    Express' application generator
+[35m184[0m [1m[34maur[0m[0m/[1mnodejs-emmet-ls[0m [36m0.4.2-1[0m[1m (+1[0m [1m0.00) [0m
+    Emmet support by LSP
+[35m183[0m [1m[34maur[0m[0m/[1mnodenv-latest[0m [36m0.2.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Enhances nodenv with a `latest` subcommand, which prints the latest Node.js version
+[35m182[0m [1m[34maur[0m[0m/[1mnodejs-servor[0m [36m4.0.2-1[0m[1m (+0[0m [1m0.00) [0m
+    A close to the metal and dependency free server for single page app development
+[35m181[0m [1m[34maur[0m[0m/[1mnodejs-apg-js[0m [36m4.4.0-1[0m[1m (+0[0m [1m0.00) [0m
+    an ABNF parser generator creating recursive-descent parsers from a superset of ABNF
+[35m180[0m [1m[34maur[0m[0m/[1mnodejs-madoko[0m [36m1.1.4-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    
+[35m179[0m [1m[34maur[0m[0m/[1mnodejs-shared[0m [36m21.7.1-4[0m[1m (+0[0m [1m0.00) [0m
+    Evented I/O for V8 javascript
+[35m178[0m [1m[34maur[0m[0m/[1mnodejs-tslide[0m [36m1.5.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Terminal SlideDeck, supporting markdown.
+[35m177[0m [1m[34maur[0m[0m/[1mnodejs-cspell[0m [36m8.1.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A Spelling Checker for Code!
+[35m176[0m [1m[34maur[0m[0m/[1mnodejs-gitbook-cli[0m [36m2.3.2-3[0m[1m (+5[0m [1m0.00) [0m
+    CLI to generate books and documentation using gitbook
+[35m175[0m [1m[34maur[0m[0m/[1mnodejs-browser-sync[0m [36m2.29.1-1[0m[1m (+5[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Live CSS Reload & Browser Syncing
+[35m174[0m [1m[34maur[0m[0m/[1mnodejs-svgexport[0m [36m0.4.2-1[0m[1m (+2[0m [1m0.00) [0m
+    Node.js module and command-line tool for exporting SVG to PNG and JPEG.
+[35m173[0m [1m[34maur[0m[0m/[1myodejs-bin[0m [36m0.11.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Fork of Node.js using GUI message loop
+[35m172[0m [1m[34maur[0m[0m/[1mnodejs-postcss[0m [36m8.4.38-1[0m[1m (+1[0m [1m0.00) [0m
+    Tool for transforming styles with JS plugins
+[35m171[0m [1m[34maur[0m[0m/[1mnodejs-lambda[0m [36m0.10.3-1[0m[1m (+0[0m [1m0.00) [0m
+    An effort to create the perfect programming language.
+[35m170[0m [1m[34maur[0m[0m/[1mnodejs-intelephense[0m [36m1.10.4-1[0m[1m (+6[0m [1m0.08) [0m
+    Intelephense is a PHP language server adhering to the Language Server Protocol.
+[35m169[0m [1m[34maur[0m[0m/[1mnodejs-csso-cli[0m [36m4.0.2-1[0m[1m (+2[0m [1m0.00) [0m
+    Command line interface for CSSO
+[35m168[0m [1m[34maur[0m[0m/[1mnamecoin-core[0m [36m25.1-1[0m[1m (+9[0m [1m0.00) [0m
+    Namecoin Core headless P2P node
+[35m167[0m [1m[34maur[0m[0m/[1mnodejs-cross-env[0m [36m7.0.3-1[0m[1m (+2[0m [1m0.00) [0m
+    Node cross platform setting of environment scripts.
+[35m166[0m [1m[34maur[0m[0m/[1mnatron-bin[0m [36m2.5.0-1[0m[1m (+11[0m [1m0.11) [0m
+    Node-graph video compositor
+[35m165[0m [1m[34maur[0m[0m/[1mnodejs-git-stats[0m [36m2.10.11-1[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Out-of-date: 2021-12-28)[0m[0m 
+    A GitHub-like contributions calendar, but locally, with all your git commits.
+[35m164[0m [1m[34maur[0m[0m/[1mnodejs-groovebasin[0m [36m1.5.1-1[0m[1m (+6[0m [1m0.00) [0m
+    Music player server with a web-based user interface inspired by Amarok 1.4
+[35m163[0m [1m[34maur[0m[0m/[1mnodejs-lua-fmt[0m [36m2.6.0-3[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A pretty-printer for Lua code
+[35m162[0m [1m[34maur[0m[0m/[1mnodejs-azurite[0m [36m3.30.0-2[0m[1m (+2[0m [1m0.00) [0m
+    A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies
+[35m161[0m [1m[34maur[0m[0m/[1mnodejs-glslify[0m [36m7.1.1-2[0m[1m (+2[0m [1m0.00) [0m
+    A node.js-style module system for GLSL!
+[35m160[0m [1m[34maur[0m[0m/[1mnodejs-pug-cli[0m [36m1.0.0alpha6-3[0m[1m (+2[0m [1m0.00) [0m
+    Pug's CLI interface
+[35m159[0m [1m[34maur[0m[0m/[1mnodejs-markdown-pdf[0m [36m10.0.0-2[0m[1m (+7[0m [1m0.00) [0m
+    Markdown to PDF converter
+[35m158[0m [1m[34maur[0m[0m/[1mnodejs-editly[0m [36m0.14.2-0[0m[1m (+1[0m [1m0.00) [0m
+    create video from a set of clips, images and titles, NLE, non-linear video editing
+[35m157[0m [1m[34maur[0m[0m/[1mnodejs-triton[0m [36m7.15.1-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Triton client tool and node.js library
+[35m156[0m [1m[34maur[0m[0m/[1mnodeboxeditor[0m [36m0.9.2-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-03)[0m[0m 
+    3D Cuboid Voxel Editor for Minetest
+[35m155[0m [1m[34maur[0m[0m/[1mnodejs-bunyan[0m [36m2.0.5-1[0m[1m (+1[0m [1m0.00) [0m
+    A simple and fast JSON logging module for node.js services.
+[35m154[0m [1m[34maur[0m[0m/[1mselektor[0m [36m3.13.73-2[0m[1m (+14[0m [1m0.00) [0m
+    Tor launcher and exit node chooser
+[35m153[0m [1m[34maur[0m[0m/[1mnodejs-livescript[0m [36m1.6.1-1[0m[1m (+5[0m [1m0.00) [0m
+    LiveScript is a language which compiles to JavaScript
+[35m152[0m [1m[34maur[0m[0m/[1mnodejs-csscomb[0m [36m4.3.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Coding style formatter for CSS
+[35m151[0m [1m[34maur[0m[0m/[1mnodejs-xdccjs[0m [36m5.1.5-1[0m[1m (+1[0m [1m0.01) [0m
+    download files from XDCC bots on IRC, complete implementation of the XDCC protocol
+[35m150[0m [1m[34maur[0m[0m/[1mnodejs-mathjs[0m [36m3.13.3-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    An extensive math library for JS which also includes a powerful CLI interface
+[35m149[0m [1m[34maur[0m[0m/[1mnodejs-carto[0m [36m1.2.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-03-22)[0m[0m 
+    Mapnik Stylesheet Compiler
+[35m148[0m [1m[34maur[0m[0m/[1mnodejs-sails[0m [36m1.1.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Realtime MVC Framework for Node.js.
+[35m147[0m [1m[34maur[0m[0m/[1mnodejs-husky[0m [36m9.0.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Git hooks made easy 🐶 woof!
+[35m146[0m [1m[34maur[0m[0m/[1mnodejs-mssql[0m [36m8.1.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Microsoft SQL Server client for Node.js
+[35m145[0m [1m[34maur[0m[0m/[1mnodejs-sweet[0m [36m3.0.15-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Hygienic Macros for JavaScript
+[35m144[0m [1m[34maur[0m[0m/[1mnodejs-npm-check[0m [36m6.0.1-1[0m[1m (+5[0m [1m0.00) [0m
+    Check for outdated, incorrect, and unused dependencies.
+[35m143[0m [1m[34maur[0m[0m/[1mnodejs-gitmoji-cli[0m [36m9.2.0-1[0m[1m (+7[0m [1m0.03) [0m
+    A gitmoji interactive client for using gitmojis on commit messages
+[35m142[0m [1m[34maur[0m[0m/[1mnodejs-tldr-git[0m [36mr6279.178e6959a-1[0m[1m (+4[0m [1m0.00) [0m
+    Simplified and community-driven man pages (git version)
+[35m141[0m [1m[34maur[0m[0m/[1mnodejs-tiddlywiki[0m [36m5.3.3-1[0m[1m (+6[0m [1m0.01) [0m
+    TiddlyWiki, a non-linear personal web notebook that anyone can use and keep forever, independently of any corporation. This is the nodejs server edition.
+[35m140[0m [1m[34maur[0m[0m/[1mnodejs-somafm[0m [36m2.7.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-07-27)[0m[0m 
+    Command Line Tool to play soma.fm
+[35m139[0m [1m[34maur[0m[0m/[1mnodejs-pageres[0m [36m2:8.0.0-1[0m[1m (+3[0m [1m0.00) [0m
+    Get screenshots of websites in different resolutions
+[35m138[0m [1m[34maur[0m[0m/[1mnodeflow-bin[0m [36m0.0.2_alpha-8[0m[1m (+0[0m [1m0.00) [0m
+    An Editor for creating simple or complex OCR workflows
+[35m137[0m [1m[34maur[0m[0m/[1mnodejs-qunit[0m [36m2.20.0-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    An easy-to-use JavaScript unit testing framework.
+[35m136[0m [1m[34maur[0m[0m/[1mnodejs-requirejs[0m [36m2.3.6-1[0m[1m (+2[0m [1m0.00) [0m
+    Node.js adapter for RequireJS
+[35m135[0m [1m[34maur[0m[0m/[1mnodejs-clinic[0m [36m13.0.0-3[0m[1m (+2[0m [1m0.00) [0m
+    diagnoses your Node.js performance issues
+[35m134[0m [1m[34maur[0m[0m/[1mnodejs-marked[0m [36m1.0.0-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A markdown parser built for speed
+[35m133[0m [1m[34maur[0m[0m/[1mnodelock-git[0m [36m1.1.5-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Locking utility for smart cards
+[35m132[0m [1m[34maur[0m[0m/[1mnodejs-svgo-git[0m [36m3.0.2.r3.g73f7002-1[0m[1m (+2[0m [1m0.00) [0m
+    Node.js tool for optimizing SVG files
+[35m131[0m [1m[34maur[0m[0m/[1mnodemailerapp[0m [36m1.0.16-1[0m[1m (+1[0m [1m0.00) [0m
+    NodemailerApp is the ultimate cross platform email debugging app
+[35m130[0m [1m[34maur[0m[0m/[1mnodejs-decktape[0m [36m3.10.0-1[0m[1m (+5[0m [1m0.00) [0m
+    PDF exporter for HTML presentation frameworks
+[35m129[0m [1m[34maur[0m[0m/[1mnodejs-chalk[0m [36m5.3.0-3[0m[1m (+1[0m [1m0.00) [0m
+    Terminal string styling done right.
+[35m128[0m [1m[34maur[0m[0m/[1mnodejs-hubot[0m [36m3.3.2-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A simple helpful robot for your Company
+[35m127[0m [1m[34maur[0m[0m/[1mnodejs-hotel[0m [36m0.8.7-1[0m[1m (+1[0m [1m0.00) [0m
+    A simple process manager for developers. Start apps from your browser and access them using local domains.
+[35m126[0m [1m[34maur[0m[0m/[1mnodejs-addon-api[0m [36m8.0.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Node.js API (N-API)
+[35m125[0m [1m[34maur[0m[0m/[1mprey-node-client[0m [36m1.11.9-1[0m[1m (+35[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-05-04)[0m[0m 
+    Node.js client for the Prey anti-theft software
+[35m124[0m [1m[34maur[0m[0m/[1mnodejs-chimp[0m [36m0.50.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Develop acceptance tests & end-to-end tests with realtime feedback
+[35m123[0m [1m[34maur[0m[0m/[1mnodenv-nvmrc[0m [36m1.0.6-1[0m[1m (+0[0m [1m0.00) [0m
+    nodenv plugin that detects the node version based on .nvmrc.
+[35m122[0m [1m[34maur[0m[0m/[1mnodejs-http-server[0m [36m14.1.1-1[0m[1m (+9[0m [1m0.00) [0m
+    A simple zero-configuration command-line http server
+[35m121[0m [1m[34maur[0m[0m/[1mnodejs-serverless[0m [36m3.38.0-1[0m[1m (+8[0m [1m0.00) [0m
+    Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more
+[35m120[0m [1m[34maur[0m[0m/[1mnodejs-hueadm[0m [36m1.2.1-1[0m[1m (+3[0m [1m0.10) [0m
+    CLI to control Philips HUE lights
+[35m119[0m [1m[34maur[0m[0m/[1mnodejs-buster[0m [36m0.8.0-1[0m[1m (+3[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Buster.JS JavaScript Test framework. Meta package that pieces together various sub-projects.
+[35m118[0m [1m[34maur[0m[0m/[1mnodejs-reveal-md[0m [36m6.1.0-1[0m[1m (+7[0m [1m0.00) [0m
+    Get beautiful reveal.js presentations from your Markdown file
+[35m117[0m [1m[34maur[0m[0m/[1mnodejs-budo[0m [36m11.6.4-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-03-13)[0m[0m 
+    a browserify server for rapid prototyping
+[35m116[0m [1m[34maur[0m[0m/[1mnodejs-mjml[0m [36m4.15.3-1[0m[1m (+0[0m [1m0.00) [0m
+    The only framework that makes responsive-email easy
+[35m115[0m [1m[34maur[0m[0m/[1mnodejs-knit[0m [36m0.1.2-1[0m[1m (+0[0m [1m0.00) [0m
+    🧶 Knit local dependencies together
+[35m114[0m [1m[34maur[0m[0m/[1mnodejs-tget[0m [36m2.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Tget is wget for torrents
+[35m113[0m [1m[34maur[0m[0m/[1mnodejs-mjml3[0m [36m3.3.5-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Older version of MJML.
+[35m112[0m [1m[34maur[0m[0m/[1mnodejs-gitbook[0m [36m3.2.2-4[0m[1m (+5[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Library and cmd utility to generate GitBooks
+[35m111[0m [1m[34maur[0m[0m/[1mnodejs-ngrok[0m [36m4.3.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Node.js module and implementation of ngrok
+[35m110[0m [1m[34maur[0m[0m/[1mnodejs-uglifycss[0m [36m0.0.29-2[0m[1m (+7[0m [1m0.00) [0m
+    Port of YUI CSS Compressor from Java to NodeJS.
+[35m109[0m [1m[34maur[0m[0m/[1mnodejs-jsfmt[0m [36m0.5.3-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    gofmt for javascript
+[35m108[0m [1m[34maur[0m[0m/[1mnodejs-vite[0m [36m5.2.12-1[0m[1m (+0[0m [1m0.00) [0m
+    Next generation frontend tooling. It's fast!
+[35m107[0m [1m[34maur[0m[0m/[1mnodejs-foreman[0m [36m3.0.1-1[0m[1m (+2[0m [1m0.00) [0m
+    Node Implementation of Foreman
+[35m106[0m [1m[34maur[0m[0m/[1mnodejs-docco[0m [36m0.9.1-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Literate Programming can be Quick and Dirty.
+[35m105[0m [1m[34maur[0m[0m/[1mnodejs-pxder[0m [36m2.11.1-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Download illusts from pixiv.net P站插画批量下载器
+[35m104[0m [1m[34maur[0m[0m/[1mnodejs-emoj[0m [36m2.0.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2021-11-16)[0m[0m 
+    Find relevant emoji from text on the command-line
+[35m103[0m [1m[34maur[0m[0m/[1mnodejs-brunch[0m [36m2.8.2-2[0m[1m (+5[0m [1m0.00) [0m[1m[31m(Out-of-date: 2018-02-20)[0m[0m 
+    A lightweight approach to building HTML5 applications with emphasis on elegance and simplicity.
+[35m102[0m [1m[34maur[0m[0m/[1mnode-fanyi[0m [36m5.1.1-1[0m[1m (+0[0m [1m0.00) [0m
+    A CN and US translate tool in your command line.
+[35m101[0m [1m[34maur[0m[0m/[1mnodeeditor[0m [36m2.1.3-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2022-06-28)[0m[0m 
+    Qt-based library aimed at graph-controlled data processing
+[35m100[0m [1m[34maur[0m[0m/[1mnodejs-pkg[0m [36m5.8.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Package your Node.js project into an executable
+[35m99[0m [1m[34maur[0m[0m/[1mnodejs-nps[0m [36m5.10.0-2[0m[1m (+0[0m [1m0.00) [0m
+    All the benefits of npm scripts without the cost of a bloated package.json and limits of json
+[35m98[0m [1m[34maur[0m[0m/[1mnodejs-mgp[0m [36m1.3.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-17)[0m[0m 
+    Install private Meteor packages
+[35m97[0m [1m[34maur[0m[0m/[1mnodejs-surge[0m [36m0.23.1-1[0m[1m (+4[0m [1m0.00) [0m
+    CLI for the surge.sh CDN
+[35m96[0m [1m[34maur[0m[0m/[1mnodejs-serve[0m [36m14.2.3-1[0m[1m (+4[0m [1m0.37) [0m
+    Quick HTTP server
+[35m95[0m [1m[34maur[0m[0m/[1mpeerflix[0m [36m0.39.0-4[0m[1m (+59[0m [1m0.00) [0m
+    Streaming torrent client for node.js
+[35m94[0m [1m[34maur[0m[0m/[1mnodejs-spago[0m [36m0.20.9-1[0m[1m (+4[0m [1m0.00) [0m
+    PureScript package manager and build tool powered by Dhall and package-sets
+[35m93[0m [1m[34maur[0m[0m/[1mnodejs-clean-css[0m [36m5.3.3-1[0m[1m (+11[0m [1m0.00) [0m
+    A fast, efficient, and well tested CSS minifier for node.js.
+[35m92[0m [1m[34maur[0m[0m/[1mnodemcu-tool[0m [36m3.2.1-3[0m[1m (+5[0m [1m0.00) [0m
+    Upload/Download Lua files to your ESP8266 module with NodeMCU firmware
+[35m91[0m [1m[34maur[0m[0m/[1mnodejs-flood[0m [36m4.8.2-1[0m[1m (+5[0m [1m0.01) [0m
+    A modern web UI for various torrent clients
+[35m90[0m [1m[34maur[0m[0m/[1mnode-prune[0m [36m1.2.0-2[0m[1m (+1[0m [1m0.00) [0m
+    Remove unnecessary files from node_modules
+[35m89[0m [1m[34maur[0m[0m/[1mnodejs-forever[0m [36m4.0.3-1[0m[1m (+9[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Simple CLI tool for running Node scripts continuously
+[35m88[0m [1m[34maur[0m[0m/[1mnodejs-nodemon[0m [36m3.1.0-1[0m[1m (+9[0m [1m0.00) [0m
+    Simple monitor script for use during development of a node.js app.
+[35m87[0m [1m[34maur[0m[0m/[1mnodebox-git[0m [36m3.0.44.x-2[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-02)[0m[0m 
+    Node-based software application for generative design.
+[35m86[0m [1m[34maur[0m[0m/[1mnodejs-ionic[0m [36m5.4.16-1[0m[1m (+6[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A tool for creating and building Ionic Framework mobile apps.
+[35m85[0m [1m[34maur[0m[0m/[1mnodejs-json[0m [36m11.0.0-1[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A "json" command for massaging JSON on your Unix command line.
+[35m84[0m [1m[34maur[0m[0m/[1mnodejs-pulp[0m [36m15.0.0-1[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-09-22)[0m[0m 
+    A build system and package manager for PureScript projects.
+[35m83[0m [1m[34maur[0m[0m/[1mnodejs-csso[0m [36m5.0.5-1[0m[1m (+4[0m [1m0.00) [0m
+    CSS minifier with structural optimisations
+[35m82[0m [1m[34maur[0m[0m/[1mnodejs-jscs[0m [36m3.0.7-1[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    JavaScript Code Style
+[35m81[0m [1m[34maur[0m[0m/[1mnodejs-less[0m [36m4.2.0-1[0m[1m (+4[0m [1m0.00) [0m
+    A standalone compiler for the LESS CSS language.
+[35m80[0m [1m[34maur[0m[0m/[1mnodejs-vmd[0m [36m1.34.0-2[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Preview markdown files in a separate window. Markdown is formatted exactly the same as on GitHub.
+[35m79[0m [1m[34maur[0m[0m/[1mnodejs-node-red[0m [36m3.1.9-1[0m[1m (+12[0m [1m0.01) [0m
+    A visual tool for wiring the Internet of Things.
+[35m78[0m [1m[34maur[0m[0m/[1mnodejs-v8[0m [36m19.1.0-1[0m[1m (+0[0m [1m0.00) [0m
+    PKGBUILD to provide nodejs shared v8
+[35m77[0m [1m[34maur[0m[0m/[1mnodebrain[0m [36m0.9.04-1[0m[1m (+0[0m [1m0.00) [0m
+    A Rule Engine for State and Event Monitoring
+[35m76[0m [1m[34maur[0m[0m/[1mnodejs-jade[0m [36m1.11.0-1[0m[1m (+5[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A clean, whitespace-sensitive template language for writing HTML
+[35m75[0m [1m[34maur[0m[0m/[1mcodelite-git[0m [36m17.7.0.r26.g473b156f7-1[0m[1m (+15[0m [1m0.00) [0m
+    Cross platform IDE for C, C++, Rust, Python, PHP and Node.js written in C++
+[35m74[0m [1m[34maur[0m[0m/[1mnodejs-nan[0m [36m2.19.0-1[0m[1m (+2[0m [1m0.00) [0m
+    Native Abstractions for Node.js
+[35m73[0m [1m[34maur[0m[0m/[1mnodejs-dat[0m [36m14.0.2-1[0m[1m (+3[0m [1m0.00) [0m
+    Sync data across the distributed web
+[35m72[0m [1m[34maur[0m[0m/[1mnodejs-express[0m [36m4.18.1-1[0m[1m (+12[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-10-25)[0m[0m 
+    Fast, unopinionated, minimalist web framework for node.
+[35m71[0m [1m[34maur[0m[0m/[1mnodequery[0m [36m0.7.7-1[0m[1m (+1[0m [1m0.00) [0m
+    A lightweight and easy to use Linux server monitoring service.
+[35m70[0m [1m[34maur[0m[0m/[1mnodejs-vls[0m [36m0.8.5-1[0m[1m (+4[0m [1m0.00) [0m
+    Vue language server (LSP)
+[35m69[0m [1m[34maur[0m[0m/[1masdf-vm[0m [36m0.14.0-1[0m[1m (+37[0m [1m2.17) [0m
+    Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+[35m68[0m [1m[34maur[0m[0m/[1mnodejs-docs[0m [36m22.2.0-1[0m[1m (+3[0m [1m0.00) [0m
+    Node.js API documentation.
+[35m67[0m [1m[34maur[0m[0m/[1mnodejs-jsdoc[0m [36m3.6.11-1[0m[1m (+10[0m [1m0.00) [0m
+    An API documentation generator for JavaScript
+[35m66[0m [1m[34maur[0m[0m/[1mnodejs-mocha[0m [36m10.4.0-1[0m[1m (+10[0m [1m0.00) [0m
+    Simple, flexible, fun JavaScript test framework for Node.js & The Browser
+[35m65[0m [1m[34maur[0m[0m/[1mnx3-all[0m [36m3.5.0-4[0m[1m (+38[0m [1m0.10) [0m[1m[31m(Out-of-date: 2024-04-23)[0m[0m 
+    NoMachine nxclient, nxnode, and nxserver in one package (version 3.x which includes virtual desktop support)
+[35m64[0m [1m[34maur[0m[0m/[1mnodejs-jsonlint[0m [36m1.6.3-5[0m[1m (+19[0m [1m0.00) [0m
+    Validate JSON
+[35m63[0m [1m[34maur[0m[0m/[1mnodeinfo[0m [36m0.3.2-0[0m[1m (+0[0m [1m0.00) [0m
+    return nodeinfo as json based on a given domain
+[35m62[0m [1m[34maur[0m[0m/[1mnwjs-bin[0m [36m0.87.0-1[0m[1m (+52[0m [1m0.11) [0m
+    An app runtime based on Chromium and node.js.
+[35m61[0m [1m[34maur[0m[0m/[1mnodejs-webpack[0m [36m5.91.0-1[0m[1m (+19[0m [1m0.00) [0m
+    JavaScript bundler (CommonJs, AMD, ES6 modules, CSS, Images, JSON, CoffeeScript, LESS)
+[35m60[0m [1m[34maur[0m[0m/[1mnodejs-elm[0m [36m0.19.0-2[0m[1m (+8[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-03-07)[0m[0m 
+    Binaries for the Elm programming language
+[35m59[0m [1m[34maur[0m[0m/[1mnodejs-ws[0m [36m7.5.0-1[0m[1m (+5[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
+[35m58[0m [1m[34maur[0m[0m/[1mnodejs-neovim[0m [36m5.1.0-1[0m[1m (+18[0m [1m0.28) [0m
+    Nvim Node.js client and plugin host
+[35m57[0m [1m[34maur[0m[0m/[1mnodejs-how2[0m [36m1.1.0-4[0m[1m (+13[0m [1m0.00) [0m[1m[31m(Out-of-date: 2022-03-04)[0m[0m 
+    finds the simplest way to do something in a unix shell. It's like man, but you can query it in natural language:
+[35m56[0m [1m[34maur[0m[0m/[1mnodejs-git[0m [36m19.9.0.r1361.g6dcbf8b6166-1[0m[1m (+10[0m [1m0.00) [0m
+    JavaScript runtime built on Chrome's V8 JavaScript engine
+[35m55[0m [1m[34maur[0m[0m/[1mnodejs-tern[0m [36m0.24.3-2[0m[1m (+14[0m [1m0.00) [0m
+    A JavaScript code analyzer for deep, cross-editor language support
+[35m54[0m [1m[34maur[0m[0m/[1mcodelite-bin[0m [36m17.0-1[0m[1m (+32[0m [1m0.00) [0m
+    A cross platform C/C++/PHP and Node.js IDE written in C++
+[35m53[0m [1m[34maur[0m[0m/[1mnodejs-yeoman[0m [36m4.3.0-1[0m[1m (+25[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-03-13)[0m[0m 
+    CLI tool for running Yeoman generators
+[35m52[0m [1m[34maur[0m[0m/[1mnodejs-mkdirp[0m [36m0.5.1-1[0m[1m (+27[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2022-05-13)[0m[0m 
+    Recursively mkdir, like mkdir -p, but in node.js
+[35m51[0m [1m[34maur[0m[0m/[1mnodejs-ungit[0m [36m1.5.26-1[0m[1m (+26[0m [1m0.00) [0m
+    Git made easy
+[35m50[0m [1m[34maur[0m[0m/[1mnodejs-n[0m [36m9.2.3-1[0m[1m (+3[0m [1m0.00) [0m
+    Node version management
+[35m49[0m [1m[34maur[0m[0m/[1mnodebox[0m [36m3.0.50-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Out-of-date: 2021-09-09)[0m[0m 
+    Node-based software application for generative design.
+[35m48[0m [1m[34maur[0m[0m/[1mnodejs-npm2arch[0m [36m2.2.0-1[0m[1m (+49[0m [1m0.87) [0m
+    Convert NPM package to a PKGBUILD for ArchLinux
+[35m47[0m [1m[34maur[0m[0m/[1mnodejs-nativefier[0m [36m52.0.0-1[0m[1m (+75[0m [1m0.58) [0m
+    A command-line tool to easily create a desktop app for any web site with minimal configuration
+[35m46[0m [1m[34maur[0m[0m/[1mnodejs-tldr[0m [36m3.3.2-2[0m[1m (+31[0m [1m0.00) [0m
+    Simplified and community-driven man pages
+[35m45[0m [1m[34maur[0m[0m/[1mnodejs-jshint[0m [36m2.13.6-1[0m[1m (+57[0m [1m0.00) [0m
+    Static analysis tool for JavaScript
+[35m44[0m [1m[34maur[0m[0m/[1mnodenv[0m [36m1.4.0-1[0m[1m (+5[0m [1m0.49) [0m[1m[31m(Out-of-date: 2023-04-26)[0m[0m 
+    Manage multiple NodeJS versions
+[35m43[0m [1m[34maur[0m[0m/[1mnvm[0m [36m0.39.7-1[0m[1m (+285[0m [1m7.52) [0m
+    Node Version Manager - Simple bash script to manage multiple active node.js versions
+[35m42[0m [1m[34maur[0m[0m/[1mcodelite[0m [36m17.0.0-0[0m[1m (+174[0m [1m0.02) [0m
+    Cross platform IDE for C, C++, Rust, Python, PHP and Node.js written in C++
+[35m41[0m [1m[32mextra[0m[0m/[1mcertbot-dns-linode[0m [36m2.8.0-2[0m[1m (15.9 KiB 54.2 KiB) [0m
+    Linode DNS Authenticator plugin for Certbot
+[35m40[0m [1m[32mextra[0m[0m/[1mpython-hatch-nodejs-version[0m [36m0.3.2-2[0m[1m (15.3 KiB 58.2 KiB) [0m
+    Hatch plugin for versioning from a package.json file
+[35m39[0m [1m[32mextra[0m[0m/[1mbrowserify[0m [36m17.0.0-1[0m[1m (1.3 MiB 8.6 MiB) [0m
+    browser-side require() the node way
+[35m38[0m [1m[32mextra[0m[0m/[1mpython-calmjs[0m [36m3.4.4-3[0m[1m (405.2 KiB 3.1 MiB) [0m
+    Framework for building toolchains and utilities for working with the JavaScript/Node.js ecosystem
+[35m37[0m [1m[32mextra[0m[0m/[1mtexlive-pstricks[0m [36m2024.2-2[0m[1m (28.6 MiB 46.3 MiB) [0m[texlive] 
+    TeX Live - PSTricks
+[35m36[0m [1m[32mextra[0m[0m/[1ms3rver[0m [36m3.7.1-1[0m[1m (1.3 MiB 5.9 MiB) [0m
+    A fake S3 server written in NodeJs
+[35m35[0m [1m[32mextra[0m[0m/[1mphonegap[0m [36m9.0.0-2[0m[1m (5.8 MiB 33.4 MiB) [0m
+    PhoneGap command-line interface and node.js library
+[35m34[0m [1m[32mextra[0m[0m/[1mtexlive-pictures[0m [36m2024.2-2[0m[1m (16.2 MiB 76.8 MiB) [0m[texlive] 
+    TeX Live - Graphics, pictures, diagrams
+[35m33[0m [1m[32mextra[0m[0m/[1mpython-asttokens[0m [36m2.4.1-2[0m[1m (46.6 KiB 207.1 KiB) [0m[1m[32m(Installed)[0m[0m
+    Get the currently executing AST node of a frame, and other information
+[35m32[0m [1m[32mextra[0m[0m/[1mpython-executing[0m [36m2.0.0-3[0m[1m (53.8 KiB 239.9 KiB) [0m[1m[32m(Installed)[0m[0m
+    Get the currently executing AST node of a frame, and other information
+[35m31[0m [1m[32mextra[0m[0m/[1mpm2[0m [36m5.3.1-1[0m[1m (3.2 MiB 20.4 MiB) [0m
+    Production process manager for Node.JS applications with a built-in load balancer
+[35m30[0m [1m[32mextra[0m[0m/[1mprometheus-node-exporter[0m [36m1.8.1-1[0m[1m (4.4 MiB 13.5 MiB) [0m
+    Exporter for machine metrics
+[35m29[0m [1m[32mextra[0m[0m/[1mruby-rubocop-ast[0m [36m1.23.0-2[0m[1m (175.9 KiB 728.6 KiB) [0m
+    RuboCop's AST extensions and NodePattern functionality
+[35m28[0m [1m[32mextra[0m[0m/[1mtexlive-luatex[0m [36m2024.2-2[0m[1m (3.3 MiB 17.4 MiB) [0m[texlive] 
+    TeX Live - LuaTeX packages
+[35m27[0m [1m[32mextra[0m[0m/[1mpython-jsonpointer[0m [36m2.4-2[0m[1m (13.0 KiB 29.8 KiB) [0m
+    Identify specific nodes in a JSON document (RFC 6901)
+[35m26[0m [1m[32mextra[0m[0m/[1mpython-spinners[0m [36m0.0.24-5[0m[1m (9.3 KiB 40.1 KiB) [0m
+    Spinners for terminal, python wrapper for amazing node library cli-spinners
+[35m25[0m [1m[32mextra[0m[0m/[1mpassenger[0m [36m6.0.22-1[0m[1m (24.7 MiB 134.2 MiB) [0m
+    Fast and robust web server and application server for Ruby, Python and Node.js
+[35m24[0m [1m[32mextra[0m[0m/[1mvalabind[0m [36m1.8.0-3[0m[1m (82.2 KiB 246.1 KiB) [0m
+    Tool to parse vala or vapi files to transform them into swig interface files, C++, NodeJS-ffi or GIR
+[35m23[0m [1m[32mextra[0m[0m/[1mts-node[0m [36m10.9.2-1[0m[1m (656.9 KiB 5.8 MiB) [0m
+    TypeScript execution and REPL for node.js, with source map support
+[35m22[0m [1m[32mextra[0m[0m/[1mpython-pure-eval[0m [36m0.2.2-4[0m[1m (25.9 KiB 100.1 KiB) [0m[1m[32m(Installed)[0m[0m
+    Safely evaluate AST nodes without side effects
+[35m21[0m [1m[32mextra[0m[0m/[1mpython-pyee[0m [36m11.0.1-2[0m[1m (27.6 KiB 127.0 KiB) [0m[1m[32m(Installed)[0m[0m
+    Port of node.js's EventEmitter to python
+[35m20[0m [1m[32mextra[0m[0m/[1mmunin-node[0m [36m2.0.76-1[0m[1m (336.0 KiB 1.4 MiB) [0m
+    A distributed monitoring/graphing tool
+[35m19[0m [1m[32mextra[0m[0m/[1mperl-tree-dag-node[0m [36m1.32-1[0m[1m (50.2 KiB 116.7 KiB) [0m
+    base class for trees
+[35m18[0m [1m[32mextra[0m[0m/[1mpython-nodeenv[0m [36m1.8.0-3[0m[1m (42.0 KiB 187.7 KiB) [0m
+    Node.js virtual environment builder
+[35m17[0m [1m[32mextra[0m[0m/[1mmatrix-appservice-irc[0m [36m1.0.1-2[0m[1m (21.3 MiB 152.4 MiB) [0m
+    Node.js IRC bridge for Matrix
+[35m16[0m [1m[32mextra[0m[0m/[1mkube-scheduler[0m [36m1.30.1-1[0m[1m (12.1 MiB 68.0 MiB) [0m[kubernetes-control-plane] 
+    Kubernetes control plane component watching over pods on nodes
+[35m15[0m [1m[32mextra[0m[0m/[1mkube-proxy[0m [36m1.30.1-1[0m[1m (12.0 MiB 67.2 MiB) [0m[kubernetes-control-plane kubernetes-node] 
+    Kubernetes network proxy that runs on each node
+[35m14[0m [1m[32mextra[0m[0m/[1mkubelet[0m [36m1.30.1-1[0m[1m (18.6 MiB 114.4 MiB) [0m[kubernetes-control-plane kubernetes-node] 
+    An agent that runs on each node in a Kubernetes cluster making sure that containers are running in a Pod
+[35m13[0m [1m[32mextra[0m[0m/[1mnodejs-material-design-icons[0m [36m3.0.1-5[0m[1m (17.5 MiB 43.8 MiB) [0m
+    Material Design icons by Google
+[35m12[0m [1m[32mextra[0m[0m/[1mbabel-cli[0m [36m7.21.0-1[0m[1m (325.8 KiB 1.7 MiB) [0m
+    A compiler for writing next generation JavaScript
+[35m11[0m [1m[32mextra[0m[0m/[1mweb-ext[0m [36m7.11.0-1[0m[1m (9.7 MiB 87.0 MiB) [0m
+    A command line tool to help build, run, and test web extensions
+[35m10[0m [1m[32mextra[0m[0m/[1mnodejs-source-map[0m [36m0.7.4-1[0m[1m (59.0 KiB 220.7 KiB) [0m
+    Library to generate and consume the source map format
+[35m9[0m [1m[32mextra[0m[0m/[1mnccl[0m [36m2.21.5-1[0m[1m (252.8 MiB 872.9 MiB) [0m
+    Library for NVIDIA multi-GPU and multi-node collective communication primitives
+[35m8[0m [1m[32mextra[0m[0m/[1mmodclean[0m [36m3.0.0beta.1-3[0m[1m (121.5 KiB 565.5 KiB) [0m
+    Remove unwanted files and directories from your node_modules folder
+[35m7[0m [1m[32mextra[0m[0m/[1mnodejs-emojione[0m [36m4.5.0-3[0m[1m (481.7 KiB 6.3 MiB) [0m
+    A complete set of emojis designed for the web
+[35m6[0m [1m[32mextra[0m[0m/[1mnodejs-yaml[0m [36m2.2.2-1[0m[1m (93.4 KiB 636.3 KiB) [0m
+    JavaScript parser and stringifier for YAML
+[35m5[0m [1m[32mextra[0m[0m/[1mnodejs-nopt[0m [36m7.2.0-1[0m[1m (13.3 KiB 30.2 KiB) [0m[1m[32m(Installed)[0m[0m
+    Node/npm Option Parsing library
+[35m4[0m [1m[32mextra[0m[0m/[1mnodejs-lts-hydrogen[0m [36m18.20.3-1[0m[1m (10.1 MiB 40.4 MiB) [0m
+    Evented I/O for V8 javascript (LTS release: Hydrogen)
+[35m3[0m [1m[32mextra[0m[0m/[1mnodejs-lts-iron[0m [36m20.14.0-1[0m[1m (11.4 MiB 44.3 MiB) [0m
+    Evented I/O for V8 javascript (LTS release: Iron)
+[35m2[0m [1m[32mextra[0m[0m/[1mnode-gyp[0m [36m10.1.0-2[0m[1m (1.1 MiB 6.8 MiB) [0m[1m[32m(Installed)[0m[0m
+    Node.js native addon build tool
+[35m1[0m [1m[32mextra[0m[0m/[1mnodejs[0m [36m22.2.0-1[0m[1m (13.4 MiB 55.8 MiB) [0m[1m[32m(Installed)[0m[0m
+    Evented I/O for V8 javascript
+[1m[32m==>[0m[0m Packages to install (eg: 1 2 3, 1-3 or ^4)
+[1m[32m==> [0m[0m7 6 7 6 12 18 22 24-28
+[1mSync Explicit (8):[0m [36mpython-spinners-0.0.24-5[0m, [36mpython-nodeenv-1.8.0-3[0m, [36mpassenger-6.0.22-1[0m, [36mpython-jsonpointer-2.4-2[0m, [36mvalabind-1.8.0-3[0m, [36mnodejs-yaml-2.2.2-1[0m, [36mtexlive-luatex-2024.2-2[0m, [36mbabel-cli-7.21.0-1[0m
+[1mSync Dependency (1):[0m [36mpython-pure-eval-0.2.2-4[0m
+[1;33mwarning: [0mpython-pure-eval-0.2.2-4 is up to date -- reinstalling
+[?25lresolving dependencies...
+looking for conflicting packages...
+
+[1;33mwarning: [0minsufficient columns available for table display
+[0;1mPackages (22)[0m babel-core[38;5;243m-7.21.4-1[0m  ffcall[38;5;243m-2.4-2[0m  glib2-docs[38;5;243m-2.80.2-2[0m
+              gtk-doc[38;5;243m-1.34.0-1[0m  libsigsegv[38;5;243m-2.14-2[0m  libsynctex[38;5;243m-2024.2-2[0m
+              potrace[38;5;243m-1.16-3[0m  ruby-rack[38;5;243m-3.0.8-1[0m  swig[38;5;243m-4.2.1-3[0m
+              texlive-basic[38;5;243m-2024.2-2[0m  texlive-bin[38;5;243m-2024.2-2[0m
+              vala[38;5;243m-0.56.17-1[0m  zziplib[38;5;243m-0.13.75-1[0m  babel-cli[38;5;243m-7.21.0-1[0m
+              nodejs-yaml[38;5;243m-2.2.2-1[0m  passenger[38;5;243m-6.0.22-1[0m
+              python-jsonpointer[38;5;243m-2.4-2[0m  python-nodeenv[38;5;243m-1.8.0-3[0m
+              python-pure-eval[38;5;243m-0.2.2-4[0m  python-spinners[38;5;243m-0.0.24-5[0m
+              texlive-luatex[38;5;243m-2024.2-2[0m  valabind[38;5;243m-1.8.0-3[0m
+
+[0;1mTotal Download Size: [0m   55,33 MiB
+[0;1mTotal Installed Size:[0m  338,25 MiB
+[0;1mNet Upgrade Size:    [0m  338,15 MiB
+
+[1;34m::[0;1m Proceed with installation? [Y/n] [0m[?25h
+[?25l[1;34m::[0;1m Retrieving packages...
+[0m passenger-6.0.22-1-x86_64
+ Total ( 0/22)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F texlive-bin-2024.2-2-x86_64
+ Total ( 0/22)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F texlive-basic-2024.2-2-any
+ Total ( 0/22)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F texlive-luatex-2024.2-2-any
+ Total ( 0/22)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F glib2-docs-2.80.2-2-x86_64
+ Total ( 0/22)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[5F texlive-bin-2024...     0,0   B  0,00   B/s --:-- [-------------]   0%[4E Total ( 0/22)           0,0   B  0,00   B/s --:-- [-------------]   0%[2F texlive-luatex-2...     0,0   B  0,00   B/s --:-- [-------------]   0%[1E glib2-docs-2.80....     0,0   B  0,00   B/s --:-- [-------------]   0%[4F passenger-6.0.22...    15,9 KiB  1,00   B/s --:-- [-------------]   0%[2E texlive-basic-20...    15,9 KiB  1,00   B/s --:-- [-------------]   0%[3E Total ( 0/22)           7,6 MiB  12,3 MiB/s 00:03 [#------------]  13%[4F texlive-bin-2024...  1615,9 KiB  2,54 MiB/s 00:03 [#------------]  13%[2E texlive-luatex-2...  1104,0 KiB  1840 KiB/s 00:01 [####---------]  32%[3F passenger-6.0.22...  1519,9 KiB  2,29 MiB/s 00:10 [-------------]   6%[2E texlive-basic-20...     2,4 MiB  3,91 MiB/s 00:01 [####---------]  36%[2E glib2-docs-2.80....  1152,0 KiB  1794 KiB/s 00:01 [####---------]  35%[2F passenger-6.0.22...  1519,9 KiB  2,29 MiB/s 00:10 [-------------]   6%[2F texlive-basic-20...     6,6 MiB  12,9 MiB/s 00:01 [#############] 100%[3E texlive-bin-2024...  1615,9 KiB  2,54 MiB/s 00:03 [#------------]  13%[2F texlive-luatex-2...     3,3 MiB  5,75 MiB/s 00:01 [#############] 100%[4E Total ( 2/22)          20,6 MiB  29,8 MiB/s 00:01 [####---------]  37%[2F texlive-bin-2024...     4,1 MiB  5,94 MiB/s 00:01 [####---------]  36%[1E glib2-docs-2.80....     3,2 MiB  4,58 MiB/s 00:00 [############-]  98%[2F passenger-6.0.22...     3,8 MiB  5,41 MiB/s 00:03 [#------------]  15%[3E vala-0.56.17-1-x86_64
+ Total ( 2/22)          20,6 MiB  29,8 MiB/s 00:01 [####---------]  37%
+[1F babel-core-7.21.4-1-any
+ Total ( 2/22)          20,6 MiB  29,8 MiB/s 00:01 [####---------]  37%
+[4F passenger-6.0.22...     3,8 MiB  5,41 MiB/s 00:03 [#------------]  15%[2F glib2-docs-2.80....     3,2 MiB  5,32 MiB/s 00:01 [#############] 100%[3E vala-0.56.17-1-x...    15,9 KiB  1,00   B/s --:-- [-------------]   0%[1E babel-core-7.21....    15,9 KiB  1,00   B/s --:-- [-------------]   1%[1F texlive-bin-2024...     4,1 MiB  5,94 MiB/s 00:01 [####---------]  36%[2F vala-0.56.17-1-x...     2,2 MiB  12,1 MiB/s 00:00 [#############] 100%[4E Total ( 4/22)          29,1 MiB  33,9 MiB/s 00:00 [######-------]  52%[2F texlive-bin-2024...     7,7 MiB  9,81 MiB/s 00:00 [########-----]  67%[2E swig-4.2.1-3-x86_64
+ Total ( 4/22)          29,1 MiB  33,9 MiB/s 00:00 [######-------]  52%
+[5F passenger-6.0.22...     6,3 MiB  7,73 MiB/s 00:02 [###----------]  25%[3E swig-4.2.1-3-x86_64    15,9 KiB  1,00   B/s --:-- [-------------]   1%[1F passenger-6.0.22...     6,3 MiB  7,73 MiB/s 00:02 [###----------]  25%[2F babel-core-7.21....  1465,1 KiB  4,88 MiB/s 00:00 [#############] 100%[4E babel-cli-7.21.0-1-any
+ Total ( 5/22)          29,1 MiB  33,9 MiB/s 00:00 [######-------]  52%
+[2F babel-cli-7.21.0...    15,9 KiB  1,00   B/s --:-- [-------------]   4%[1E gtk-doc-1.34.0-1-any
+ Total ( 5/22)          29,1 MiB  33,9 MiB/s 00:00 [######-------]  52%
+[4F texlive-bin-2024...     7,7 MiB  9,81 MiB/s 00:00 [########-----]  67%[2F swig-4.2.1-3-x86_64  1170,4 KiB  6,35 MiB/s 00:00 [#############] 100%[5E Total ( 6/22)          38,2 MiB  37,7 MiB/s 00:00 [########-----]  68%[3F texlive-bin-2024...    11,1 MiB  12,3 MiB/s 00:00 [############-]  98%[2E gtk-doc-1.34.0-1-any   15,9 KiB  1,00   B/s --:-- [-------------]   5%[1F passenger-6.0.22...     6,3 MiB  7,73 MiB/s 00:02 [###----------]  25%[2F babel-cli-7.21.0...   325,8 KiB  3,28 MiB/s 00:00 [#############] 100%[1E texlive-bin-2024...    11,3 MiB  11,3 MiB/s 00:01 [#############] 100%[1E passenger-6.0.22...     9,1 MiB  9,71 MiB/s 00:01 [####---------]  36%[2E ruby-rack-3.0.8-1-any
+ Total ( 8/22)          38,2 MiB  37,7 MiB/s 00:00 [########-----]  68%
+[3F passenger-6.0.22...     9,1 MiB  9,71 MiB/s 00:01 [####---------]  36%[1F gtk-doc-1.34.0-1-any  305,5 KiB  6,78 MiB/s 00:00 [#############] 100%[3E nodejs-yaml-2.2.2-1-any
+ Total ( 9/22)          38,2 MiB  37,7 MiB/s 00:00 [########-----]  68%
+[1F potrace-1.16-3-x86_64
+ Total ( 9/22)          38,2 MiB  37,7 MiB/s 00:00 [########-----]  68%
+[4F ruby-rack-3.0.8-...    15,9 KiB  1,00   B/s --:-- [-------------]   7%[1E nodejs-yaml-2.2....    15,9 KiB  1,00   B/s --:-- [##-----------]  16%[2E valabind-1.8.0-3-x86_64
+ Total ( 9/22)          38,2 MiB  37,7 MiB/s 00:00 [########-----]  68%
+[5F passenger-6.0.22...     9,1 MiB  9,71 MiB/s 00:01 [####---------]  36%[1F ruby-rack-3.0.8-...   198,5 KiB  6,46 MiB/s 00:00 [#############] 100%[2E passenger-6.0.22...     9,1 MiB  9,71 MiB/s 00:01 [####---------]  36%[1F nodejs-yaml-2.2....    93,4 KiB  3,04 MiB/s 00:00 [#############] 100%[2E potrace-1.16-3-x...    15,9 KiB  1,00   B/s --:-- [##-----------]  17% passenger-6.0.22...     9,1 MiB  9,71 MiB/s 00:01 [####---------]  36%[1F potrace-1.16-3-x...    90,5 KiB  2,68 MiB/s 00:00 [#############] 100%[2E valabind-1.8.0-3...    15,9 KiB  1,00   B/s --:-- [##-----------]  19%[1E zziplib-0.13.75-1-x86_64
+ Total (12/22)          38,2 MiB  37,7 MiB/s 00:00 [########-----]  68%
+[3F passenger-6.0.22...     9,1 MiB  9,71 MiB/s 00:01 [####---------]  36%[1F valabind-1.8.0-3...    82,2 KiB  3,49 MiB/s 00:00 [#############] 100%[3E ffcall-2.4-2-x86_64
+ Total (13/22)          38,2 MiB  37,7 MiB/s 00:00 [########-----]  68%
+[1F libsynctex-2024.2-2-x86_64
+ Total (13/22)          38,2 MiB  37,7 MiB/s 00:00 [########-----]  68%
+[3F ffcall-2.4-2-x86_64    15,9 KiB  1,00   B/s --:-- [###----------]  27%[2E python-nodeenv-1.8.0-3-any
+ Total (13/22)          38,2 MiB  37,7 MiB/s 00:00 [########-----]  68%
+[4F passenger-6.0.22...     9,1 MiB  9,71 MiB/s 00:01 [####---------]  36%[2F ffcall-2.4-2-x86_64    58,1 KiB  2,84 MiB/s 00:00 [#############] 100%[3E libsynctex-2024....    15,9 KiB  1,00   B/s --:-- [####---------]  33% zziplib-0.13.75-...     0,0   B  0,00   B/s 00:00 [#############] 100%[2F libsynctex-2024....    48,0 KiB  2,34 MiB/s 00:00 [#############] 100%[3E python-nodeenv-1...    15,9 KiB  1,00   B/s --:-- [####---------]  37% passenger-6.0.22...     9,1 MiB  9,71 MiB/s 00:01 [####---------]  36%[2F python-nodeenv-1...    42,0 KiB  2,05 MiB/s 00:00 [#############] 100%[3E python-pure-eval-0.2.2-4-any
+ Total (16/22)          38,2 MiB  37,7 MiB/s 00:00 [########-----]  68%
+[1F python-jsonpointer-2.4-2-any
+ Total (16/22)          38,2 MiB  37,7 MiB/s 00:00 [########-----]  68%
+[3F python-pure-eval...    15,9 KiB  1,00   B/s 95:39 [#######------]  61%[2E libsigsegv-2.14-2-x86_64
+ Total (16/22)          38,2 MiB  37,7 MiB/s 00:00 [########-----]  68%
+[4F zziplib-0.13.75-...     0,0   B  0,00   B/s 00:00 [#############] 100%[2F python-pure-eval...    25,9 KiB  1127 KiB/s 00:00 [#############] 100%[3E python-jsonpoint...    13,0 KiB  1,00   B/s 00:00 [#############] 100% passenger-6.0.22...     9,1 MiB  9,71 MiB/s 00:01 [####---------]  36%[2F python-jsonpoint...    13,0 KiB   650 KiB/s 00:00 [#############] 100%[3E libsigsegv-2.14-...    10,4 KiB  1,00   B/s 00:00 [#############] 100% zziplib-0.13.75-...     0,0   B  0,00   B/s 00:00 [#############] 100%[2F libsigsegv-2.14-...    10,4 KiB   521 KiB/s 00:00 [#############] 100%[3E python-spinners-0.0.24-5-any
+ Total (19/22)          38,2 MiB  37,7 MiB/s 00:00 [########-----]  68%
+[2F python-spinners-...     9,3 KiB  1,00   B/s 00:00 [#############] 100% passenger-6.0.22...     9,1 MiB  9,71 MiB/s 00:01 [####---------]  36%[2F python-spinners-...     9,3 KiB   463 KiB/s 00:00 [#############] 100%[3E Total (20/22)          42,5 MiB  32,3 MiB/s 00:00 [#########----]  76%[1F passenger-6.0.22...    12,3 MiB  11,8 MiB/s 00:01 [######-------]  49%[1E Total (20/22)          45,9 MiB  27,1 MiB/s 00:00 [##########---]  82%[1F passenger-6.0.22...    15,6 MiB  13,4 MiB/s 00:00 [########-----]  63%[1E Total (20/22)          49,1 MiB  23,5 MiB/s 00:00 [###########--]  88%[2F zziplib-0.13.75-...    16,0 KiB  1,00   B/s --:-- [###----------]  25%[1E passenger-6.0.22...    18,8 MiB  14,3 MiB/s 00:00 [#########----]  76%[1F zziplib-0.13.75-...    63,8 KiB   382 KiB/s 00:00 [#############] 100%[2E Total (21/22)          52,4 MiB  21,2 MiB/s 00:00 [############-]  94%[1F passenger-6.0.22...    22,1 MiB  15,0 MiB/s 00:00 [###########--]  89% passenger-6.0.22...    24,7 MiB  12,6 MiB/s 00:02 [#############] 100%[1E Total (22/22)          55,3 MiB  28,0 MiB/s 00:02 [#############] 100%
+[1;31merror: [0mfailed retrieving file 'zziplib-0.13.75-1-x86_64.pkg.tar.zst' from mirror.ubrco.de : The requested URL returned error: 404
+[1;31merror: [0mfailed retrieving file 'zziplib-0.13.75-1-x86_64.pkg.tar.zst' from mirrors.niyawe.de : The requested URL returned error: 404
+[1;31merror: [0mfailed retrieving file 'zziplib-0.13.75-1-x86_64.pkg.tar.zst' from mirror.f4st.host : The requested URL returned error: 404
+[1;31merror: [0mfailed retrieving file 'zziplib-0.13.75-1-x86_64.pkg.tar.zst' from pkg.fef.moe : The requested URL returned error: 404
+( 0/22) checking keys in keyring                   [-------------]   0%( 1/22) checking keys in keyring                   [-------------]   4%( 2/22) checking keys in keyring                   [#------------]   9%( 3/22) checking keys in keyring                   [#------------]  13%( 4/22) checking keys in keyring                   [##-----------]  18%( 5/22) checking keys in keyring                   [##-----------]  22%( 6/22) checking keys in keyring                   [###----------]  27%( 7/22) checking keys in keyring                   [####---------]  31%( 8/22) checking keys in keyring                   [####---------]  36%( 9/22) checking keys in keyring                   [#####--------]  40%(10/22) checking keys in keyring                   [#####--------]  45%(11/22) checking keys in keyring                   [######-------]  50%(12/22) checking keys in keyring                   [#######------]  54%(13/22) checking keys in keyring                   [#######------]  59%(14/22) checking keys in keyring                   [########-----]  63%(15/22) checking keys in keyring                   [########-----]  68%(16/22) checking keys in keyring                   [#########----]  72%(17/22) checking keys in keyring                   [##########---]  77%(18/22) checking keys in keyring                   [##########---]  81%(19/22) checking keys in keyring                   [###########--]  86%(20/22) checking keys in keyring                   [###########--]  90%(21/22) checking keys in keyring                   [############-]  95%(22/22) checking keys in keyring                   [#############] 100%
+( 0/22) checking package integrity                 [-------------]   0%( 1/22) checking package integrity                 [-------------]   0%( 2/22) checking package integrity                 [-------------]   0%( 3/22) checking package integrity                 [-------------]   0%( 4/22) checking package integrity                 [#####--------]  45%( 5/22) checking package integrity                 [######-------]  50%( 6/22) checking package integrity                 [######-------]  51%( 7/22) checking package integrity                 [#######------]  55%( 8/22) checking package integrity                 [#######------]  57%( 9/22) checking package integrity                 [#######------]  57%(10/22) checking package integrity                 [#######------]  57%(11/22) checking package integrity                 [#######------]  57%(12/22) checking package integrity                 [#######------]  57%(13/22) checking package integrity                 [#######------]  57%(14/22) checking package integrity                 [#######------]  58%(15/22) checking package integrity                 [#######------]  58%(16/22) checking package integrity                 [##########---]  78%(17/22) checking package integrity                 [###########--]  90%(18/22) checking package integrity                 [############-]  96%(19/22) checking package integrity                 [############-]  96%(20/22) checking package integrity                 [############-]  96%(21/22) checking package integrity                 [############-]  99%(22/22) checking package integrity                 [#############] 100%
+( 0/22) loading package files                      [-------------]   0%( 1/22) loading package files                      [-------------]   0%( 2/22) loading package files                      [-------------]   0%( 3/22) loading package files                      [-------------]   0%( 4/22) loading package files                      [#####--------]  45%( 5/22) loading package files                      [######-------]  50%( 6/22) loading package files                      [######-------]  51%( 7/22) loading package files                      [#######------]  55%( 8/22) loading package files                      [#######------]  57%( 9/22) loading package files                      [#######------]  57%(10/22) loading package files                      [#######------]  57%(11/22) loading package files                      [#######------]  57%(12/22) loading package files                      [#######------]  57%(13/22) loading package files                      [#######------]  57%(14/22) loading package files                      [#######------]  58%(15/22) loading package files                      [#######------]  58%(16/22) loading package files                      [##########---]  78%(17/22) loading package files                      [###########--]  90%(18/22) loading package files                      [############-]  96%(19/22) loading package files                      [############-]  96%(20/22) loading package files                      [############-]  96%(21/22) loading package files                      [############-]  99%(22/22) loading package files                      [#############] 100%
+( 0/22) checking for file conflicts                [-------------]   0%( 1/22) checking for file conflicts                [-------------]   4%( 2/22) checking for file conflicts                [#------------]   9%( 3/22) checking for file conflicts                [#------------]  13%( 4/22) checking for file conflicts                [##-----------]  18%( 5/22) checking for file conflicts                [##-----------]  22%( 6/22) checking for file conflicts                [###----------]  27%( 7/22) checking for file conflicts                [####---------]  31%( 8/22) checking for file conflicts                [####---------]  36%( 9/22) checking for file conflicts                [#####--------]  40%(10/22) checking for file conflicts                [#####--------]  45%(11/22) checking for file conflicts                [######-------]  50%(12/22) checking for file conflicts                [#######------]  54%(13/22) checking for file conflicts                [#######------]  59%(14/22) checking for file conflicts                [########-----]  63%(15/22) checking for file conflicts                [########-----]  68%(16/22) checking for file conflicts                [#########----]  72%(17/22) checking for file conflicts                [##########---]  77%(18/22) checking for file conflicts                [##########---]  81%(19/22) checking for file conflicts                [###########--]  86%(20/22) checking for file conflicts                [###########--]  90%(21/22) checking for file conflicts                [############-]  95%(22/22) checking for file conflicts                [#############] 100%
+( 0/22) checking available disk space              [-------------]   0%( 1/22) checking available disk space              [-------------]   4%( 2/22) checking available disk space              [#------------]   9%( 3/22) checking available disk space              [#------------]  13%( 4/22) checking available disk space              [##-----------]  18%( 5/22) checking available disk space              [##-----------]  22%( 6/22) checking available disk space              [###----------]  27%( 7/22) checking available disk space              [####---------]  31%( 8/22) checking available disk space              [####---------]  36%( 9/22) checking available disk space              [#####--------]  40%(10/22) checking available disk space              [#####--------]  45%(11/22) checking available disk space              [######-------]  50%(12/22) checking available disk space              [#######------]  54%(13/22) checking available disk space              [#######------]  59%(14/22) checking available disk space              [########-----]  63%(15/22) checking available disk space              [########-----]  68%(16/22) checking available disk space              [#########----]  72%(17/22) checking available disk space              [##########---]  77%(18/22) checking available disk space              [##########---]  81%(19/22) checking available disk space              [###########--]  86%(20/22) checking available disk space              [###########--]  90%(21/22) checking available disk space              [############-]  95%(22/22) checking available disk space              [#############] 100%
+[1;34m::[0;1m Processing package changes...
+[0m( 1/22) installing python-spinners                 [-------------]   0%( 1/22) installing python-spinners                 [#############] 100%
+( 2/22) installing python-nodeenv                  [-------------]   0%( 2/22) installing python-nodeenv                  [#############] 100%
+Optional dependencies for python-nodeenv
+[0;1m   [0m nodejs: for --node=system [installed]
+( 3/22) installing ruby-rack                       [-------------]   0%( 3/22) installing ruby-rack                       [#############] 100%
+( 4/22) installing passenger                       [-------------]   0%( 4/22) installing passenger                       [-------------]   0%( 4/22) installing passenger                       [-------------]   0%( 4/22) installing passenger                       [#############] 100%
+( 5/22) installing glib2-docs                      [-------------]   0%( 5/22) installing glib2-docs                      [#############] 100%
+( 6/22) installing gtk-doc                         [-------------]   0%( 6/22) installing gtk-doc                         [#############] 100%
+Optional dependencies for gtk-doc
+[0;1m   [0m dblatex: PDF support
+( 7/22) installing vala                            [-------------]   0%( 7/22) installing vala                            [#############] 100%
+( 8/22) installing swig                            [-------------]   0%( 8/22) installing swig                            [#############] 100%
+( 9/22) installing valabind                        [-------------]   0%( 9/22) installing valabind                        [#############] 100%
+(10/22) reinstalling python-pure-eval              [-------------]   0%(10/22) reinstalling python-pure-eval              [#############] 100%
+(11/22) installing ffcall                          [-------------]   0%(11/22) installing ffcall                          [#############] 100%
+(12/22) installing libsigsegv                      [-------------]   0%(12/22) installing libsigsegv                      [#############] 100%
+(13/22) installing libsynctex                      [-------------]   0%(13/22) installing libsynctex                      [#############] 100%
+(14/22) installing potrace                         [-------------]   0%(14/22) installing potrace                         [#############] 100%
+(15/22) installing zziplib                         [-------------]   0%(15/22) installing zziplib                         [#############] 100%
+(16/22) installing texlive-bin                     [-------------]   0%(16/22) installing texlive-bin                     [-------------]   0%(16/22) installing texlive-bin                     [-------------]   0%(16/22) installing texlive-bin                     [-------------]   0%(16/22) installing texlive-bin                     [-------------]   0%(16/22) installing texlive-bin                     [-------------]   0%(16/22) installing texlive-bin                     [-------------]   0%(16/22) installing texlive-bin                     [-------------]   0%(16/22) installing texlive-bin                     [-------------]   0%(16/22) installing texlive-bin                     [#############] 100%
+Optional dependencies for texlive-bin
+[0;1m   [0m psutils: to manipulate the output of dvips
+(17/22) installing texlive-basic                   [-------------]   0%(17/22) installing texlive-basic                   [#############] 100%
+Optional dependencies for texlive-basic
+[0;1m   [0m perl-tk: for the tlmgr GUI
+    biber: for bibliography processing
+(18/22) installing texlive-luatex                  [-------------]   0%(18/22) installing texlive-luatex                  [#############] 100%
+(19/22) installing python-jsonpointer              [-------------]   0%(19/22) installing python-jsonpointer              [#############] 100%
+(20/22) installing nodejs-yaml                     [-------------]   0%(20/22) installing nodejs-yaml                     [#############] 100%
+(21/22) installing babel-core                      [-------------]   0%(21/22) installing babel-core                      [#############] 100%
+(22/22) installing babel-cli                       [-------------]   0%(22/22) installing babel-cli                       [#############] 100%
+[1;34m::[0;1m Running post-transaction hooks...
+[0m(1/6) Arming ConditionNeedsUpdate...
+(2/6) Updating TeXLive filename database...
+(3/6) Updating TeXLive format files...
+(4/6) Updating TeXLive font maps...
+(5/6) Updating fontconfig cache...
+(6/6) Updating the desktop file MIME type cache...
+[?25h[?25l[?25h[?25l[?25h
+Script done on 2024-05-31 15:55:58+02:00 [COMMAND_EXIT_CODE="0"]

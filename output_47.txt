@@ -1,0 +1,751 @@
+Script started on 2024-06-01 21:40:56+02:00 [COMMAND="yay report" TERM="xterm-kitty" TTY="/dev/pts/6" COLUMNS="90" LINES="37"]
+[35m303[0m [1m[34maur[0m[0m/[1mpython-pycobertura[0m [36m2.1.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-06-22)[0m[0m 
+    Code coverage diff tool for Cobertura reports
+[35m302[0m [1m[34maur[0m[0m/[1mpython-trytond_account_tax_cash[0m [36m5.8.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Tryton module to support tax report on cash basis
+[35m301[0m [1m[34maur[0m[0m/[1mcomplexity-report[0m [36m2.0.0_alpha-1[0m[1m (+0[0m [1m0.00) [0m
+    Software complexity analysis for JavaScript projects
+[35m300[0m [1m[34maur[0m[0m/[1mlua-luacov-reporter-gcovr[0m [36m0.0.4-1[0m[1m (+0[0m [1m0.00) [0m
+    A luacov reporter that creates gcovr json files
+[35m299[0m [1m[34maur[0m[0m/[1minkblot[0m [36m0.99.9-4[0m[1m (+0[0m [1m0.00) [0m
+    Inkblot reports on the remaining ink levels in a wide variety of USB and Parallel connected printers.
+[35m298[0m [1m[34maur[0m[0m/[1mllvm-cov-pretty[0m [36m0.1.9-2[0m[1m (+0[0m [1m0.00) [0m
+    More beautiful HTML reports for llvm-cov/cargo-llvm-cov
+[35m297[0m [1m[34maur[0m[0m/[1mdmarc-cat-git[0m [36m0.15.0.r4.g0b3267d-2[0m[1m (+0[0m [1m0.00) [0m
+    Small utility to decode the report sent by various email providers following the DMARC spec
+[35m296[0m [1m[34maur[0m[0m/[1mpython-nosexcover[0m [36m1.0.11-9[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Extends nose.plugins.cover to add Cobertura-style XML reports
+[35m295[0m [1m[34maur[0m[0m/[1mdvanalyzer[0m [36m1.4.2-1[0m[1m (+0[0m [1m0.00) [0m
+    a technical quality control and reporting tool that examines DV streams (CLI)
+[35m294[0m [1m[34maur[0m[0m/[1mcasr[0m [36m2.11.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Collect crash (or UndefinedBehaviorSanitizer error) reports, triage, and estimate severity.
+[35m293[0m [1m[34maur[0m[0m/[1mkdreports-qt6[0m [36m2.1.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A Qt library for generating printable and exportable reports from code and from XML descriptions
+[35m292[0m [1m[34maur[0m[0m/[1mlua52-luacov-reporter-gcovr[0m [36m0.0.4-1[0m[1m (+0[0m [1m0.00) [0m
+    A luacov reporter that creates gcovr json files for Lua 5.2
+[35m291[0m [1m[34maur[0m[0m/[1mlua53-luacov-reporter-gcovr[0m [36m0.0.4-1[0m[1m (+0[0m [1m0.00) [0m
+    A luacov reporter that creates gcovr json files for Lua 5.3
+[35m290[0m [1m[34maur[0m[0m/[1mnodejs-mochawesome[0m [36m3.0.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Mochawesome is a custom reporter for use with the Javascript testing framework, mocha.
+[35m289[0m [1m[34maur[0m[0m/[1mpython-asv[0m [36m0.6.2-4[0m[1m (+0[0m [1m0.00) [0m
+    A simple benchmarking tool with web-based reporting.
+[35m288[0m [1m[34maur[0m[0m/[1minotify-info-git[0m [36mr26.5710dd1-1[0m[1m (+0[0m [1m0.00) [0m
+    Linux inotify info reporting app
+[35m287[0m [1m[34maur[0m[0m/[1mmingw-w64-kdreports-git[0m [36m1.7.50.r136.667f94b-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-07-29)[0m[0m 
+    A Qt library for creating printable reports (mingw-w64)
+[35m286[0m [1m[34maur[0m[0m/[1minotify-info[0m [36m0.0.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Linux inotify info reporting app
+[35m285[0m [1m[34maur[0m[0m/[1mjs8call-wx_station[0m [36m0.3-2[0m[1m (+0[0m [1m0.00) [0m
+    Upon request, report weather station data over JS8Call
+[35m284[0m [1m[34maur[0m[0m/[1mdrata-agent[0m [36m3.4.1-1[0m[1m (+0[0m [1m0.00) [0m
+    The Drata Agent is a light-weight tray-application that runs in the background, reporting important read-only data to Drata about your machine’s state for compliance tracking.
+[35m283[0m [1m[34maur[0m[0m/[1mmultiqc[0m [36m1.21-1[0m[1m (+0[0m [1m0.00) [0m
+    Aggregate results from bioinformatics analyses across many samples into a single report
+[35m282[0m [1m[34maur[0m[0m/[1mdvanalyzer-gui[0m [36m1.4.2-1[0m[1m (+0[0m [1m0.00) [0m
+    a technical quality control and reporting tool that examines DV streams (GUI)
+[35m281[0m [1m[34maur[0m[0m/[1msarqx-reporter[0m [36m0.0.1-1[0m[1m (+0[0m [1m0.00) [0m
+    CLI application.
+[35m280[0m [1m[34maur[0m[0m/[1melementary-feedback[0m [36m7.0.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-11-16)[0m[0m 
+    GitHub Issue Reporter for elementary team
+[35m279[0m [1m[34maur[0m[0m/[1msignal-web-gateway-git[0m [36m0.1-7[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Use Signal as a web gateway for other apps (reporting, monitoring, etc.)
+[35m278[0m [1m[34maur[0m[0m/[1mpython-bugsnag[0m [36m4.2.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Official bugsnag error monitoring and error reporting for various python apps.
+[35m277[0m [1m[34maur[0m[0m/[1mpolicy-reporter-cli[0m [36m0.5.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Policy Reporter CLI makes it easy to search and filter for PolicyReportResults, generated by tools like Kyverno, in your Kubernetes cluster
+[35m276[0m [1m[34maur[0m[0m/[1mpython-snakemake-interface-report-plugins[0m [36m1.0.0-2[0m[1m (+0[0m [1m0.00) [0m
+    The interface for Snakemake report plugins
+[35m275[0m [1m[34maur[0m[0m/[1mvigil-local[0m [36m1.1.6-2[0m[1m (+0[0m [1m0.00) [0m
+    Monitors hosts behind a firewall and reports their status to Vigil.
+[35m274[0m [1m[34maur[0m[0m/[1mevtc-watch-git[0m [36mr9.816c97b-1[0m[1m (+0[0m [1m0.00) [0m
+    Guild Wars 2/arcdps evtc log zipper and dps.report uploader with discord bot notification. Build from master branch using the rust toolchain.
+[35m273[0m [1m[34maur[0m[0m/[1mhidrdd[0m [36m2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    USB Human Interface Device (HID) Report Descriptor Decoder.
+[35m272[0m [1m[34maur[0m[0m/[1mlua51-luacov-reporter-gcovr[0m [36m0.0.4-1[0m[1m (+0[0m [1m0.00) [0m
+    A luacov reporter that creates gcovr json files for Lua 5.1
+[35m271[0m [1m[34maur[0m[0m/[1mbtc-cirrus-reporter[0m [36mdb2b312-2[0m[1m (+0[0m [1m0.00) [0m
+    bitcoin core cirrus reporter
+[35m270[0m [1m[34maur[0m[0m/[1mironscanner[0m [36m2.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-09-17)[0m[0m 
+    Collect as much information as possible on a image scanner, run test scan, and send a detailed report to OpenPaper.work.
+[35m269[0m [1m[34maur[0m[0m/[1mdisklow[0m [36m1.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Fine grained disk space reporting with emphasis on mail functionality
+[35m268[0m [1m[34maur[0m[0m/[1mpython-pytest-html[0m [36m4.1.1-2[0m[1m (+0[0m [1m0.00) [0m
+    Plugin for generating HTML reports for pytest results
+[35m267[0m [1m[34maur[0m[0m/[1mpython-unittest-xml-reporting[0m [36m3.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    unittest-based test runner with Ant/JUnit like XML reporting.
+[35m266[0m [1m[34maur[0m[0m/[1mpython-pycobertura-git[0m [36m2.0.0+0.gfdbbc8aea2-1[0m[1m (+0[0m [1m0.00) [0m
+    Code coverage diff tool for Cobertura reports
+[35m265[0m [1m[34maur[0m[0m/[1mclickhouse-lts[0m [36m24.3.2.23-1[0m[1m (+0[0m [1m0.00) [0m
+    An open-source column-oriented database management system that allows generating analytical data reports in real time. LTS version
+[35m264[0m [1m[34maur[0m[0m/[1mjobber-bin[0m [36m1.4.4-2[0m[1m (+0[0m [1m0.00) [0m
+    An alternative to cron, with sophisticated status-reporting and error-handling
+[35m263[0m [1m[34maur[0m[0m/[1mturbowin-plus[0m [36m3.3.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Assists an observer in reporting and transmitting marine weather observations.
+[35m262[0m [1m[34maur[0m[0m/[1mdatavzrd[0m [36m2.35.4-1[0m[1m (+0[0m [1m0.00) [0m
+    A tool to create visual HTML reports from collections of CSV/TSV tables
+[35m261[0m [1m[34maur[0m[0m/[1mmisspell-codeclimate-bin[0m [36m0.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Turn that misspell report into a GitLab compatible codeclimate report
+[35m260[0m [1m[34maur[0m[0m/[1mjsreport-bin[0m [36m3.6.2-1[0m[1m (+0[0m [1m0.00) [0m
+    An open-source platform for designing and rendering various reports.
+[35m259[0m [1m[34maur[0m[0m/[1mxastir-fix[0m [36m2.1.0-2[0m[1m (+0[0m [1m0.00) [0m
+    HAM RADIO - Full featured APRS Tracking/Information Reporting System
+[35m258[0m [1m[34maur[0m[0m/[1msysstat-mail-report-git[0m [36mr73.039c137-1[0m[1m (+0[0m [1m0.00) [0m
+    Send periodic email reports with graphs plotted from sysstat data
+[35m257[0m [1m[34maur[0m[0m/[1mideapad-wmi-usage-mode-dkms-git[0m [36mr4.650b870-1[0m[1m (+0[0m [1m0.00) [0m
+    Kernel module for Ideapad usage mode reported by the firmware
+[35m256[0m [1m[34maur[0m[0m/[1msnoreport[0m [36m1.3-2[0m[1m (+0[0m [1m0.00) [0m
+    Computational identification of snoRNAs with unknown targets
+[35m255[0m [1m[34maur[0m[0m/[1mabireport[0m [36m1.0.11-1[0m[1m (+0[0m [1m0.00) [0m
+    Tool to create ABI reports from ELF binaries in packaging
+[35m254[0m [1m[34maur[0m[0m/[1mpython-pytest-discord[0m [36m0.1.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Pytest plugin to report test results to a Discord channel
+[35m253[0m [1m[34maur[0m[0m/[1mpython-pytest-md-report[0m [36m0.3.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-06-02)[0m[0m 
+    Pytest plugin to create a report in Markdown table format
+[35m252[0m [1m[34maur[0m[0m/[1mpython-metar[0m [36m1.11.0-1[0m[1m (+0[0m [1m0.00) [0m
+    a Python package to parse METAR-coded weather reports
+[35m251[0m [1m[34maur[0m[0m/[1mgoogle-breakpad[0m [36mv2023.06.01-1[0m[1m (+0[0m [1m0.00) [0m
+    An open-source multi-platform crash reporting system
+[35m250[0m [1m[34maur[0m[0m/[1mpostfinger[0m [36m1.31-1[0m[1m (+0[0m [1m0.00) [0m
+    captures Postfix configuration for reporting errors
+[35m249[0m [1m[34maur[0m[0m/[1mpython-timew-report[0m [36m1.4.0-2[0m[1m (+0[0m [1m0.00) [0m
+    An interface for Timewarrior report data
+[35m248[0m [1m[34maur[0m[0m/[1mpython-thaw[0m [36m1.0.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Generates report showing where dependencies affect your project
+[35m247[0m [1m[34maur[0m[0m/[1mpython-coverxygen-git[0m [36m1.8.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Generate doxygen's documentation coverage report
+[35m246[0m [1m[34maur[0m[0m/[1mpython-coverxygen[0m [36m1.8.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Generate doxygen's documentation coverage report
+[35m245[0m [1m[34maur[0m[0m/[1mhid-sony-panic-fix-dkms[0m [36m5.19.8-1[0m[1m (+1[0m [1m0.00) [0m
+    A quick hack to the hid-sony driver meant for the third party / clone DS4 controllers that do not support HID feature report 0x81. Also fixes a possible divide by zero on some clone controllers
+[35m244[0m [1m[34maur[0m[0m/[1mfont-v[0m [36m2.1.0-3[0m[1m (+1[0m [1m0.00) [0m
+    Font version string reporting and modification library + executable tool
+[35m243[0m [1m[34maur[0m[0m/[1mkaobook[0m [36m0.9.7-4[0m[1m (+1[0m [1m0.00) [0m
+    A LaTeX class for books, reports or theses
+[35m242[0m [1m[34maur[0m[0m/[1mpgsi[0m [36m1.7.1-1[0m[1m (+1[0m [1m0.00) [0m
+    Postgres System Impact report, a script that analyzes Postgres log files and reports on which queries have the highest overall impact on the server
+[35m241[0m [1m[34maur[0m[0m/[1mgpd-fan-driver-dkms-git[0m [36mr15.20240506.108fdda-1[0m[1m (+1[0m [1m0.56) [0m
+    Fan hwmon speed report and speed control driver for GPD Win Mini, GPD Win Max2 and GPD Win 4 laptops. Latest git checkout. Includes a command line control utility.
+[35m240[0m [1m[34maur[0m[0m/[1mlua53-luacov-coveralls-git[0m [36m0.2.2.r15.g2cd56f0-1[0m[1m (+1[0m [1m0.00) [0m
+    LuaCov reporter for coveralls.io service
+[35m239[0m [1m[34maur[0m[0m/[1mutc-latex-report[0m [36m1.1.2-1[0m[1m (+1[0m [1m0.21) [0m
+    UTC LaTeX report template
+[35m238[0m [1m[34maur[0m[0m/[1mpython2-pdfrw[0m [36m0.4-3[0m[1m (+1[0m [1m0.00) [0m
+    Convert restructured text to PDF via reportlab.
+[35m237[0m [1m[34maur[0m[0m/[1mlua-luacov-coveralls[0m [36m0.2.3-2[0m[1m (+1[0m [1m0.00) [0m
+    LuaCov reporter for coveralls.io service
+[35m236[0m [1m[34maur[0m[0m/[1madebar[0m [36m2.4.1-0[0m[1m (+1[0m [1m0.00) [0m
+    Android DEvice Backup And Report, using Bash and ADB.
+[35m235[0m [1m[34maur[0m[0m/[1mpostsqlforms[0m [36m1.0.4-2[0m[1m (+1[0m [1m0.00) [0m
+    A GUI for rapidly building forms and reports for PostgreSQL and SQLite
+[35m234[0m [1m[34maur[0m[0m/[1mcargo-criterion[0m [36m1.1.0-2[0m[1m (+1[0m [1m0.00) [0m
+    Cargo plugin for analyzing and reporting on Criterion-rs benchmarks.
+[35m233[0m [1m[34maur[0m[0m/[1mfailing-disk-reporter[0m [36m0.5.2-1[0m[1m (+1[0m [1m0.00) [0m
+    Failing Disk Reporter (FDR): Get a report on Matrix or Slack when a drive (HDD or SDD) is failing
+[35m232[0m [1m[34maur[0m[0m/[1mtsar-git[0m [36m0.408.0224ccb-2[0m[1m (+1[0m [1m0.00) [0m
+    Taobao System Activity Reporter
+[35m231[0m [1m[34maur[0m[0m/[1mdmarc-report-display[0m [36m1.5-2[0m[1m (+1[0m [1m0.04) [0m
+    Parse and display DMARC reports for human review.
+[35m230[0m [1m[34maur[0m[0m/[1mdmarc-report-converter[0m [36m0.8.0-2[0m[1m (+1[0m [1m0.32) [0m
+    Convert DMARC reports from XML to human-readable formats
+[35m229[0m [1m[34maur[0m[0m/[1moxwu[0m [36m4.1.0-1[0m[1m (+1[0m [1m0.00) [0m
+    The GUI software using P2P networking to fastly report Earthquakes in Taiwan
+[35m228[0m [1m[34maur[0m[0m/[1mfont-line[0m [36m3.1.4-4[0m[1m (+1[0m [1m0.00) [0m
+    OpenType vertical metrics reporting and font line spacing adjustment tool
+[35m227[0m [1m[34maur[0m[0m/[1mmpvqc-gtk-git[0m [36mv1.0.2.g7713a1c-1[0m[1m (+1[0m [1m0.00) [0m
+    mpvQC is a libmpv based application for the creation of quality control reports of video files. (GTK version)
+[35m226[0m [1m[34maur[0m[0m/[1mpython-oslo-reports[0m [36m2.3.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-11-06)[0m[0m 
+    Oslo Reports library
+[35m225[0m [1m[34maur[0m[0m/[1mamap-bin[0m [36m0.32-1[0m[1m (+1[0m [1m0.00) [0m
+    A tool to analyze .MAP files produced by several compilers and report the amount of memory being used by data and code.
+[35m224[0m [1m[34maur[0m[0m/[1mgr-ais-git[0m [36m20160213-1[0m[1m (+1[0m [1m0.00) [0m
+    Automatic Information System decoder for shipborne position reporting for the Gnuradio project
+[35m223[0m [1m[34maur[0m[0m/[1mfava-investor-git[0m [36m0.4.0.r0.g0e3f652-1[0m[1m (+1[0m [1m0.00) [0m
+    Comprehensive set of reports, analyses, and tools for investments, for Beancount and Fava
+[35m222[0m [1m[34maur[0m[0m/[1mcubegui[0m [36m4.8.2-1[0m[1m (+1[0m [1m0.00) [0m
+    Performance report explorer for displaying a multi-dimensional performance space.
+[35m221[0m [1m[34maur[0m[0m/[1mharvest-timer-qt[0m [36m1.0.6-2[0m[1m (+1[0m [1m0.00) [0m
+    Desktop app for Harvest, a simple time tracker and reporting tool for companies
+[35m220[0m [1m[34maur[0m[0m/[1mpyruse[0m [36m2.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Route systemd-journal logs to filters and actions (ban, report, etc.)
+[35m219[0m [1m[34maur[0m[0m/[1mros-melodic-industrial-robot-status-controller[0m [36m0.1.2-3[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    ROS - A ros_control controller that reports robot status using the ROS-Industrial RobotStatus message.
+[35m218[0m [1m[34maur[0m[0m/[1mpython-xmlrunner[0m [36m1.7.7-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-28)[0m[0m 
+    PyUnit-based test runner with JUnit like XML reporting.
+[35m217[0m [1m[34maur[0m[0m/[1mpython-reportlab3[0m [36m3.6.12-3[0m[1m (+1[0m [1m0.65) [0m
+    A proven industry-strength PDF generating solution
+[35m216[0m [1m[34maur[0m[0m/[1mpython-pytest-json-report[0m [36m1.5.0-1[0m[1m (+1[0m [1m0.06) [0m
+    A pytest plugin to report test results as JSON
+[35m215[0m [1m[34maur[0m[0m/[1meprosima-fast-dds-statistics-backend[0m [36m1.1.0-1[0m[1m (+0[0m [1m0.00) [0m
+    eProsima Fast DDS Statistics Backend is a C++ library that provides collection and procession the statistics measurements reported by Fast DDS Statistics Module.
+[35m214[0m [1m[34maur[0m[0m/[1mros-noetic-hector-imu-attitude-to-tf[0m [36m0.5.2-1[0m[1m (+0[0m [1m0.00) [0m
+    ROS - hector_imu_attitude_to_tf is a lightweight node that can be used to publish the roll/pitch attitude angles reported via a imu message to tf.
+[35m213[0m [1m[34maur[0m[0m/[1mnextcloud-app-user-usage-report[0m [36m1.13.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Provides a command which generates a report about all the users and their usage.
+[35m212[0m [1m[34maur[0m[0m/[1mthinreports-section-editor-bin[0m [36m1.0.0_dev-7[0m[1m (+0[0m [1m0.00) [0m
+    A template editor for Thinreports to edit Section Format templates
+[35m211[0m [1m[34maur[0m[0m/[1mgo-licenses-git[0m [36mr37.ce1d916-1[0m[1m (+0[0m [1m0.00) [0m
+    Reports on the licenses used by a Go package and its dependencies.
+[35m210[0m [1m[34maur[0m[0m/[1mfatrace-minimal[0m [36m0.17.0-2[0m[1m (+1[0m [1m0.00) [0m
+    Reports file access events from all running processes. Without powertop and python dependency; i.e. without the 'power-usage-report' script.
+[35m209[0m [1m[34maur[0m[0m/[1mlibreport[0m [36m2.17.11-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-03-10)[0m[0m 
+    Generic library for reporting various problems
+[35m208[0m [1m[34maur[0m[0m/[1mdmarc-cat[0m [36m0.15.0-5[0m[1m (+2[0m [1m0.04) [0m
+    Small utility to decode the report sent by various email providers following the DMARC spec
+[35m207[0m [1m[34maur[0m[0m/[1mtpc-git[0m [36m0.44rc2plus-2[0m[1m (+2[0m [1m0.00) [0m
+    For AMD processors. It can manipulate power states, frequencies, DRAM timings, power settings and can report temperatures, monitor pstate changes and precise cpu usage. Currently supported families are: 10h, 11h, 12h, 14h, 15h
+[35m206[0m [1m[34maur[0m[0m/[1mxsos[0m [36m0.7.19-1[0m[1m (+2[0m [1m0.00) [0m
+    Summarize system info from sosreports
+[35m205[0m [1m[34maur[0m[0m/[1msquidanalyzer[0m [36m6.7b-4[0m[1m (+2[0m [1m0.00) [0m
+    Squid proxy native log analyser and reports generator
+[35m204[0m [1m[34maur[0m[0m/[1mtitan-bot-git[0m [36m1.6.1-3[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Out-of-date: 2022-03-22)[0m[0m 
+    A free, advanced CS:GO report and commendation bot built with performance and ease-of-use in mind
+[35m203[0m [1m[34maur[0m[0m/[1mdmarc_report[0m [36m4.3.1-1[0m[1m (+2[0m [1m0.00) [0m
+    "Generate human readable DMARC and TLS reports from standard email reports.
+[35m202[0m [1m[34maur[0m[0m/[1mprometheus-process-exporter-bin[0m [36m0.7.10-2[0m[1m (+0[0m [1m0.00) [0m
+    Prometheus exporter that mines /proc to report on selected processes
+[35m201[0m [1m[34maur[0m[0m/[1mperl-cpan-testers-report[0m [36m1.999003-1[0m[1m (+0[0m [1m0.00) [0m
+    CPAN::Testers::Report - CPAN Testers report object
+[35m200[0m [1m[34maur[0m[0m/[1mmingw-w64-kcrash[0m [36m5.76.0-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-07-29)[0m[0m 
+    Support for application crash analysis and bug report from apps (mingw-w64)
+[35m199[0m [1m[34maur[0m[0m/[1mprometheus-process-exporter[0m [36m0.8.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Prometheus exporter that mines /proc to report on selected processes
+[35m198[0m [1m[34maur[0m[0m/[1mpython-pweave[0m [36m0.30.3-2[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    scientific report generator and literate programming tool for Python
+[35m197[0m [1m[34maur[0m[0m/[1mwhipper-plugin-eaclogger[0m [36m0.5.0-1[0m[1m (+2[0m [1m0.00) [0m
+    A plugin for whipper which provides EAC style log reports.
+[35m196[0m [1m[34maur[0m[0m/[1mpython2-reportlab[0m [36m3.5.34-3[0m[1m (+2[0m [1m0.00) [0m
+    A proven industry-strength PDF generating solution
+[35m195[0m [1m[34maur[0m[0m/[1mphpreport-report-git[0m [36mr107.96065f4-1[0m[1m (+0[0m [1m0.00) [0m
+    A report generator for PhpReport
+[35m194[0m [1m[34maur[0m[0m/[1mperl-log-report-optional[0m [36m1.07-1[0m[1m (+0[0m [1m0.00) [0m
+    Perl package providing Log::Report or ::Minimal
+[35m193[0m [1m[34maur[0m[0m/[1mperl-biblio-counter[0m [36m0.11-1[0m[1m (+0[0m [1m0.00) [0m
+    COUNTER Codes of Practice report processing
+[35m192[0m [1m[34maur[0m[0m/[1mparsedmarc[0m [36m8.6.4-1[0m[1m (+3[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Python package and CLI for parsing aggregate and forensic DMARC reports
+[35m191[0m [1m[34maur[0m[0m/[1mwmmail[0m [36m0.64-10[0m[1m (+3[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-02-16)[0m[0m 
+    A WindowMaker dock applet for email reporting.
+[35m190[0m [1m[34maur[0m[0m/[1mxdf[0m [36m1.4.37-1[0m[1m (+3[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-11-13)[0m[0m 
+    An exquisite version of df, reporting file system disk space usage.
+[35m189[0m [1m[34maur[0m[0m/[1mpython-xhtml2pdf[0m [36m0.2.15-2[0m[1m (+3[0m [1m0.01) [0m
+    A library for converting HTML into PDFs using ReportLab
+[35m188[0m [1m[34maur[0m[0m/[1msysglance[0m [36m1.4.11-1[0m[1m (+3[0m [1m0.00) [0m
+    Utility for collecting information about the hardware and the operating system by generating a simple report.
+[35m187[0m [1m[34maur[0m[0m/[1mperl-test-reporter-transport-metabase[0m [36m1.999010-1[0m[1m (+0[0m [1m0.00) [0m
+    Test::Reporter::Transport::Metabase - Metabase transport for Test::Reporter
+[35m186[0m [1m[34maur[0m[0m/[1mpython-hid-parser-git[0m [36m0.0.3.r25.g4b7944f-2[0m[1m (+3[0m [1m1.00) [0m
+    Typed pure Python library to parse HID report descriptors
+[35m185[0m [1m[34maur[0m[0m/[1mhidrd-git[0m [36mr391.82c5cdd-2[0m[1m (+3[0m [1m0.00) [0m
+    HID report descriptor I/O library and conversion tool
+[35m184[0m [1m[34maur[0m[0m/[1mts-bugreport[0m [36m1.0-0[0m[1m (+3[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-24)[0m[0m 
+    Bug reporter for the* apps
+[35m183[0m [1m[34maur[0m[0m/[1mkdreports[0m [36m2.1.0-1[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A Qt library for generating printable and exportable reports from code and from XML descriptions
+[35m182[0m [1m[34maur[0m[0m/[1mperl-log-report[0m [36m1.33-1[0m[1m (+0[0m [1m0.00) [0m
+    Perl package to log/report a problem with exceptions, pluggable handlers and translation support
+[35m181[0m [1m[34maur[0m[0m/[1mmkdocs-coverage[0m [36m1.0.0-1[0m[1m (+0[0m [1m0.00) [0m
+    MkDocs plugin to integrate your coverage HTML report into your site
+[35m180[0m [1m[34maur[0m[0m/[1mperl-cpan-reporter[0m [36m1.2019-1[0m[1m (+1[0m [1m0.00) [0m
+    CPAN::Reporter - Adds CPAN Testers reporting to CPAN.pm
+[35m179[0m [1m[34maur[0m[0m/[1mallure-commandline[0m [36m2.29.0-1[0m[1m (+1[0m [1m0.00) [0m
+    A flexible, lightweight multi-language test reporting tool
+[35m178[0m [1m[34maur[0m[0m/[1mmergestat-bin[0m [36m0.5.8-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-02-12)[0m[0m 
+    Query git repositories with SQL. Generate reports, perform status checks, analyze codebases.
+[35m177[0m [1m[34maur[0m[0m/[1mpython-hid-parser[0m [36m0.0.3-6[0m[1m (+4[0m [1m2.05) [0m
+    Typed pure Python library to parse HID report descriptors
+[35m176[0m [1m[34maur[0m[0m/[1mjasperstarter[0m [36m3.6.2-1[0m[1m (+4[0m [1m0.00) [0m
+    Running JasperReports from command line
+[35m175[0m [1m[34maur[0m[0m/[1mterminal_dimensions-git[0m [36mr2.8e34b6f-1[0m[1m (+2[0m [1m0.00) [0m
+    cli tool to report terminal dimensions in both cells and pixels
+[35m174[0m [1m[34maur[0m[0m/[1mweatherreport[0m [36m1.2.0-2[0m[1m (+0[0m [1m0.00) [0m
+    A command line tool to get the current weather conditions.
+[35m173[0m [1m[34maur[0m[0m/[1mravro_dcrpt-git[0m [36mr101.7a20746-1[0m[1m (+0[0m [1m0.00) [0m
+    Decrypt secret report files ravro
+[35m172[0m [1m[34maur[0m[0m/[1mwmfrog[0m [36m0.3.1-2[0m[1m (+5[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-11-18)[0m[0m 
+    A WindowMaker dock app for weather reports.
+[35m171[0m [1m[34maur[0m[0m/[1meclipse-reporting[0m [36m4.8.0-1[0m[1m (+5[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-09-25)[0m[0m 
+    an IDE for Java and other languages - JEE + BIRT package
+[35m170[0m [1m[34maur[0m[0m/[1mfred[0m [36m0.2.0-2[0m[1m (+5[0m [1m0.00) [0m
+    Digital forensics tool for viewing and reporting on Windows registry files
+[35m169[0m [1m[34maur[0m[0m/[1mpython-codecov[0m [36m2.1.13-1[0m[1m (+0[0m [1m0.00) [0m
+    Report uploader for Codecov
+[35m168[0m [1m[34maur[0m[0m/[1mruby-slather[0m [36m2.8.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Test coverage reports for Xcode projects
+[35m167[0m [1m[34maur[0m[0m/[1mwebsite-auditing-tool[0m [36m1.1.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Tool to collect evidence, analyse them and generate reports regarding trackers that are being used by websites. It is intended to be used to facilitate website inspections.
+[35m166[0m [1m[34maur[0m[0m/[1maskgit-bin[0m [36m0.5.0-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-02-12)[0m[0m 
+    Query git repositories with SQL. Generate reports, perform status checks, analyze codebases.
+[35m165[0m [1m[34maur[0m[0m/[1mocaml-time_now[0m [36m0.17.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Reports the current time
+[35m164[0m [1m[34maur[0m[0m/[1mflow-tools[0m [36m0.68.5.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Netflow collector, analyser and report generator
+[35m163[0m [1m[34maur[0m[0m/[1mgenreport[0m [36m20190122-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Provides tools to check the DNS protocol compliance of the servers.
+[35m162[0m [1m[34maur[0m[0m/[1msigar-git[0m [36m1.6.4.r600.ga6c61edf-3[0m[1m (+0[0m [1m0.00) [0m
+    System Information Gatherer And Reporter
+[35m161[0m [1m[34maur[0m[0m/[1mjdiskreport[0m [36m1.4.1-1[0m[1m (+7[0m [1m0.00) [0m
+    Enables you to understand your disk drive usage
+[35m160[0m [1m[34maur[0m[0m/[1mtmetric-rpm[0m [36m20.2.4-1[0m[1m (+0[0m [1m0.00) [0m
+    TMetric is a simple and accurate work time-tracker that sets you free from tedious time reporting. Built from the rpm to prevent breakage.
+[35m159[0m [1m[34maur[0m[0m/[1mpkglog[0m [36m1.30-1[0m[1m (+2[0m [1m0.00) [0m
+    Reports log of package updates
+[35m158[0m [1m[34maur[0m[0m/[1mtelegraf-git[0m [36mr4693.cd1cd54e0-1[0m[1m (+1[0m [1m0.00) [0m
+    Plugin-driven server agent for reporting metrics into InfluxDB
+[35m157[0m [1m[34maur[0m[0m/[1mlibrlib[0m [36m2.0.20-1[0m[1m (+0[0m [1m0.00) [0m
+    Advanced reporting engine that generates professional reports in PDF, HTML, CSV, and text formats from a simple XML definition language.
+[35m156[0m [1m[34maur[0m[0m/[1mgitwrk-git[0m [36mv1.0.8.r0.g904fcd8-2[0m[1m (+0[0m [1m0.00) [0m
+    GitWrk is a small CLI tool that helps you with monthly reports by extracting working hours directly from git repository.
+[35m155[0m [1m[34maur[0m[0m/[1msysusage[0m [36m5.7.1-1[0m[1m (+9[0m [1m0.00) [0m
+    Monitor your system, generate periodical graph reports, serve through a web interface
+[35m154[0m [1m[34maur[0m[0m/[1mcpuwatch[0m [36m0.1-1[0m[1m (+0[0m [1m0.00) [0m
+    A program to report CPU usage
+[35m153[0m [1m[34maur[0m[0m/[1mledger-go[0m [36m1.16.1-1[0m[1m (+0[0m [1m0.00) [0m
+    A double-entry accounting system with a command-line reporting interface
+[35m152[0m [1m[34maur[0m[0m/[1mostent-bin[0m [36m0.7.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A server tool to collect, display and report system metrics
+[35m151[0m [1m[34maur[0m[0m/[1msentinl[0m [36m6.6.1-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Siren Platform + Kibana Alert & Report App for Elasticsearch
+[35m150[0m [1m[34maur[0m[0m/[1mtempy-git[0m [36m1.2.1.r69.03ae0fa-1[0m[1m (+0[0m [1m0.00) [0m
+    Render visually pleasing weather reports as rich text to your terminal
+[35m149[0m [1m[34maur[0m[0m/[1mkerneloops-git[0m [36m0.12.r44.g00ac663-1[0m[1m (+4[0m [1m0.00) [0m
+    Client tool for reporting OOPS to http://oops.kernel.org/
+[35m148[0m [1m[34maur[0m[0m/[1msmemstat[0m [36m0.02.13-2[0m[1m (+1[0m [1m0.75) [0m
+    Smemstat reports the physical memory usage taking into consideration shared memory.
+[35m147[0m [1m[34maur[0m[0m/[1mperl-exception-handler[0m [36m1.004-1[0m[1m (+3[0m [1m0.00) [0m
+    Report exceptions with formatted text call-stack
+[35m146[0m [1m[34maur[0m[0m/[1mruby-flog[0m [36m4.8.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Reports the most tortured code in an easy to read pain report
+[35m145[0m [1m[34maur[0m[0m/[1moscar-bin[0m [36m1.5.2-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-04-28)[0m[0m 
+    Open Source CPAP Analysis Reporter
+[35m144[0m [1m[34maur[0m[0m/[1mperl-test-reporter[0m [36m1.62-1[0m[1m (+2[0m [1m0.00) [0m
+    Test::Reporter - sends test results to cpan-testers@perl.org
+[35m143[0m [1m[34maur[0m[0m/[1mtexmaster[0m [36m2009.3-8[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Texmaster is a tetris clone developed by Report.
+[35m142[0m [1m[34maur[0m[0m/[1mmemcache-top[0m [36m0.6-2[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    perl command-line memcached stat reporter, top-like output
+[35m141[0m [1m[34maur[0m[0m/[1mtimer-bin[0m [36m1.4.1-1[0m[1m (+1[0m [1m0.07) [0m
+    Timer is like sleep, but reports progress.
+[35m140[0m [1m[34maur[0m[0m/[1mrat-git[0m [36m1.1.0.r3.gcea5287-1[0m[1m (+1[0m [1m0.00) [0m
+    List, report to issue trackers and purge todos within your Git projects - Git development version
+[35m139[0m [1m[34maur[0m[0m/[1mheroku-audit[0m [36m0.0.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Command-line tool for reporting on specific attributes of a Heroku environment.
+[35m138[0m [1m[34maur[0m[0m/[1mbeacon[0m [36m1.1.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Tiny system utility reporting CPU, memory, uptime to logs, cloudwatch, http
+[35m137[0m [1m[34maur[0m[0m/[1mtempy[0m [36m1.4.0.r192.22db47e-1[0m[1m (+0[0m [1m0.00) [0m
+    Render visually pleasing weather reports as rich text to your terminal
+[35m136[0m [1m[34maur[0m[0m/[1msmem[0m [36m1.5-4[0m[1m (+11[0m [1m0.35) [0m
+    Generate reports on memory usage.
+[35m135[0m [1m[34maur[0m[0m/[1mrpgng[0m [36m0.5.5-1[0m[1m (+1[0m [1m0.00) [0m
+    RPG Next Gen Editor is a lightweight RPG (Report Program Generator) editor based on the Eclipse platform.
+[35m134[0m [1m[34maur[0m[0m/[1mifstat[0m [36m1.1.1-3[0m[1m (+1[0m [1m0.00) [0m
+    A tool to report network interfaces bandwith just like vmstat/iostat do for other system counters
+[35m133[0m [1m[34maur[0m[0m/[1mgetax[0m [36m2023-2[0m[1m (+1[0m [1m0.07) [0m
+    Application for the tax reporting of physical people in the canton of Geneva, Switzerland.
+[35m132[0m [1m[34maur[0m[0m/[1mjaspersoftstudio[0m [36m6.21.0-1[0m[1m (+14[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-04-24)[0m[0m 
+    Eclipse based Jasper Reports generator
+[35m131[0m [1m[34maur[0m[0m/[1mtexpresso-git[0m [36mr176.96d0599-2[0m[1m (+2[0m [1m0.00) [0m
+    Live rendering and error reporting for LaTeX
+[35m130[0m [1m[34maur[0m[0m/[1mr-brew[0m [36m1.0.10-3[0m[1m (+1[0m [1m0.00) [0m
+    Templating Framework for Report Generation
+[35m129[0m [1m[34maur[0m[0m/[1mxastir[0m [36m2.2.0-1[0m[1m (+14[0m [1m0.00) [0m
+    HAM RADIO - Full featured APRS Tracking/Information Reporting System
+[35m128[0m [1m[34maur[0m[0m/[1mchez-scheme-git[0m [36m9.5.r65.gd8c2704-4[0m[1m (+15[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-11-13)[0m[0m 
+    Chez Scheme is an implementation of the Revised6 Report on Scheme (R6RS) with numerous language and programming environment extensions. (threaded build)
+[35m127[0m [1m[34maur[0m[0m/[1mr-degreport[0m [36m1.40.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Report of DEG analysis
+[35m126[0m [1m[34maur[0m[0m/[1mruby-parslet-1.5[0m [36m1.5.0-1[0m[1m (+9[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Parser construction library with great error reporting in Ruby.
+[35m125[0m [1m[34maur[0m[0m/[1msatyr[0m [36m0.43-1[0m[1m (+2[0m [1m0.00) [0m
+    Automatic problem management with anonymous reports
+[35m124[0m [1m[34maur[0m[0m/[1mrecap-git[0m [36m0.9.14.r41.g19ad54d-1[0m[1m (+0[0m [1m0.00) [0m
+    System status reporting
+[35m123[0m [1m[34maur[0m[0m/[1mperl-class-isa[0m [36m0.36-1[0m[1m (+6[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-05-03)[0m[0m 
+    report the search path for a class's ISA tree
+[35m122[0m [1m[34maur[0m[0m/[1mremake-git[0m [36mr3131.7619a012-1[0m[1m (+2[0m [1m0.00) [0m
+    Enhanced GNU Make - tracing, error reporting, debugging, profiling and more
+[35m121[0m [1m[34maur[0m[0m/[1mgrabc[0m [36m2:1.0.2-1[0m[1m (+20[0m [1m0.01) [0m
+    A utility for reporting the color of a pixel.
+[35m120[0m [1m[34maur[0m[0m/[1mrwc-git[0m [36mr9.227380d-1[0m[1m (+0[0m [1m0.00) [0m
+    Report when files change
+[35m119[0m [1m[34maur[0m[0m/[1mr-cogito[0m [36m1.10.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Compare genomic intervals tool - Automated, complete, reproducible and clear report about genomic and epigenomic data sets
+[35m118[0m [1m[34maur[0m[0m/[1munpoller[0m [36m2.7.11-1[0m[1m (+0[0m [1m0.00) [0m
+    Collect your UniFi controller data and report it to an InfluxDB instance, or export it for Prometheus collection.
+[35m117[0m [1m[34maur[0m[0m/[1mclickhouse[0m [36m24.4.1.2088-1[0m[1m (+22[0m [1m0.00) [0m
+    An open-source column-oriented database management system that allows generating analytical data reports in real time
+[35m116[0m [1m[34maur[0m[0m/[1mkcrash-git[0m [36m6.0.0_r517.g90f800f-1[0m[1m (+24[0m [1m0.00) [0m
+    Support for application crash analysis and bug report from apps
+[35m115[0m [1m[34maur[0m[0m/[1mwebslap[0m [36m1.24-1[0m[1m (+10[0m [1m0.00) [0m
+    a website quality assurance reporting tool
+[35m114[0m [1m[34maur[0m[0m/[1mpymetar[0m [36m1.4-1[0m[1m (+32[0m [1m0.00) [0m
+    Downloads the weather report for a given station ID and decodes it
+[35m113[0m [1m[34maur[0m[0m/[1mrotki-bin[0m [36m1.33.0-1[0m[1m (+12[0m [1m0.36) [0m
+    A portfolio tracking, analytics, accounting and tax reporting application that respects your privacy
+[35m112[0m [1m[34maur[0m[0m/[1mwebalizer[0m [36m2.23.08.20210401-5[0m[1m (+17[0m [1m0.00) [0m
+    A web server log file analysis program producing HTML reports
+[35m111[0m [1m[34maur[0m[0m/[1mchez-scheme[0m [36m10.0.0-1[0m[1m (+42[0m [1m0.40) [0m
+    Compiler and run-time system for the language of the Revised^6 Report on Scheme (R6RS), with numerous extensions.
+[35m110[0m [1m[34maur[0m[0m/[1mtuptime[0m [36m5.2.3-1[0m[1m (+16[0m [1m0.01) [0m
+    Historical and statistical system uptime reporting
+[35m109[0m [1m[34maur[0m[0m/[1mrecap[0m [36m2.1.0-1[0m[1m (+1[0m [1m0.00) [0m
+    System status reporting
+[35m108[0m [1m[34maur[0m[0m/[1mfatrace[0m [36m0.17.0-1[0m[1m (+35[0m [1m0.72) [0m
+    Reports file access events from all running processes.
+[35m107[0m [1m[34maur[0m[0m/[1mmetar[0m [36m1.3.4-2[0m[1m (+3[0m [1m0.00) [0m
+    Trivial, yet fully fledged, weather report
+[35m106[0m [1m[34maur[0m[0m/[1mledger-git[0m [36mlatest-6[0m[1m (+25[0m [1m0.00) [0m
+    A double-entry accounting system with a command-line reporting interface (development version)
+[35m105[0m [1m[34maur[0m[0m/[1mgoogle-breakpad-git[0m [36mr2032.afc8daa2-1[0m[1m (+71[0m [1m0.00) [0m
+    An open-source multi-platform crash reporting system
+[35m104[0m [1m[34maur[0m[0m/[1msemantik[0m [36m1.2.11-1[0m[1m (+13[0m [1m0.00) [0m
+    mindmapping-like tool for document generation (reports, thesis, etc)
+[35m103[0m [1m[34maur[0m[0m/[1mrepostat-git[0m [36mr694.fc6e974-1[0m[1m (+1[0m [1m0.00) [0m
+    Git repository analyser and HTML-report generator with nvd3-driven interactive metrics visualisations.
+[35m102[0m [1m[34maur[0m[0m/[1mreport-todo[0m [36m1.0.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Parse and report TODO, FIXME, BUG etc. comments in source code.
+[35m101[0m [1m[34maur[0m[0m/[1mpython-ydata-profiling[0m [36m4.8.3-1[0m[1m (+1[0m [1m0.24) [0m
+    Create HTML profiling reports from pandas DataFrame objects
+[35m100[0m [1m[34maur[0m[0m/[1mshntool[0m [36m3.0.10-7[0m[1m (+15[0m [1m1.31) [0m
+    A multi-purpose WAVE data processing and reporting utility
+[35m99[0m [1m[34maur[0m[0m/[1msystemd-report-entropy[0m [36m3-1[0m[1m (+0[0m [1m0.00) [0m
+    report system entropy to journald during boot
+[35m98[0m [1m[34maur[0m[0m/[1mr-reportingtools[0m [36m2.44.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Tools for making reports in various formats
+[35m97[0m [1m[34maur[0m[0m/[1mr-beadarraysnp[0m [36m1.68.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Normalization and reporting of Illumina SNP bead arrays
+[35m96[0m [1m[34maur[0m[0m/[1mr-anvilbilling[0m [36m1.14.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Provide functions to retrieve and report on usage expenses in NHGRI AnVIL (anvilproject.org).
+[35m95[0m [1m[34maur[0m[0m/[1mr-easyreporting[0m [36m1.16.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Helps creating report for improving Reproducible Computational Research
+[35m94[0m [1m[34maur[0m[0m/[1mr-seqarchrplus[0m [36m1.4.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Downstream analyses of promoter sequence architectures and HTML report generation
+[35m93[0m [1m[34maur[0m[0m/[1mr-rapportools[0m [36m1.1-6[0m[1m (+0[0m [1m0.00) [0m
+    Miscellaneous (stats) helper functions with sane defaults for reporting
+[35m92[0m [1m[34maur[0m[0m/[1mr-tracktables[0m [36m1.38.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Build IGV tracks and HTML reports
+[35m91[0m [1m[34maur[0m[0m/[1mr-regionreport[0m [36m1.38.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Generate HTML or PDF reports for a set of genomic regions or DESeq2/edgeR results
+[35m90[0m [1m[34maur[0m[0m/[1mr-ngsreports[0m [36m2.6.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Load FastqQC reports and other NGS related files
+[35m89[0m [1m[34maur[0m[0m/[1mr-epialleler[0m [36m1.12.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Fast, Epiallele-Aware Methylation Reporter
+[35m88[0m [1m[34maur[0m[0m/[1mr-metaseqr2[0m [36m1.16.0-1[0m[1m (+0[0m [1m0.00) [0m
+    An R package for the analysis and result reporting of RNA-Seq data by combining multiple statistical algorithms
+[35m87[0m [1m[34maur[0m[0m/[1mr-reportroc[0m [36m3.6-1[0m[1m (+0[0m [1m0.00) [0m
+    An Easy Way to Report ROC Analysis
+[35m86[0m [1m[34maur[0m[0m/[1mr-flextable[0m [36m0.9.6-1[0m[1m (+0[0m [1m0.00) [0m
+    Functions for Tabular Reporting
+[35m85[0m [1m[34maur[0m[0m/[1mr-htmlutils[0m [36m0.1.9-2[0m[1m (+0[0m [1m0.00) [0m
+    Facilitates Automated HTML Report Creation
+[35m84[0m [1m[34maur[0m[0m/[1mr-arrayqualitymetrics[0m [36m3.60.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Quality metrics report for microarray data sets
+[35m83[0m [1m[34maur[0m[0m/[1mr-reportr[0m [36m1.3.0-7[0m[1m (+0[0m [1m0.00) [0m
+    A General Message and Error Reporting System
+[35m82[0m [1m[34maur[0m[0m/[1mr-alevinqc[0m [36m1.20.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Generate QC Reports For Alevin Output
+[35m81[0m [1m[34maur[0m[0m/[1mtelegraf[0m [36m1.30.3-1[0m[1m (+40[0m [1m0.28) [0m
+    Plugin-driven server agent for reporting metrics into InfluxDB
+[35m80[0m [1m[34maur[0m[0m/[1mreportbug[0m [36m13.0.1-1[0m[1m (+3[0m [1m0.00) [0m
+    A tool designed to make the reporting of bugs in Debian and derived distributions relatively painless
+[35m79[0m [1m[34maur[0m[0m/[1mr-report[0m [36m0.5.8-1[0m[1m (+0[0m [1m0.00) [0m
+    Automated Reporting of Results and Statistical Models
+[35m78[0m [1m[34maur[0m[0m/[1mr-abseqr[0m [36m1.22.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Reporting and data analysis functionalities for Rep-Seq datasets of antibody libraries
+[35m77[0m [1m[34maur[0m[0m/[1mr-systempiper[0m [36m2.10.0-1[0m[1m (+0[0m [1m0.00) [0m
+    systemPipeR: NGS workflow and report generation environment
+[35m76[0m [1m[34maur[0m[0m/[1mr-a4reporting[0m [36m1.52.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Automated Affymetrix Array Analysis Reporting Package
+[35m75[0m [1m[34maur[0m[0m/[1mr-nozzle.r1[0m [36m1.1.1.1-7[0m[1m (+0[0m [1m0.00) [0m
+    Nozzle Reports
+[35m74[0m [1m[34maur[0m[0m/[1mr-hermes[0m [36m1.8.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Preprocessing, analyzing, and reporting of RNA-seq data
+[35m73[0m [1m[34maur[0m[0m/[1mr-knitr[0m [36m1.47-1[0m[1m (+1[0m [1m0.00) [0m
+    A General-Purpose Package for Dynamic Report Generation in R
+[35m72[0m [1m[34maur[0m[0m/[1mr-r.rsp[0m [36m0.46.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Dynamic Generation of Scientific Reports
+[35m71[0m [1m[34maur[0m[0m/[1mr-paper[0m [36m1.0.5-2[0m[1m (+0[0m [1m0.00) [0m
+    A Toolbox for Writing Pretty Papers and Reports
+[35m70[0m [1m[34maur[0m[0m/[1mr-mpra[0m [36m1.26.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Analyze massively parallel reporter assays
+[35m69[0m [1m[34mbioarchlinux[0m[0m/[1mr-brew[0m [36m1.0.10-3[0m[1m (54.6 KiB 457.4 KiB) [0m
+    Templating Framework for Report Generation
+[35m68[0m [1m[34mbioarchlinux[0m[0m/[1mr-degreport[0m [36m1.40.0-1[0m[1m (2.8 MiB 3.7 MiB) [0m
+    Report of DEG analysis
+[35m67[0m [1m[34mbioarchlinux[0m[0m/[1mr-cogito[0m [36m1.10.0-1[0m[1m (1.2 MiB 1.7 MiB) [0m
+    Compare genomic intervals tool - Automated, complete, reproducible and clear report about genomic and epigenomic data sets
+[35m66[0m [1m[34mbioarchlinux[0m[0m/[1mr-reportingtools[0m [36m2.44.0-1[0m[1m (1.6 MiB 2.7 MiB) [0m
+    Tools for making reports in various formats
+[35m65[0m [1m[34mbioarchlinux[0m[0m/[1mr-anvilbilling[0m [36m1.14.0-1[0m[1m (723.9 KiB 1.3 MiB) [0m
+    Provide functions to retrieve and report on usage expenses in NHGRI AnVIL (anvilproject.org).
+[35m64[0m [1m[34mbioarchlinux[0m[0m/[1mr-beadarraysnp[0m [36m1.68.0-2[0m[1m (906.5 KiB 1.7 MiB) [0m
+    Normalization and reporting of Illumina SNP bead arrays
+[35m63[0m [1m[34mbioarchlinux[0m[0m/[1mr-easyreporting[0m [36m1.16.0-1[0m[1m (2.7 MiB 4.5 MiB) [0m
+    Helps creating report for improving Reproducible Computational Research
+[35m62[0m [1m[34mbioarchlinux[0m[0m/[1mr-seqarchrplus[0m [36m1.4.0-1[0m[1m (2.5 MiB 3.8 MiB) [0m
+    Downstream analyses of promoter sequence architectures and HTML report generation
+[35m61[0m [1m[34mbioarchlinux[0m[0m/[1mr-tracktables[0m [36m1.38.0-1[0m[1m (396.2 KiB 1.2 MiB) [0m
+    Build IGV tracks and HTML reports
+[35m60[0m [1m[34mbioarchlinux[0m[0m/[1mr-rapportools[0m [36m1.1-8[0m[1m (127.6 KiB 149.7 KiB) [0m
+    Miscellaneous (stats) helper functions with sane defaults for reporting
+[35m59[0m [1m[34mbioarchlinux[0m[0m/[1mr-regionreport[0m [36m1.38.0-1[0m[1m (374.2 KiB 2.0 MiB) [0m
+    Generate HTML or PDF reports for a set of genomic regions or DESeq2/edgeR results
+[35m58[0m [1m[34mbioarchlinux[0m[0m/[1mr-epialleler[0m [36m1.12.0-1[0m[1m (3.6 MiB 4.9 MiB) [0m
+    Fast, Epiallele-Aware Methylation Reporter
+[35m57[0m [1m[34mbioarchlinux[0m[0m/[1mr-ngsreports[0m [36m2.6.0-1[0m[1m (3.1 MiB 5.1 MiB) [0m
+    Load FastqQC reports and other NGS related files
+[35m56[0m [1m[34mbioarchlinux[0m[0m/[1mr-reportroc[0m [36m3.6-4[0m[1m (30.2 KiB 29.4 KiB) [0m
+    An Easy Way to Report ROC Analysis
+[35m55[0m [1m[34mbioarchlinux[0m[0m/[1mr-flextable[0m [36m0.9.6-1[0m[1m (2.9 MiB 3.8 MiB) [0m
+    Functions for Tabular Reporting
+[35m54[0m [1m[34mbioarchlinux[0m[0m/[1mr-metaseqr2[0m [36m1.16.0-1[0m[1m (4.1 MiB 6.0 MiB) [0m
+    An R package for the analysis and result reporting of RNA-Seq data by combining multiple statistical algorithms
+[35m53[0m [1m[34mbioarchlinux[0m[0m/[1mr-htmlutils[0m [36m0.1.9-3[0m[1m (90.5 KiB 146.7 KiB) [0m
+    Facilitates Automated HTML Report Creation
+[35m52[0m [1m[34mbioarchlinux[0m[0m/[1mr-arrayqualitymetrics[0m [36m3.60.0-1[0m[1m (505.5 KiB 608.8 KiB) [0m
+    Quality metrics report for microarray data sets
+[35m51[0m [1m[34mbioarchlinux[0m[0m/[1mr-reportr[0m [36m1.3.0-8[0m[1m (35.8 KiB 39.3 KiB) [0m
+    A General Message and Error Reporting System
+[35m50[0m [1m[34mbioarchlinux[0m[0m/[1mr-alevinqc[0m [36m1.20.0-1[0m[1m (5.2 MiB 20.2 MiB) [0m
+    Generate QC Reports For Alevin Output
+[35m49[0m [1m[34mbioarchlinux[0m[0m/[1mr-report[0m [36m0.5.8-1[0m[1m (707.1 KiB 1.0 MiB) [0m
+    Automated Reporting of Results and Statistical Models
+[35m48[0m [1m[34mbioarchlinux[0m[0m/[1mr-abseqr[0m [36m1.22.0-1[0m[1m (2.5 MiB 3.7 MiB) [0m
+    Reporting and data analysis functionalities for Rep-Seq datasets of antibody libraries
+[35m47[0m [1m[34mbioarchlinux[0m[0m/[1mr-systempiper[0m [36m2.10.0-1[0m[1m (5.0 MiB 12.1 MiB) [0m
+    systemPipeR: NGS workflow and report generation environment
+[35m46[0m [1m[34mbioarchlinux[0m[0m/[1mr-a4reporting[0m [36m1.52.0-1[0m[1m (402.9 KiB 1.0 MiB) [0m
+    Automated Affymetrix Array Analysis Reporting Package
+[35m45[0m [1m[34mbioarchlinux[0m[0m/[1mr-nozzle.r1[0m [36m1.1.1.1-7[0m[1m (339.4 KiB 567.1 KiB) [0m
+    Nozzle Reports
+[35m44[0m [1m[34mbioarchlinux[0m[0m/[1mr-hermes[0m [36m1.8.0-1[0m[1m (3.8 MiB 5.1 MiB) [0m
+    Preprocessing, analyzing, and reporting of RNA-seq data
+[35m43[0m [1m[34mbioarchlinux[0m[0m/[1mr-knitr[0m [36m1.47-1[0m[1m (976.5 KiB 1.5 MiB) [0m
+    A General-Purpose Package for Dynamic Report Generation in R
+[35m42[0m [1m[34mbioarchlinux[0m[0m/[1mr-r.rsp[0m [36m0.46.0-2[0m[1m (1.3 MiB 1.6 MiB) [0m
+    Dynamic Generation of Scientific Reports
+[35m41[0m [1m[34mbioarchlinux[0m[0m/[1mr-paper[0m [36m1.0.5-4[0m[1m (572.8 KiB 1.1 MiB) [0m
+    A Toolbox for Writing Pretty Papers and Reports
+[35m40[0m [1m[34mbioarchlinux[0m[0m/[1mr-mpra[0m [36m1.26.0-1[0m[1m (3.2 MiB 3.8 MiB) [0m
+    Analyze massively parallel reporter assays
+[35m39[0m [1m[33mjlk[0m[0m/[1mpython-ydata-profiling[0m [36m4.8.3-1[0m[1m (393.9 KiB 2.5 MiB) [0m
+    Create HTML profiling reports from pandas DataFrame objects
+[35m38[0m [1m[31marchlinuxcn[0m[0m/[1mchez-scheme[0m [36m9.5.6-1[0m[1m (2.4 MiB 4.1 MiB) [0m
+    Chez Scheme is a compiler and run-time system for the language of the Revised^6 Report on Scheme (R6RS), with numerous extensions.
+[35m37[0m [1m[31marchlinuxcn[0m[0m/[1mpython-ydata-profiling[0m [36m4.8.3-1[0m[1m (393.5 KiB 2.5 MiB) [0m
+    Create HTML profiling reports from pandas DataFrame objects
+[35m36[0m [1m[31marchlinuxcn[0m[0m/[1msystemd-report-entropy[0m [36m3-2[0m[1m (3.6 KiB 2.2 KiB) [0m
+    report system entropy to journald during boot
+[35m35[0m [1m[31marchlinuxcn[0m[0m/[1mtelegraf[0m [36m1.30.3-1[0m[1m (41.9 MiB 218.6 MiB) [0m
+    Plugin-driven server agent for reporting metrics into InfluxDB
+[35m34[0m [1m[32mchaotic-aur[0m[0m/[1mshntool[0m [36m3.0.10-7[0m[1m (80.6 KiB 307.9 KiB) [0m
+    A multi-purpose WAVE data processing and reporting utility
+[35m33[0m [1m[32mchaotic-aur[0m[0m/[1mtelegraf[0m [36m1.30.3-1[0m[1m (41.9 MiB 218.6 MiB) [0m
+    Plugin-driven server agent for reporting metrics into InfluxDB
+[35m32[0m [1m[36mdesolve[0m[0m/[1mr-brew[0m [36m1.0.10-1[0m[1m (55.6 KiB 457.5 KiB) [0m
+    Templating Framework for Report Generation
+[35m31[0m [1m[36mdesolve[0m[0m/[1mr-knitr[0m [36m1.45-1[0m[1m (1.2 MiB 2.3 MiB) [0m
+    A General-Purpose Package for Dynamic Report Generation in R
+[35m30[0m [1m[32mextra[0m[0m/[1mopensearch-reports-scheduler-plugin[0m [36m2.13.0.0-1[0m[1m (6.2 MiB 6.9 MiB) [0m
+    OpenSearch Reports Scheduler Plugin
+[35m29[0m [1m[32mextra[0m[0m/[1mzabbix-web-service[0m [36m6.4.15-1[0m[1m (2.8 MiB 9.1 MiB) [0m
+    Zabbix web service used to generate and send scheduled reports
+[35m28[0m [1m[32mextra[0m[0m/[1mpython-pytest-cov[0m [36m4.1.0-5[0m[1m (37.4 KiB 159.2 KiB) [0m
+    py.test plugin for coverage reporting with support for both centralised and distributed testing, including subprocesses and multiprocessing
+[35m27[0m [1m[32mextra[0m[0m/[1msarg[0m [36m2.4.0-3[0m[1m (502.5 KiB 1.2 MiB) [0m
+    Squid Analysis Report Generator
+[35m26[0m [1m[32mextra[0m[0m/[1mpython-pdfrw[0m [36m0.4-9[0m[1m (100.0 KiB 465.5 KiB) [0m[1m[32m(Installed)[0m[0m
+    Convert restructured text to PDF via reportlab.
+[35m25[0m [1m[32mextra[0m[0m/[1mlibwhereami[0m [36m0.5.0-17[0m[1m (157.1 KiB 430.7 KiB) [0m
+    Library to report hypervisor information from inside a VM
+[35m24[0m [1m[32mextra[0m[0m/[1mopensearch-dashboards-reports-plugin[0m [36m2.13.0.0-1[0m[1m (27.5 MiB 129.5 MiB) [0m
+    OpenSearch Dashboards Reports Plugin
+[35m23[0m [1m[32mextra[0m[0m/[1mkreport[0m [36m3.2.0-4[0m[1m (1.1 MiB 2.5 MiB) [0m
+    A framework for creation and generation of reports in multiple formats
+[35m22[0m [1m[32mextra[0m[0m/[1msynbak[0m [36m3.8.2-1[0m[1m (144.2 KiB 480.7 KiB) [0m
+    Meant to unify several backup methods in a single application while supplying a powerful reporting system
+[35m21[0m [1m[32mextra[0m[0m/[1mpython-helpdev[0m [36m0.7.1-8[0m[1m (26.0 KiB 117.3 KiB) [0m
+    Helping users and developers to get information about the environment to report bugs
+[35m20[0m [1m[32mextra[0m[0m/[1mkcrash5[0m [36m5.116.0-1[0m[1m (122.9 KiB 223.1 KiB) [0m[kf5] [1m[32m(Installed)[0m[0m
+    Support for application crash analysis and bug report from apps
+[35m19[0m [1m[32mextra[0m[0m/[1mkcrash[0m [36m6.2.0-1[0m[1m (125.4 KiB 233.3 KiB) [0m[kf6] [1m[32m(Installed)[0m[0m
+    Support for application crash analysis and bug report from apps
+[35m18[0m [1m[32mextra[0m[0m/[1mpython-pytest-tap[0m [36m3.3-3[0m[1m (9.0 KiB 21.3 KiB) [0m
+    Test Anything Protocol (TAP) reporting plugin for pytest.
+[35m17[0m [1m[32mextra[0m[0m/[1mi7z[0m [36m0.27.2.git1-8[0m[1m (36.7 KiB 126.1 KiB) [0m
+    A better i7 (and now i3, i5) reporting tool for Linux
+[35m16[0m [1m[32mextra[0m[0m/[1mpython-reportlab[0m [36m4.1.0-2[0m[1m (2.6 MiB 11.2 MiB) [0m
+    A proven industry-strength PDF generating solution
+[35m15[0m [1m[32mextra[0m[0m/[1mumockdev[0m [36m0.17.18-2[0m[1m (143.7 KiB 672.5 KiB) [0m
+    Record/mock hardware devices for bug reports and regression tests
+[35m14[0m [1m[32mextra[0m[0m/[1mlibfaketime[0m [36m0.9.10-2[0m[1m (48.3 KiB 172.6 KiB) [0m
+    Report fake dates and times to programs without having to change the system-wide time.
+[35m13[0m [1m[32mextra[0m[0m/[1mgo-licenses[0m [36m1.6.0-1[0m[1m (10.3 MiB 20.7 MiB) [0m
+    Reports on the licenses used by a Go package and its dependencies
+[35m12[0m [1m[32mextra[0m[0m/[1mruby-minitest-reporters[0m [36m1.5.0-2[0m[1m (227.0 KiB 392.3 KiB) [0m
+    Extend Minitest through simple hooks
+[35m11[0m [1m[32mextra[0m[0m/[1mturbostat[0m [36m6.9-1[0m[1m (167.1 KiB 432.5 KiB) [0m[linux-tools] 
+    Report processor frequency and idle statistics
+[35m10[0m [1m[32mextra[0m[0m/[1mperl-memory-process[0m [36m0.06-2[0m[1m (6.3 KiB 6.3 KiB) [0m
+    Perl/CPAN Module Memory::Process memory process reporting for Perl
+[35m9[0m [1m[32mextra[0m[0m/[1mtexlive-publishers[0m [36m2024.2-2[0m[1m (21.2 MiB 60.5 MiB) [0m[texlive] 
+    TeX Live - Publisher styles, theses, etc.
+[35m8[0m [1m[32mextra[0m[0m/[1mruby-parslet[0m [36m2.0.0-1[0m[1m (139.5 KiB 537.0 KiB) [0m
+    Parser construction library with great error reporting in Ruby
+[35m7[0m [1m[32mextra[0m[0m/[1mtexlive-latexextra[0m [36m2024.2-2[0m[1m (24.5 MiB 82.2 MiB) [0m[texlive] [1m[32m(Installed)[0m[0m
+    TeX Live - LaTeX additional packages
+[35m6[0m [1m[32mextra[0m[0m/[1mperl-carp-clan[0m [36m6.08-7[0m[1m (9.8 KiB 15.4 KiB) [0m
+    Report errors from perspective of caller of a "clan" of modules
+[35m5[0m [1m[32mextra[0m[0m/[1mrocminfo[0m [36m6.0.2-1[0m[1m (150.7 KiB 484.8 KiB) [0m[1m[32m(Installed)[0m[0m
+    ROCm Application for Reporting System Info
+[35m4[0m [1m[32mextra[0m[0m/[1mgambas3-gb-report[0m [36m3.19.1-2[0m[1m (161.8 KiB 710.9 KiB) [0m[gambas3] 
+    Report component
+[35m3[0m [1m[32mextra[0m[0m/[1mledger[0m [36m3.3.2-5[0m[1m (1.3 MiB 9.0 MiB) [0m
+    Double-entry accounting system with a command-line reporting interface
+[35m2[0m [1m[32mextra[0m[0m/[1mruby-toml[0m [36m0.3.0-1[0m[1m (16.9 KiB 40.4 KiB) [0m
+    Parser construction library with great error reporting in Ruby
+[35m1[0m [1m[32mextra[0m[0m/[1mremake[0m [36m4.3+dbg1.6-2[0m[1m (371.0 KiB 1.4 MiB) [0m
+    Enhanced GNU Make - tracing, error reporting, debugging, profiling and more
+[1m[32m==>[0m[0m Packages to install (eg: 1 2 3, 1-3 or ^4)
+[1m[32m==> [0m[0m1-17
+[1mSync Explicit (15):[0m [36mledger-3.3.2-5[0m, [36mlibfaketime-0.9.10-2[0m, [36mumockdev-0.17.18-2[0m, [36mruby-parslet-2.0.0-1[0m, [36mruby-toml-0.3.0-1[0m, [36mperl-memory-process-0.06-2[0m, [36mgo-licenses-1.6.0-1[0m, [36mpython-reportlab-4.1.0-2[0m, [36mremake-4.3+dbg1.6-2[0m, [36mruby-minitest-reporters-1.5.0-2[0m, [36mi7z-0.27.2.git1-8[0m, [36mturbostat-6.9-1[0m, [36mperl-carp-clan-6.08-7[0m, [36mtexlive-publishers-2024.2-2[0m, [36mgambas3-gb-report-3.19.1-2[0m
+[1mSync Dependency (2):[0m [36mtexlive-latexextra-2024.2-2[0m, [36mrocminfo-6.0.2-1[0m
+[1;33mwarning: [0mrocminfo-6.0.2-1 is up to date -- reinstalling
+[1;33mwarning: [0mtexlive-latexextra-2024.2-2 is up to date -- reinstalling
+[?25lresolving dependencies...
+[1;34m::[0;1m There are 2 providers available for gambas3-gui:
+[0m[1;34m::[0;1m Repository [1;35mextra
+[0m[0;1m  [0m 1) gambas3-gb-gtk3  2) gambas3-gb-qt5
+
+Enter a number (default=1): [?25h2
+[?25llooking for conflicting packages...
+
+[0;1mPackage (26)                 [0m  [0;1mOld Version[0m  [0;1mNew Version  [0m  [0;1mNet Change[0m  [0;1mDownload Size[0m
+
+extra/gambas3-gb-form                       3.19.1-2         0,96 MiB       0,29 MiB
+extra/gambas3-gb-image                      3.19.1-2         0,09 MiB       0,04 MiB
+extra/gambas3-gb-image-io                   3.19.1-2         0,02 MiB       0,01 MiB
+extra/gambas3-gb-qt5                        3.19.1-2         0,75 MiB       0,22 MiB
+extra/perl-memory-usage                     0.201-2          0,01 MiB       0,01 MiB
+extra/perl-readonly                         2.05-4           0,03 MiB       0,02 MiB
+extra/ruby-ansi                             1.5.0-3          0,28 MiB       0,08 MiB
+extra/ruby-builder                          3.2.4-2          0,15 MiB       0,04 MiB
+extra/ruby-ruby-progressbar                 1.11.0-3         0,15 MiB       0,05 MiB
+extra/gambas3-gb-report                     3.19.1-2         0,69 MiB       0,16 MiB
+extra/go-licenses                           1.6.0-1         20,75 MiB      10,26 MiB
+extra/i7z                                   0.27.2.git1-8    0,12 MiB       0,04 MiB
+extra/ledger                                3.3.2-5          8,96 MiB       1,25 MiB
+extra/libfaketime                           0.9.10-2         0,17 MiB       0,05 MiB
+extra/perl-carp-clan                        6.08-7           0,02 MiB       0,01 MiB
+extra/perl-memory-process                   0.06-2           0,01 MiB       0,01 MiB
+extra/python-reportlab                      4.1.0-2         11,20 MiB       2,60 MiB
+extra/remake                                4.3+dbg1.6-2     1,44 MiB       0,36 MiB
+extra/rocminfo                 6.0.2-1      6.0.2-1          0,00 MiB               
+extra/ruby-minitest-reporters               1.5.0-2          0,38 MiB       0,22 MiB
+extra/ruby-parslet                          2.0.0-1          0,52 MiB       0,14 MiB
+extra/ruby-toml                             0.3.0-1          0,04 MiB       0,02 MiB
+extra/texlive-latexextra       2024.2-2     2024.2-2         0,00 MiB               
+extra/texlive-publishers                    2024.2-2        60,53 MiB      21,20 MiB
+extra/turbostat                             6.9-1            0,42 MiB       0,16 MiB
+extra/umockdev                              0.17.18-2        0,66 MiB       0,14 MiB
+
+[0;1mTotal Download Size: [0m   37,36 MiB
+[0;1mTotal Installed Size:[0m  191,06 MiB
+[0;1mNet Upgrade Size:    [0m  108,35 MiB
+
+[1;34m::[0;1m Proceed with installation? [Y/n] [0m[?25h
+[?25l[1;34m::[0;1m Retrieving packages...
+[0m texlive-publishers-2024.2-2-any
+ Total ( 0/24)               0,0   B  0,00   B/s 00:00 [----------------------------]   0%
+[1F go-licenses-1.6.0-1-x86_64
+ Total ( 0/24)               0,0   B  0,00   B/s 00:00 [----------------------------]   0%
+[1F python-reportlab-4.1.0-2-x86_64
+ Total ( 0/24)               0,0   B  0,00   B/s 00:00 [----------------------------]   0%
+[1F ledger-3.3.2-5-x86_64
+ Total ( 0/24)               0,0   B  0,00   B/s 00:00 [----------------------------]   0%
+[1F remake-4.3+dbg1.6-2-x86_64
+ Total ( 0/24)               0,0   B  0,00   B/s 00:00 [----------------------------]   0%
+[6F texlive-publishers-2...    14,7 KiB  0,00   B/s --:-- [----------------------------]   0%[5E Total ( 0/24)              14,7 KiB  0,00   B/s --:-- [----------------------------]   0%[1F remake-4.3+dbg1.6-2-...    14,7 KiB  0,00   B/s --:-- [----------------------------]   3%[1F ledger-3.3.2-5-x86_64      14,7 KiB  0,00   B/s --:-- [----------------------------]   1%[2F go-licenses-1.6.0-1-...    14,7 KiB  0,00   B/s --:-- [----------------------------]   0%[1E python-reportlab-4.1...     0,0   B  0,00   B/s --:-- [----------------------------]   0%[3E Total ( 0/24)               5,1 MiB  8,54 MiB/s 00:03 [###-------------------------]  13%[5F texlive-publishers-2...     4,0 MiB  6,59 MiB/s 00:02 [#####-----------------------]  18%[4E remake-4.3+dbg1.6-2-...   127,3 KiB   188 KiB/s 00:01 [#########-------------------]  34%[1F ledger-3.3.2-5-x86_64     637,6 KiB   989 KiB/s 00:00 [#############---------------]  49%[2F go-licenses-1.6.0-1-...     2,2 MiB  3,62 MiB/s 00:02 [#####-----------------------]  21%[2E texlive-publishers-2...     4,0 MiB  6,59 MiB/s 00:02 [#####-----------------------]  18%[3F ledger-3.3.2-5-x86_64    1280,2 KiB  2,64 MiB/s 00:00 [############################] 100%[2E python-reportlab-4.1...   111,6 KiB   186 KiB/s 00:13 [#---------------------------]   4%[1E texlive-publishers-2...     6,0 MiB  7,32 MiB/s 00:02 [#######---------------------]  28%[2E Total ( 1/24)              11,1 MiB  14,4 MiB/s 00:01 [########--------------------]  29% gambas3-gb-form-3.19.1-2-x86_64
+ Total ( 1/24)              11,1 MiB  14,4 MiB/s 00:01 [########--------------------]  29%
+[3F remake-4.3+dbg1.6-2-...   128,0 KiB   126 KiB/s 00:01 [#########-------------------]  34% go-licenses-1.6.0-1-...     2,2 MiB  3,62 MiB/s 00:02 [#####-----------------------]  21%[3F remake-4.3+dbg1.6-2-...   371,0 KiB   644 KiB/s 00:01 [############################] 100%[3E go-licenses-1.6.0-1-...     3,7 MiB  4,99 MiB/s 00:01 [##########------------------]  36%[2E ruby-minitest-reporters-1.5.0-2-any
+ Total ( 2/24)              11,1 MiB  14,4 MiB/s 00:01 [########--------------------]  29%
+[3F gambas3-gb-form-3.19...    30,6 KiB  0,00   B/s --:-- [##--------------------------]  10%[3F python-reportlab-4.1...   143,5 KiB   175 KiB/s 00:14 [#---------------------------]   5%[1E texlive-publishers-2...     7,8 MiB  7,92 MiB/s 00:01 [##########------------------]  36%[4E Total ( 2/24)              16,0 MiB  17,8 MiB/s 00:01 [###########-----------------]  42%[1F ruby-minitest-report...    31,7 KiB  0,00   B/s --:-- [###-------------------------]  13%[1F python-reportlab-4.1...   143,5 KiB   175 KiB/s 00:14 [#---------------------------]   5%[3F gambas3-gb-form-3.19...   294,4 KiB  1472 KiB/s 00:00 [############################] 100%[4E texlive-publishers-2...     7,8 MiB  7,92 MiB/s 00:01 [##########------------------]  36%[3F ruby-minitest-report...   227,0 KiB  2,07 MiB/s 00:00 [############################] 100%[1E go-licenses-1.6.0-1-...     8,6 MiB  11,5 MiB/s 00:00 [#######################-----]  84%[3E gambas3-gb-qt5-3.19.1-2-x86_64
+ Total ( 4/24)              16,0 MiB  17,8 MiB/s 00:01 [###########-----------------]  42%
+[4F go-licenses-1.6.0-1-...     8,6 MiB  11,5 MiB/s 00:00 [#######################-----]  84%[1F python-reportlab-4.1...     2,6 MiB  3,15 MiB/s 00:01 [############################] 100%[1E go-licenses-1.6.0-1-...    10,3 MiB  11,8 MiB/s 00:01 [############################] 100%[3E turbostat-6.9-1-x86_64
+ Total ( 6/24)              16,0 MiB  17,8 MiB/s 00:01 [###########-----------------]  42%
+[3F gambas3-gb-qt5-3.19....    30,6 KiB  0,00   B/s --:-- [###-------------------------]  13% texlive-publishers-2...     7,8 MiB  7,92 MiB/s 00:01 [##########------------------]  36%[1F gambas3-gb-qt5-3.19....   222,2 KiB  2,03 MiB/s 00:00 [############################] 100%[3E gambas3-gb-report-3.19.1-2-x86_64
+ Total ( 7/24)              16,0 MiB  17,8 MiB/s 00:01 [###########-----------------]  42%
+[4F texlive-publishers-2...    16,4 MiB  19,6 MiB/s 00:00 [#####################-------]  77%[3E Total ( 7/24)              31,6 MiB  37,9 MiB/s 00:00 [#######################-----]  84% umockdev-0.17.18-2-x86_64
+ Total ( 7/24)              31,6 MiB  37,9 MiB/s 00:00 [#######################-----]  84%
+[3F gambas3-gb-report-3....    30,6 KiB  0,00   B/s --:-- [#####-----------------------]  18% texlive-publishers-2...    16,4 MiB  19,6 MiB/s 00:00 [#####################-------]  77%[2F gambas3-gb-report-3....   161,8 KiB  2,08 MiB/s 00:00 [############################] 100%[2E turbostat-6.9-1-x86_64      0,0   B  0,00   B/s 00:00 [############################] 100%[1F texlive-publishers-2...    21,2 MiB  20,1 MiB/s 00:01 [############################] 100%[1E turbostat-6.9-1-x86_64     14,7 KiB  0,00   B/s --:-- [##--------------------------]   8% turbostat-6.9-1-x86_64    167,1 KiB   823 KiB/s 00:00 [############################] 100%[2E ruby-parslet-2.0.0-1-any
+ Total (10/24)              31,6 MiB  37,9 MiB/s 00:00 [#######################-----]  84%
+[1F ruby-ansi-1.5.0-3-any
+ Total (10/24)              31,6 MiB  37,9 MiB/s 00:00 [#######################-----]  84%
+[1F ruby-ruby-progressbar-1.11.0-3-any
+ Total (10/24)              31,6 MiB  37,9 MiB/s 00:00 [#######################-----]  84%
+[5F umockdev-0.17.18-2-x...     0,0   B  0,00   B/s --:-- [----------------------------]   0%[4E Total (10/24)              36,7 MiB  32,6 MiB/s 00:00 [###########################-]  98%[3F ruby-parslet-2.0.0-1-any   15,7 KiB  0,00   B/s --:-- [###-------------------------]  11%[2E ruby-ruby-progressba...    30,6 KiB  0,00   B/s --:-- [################------------]  58% umockdev-0.17.18-2-x...     0,0   B  0,00   B/s --:-- [----------------------------]   0%[3F ruby-ruby-progressba...    51,9 KiB   962 KiB/s 00:00 [############################] 100%[4E libfaketime-0.9.10-2-x86_64
+ Total (11/24)              36,7 MiB  32,6 MiB/s 00:00 [###########################-]  98%
+[2F libfaketime-0.9.10-2...    14,7 KiB  0,00   B/s --:-- [########--------------------]  30% ruby-parslet-2.0.0-1-any   15,7 KiB  0,00   B/s --:-- [###-------------------------]  11%[3F libfaketime-0.9.10-2...    48,3 KiB  1209 KiB/s 00:00 [############################] 100%[4E gambas3-gb-image-3.19.1-2-x86_64
+ Total (12/24)              36,7 MiB  32,6 MiB/s 00:00 [###########################-]  98%
+[3F ruby-ansi-1.5.0-3-any       0,0   B  0,00   B/s 00:00 [############################] 100%[2F ruby-parslet-2.0.0-1-any  139,5 KiB   723 KiB/s 00:00 [############################] 100%[4E ruby-builder-3.2.4-2-any
+ Total (13/24)              36,7 MiB  32,6 MiB/s 00:00 [###########################-]  98%
+[4F ruby-ansi-1.5.0-3-any      30,6 KiB  0,00   B/s --:-- [##########------------------]  38% umockdev-0.17.18-2-x...     0,0   B  0,00   B/s --:-- [----------------------------]   0%[1F ruby-ansi-1.5.0-3-any      78,7 KiB   437 KiB/s 00:00 [############################] 100%[2E gambas3-gb-image-3.1...    14,7 KiB  0,00   B/s --:-- [#########-------------------]  34% umockdev-0.17.18-2-x...     0,0   B  0,00   B/s --:-- [----------------------------]   0%[1F gambas3-gb-image-3.1...    42,3 KiB   470 KiB/s 00:00 [############################] 100%[1E umockdev-0.17.18-2-x...     0,0   B  0,00   B/s --:-- [----------------------------]   0%[2E Total (15/24)              37,1 MiB  22,3 MiB/s 00:00 [###########################-]  99% i7z-0.27.2.git1-8-x86_64
+ Total (15/24)              37,1 MiB  22,3 MiB/s 00:00 [###########################-]  99%
+[1F perl-readonly-2.05-4-any
+ Total (15/24)              37,1 MiB  22,3 MiB/s 00:00 [###########################-]  99%
+[5F umockdev-0.17.18-2-x...   143,7 KiB   263 KiB/s 00:01 [############################] 100%[4E ruby-toml-0.3.0-1-any
+ Total (16/24)              37,1 MiB  22,3 MiB/s 00:00 [###########################-]  99%
+[4F i7z-0.27.2.git1-8-x86_64   30,6 KiB  0,00   B/s --:-- [#######################-----]  83% ruby-builder-3.2.4-2-any    0,0   B  0,00   B/s 00:00 [############################] 100%[1F i7z-0.27.2.git1-8-x86_64   36,7 KiB   395 KiB/s 00:00 [############################] 100%[2E perl-readonly-2.05-4-any   18,4 KiB  0,00   B/s 00:00 [############################] 100% ruby-builder-3.2.4-2-any    0,0   B  0,00   B/s 00:00 [############################] 100%[1F perl-readonly-2.05-4-any   18,4 KiB   252 KiB/s 00:00 [############################] 100%[2E ruby-toml-0.3.0-1-any      16,9 KiB  0,00   B/s 00:00 [############################] 100% ruby-builder-3.2.4-2-any    0,0   B  0,00   B/s 00:00 [############################] 100%[1F ruby-toml-0.3.0-1-any      16,9 KiB   296 KiB/s 00:00 [############################] 100%[1E ruby-builder-3.2.4-2-any    0,0   B  0,00   B/s --:-- [----------------------------]   0%[1E perl-carp-clan-6.08-7-any
+ Total (19/24)              37,1 MiB  22,3 MiB/s 00:00 [###########################-]  99%
+[3F ruby-builder-3.2.4-2-any   39,4 KiB   152 KiB/s 00:00 [############################] 100%[2E perl-memory-usage-0.201-2-any
+ Total (20/24)              37,1 MiB  22,3 MiB/s 00:00 [###########################-]  99%
+[1F gambas3-gb-image-io-3.19.1-2-x86_64
+ Total (20/24)              37,1 MiB  22,3 MiB/s 00:00 [###########################-]  99%
+[4F perl-carp-clan-6.08-...     9,8 KiB  0,00   B/s 00:00 [############################] 100%[3E Total (20/24)              37,3 MiB  15,2 MiB/s 00:00 [###########################-]  99%[3F perl-carp-clan-6.08-...     9,8 KiB  95,4 KiB/s 00:00 [############################] 100%[1E perl-memory-usage-0....     9,3 KiB  0,00   B/s 00:00 [############################] 100% perl-memory-usage-0....     9,3 KiB   164 KiB/s 00:00 [############################] 100%[1E gambas3-gb-image-io-...     9,3 KiB  0,00   B/s 00:00 [############################] 100% gambas3-gb-image-io-...     9,3 KiB   128 KiB/s 00:00 [############################] 100%[1E perl-memory-process-0.06-2-any
+ Total (23/24)              37,3 MiB  15,2 MiB/s 00:00 [###########################-]  99%
+[2F perl-memory-process-...     6,3 KiB  0,00   B/s 00:00 [############################] 100% perl-memory-process-...     6,3 KiB  99,5 KiB/s 00:00 [############################] 100%[1E Total (24/24)              37,4 MiB  20,6 MiB/s 00:02 [############################] 100%
+( 0/26) checking keys in keyring                       [----------------------------]   0%( 1/26) checking keys in keyring                       [----------------------------]   3%( 2/26) checking keys in keyring                       [#---------------------------]   7%( 3/26) checking keys in keyring                       [###-------------------------]  11%( 4/26) checking keys in keyring                       [####------------------------]  15%( 5/26) checking keys in keyring                       [#####-----------------------]  19%( 6/26) checking keys in keyring                       [######----------------------]  23%( 7/26) checking keys in keyring                       [#######---------------------]  26%( 8/26) checking keys in keyring                       [########--------------------]  30%( 9/26) checking keys in keyring                       [#########-------------------]  34%(10/26) checking keys in keyring                       [##########------------------]  38%(11/26) checking keys in keyring                       [###########-----------------]  42%(12/26) checking keys in keyring                       [############----------------]  46%(13/26) checking keys in keyring                       [##############--------------]  50%(14/26) checking keys in keyring                       [##############--------------]  53%(15/26) checking keys in keyring                       [###############-------------]  57%(16/26) checking keys in keyring                       [#################-----------]  61%(17/26) checking keys in keyring                       [##################----------]  65%(18/26) checking keys in keyring                       [###################---------]  69%(19/26) checking keys in keyring                       [####################--------]  73%(20/26) checking keys in keyring                       [#####################-------]  76%(21/26) checking keys in keyring                       [######################------]  80%(22/26) checking keys in keyring                       [#######################-----]  84%(23/26) checking keys in keyring                       [########################----]  88%(24/26) checking keys in keyring                       [#########################---]  92%(25/26) checking keys in keyring                       [##########################--]  96%(26/26) checking keys in keyring                       [############################] 100%
+( 0/26) checking package integrity                     [----------------------------]   0%( 1/26) checking package integrity                     [----------------------------]   2%( 2/26) checking package integrity                     [----------------------------]   2%( 3/26) checking package integrity                     [----------------------------]   2%( 4/26) checking package integrity                     [#####-----------------------]  18%( 5/26) checking package integrity                     [######----------------------]  22%( 6/26) checking package integrity                     [######----------------------]  23%( 7/26) checking package integrity                     [######----------------------]  23%( 8/26) checking package integrity                     [######----------------------]  23%( 9/26) checking package integrity                     [######----------------------]  24%(10/26) checking package integrity                     [######----------------------]  24%(11/26) checking package integrity                     [######----------------------]  24%(12/26) checking package integrity                     [######----------------------]  24%(13/26) checking package integrity                     [######----------------------]  24%(14/26) checking package integrity                     [######----------------------]  24%(15/26) checking package integrity                     [######----------------------]  24%(16/26) checking package integrity                     [######----------------------]  24%(17/26) checking package integrity                     [#######---------------------]  25%(18/26) checking package integrity                     [#######---------------------]  25%(19/26) checking package integrity                     [#######---------------------]  25%(20/26) checking package integrity                     [################------------]  59%(21/26) checking package integrity                     [###########################-]  99%(22/26) checking package integrity                     [###########################-]  99%(23/26) checking package integrity                     [###########################-]  99%(24/26) checking package integrity                     [###########################-]  99%(25/26) checking package integrity                     [###########################-]  99%(26/26) checking package integrity                     [############################] 100%
+( 0/26) loading package files                          [----------------------------]   0%( 1/26) loading package files                          [----------------------------]   2%( 2/26) loading package files                          [----------------------------]   2%( 3/26) loading package files                          [----------------------------]   2%( 4/26) loading package files                          [#####-----------------------]  18%( 5/26) loading package files                          [######----------------------]  22%( 6/26) loading package files                          [######----------------------]  23%( 7/26) loading package files                          [######----------------------]  23%( 8/26) loading package files                          [######----------------------]  23%( 9/26) loading package files                          [######----------------------]  24%(10/26) loading package files                          [######----------------------]  24%(11/26) loading package files                          [######----------------------]  24%(12/26) loading package files                          [######----------------------]  24%(13/26) loading package files                          [######----------------------]  24%(14/26) loading package files                          [######----------------------]  24%(15/26) loading package files                          [######----------------------]  24%(16/26) loading package files                          [######----------------------]  24%(17/26) loading package files                          [#######---------------------]  25%(18/26) loading package files                          [#######---------------------]  25%(19/26) loading package files                          [#######---------------------]  25%(20/26) loading package files                          [################------------]  59%(21/26) loading package files                          [###########################-]  99%(22/26) loading package files                          [###########################-]  99%(23/26) loading package files                          [###########################-]  99%(24/26) loading package files                          [###########################-]  99%(25/26) loading package files                          [###########################-]  99%(26/26) loading package files                          [############################] 100%
+( 0/26) checking for file conflicts                    [----------------------------]   0%( 1/26) checking for file conflicts                    [----------------------------]   3%( 2/26) checking for file conflicts                    [#---------------------------]   7%( 3/26) checking for file conflicts                    [###-------------------------]  11%( 4/26) checking for file conflicts                    [####------------------------]  15%( 5/26) checking for file conflicts                    [#####-----------------------]  19%( 6/26) checking for file conflicts                    [######----------------------]  23%( 7/26) checking for file conflicts                    [#######---------------------]  26%( 8/26) checking for file conflicts                    [########--------------------]  30%( 9/26) checking for file conflicts                    [#########-------------------]  34%(10/26) checking for file conflicts                    [##########------------------]  38%(11/26) checking for file conflicts                    [###########-----------------]  42%(12/26) checking for file conflicts                    [############----------------]  46%(13/26) checking for file conflicts                    [##############--------------]  50%(14/26) checking for file conflicts                    [##############--------------]  53%(15/26) checking for file conflicts                    [###############-------------]  57%(16/26) checking for file conflicts                    [#################-----------]  61%(17/26) checking for file conflicts                    [##################----------]  65%(18/26) checking for file conflicts                    [###################---------]  69%(19/26) checking for file conflicts                    [####################--------]  73%(20/26) checking for file conflicts                    [#####################-------]  76%(21/26) checking for file conflicts                    [######################------]  80%(22/26) checking for file conflicts                    [#######################-----]  84%(23/26) checking for file conflicts                    [########################----]  88%(24/26) checking for file conflicts                    [#########################---]  92%(25/26) checking for file conflicts                    [##########################--]  96%(26/26) checking for file conflicts                    [############################] 100%
+( 0/26) checking available disk space                  [----------------------------]   0%( 1/26) checking available disk space                  [----------------------------]   3%( 2/26) checking available disk space                  [#---------------------------]   7%( 3/26) checking available disk space                  [###-------------------------]  11%( 4/26) checking available disk space                  [####------------------------]  15%( 5/26) checking available disk space                  [#####-----------------------]  19%( 6/26) checking available disk space                  [######----------------------]  23%( 7/26) checking available disk space                  [#######---------------------]  26%( 8/26) checking available disk space                  [########--------------------]  30%( 9/26) checking available disk space                  [#########-------------------]  34%(10/26) checking available disk space                  [##########------------------]  38%(11/26) checking available disk space                  [###########-----------------]  42%(12/26) checking available disk space                  [############----------------]  46%(13/26) checking available disk space                  [##############--------------]  50%(14/26) checking available disk space                  [##############--------------]  53%(15/26) checking available disk space                  [###############-------------]  57%(16/26) checking available disk space                  [#################-----------]  61%(17/26) checking available disk space                  [##################----------]  65%(18/26) checking available disk space                  [###################---------]  69%(19/26) checking available disk space                  [####################--------]  73%(20/26) checking available disk space                  [#####################-------]  76%(21/26) checking available disk space                  [######################------]  80%(22/26) checking available disk space                  [#######################-----]  84%(23/26) checking available disk space                  [########################----]  88%(24/26) checking available disk space                  [#########################---]  92%(25/26) checking available disk space                  [##########################--]  96%(26/26) checking available disk space                  [############################] 100%
+[1;34m::[0;1m Processing package changes...
+[0m( 1/26) installing ledger                              [----------------------------]   0%( 1/26) installing ledger                              [############################] 100%
+Optional dependencies for ledger
+[0;1m   [0m emacs: emacs interface [installed]
+    python: python library [installed]
+( 2/26) installing i7z                                 [----------------------------]   0%( 2/26) installing i7z                                 [############################] 100%
+Optional dependencies for i7z
+[0;1m   [0m qt5-base: for i7z-gui [installed]
+( 3/26) installing libfaketime                         [----------------------------]   0%( 3/26) installing libfaketime                         [############################] 100%
+( 4/26) installing go-licenses                         [----------------------------]   0%( 4/26) installing go-licenses                         [----------------------------]   0%( 4/26) installing go-licenses                         [----------------------------]   0%( 4/26) installing go-licenses                         [----------------------------]   0%( 4/26) installing go-licenses                         [----------------------------]   0%( 4/26) installing go-licenses                         [----------------------------]   0%( 4/26) installing go-licenses                         [----------------------------]   0%( 4/26) installing go-licenses                         [############################] 100%
+( 5/26) installing python-reportlab                    [----------------------------]   0%( 5/26) installing python-reportlab                    [############################] 100%
+( 6/26) installing turbostat                           [----------------------------]   0%( 6/26) installing turbostat                           [############################] 100%
+( 7/26) installing gambas3-gb-image                    [----------------------------]   0%( 7/26) installing gambas3-gb-image                    [############################] 100%
+( 8/26) installing gambas3-gb-qt5                      [----------------------------]   0%( 8/26) installing gambas3-gb-qt5                      [############################] 100%
+( 9/26) installing gambas3-gb-form                     [----------------------------]   0%( 9/26) installing gambas3-gb-form                     [############################] 100%
+(10/26) installing gambas3-gb-image-io                 [----------------------------]   0%(10/26) installing gambas3-gb-image-io                 [############################] 100%
+(11/26) installing gambas3-gb-report                   [----------------------------]   0%(11/26) installing gambas3-gb-report                   [############################] 100%
+(12/26) installing ruby-parslet                        [----------------------------]   0%(12/26) installing ruby-parslet                        [############################] 100%
+(13/26) reinstalling rocminfo                          [----------------------------]   0%(13/26) reinstalling rocminfo                          [############################] 100%
+(14/26) installing perl-memory-usage                   [----------------------------]   0%(14/26) installing perl-memory-usage                   [############################] 100%
+(15/26) installing perl-readonly                       [----------------------------]   0%(15/26) installing perl-readonly                       [############################] 100%
+(16/26) installing perl-memory-process                 [----------------------------]   0%(16/26) installing perl-memory-process                 [############################] 100%
+(17/26) installing umockdev                            [----------------------------]   0%(17/26) installing umockdev                            [############################] 100%
+(18/26) installing perl-carp-clan                      [----------------------------]   0%(18/26) installing perl-carp-clan                      [############################] 100%
+(19/26) installing remake                              [----------------------------]   0%(19/26) installing remake                              [############################] 100%
+(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [----------------------------]   0%(20/26) installing texlive-publishers                  [############################] 100%
+(21/26) reinstalling texlive-latexextra                [----------------------------]   0%(21/26) reinstalling texlive-latexextra                [----------------------------]   0%(21/26) reinstalling texlive-latexextra                [----------------------------]   0%(21/26) reinstalling texlive-latexextra                [############################] 100%
+(22/26) installing ruby-toml                           [----------------------------]   0%(22/26) installing ruby-toml                           [############################] 100%
+(23/26) installing ruby-ansi                           [----------------------------]   0%(23/26) installing ruby-ansi                           [############################] 100%
+(24/26) installing ruby-builder                        [----------------------------]   0%(24/26) installing ruby-builder                        [############################] 100%
+(25/26) installing ruby-ruby-progressbar               [----------------------------]   0%(25/26) installing ruby-ruby-progressbar               [############################] 100%
+(26/26) installing ruby-minitest-reporters             [----------------------------]   0%(26/26) installing ruby-minitest-reporters             [############################] 100%
+[1;34m::[0;1m Running post-transaction hooks...
+[0m(1/6) Arming ConditionNeedsUpdate...
+(2/6) Updating TeXLive filename database...
+(3/6) Updating TeXLive format files...
+(4/6) Updating TeXLive font maps...
+(5/6) Warn about old perl modules
+(6/6) Updating the info directory file...
+[?25h[?25l[?25h[?25l[?25h
+Script done on 2024-06-01 21:43:18+02:00 [COMMAND_EXIT_CODE="0"]

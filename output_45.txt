@@ -1,0 +1,1410 @@
+Script started on 2024-06-01 18:10:28+02:00 [COMMAND="yay pdf" TERM="xterm-kitty" TTY="/dev/pts/8" COLUMNS="71" LINES="18"]
+[35m594[0m [1m[34maur[0m[0m/[1mgmsh-git-docs[0m [36m4.12.0.a5f115d42-1[0m[1m (+0[0m [1m0.00) [0m
+    TXT, HMTL and PDF doc for Gmsh
+[35m593[0m [1m[34maur[0m[0m/[1mmingw-w64-potrace[0m [36m1.16-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Utility for tracing a bitmap (input: PBM,PGM,PPM,BMP; output: EPS,PS,PDF,SVG,DXF,PGM,Gimppath,XFig) (mingw-w64)
+[35m592[0m [1m[34maur[0m[0m/[1mwkhtmltopdf-server[0m [36m1.0.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Run Wkhtmltopdf as a Service
+[35m591[0m [1m[34maur[0m[0m/[1msane-scan-pdf-git[0m [36m1.2.r29.g5bb8cd9-1[0m[1m (+0[0m [1m0.00) [0m
+    Sane scanning bash script with OCR and deskew support.
+[35m590[0m [1m[34maur[0m[0m/[1mneovim-latex-previewer-git[0m [36mr15.286e5c3-1[0m[1m (+0[0m [1m0.00) [0m
+    Neovim plugin to provide a live-updating PDF preview of LaTeX documents.
+[35m589[0m [1m[34maur[0m[0m/[1mspeedata-publisher[0m [36m4.19.6-1[0m[1m (+0[0m [1m0.00) [0m
+    a database publishing software that creates high-quality layouted PDFs fully automatically
+[35m588[0m [1m[34maur[0m[0m/[1mchm2pdf-python3[0m [36m0.9.2-6[0m[1m (+0[0m [1m0.00) [0m
+    A script that converts CHM files into PDF files.
+[35m587[0m [1m[34maur[0m[0m/[1mdedao-dl-bin[0m [36m1.2.4-1[0m[1m (+0[0m [1m0.00) [0m
+    得到APP课程下载工具,可在终端查看文章内容,可生成PDF,音频文件,markdown文稿,可下载电子书。
+[35m586[0m [1m[34maur[0m[0m/[1masciidoctor-web-pdf-git[0m [36m1.0.0.alpha.16.r8.g3fe542a-1[0m[1m (+0[0m [1m0.00) [0m
+    A PDF converter for AsciiDoc based on web technologies. It allows complex layouts to be defined with CSS and JavaScript, while writing the content in AsciiDoc.
+[35m585[0m [1m[34maur[0m[0m/[1memail-to-pdf-converter[0m [36m2.7.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Converts email files (eml, msg) to pdf
+[35m584[0m [1m[34maur[0m[0m/[1mhawkeye-quicklook-git[0m [36m20180921.cec717e-3[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A command line GTK Application that allow to quickly open PDFs, Markkown Files, Images and Websites in a "small" window
+[35m583[0m [1m[34maur[0m[0m/[1mnightpdf-git[0m [36m2.0.3.r0.g190a9f7-1[0m[1m (+0[0m [1m0.00) [0m
+    Dark mode PDF reader (git version)
+[35m582[0m [1m[34maur[0m[0m/[1mcsbooks-bin[0m [36m8.2.2-1[0m[1m (+0[0m [1m0.00) [0m
+    A smart book management and reading software,also a PDF reader, EPUB reader, MOBI reader and DJVU file reader.
+[35m581[0m [1m[34maur[0m[0m/[1mmingw-w64-libharu[0m [36m2.4.4-1[0m[1m (+0[0m [1m0.00) [0m
+    C library for generating PDF documents (mingw-w64)
+[35m580[0m [1m[34maur[0m[0m/[1mveldora[0m [36m0.2.1-1[0m[1m (+0[0m [1m0.00) [0m
+    A rust program to bruteforce zips, pdfs and some popular hashes.
+[35m579[0m [1m[34maur[0m[0m/[1mqt5-pdfium-git[0m [36mr9.cf0140c-1[0m[1m (+0[0m [1m0.00) [0m
+    Qt/QML wrapper for PDFium open-source PDF rendering engine.
+[35m578[0m [1m[34maur[0m[0m/[1mitext-rups-bin[0m [36m7.2.5-2[0m[1m (+0[0m [1m0.00) [0m
+    iText RUPS is a tool to view PDF structure in a Swing GUI.
+[35m577[0m [1m[34maur[0m[0m/[1mbookscanwizard[0m [36m2.0.2c-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A utility to help with Book scanning using cameras as a scanner. It will automate things such as cropping, rotating, fixing keystoning, fixing the DPI, and outputing it to tiff files that can be changed into PDF's or ebooks
+[35m576[0m [1m[34maur[0m[0m/[1mdocx-you-want[0m [36m0.1.2-1[0m[1m (+0[0m [1m0.00) [0m
+    An unusual PDF-to-DOCX converter
+[35m575[0m [1m[34maur[0m[0m/[1mmoodle-dl[0m [36m2.3.9-1[0m[1m (+0[0m [1m0.00) [0m
+    A Moodle downloader that downloads course content fast from Moodle (eg. lecture pdfs)
+[35m574[0m [1m[34maur[0m[0m/[1mwrt2pdf[0m [36m0.6.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Create a PDF out of a plain text file
+[35m573[0m [1m[34maur[0m[0m/[1mextractpdfmark-git[0m [36m1.1.0.r8.g73bd19c-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Extract page mode and named destinations as PDFmark from PDF
+[35m572[0m [1m[34maur[0m[0m/[1mwiki2pdf-git[0m [36m2:1.0.5.r6.20171207.19e936a-1[0m[1m (+0[0m [1m0.00) [0m
+    Github Wiki to pdf Converter allows you to generate HTML & PDF documentation from your Github wiki or any other markdown-based wiki.
+[35m571[0m [1m[34maur[0m[0m/[1mnightpdf[0m [36m2.0.3-1[0m[1m (+0[0m [1m0.00) [0m
+    Dark mode PDF reader
+[35m570[0m [1m[34maur[0m[0m/[1mgpdfx-ng-git[0m [36mr22.c42ef90-2[0m[1m (+0[0m [1m0.00) [0m
+    A graphical tool to extract parts of a PDF as a PDF. Successor of gpdfx
+[35m569[0m [1m[34maur[0m[0m/[1mrender50[0m [36m9.2.7-2[0m[1m (+0[0m [1m0.00) [0m
+    Generate syntax-highlighted PDFs of source code
+[35m568[0m [1m[34maur[0m[0m/[1mnodejs-afterwriting[0m [36m1.11.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2021-11-03)[0m[0m 
+    Afterwriting CLI is a command line tool that lets you generate PDF from your fountain script using node.js.
+[35m567[0m [1m[34maur[0m[0m/[1mqpdfwalker[0m [36m0.3.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-02-03)[0m[0m 
+    Tool for browsing hierarchy of low level objects in a PDF file.
+[35m566[0m [1m[34maur[0m[0m/[1mcom.jisupdfeditor.deepin[0m [36m3.0.0.9-1[0m[1m (+0[0m [1m0.00) [0m
+    一款简单好用的极速PDF编辑器
+[35m565[0m [1m[34maur[0m[0m/[1mvector-slicer-git[0m [36mr26.8a31aa1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Export multi-page PDFs from an SVG
+[35m564[0m [1m[34maur[0m[0m/[1mrm2pdf[0m [36m0.1.6-1[0m[1m (+0[0m [1m0.00) [0m
+    Convert reMarkable tablet notebooks and annotated PDFs to layered PDF documents.
+[35m563[0m [1m[34maur[0m[0m/[1mspeedata-publisher-bin[0m [36m4.19.6-1[0m[1m (+0[0m [1m0.00) [0m
+    a database publishing software that creates high-quality layouted PDFs fully automatically
+[35m562[0m [1m[34maur[0m[0m/[1mmarkdown2pdf-git[0m [36m22.07.r30.g073bec7-1[0m[1m (+0[0m [1m0.00) [0m
+    Markdown to PDF converter with syntax highlighting, using md2html (md4c), highlight and wkhtmltopdf.
+[35m561[0m [1m[34maur[0m[0m/[1mdokuwiki-plugin-dw2pdf[0m [36m2021.07.22-1[0m[1m (+0[0m [1m0.00) [0m
+    Fork of Luigi Micco's PDF export plugin for DokuWiki
+[35m560[0m [1m[34maur[0m[0m/[1mmasterpdfeditor-arm[0m [36m5.9.50-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A complete solution for viewing, creating and editing PDF files (for arm64)
+[35m559[0m [1m[34maur[0m[0m/[1msioyek-appimage[0m [36m2.0.0-2[0m[1m (+0[0m [1m0.00) [0m
+    A PDF viewer designed for reading research papers and technical books
+[35m558[0m [1m[34maur[0m[0m/[1mqpdfwalker-git[0m [36mdev1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-18)[0m[0m 
+    Tool for browsing hierarchy of low level objects in a PDF file.
+[35m557[0m [1m[34maur[0m[0m/[1mlatex-digsig[0m [36m2.3-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    LaTeX module to create a PDF file that can be digitally signed
+[35m556[0m [1m[34maur[0m[0m/[1mruby-origami[0m [36m2.1.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Framework written in pure Ruby to manipulate PDF files
+[35m555[0m [1m[34maur[0m[0m/[1mjava-sejda[0m [36m3.2.73-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2021-04-28)[0m[0m 
+    An extendible and configurable PDF manipulation layer library written in java
+[35m554[0m [1m[34maur[0m[0m/[1myacreader-poppler-git[0m [36mr3128.08e6d1f9-1[0m[1m (+0[0m [1m0.00) [0m
+    Comic reader for cross-platform reading and managing your digital comic collection, using poppler for PDF
+[35m553[0m [1m[34maur[0m[0m/[1mdrawj2d[0m [36m1.3.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-04-27)[0m[0m 
+    Drawj2d creates technical line drawings using a descriptive language. It writes pdf, svg, eps, emf and dxf vector graphics or png images. It runs on all platforms that run Java. It is inspired by Asymptote but with a tcl-like syntax and 2D only.
+[35m552[0m [1m[34maur[0m[0m/[1mbeamerpresenter[0m [36m0.2.4-3[0m[1m (+0[0m [1m0.00) [0m
+    Modular multi-screen pdf presenter
+[35m551[0m [1m[34maur[0m[0m/[1mcorepdf-git[0m [36m4.5.0.r0.g6b0653a-1[0m[1m (+0[0m [1m0.00) [0m
+    A PDF viewer from the C Suite
+[35m550[0m [1m[34maur[0m[0m/[1mmupdf-bgcolor-git[0m [36m20180322.90defd07-1[0m[1m (+0[0m [1m0.00) [0m
+    Lightweight PDF, XPS, and E-book viewer. Patched to allow custom background color.
+[35m549[0m [1m[34maur[0m[0m/[1mfarpdf-git[0m [36mv0.1.r29.g15cc8d7-1[0m[1m (+0[0m [1m0.00) [0m
+    A experimental PDF software designed for serious readers.
+[35m548[0m [1m[34maur[0m[0m/[1masciidoctor-web-pdf[0m [36m1.0.0_alpha.16-0[0m[1m (+0[0m [1m0.00) [0m
+    A PDF converter for AsciiDoc based on web technologies. It allows complex layouts to be defined with CSS and JavaScript, while writing the content in AsciiDoc.
+[35m547[0m [1m[34maur[0m[0m/[1mcontentreader-pdf[0m [36m15.1.0.1778-1[0m[1m (+0[0m [1m0.00) [0m
+    Content AI ContentReader is the best PDF manipulation software for Linux so far.
+[35m546[0m [1m[34maur[0m[0m/[1mdjpdf[0m [36m0.1.3-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2022-06-11)[0m[0m 
+    Create small, searchable PDFs from scanned documents
+[35m545[0m [1m[34maur[0m[0m/[1mtear-pages[0m [36m0.4.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Simple script to remove the first page of a PDF
+[35m544[0m [1m[34maur[0m[0m/[1mandroid-x86-poppler-data[0m [36m0.4.12-1[0m[1m (+0[0m [1m0.00) [0m
+    Encoding data for the poppler PDF rendering library (Android x86)
+[35m543[0m [1m[34maur[0m[0m/[1mkurumi[0m [36m0.1.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Experimental PDF viewer
+[35m542[0m [1m[34maur[0m[0m/[1memail-to-pdf-converter-bin[0m [36m2.7.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Converts email files (eml, msg) to pdf
+[35m541[0m [1m[34maur[0m[0m/[1mhammer-pdf[0m [36m1.2.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Hammer PDF - Smart Scientific Reader
+[35m540[0m [1m[34maur[0m[0m/[1mandroid-armv7a-eabi-poppler-data[0m [36m0.4.12-1[0m[1m (+0[0m [1m0.00) [0m
+    Encoding data for the poppler PDF rendering library (Android armv7a-eabi)
+[35m539[0m [1m[34maur[0m[0m/[1mcode2pdf-git[0m [36mr67.e753616-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Convert various source codes into pdf file with custom features
+[35m538[0m [1m[34maur[0m[0m/[1mlinbox-converter-client[0m [36m1.0.3-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-02-27)[0m[0m 
+    Linbox (Microsoft Office documents to PDF) Converter commandline client
+[35m537[0m [1m[34maur[0m[0m/[1mandroid-aarch64-poppler-data[0m [36m0.4.12-1[0m[1m (+0[0m [1m0.00) [0m
+    Encoding data for the poppler PDF rendering library (Android aarch64)
+[35m536[0m [1m[34maur[0m[0m/[1mfoxitpdfeditor-bin[0m [36m12.0.2.1118-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-02-22)[0m[0m 
+    Foxit PDF editor 福昕高级PDF编辑器
+[35m535[0m [1m[34maur[0m[0m/[1mdspdfviewer-git[0m [36m20221021_d432d8d6-1[0m[1m (+0[0m [1m0.00) [0m
+    Viewer for latex-beamer presentations that are built with the «show notes on second screen»-option
+[35m534[0m [1m[34maur[0m[0m/[1mquickpdfjoin-bin[0m [36m1.2024.05.05-1[0m[1m (+0[0m [1m0.00) [0m
+    Quick PDF Join is a cross-platform application that joins multiple PDF files together.
+[35m533[0m [1m[34maur[0m[0m/[1mhaskell-pdfinfo[0m [36m1.5.4-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Just a wrapper around the pdfinfo command
+[35m532[0m [1m[34maur[0m[0m/[1mgoscanpdf[0m [36m0.1.0-2[0m[1m (+0[0m [1m0.00) [0m
+    Scans pages from a (document) scanner and uploads the compressed multipage PDF file via SSH. Works on a Raspberry Pi.
+[35m531[0m [1m[34maur[0m[0m/[1mandroid-x86-64-poppler-data[0m [36m0.4.12-1[0m[1m (+0[0m [1m0.00) [0m
+    Encoding data for the poppler PDF rendering library (Android x86-64)
+[35m530[0m [1m[34maur[0m[0m/[1mnaps2[0m [36m7.4.2-1[0m[1m (+0[0m [1m0.00) [0m
+    NAPS2 - Not Another PDF Scanner. Scan documents to PDF and more, as simply as possible.
+[35m529[0m [1m[34maur[0m[0m/[1mweb2pdf[0m [36m3.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A CLI tool to extract a part of a website, create a PDF
+[35m528[0m [1m[34maur[0m[0m/[1marxiv-downloader[0m [36m1.0.0-1[0m[1m (+0[0m [1m0.00) [0m
+    The arXiv PDF Command-Line Interface Downloader
+[35m527[0m [1m[34maur[0m[0m/[1mgoresume-bin[0m [36m0.3.6-1[0m[1m (+0[0m [1m0.00) [0m
+    Build HTML/PDF resume from JSON/YAML/TOML.
+[35m526[0m [1m[34maur[0m[0m/[1mnpdfr[0m [36m0.1.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A command-line PDF reader prioritizing fast searches
+[35m525[0m [1m[34maur[0m[0m/[1mgomarkpdf-edersonferreira-git[0m [36m1.1.r1.8941540-1[0m[1m (+0[0m [1m0.00) [0m
+    A Markdown to PDF transformer
+[35m524[0m [1m[34maur[0m[0m/[1mobs-ghostscript[0m [36m1.3-2[0m[1m (+0[0m [1m0.00) [0m
+    OBS Plugin to allow inclusion of PDF documents in scenes
+[35m523[0m [1m[34maur[0m[0m/[1mthief-bin[0m [36m4.0.0-8[0m[1m (+0[0m [1m0.00) [0m
+    一款创新跨平台摸鱼神器,支持小说、股票、网页、视频、直播、PDF、游戏等摸鱼模式,为上班族打造的上班必备神器,使用此软件可以让上班倍感轻松,远离ICU
+[35m522[0m [1m[34maur[0m[0m/[1muconfig[0m [36m0.4-4[0m[1m (+0[0m [1m0.00) [0m
+    Datasheet pinout extractor from PDF and library Stylizer for KiCad.
+[35m521[0m [1m[34maur[0m[0m/[1mtiny-remarkable-scripts-git[0m [36mr5.6d8075d-1[0m[1m (+0[0m [1m0.00) [0m
+    A set of tiny remarkable scripts to pull and push pdfs via ssh
+[35m520[0m [1m[34maur[0m[0m/[1mcbr2pdf-git[0m [36m1.r16.0b5762f-1[0m[1m (+0[0m [1m0.00) [0m
+    cbr2pdf is a bash script will convert all .cbr and .cbz files to .pdf
+[35m519[0m [1m[34maur[0m[0m/[1mdagtoc[0m [36m4.0.1-1[0m[1m (+0[0m [1m0.00) [0m
+    A CLI tool for operating pdf contents
+[35m518[0m [1m[34maur[0m[0m/[1mlibrlib[0m [36m2.0.20-1[0m[1m (+0[0m [1m0.00) [0m
+    Advanced reporting engine that generates professional reports in PDF, HTML, CSV, and text formats from a simple XML definition language.
+[35m517[0m [1m[34maur[0m[0m/[1mwikidoc-git[0m [36m1:r34.20180311.7fb66a4-3[0m[1m (+0[0m [1m0.00) [0m
+    Python script allows to create nice looking PDF files from a github wiki. Requires mardown-formatted wiki.
+[35m516[0m [1m[34maur[0m[0m/[1mfig2ps[0m [36m1.5-1[0m[1m (+0[0m [1m0.00) [0m
+    Perl script designed to convert Xfig files to postscript or PDF files, processing text using LaTeX
+[35m515[0m [1m[34maur[0m[0m/[1mbout[0m [36m1.0.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Parse and export pdf bank statements to QIF format.
+[35m514[0m [1m[34maur[0m[0m/[1mfbpdf-poppler-git[0m [36mr101.ba231d2-2[0m[1m (+1[0m [1m0.00) [0m
+    A small framebuffer pdf and djvu viewer (only poppler backend)
+[35m513[0m [1m[34maur[0m[0m/[1msvg2pdf[0m [36m0.10.0-1[0m[1m (+1[0m [1m0.00) [0m
+    The command line interface for svg2pdf.
+[35m512[0m [1m[34maur[0m[0m/[1mscantools[0m [36m1.0.7-1[0m[1m (+1[0m [1m0.00) [0m
+    scantools is a library and a matching set of command line applications for graphics manipulation, written with a view towards the handling of scanned documents and generation of high-quality PDF files.
+[35m511[0m [1m[34maur[0m[0m/[1mofxstatement-sparkasse-de-git[0m [36mr10.8f93b9f-1[0m[1m (+1[0m [1m0.09) [0m
+    ofxstatement plugin to import Sparkasse PDF statements
+[35m510[0m [1m[34maur[0m[0m/[1mnemo-media-columns-git[0m [36m6.0.0++g7ea8afc-1[0m[1m (+1[0m [1m0.03) [0m
+    A Nemo extension to display music/EXIF and PDF metadata info in the Nemo List View
+[35m509[0m [1m[34maur[0m[0m/[1mnodejs-html-pdf[0m [36m2.1.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-01-21)[0m[0m 
+    HTML to PDF converter
+[35m508[0m [1m[34maur[0m[0m/[1mcomics-downloader-git[0m [36mr190.d166a3b-1[0m[1m (+1[0m [1m0.00) [0m
+    Tool to download comics and manga in pdf/epub/cbr/cbz from a website.
+[35m507[0m [1m[34maur[0m[0m/[1mruby-textplay-git[0m [36mr88.eb06aa6-1[0m[1m (+1[0m [1m0.00) [0m
+    Convert fountain screenplays to Final Draft and HTML format, and convert HTML to PDF.
+[35m506[0m [1m[34maur[0m[0m/[1mfuzzy-pdf[0m [36m0.3.6-1[0m[1m (+1[0m [1m0.00) [0m
+    Fuzzy finder for a collection of pdf files
+[35m505[0m [1m[34maur[0m[0m/[1mrp-bookshelf[0m [36mr127.28f6d13-1[0m[1m (+1[0m [1m0.00) [0m
+    Browser for Raspberry Pi Press publications in PDF format
+[35m504[0m [1m[34maur[0m[0m/[1mcaj2pdf-qt[0m [36m0.1.6-1[0m[1m (+1[0m [1m0.00) [0m
+    CAJ 转 PDF 转换器（GUI 版本）
+[35m503[0m [1m[34maur[0m[0m/[1mgspdf.app[0m [36m0.5-1[0m[1m (+1[0m [1m0.00) [0m
+    GSPdf is a PDF, PS and EPS viewer for gnustep
+[35m502[0m [1m[34maur[0m[0m/[1mvector-slicer[0m [36m0.0.2-2[0m[1m (+1[0m [1m0.00) [0m
+    Export multi-page PDFs from an SVG
+[35m501[0m [1m[34maur[0m[0m/[1mcrowbook[0m [36m0.16.1-0[0m[1m (+1[0m [1m0.00) [0m
+    Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
+[35m500[0m [1m[34maur[0m[0m/[1mnoteshrink-git[0m [36m0.1.1.r0.g7d876e5-3[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-24)[0m[0m 
+    Convert scans of handwritten notes to beautiful, compact PDFs
+[35m499[0m [1m[34maur[0m[0m/[1msvg2pdf-git[0m [36mr6.301dd48-1[0m[1m (+1[0m [1m0.00) [0m
+    Conversion of SVGs to PDFs via cairo
+[35m498[0m [1m[34maur[0m[0m/[1mbard[0m [36m2.0.1-1[0m[1m (+1[0m [1m0.00) [0m
+    Creates PDF and HTML songbooks out of easy-to-write Markdown sources.
+[35m497[0m [1m[34maur[0m[0m/[1mkatarakt-git[0m [36mr234.e5b4caf-1[0m[1m (+1[0m [1m0.00) [0m
+    A simple PDF viewer with two layouts
+[35m496[0m [1m[34maur[0m[0m/[1msvglinkify-git[0m [36mr8.2a2f4bc-1[0m[1m (+1[0m [1m0.00) [0m
+    Export inkscape SVGs to PDF while preserving hyperlinks.
+[35m495[0m [1m[34maur[0m[0m/[1mgourou-bin[0m [36m0.8.6-1[0m[1m (+1[0m [1m0.00) [0m
+    Download and decrypt adobe encrypted (acsm) pdf and epub files
+[35m494[0m [1m[34maur[0m[0m/[1mmandown-git[0m [36mr211.e85a310-1[0m[1m (+1[0m [1m0.00) [0m
+    Comic/manga/webtoon downloader and CBZ/EPUB/PDF converter
+[35m493[0m [1m[34maur[0m[0m/[1mgpdfand-git[0m [36m0.r16.ga477ac0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2022-03-19)[0m[0m 
+    GPD fan control - git checkout
+[35m492[0m [1m[34maur[0m[0m/[1mcomparepdf[0m [36m1.0.2-1[0m[1m (+1[0m [1m0.00) [0m
+    Command-line tool for diffing pdf files visually or textually
+[35m491[0m [1m[34maur[0m[0m/[1morgmk-git[0m [36mr81.a24a1c1-1[0m[1m (+1[0m [1m0.00) [0m
+    Export Org mode documents to HTML, PDF, etc.
+[35m490[0m [1m[34maur[0m[0m/[1mfuzzy-pdf-bin[0m [36m0.3.6-1[0m[1m (+1[0m [1m0.00) [0m
+    Fuzzy finder for a collection of pdf files
+[35m489[0m [1m[34maur[0m[0m/[1mmkpdf[0m [36m0.3.2-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A simple wrapper around pandoc and latexmk
+[35m488[0m [1m[34maur[0m[0m/[1mmpdfav-git[0m [36mr36.d408671-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-12-01)[0m[0m 
+    Song playcounts and ratings for MPD
+[35m487[0m [1m[34maur[0m[0m/[1mgawk-haru[0m [36m1.0.2-3[0m[1m (+1[0m [1m0.00) [0m
+    GAWK extension - interface to the libharu PDF library
+[35m486[0m [1m[34maur[0m[0m/[1mstar-charter-git[0m [36m4.0-1[0m[1m (+1[0m [1m0.00) [0m
+    A command-line tool for producing vector-graphics charts of the night sky in SVG, PDF and PNG formats
+[35m485[0m [1m[34maur[0m[0m/[1mtruepolyglot[0m [36m1.6.2-5[0m[1m (+1[0m [1m0.00) [0m
+    Create polyglot files that are valid PDF and ZIP at the same time. See POC||GTFO 07.
+[35m484[0m [1m[34maur[0m[0m/[1mzvvbook[0m [36m5.1_beta-3[0m[1m (+1[0m [1m0.00) [0m
+    fb2, epub & pdf reader
+[35m483[0m [1m[34maur[0m[0m/[1mcajviewer-bin[0m [36m1.0.3.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-08-11)[0m[0m 
+    Document Viewer for CAJ, KDH, NH, TEB and PDF format
+[35m482[0m [1m[34maur[0m[0m/[1mlatex-media9[0m [36m1.25-1[0m[1m (+1[0m [1m0.00) [0m
+    Embed video/sound (SWF, MP4, FLV, MP3) files in PDFs
+[35m481[0m [1m[34maur[0m[0m/[1mbard-bin[0m [36m2.0.1-1[0m[1m (+1[0m [1m0.00) [0m
+    Creates PDF and HTML songbooks out of easy-to-write Markdown sources. Binary package.
+[35m480[0m [1m[34maur[0m[0m/[1mextractpdfmark[0m [36m1.1.1-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Extract page mode and named destinations as PDFmark from PDF
+[35m479[0m [1m[34maur[0m[0m/[1mmediawiki2latex-bin[0m [36m7.39-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-05-31)[0m[0m 
+    Mediawiki2latex, convert any mediawiki page to pdf. Arch specific pre-built binary, statically linked.
+[35m478[0m [1m[34maur[0m[0m/[1mripgrep-all-git[0m [36m1.0.0.alpha.5.359.g3ccf371-1[0m[1m (+1[0m [1m0.00) [0m
+    rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+[35m477[0m [1m[34maur[0m[0m/[1mbeamerpresenter-git[0m [36m0.2.4_931.e27aa92-2[0m[1m (+1[0m [1m0.00) [0m
+    Modular multi-screen pdf presenter (git)
+[35m476[0m [1m[34maur[0m[0m/[1mcups-pdf-to-pdf-git[0m [36m3.0.1_r7.63ab5e7-1[0m[1m (+1[0m [1m0.00) [0m
+    CUPS-PDF v3 with text print support
+[35m475[0m [1m[34maur[0m[0m/[1mcpdf-git[0m [36m2.3.1.r52.gd51ba0d-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A command line toolkit for Portable Document Format
+[35m474[0m [1m[34maur[0m[0m/[1mfeather-pdf[0m [36m1.0.6-1[0m[1m (+1[0m [1m0.00) [0m
+    FeatherPDF is an ultra-lightweight PDF viewer.
+[35m473[0m [1m[34maur[0m[0m/[1mscreenplain[0m [36m0.9.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-12-12)[0m[0m 
+    Fountain parser with FDX, HTML and PDF backends
+[35m472[0m [1m[34maur[0m[0m/[1melibsrv[0m [36m20170325-1[0m[1m (+1[0m [1m0.00) [0m
+    a light OPDS library server for EPUB and PDF ebooks
+[35m471[0m [1m[34maur[0m[0m/[1mdpic-git[0m [36mr48.1e982f5-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-04-11)[0m[0m 
+    An implementation of the pic "little language," with support for LaTeX, PDF, SVG, Postscript, and xfig 3.2 output.
+[35m470[0m [1m[34maur[0m[0m/[1mgourou-git[0m [36mr140.f60abf0-1[0m[1m (+1[0m [1m0.00) [0m
+    Download and decrypt adobe encrypted (acsm) pdf and epub files (git version)
+[35m469[0m [1m[34maur[0m[0m/[1mandroid-armv7a-eabi-poppler[0m [36m24.03.0-1[0m[1m (+0[0m [1m0.00) [0m
+    PDF rendering library based on xpdf 3.0 (Android armv7a-eabi)
+[35m468[0m [1m[34maur[0m[0m/[1mchromium-pdfjs-git[0m [36m3.10.111.54.gb1578225f-1[0m[1m (+0[0m [1m0.00) [0m
+    PDF viewer in Javascript, packaged as a Chromium extension
+[35m467[0m [1m[34maur[0m[0m/[1mandroid-aarch64-poppler[0m [36m24.03.0-1[0m[1m (+0[0m [1m0.00) [0m
+    PDF rendering library based on xpdf 3.0 (Android aarch64)
+[35m466[0m [1m[34maur[0m[0m/[1mandroid-x86-64-poppler[0m [36m24.03.0-1[0m[1m (+0[0m [1m0.00) [0m
+    PDF rendering library based on xpdf 3.0 (Android x86-64)
+[35m465[0m [1m[34maur[0m[0m/[1melectron-pdf-viewer-git[0m [36m1.0.r35.gebc2f89-1[0m[1m (+0[0m [1m0.00) [0m
+    PDF viewer created using Electron framework and PDF.js
+[35m464[0m [1m[34maur[0m[0m/[1melectron-pdf-viewer-bin[0m [36m1.0-9[0m[1m (+0[0m [1m0.00) [0m
+    PDF viewer created using Electron framework and PDF.js
+[35m463[0m [1m[34maur[0m[0m/[1mandroid-x86-poppler[0m [36m24.03.0-1[0m[1m (+0[0m [1m0.00) [0m
+    PDF rendering library based on xpdf 3.0 (Android x86)
+[35m462[0m [1m[34maur[0m[0m/[1mherwig_lhapdf_config[0m [36m1.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Prepare PDFs set MMHT2014nlo68cl MMHT2014lo68cl for Herwig install
+[35m461[0m [1m[34maur[0m[0m/[1mfntsample-git[0m [36m5.2.r0.geb3ee08-2[0m[1m (+0[0m [1m0.00) [0m
+    PDF and PostScript font samples generator.
+[35m460[0m [1m[34maur[0m[0m/[1msumatrapdf[0m [36m3.5.2-4[0m[1m (+1[0m [1m0.01) [0m
+    PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows. Small, fast, customizable, free.
+[35m459[0m [1m[34maur[0m[0m/[1mpython-sphinxcontrib-pdfembed-git[0m [36mr17.d75fb37-2[0m[1m (+0[0m [1m0.00) [0m
+    Sphinx extension to embed a pdf file in a webpage
+[35m458[0m [1m[34maur[0m[0m/[1mfalkon-pdfreader-git[0m [36mr7.eefc135-3[0m[1m (+0[0m [1m0.00) [0m
+    PDF reader plugin for Falkon browser
+[35m457[0m [1m[34maur[0m[0m/[1mpython-django-weasyprint-git[0m [36mv0.6.0.r14.g1e0a377-1[0m[1m (+0[0m [1m0.00) [0m
+    A Django class-based view generating PDF resposes using WeasyPrint
+[35m456[0m [1m[34maur[0m[0m/[1mnautilus-columns-git[0m [36m0.12-1[0m[1m (+2[0m [1m0.00) [0m
+    Nautilus extension to display music/EXIF and PDF metadata info in the Nautilus List View.
+[35m455[0m [1m[34maur[0m[0m/[1mjpeg2pdf[0m [36m1.1-1[0m[1m (+2[0m [1m0.28) [0m
+    Cross-platform command-line tool for creation of PDF documents from scans/photos of pages in JPEG (.jpg) format and the lightest weight ANSI C library to put multiple JPEG files into one PDF file
+[35m454[0m [1m[34maur[0m[0m/[1mcaja-pdf-tools-git[0m [36m1.2.9.0extras20.04.03.r100.510257d-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Tools to work with PDF files from Caja
+[35m453[0m [1m[34maur[0m[0m/[1mzaman[0m [36m1.2.3-1[0m[1m (+2[0m [1m0.00) [0m
+    A simple cli tool that prints (or saves) man pages in a PDF file for an easier reading
+[35m452[0m [1m[34maur[0m[0m/[1mruby-pdf-inspector[0m [36m1.3.0-2[0m[1m (+2[0m [1m0.28) [0m
+    Collection of PDF::Reader based analysis classes for inspecting PDF output
+[35m451[0m [1m[34maur[0m[0m/[1mnautilus-pdf-tools-git[0m [36m1.2.9.0extras20.04.03.r100.510257d-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Tools to work with PDF files from Nautilus
+[35m450[0m [1m[34maur[0m[0m/[1mterm-pdf[0m [36m0.0.4.5-1[0m[1m (+2[0m [1m0.49) [0m
+    TermPDF Viewer is an open-source PDF file viewer designed to run in the terminal.
+[35m449[0m [1m[34maur[0m[0m/[1mnemo-pdf-tools-git[0m [36m1.2.9.0extras20.04.03.r100.510257d-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Tools to work with PDF files from Nemo
+[35m448[0m [1m[34maur[0m[0m/[1mcrop-pdf[0m [36m0.1-2[0m[1m (+2[0m [1m0.00) [0m
+    Command line tool to crop PDF files
+[35m447[0m [1m[34maur[0m[0m/[1mstl2pov[0m [36m3.1-4[0m[1m (+2[0m [1m0.00) [0m
+    generate a POVray mesh or a PostScript or PDF view from an STL file
+[35m446[0m [1m[34maur[0m[0m/[1mxournalpp-micro[0m [36m1.1.0_cust-1[0m[1m (+2[0m [1m0.00) [0m
+    Handwriting notetaking software with PDF annotation support (custom patches)
+[35m445[0m [1m[34maur[0m[0m/[1mchm-to-pdf[0m [36m0.01-3[0m[1m (+2[0m [1m0.00) [0m
+    Convert CHM files to PDF documents
+[35m444[0m [1m[34maur[0m[0m/[1mruby-pdf-core[0m [36m0.10.0-1[0m[1m (+2[0m [1m0.04) [0m
+    Implements low level PDF features for Prawn (experimental)
+[35m443[0m [1m[34maur[0m[0m/[1mscitopdf[0m [36m0.6.6-1[0m[1m (+2[0m [1m0.00) [0m
+    bash script to quickly fetch, download and open scientific papers from Sci-Hub's database.
+[35m442[0m [1m[34maur[0m[0m/[1mbooksorg[0m [36m0.3.1-1[0m[1m (+2[0m [1m0.00) [0m
+    Books Organizer, an organizer for pdf files based on sqlite and with a built-in reader. Bring your favorite PDF pages all in one! Make your own extract pages from existing ones
+[35m441[0m [1m[34maur[0m[0m/[1missuu-dl[0m [36m0.5-1[0m[1m (+2[0m [1m0.00) [0m
+    a simple downloader for issuu.com (supports pdf and cbz output formats)
+[35m440[0m [1m[34maur[0m[0m/[1mhandyoutliner-bin[0m [36m1.1.6.4-1[0m[1m (+2[0m [1m0.14) [0m
+    The goal of this program is to make easier and faster the process of creating bookmarks for DjVu and PDF documents.
+[35m439[0m [1m[34maur[0m[0m/[1myacreader-poppler[0m [36m9.14.1-1[0m[1m (+2[0m [1m0.00) [0m
+    Comic reader for cross-platform reading and managing your digital comic collection, using poppler for PDF
+[35m438[0m [1m[34maur[0m[0m/[1mxpdf-motif[0m [36m3.04-3[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Viewer for Portable Document Format (PDF) files, legacy version without qt
+[35m437[0m [1m[34maur[0m[0m/[1mipe-tools-git[0m [36mgit-9[0m[1m (+2[0m [1m0.00) [0m
+    Tools for Ipe: pdftoipe, figtoipe, ipe5toxml, svgtoipe
+[35m436[0m [1m[34maur[0m[0m/[1mglpresenter[0m [36m0.3.4-5[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A dual-screen OpenGL PDF presentation software
+[35m435[0m [1m[34maur[0m[0m/[1mtabula-java[0m [36m1.0.5-2[0m[1m (+2[0m [1m0.00) [0m
+    Extract tables from PDF files
+[35m434[0m [1m[34maur[0m[0m/[1mfast-p[0m [36m0.2.5-3[0m[1m (+2[0m [1m0.00) [0m
+    Quickly find and open a pdf among a collection of thousands of unsorted pdfs through fzf (fuzzy finder)
+[35m433[0m [1m[34maur[0m[0m/[1mcsbooks[0m [36m7.5.0-1[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A smart solution to manage all your PDF, EPUB and MOBI files
+[35m432[0m [1m[34maur[0m[0m/[1mkrop-git[0m [36mr114.e96d42b-3[0m[1m (+2[0m [1m0.05) [0m
+    Simple graphical tool to crop the pages of PDF files
+[35m431[0m [1m[34maur[0m[0m/[1mlittleutils-full[0m [36m1.2.6a-1[0m[1m (+2[0m [1m0.00) [0m
+    Utilities for compression, file manipulation, text cleanup, and images/PDF optimization (with all features and extras)
+[35m430[0m [1m[34maur[0m[0m/[1mpython-ocrmypdf-papermerge[0m [36m0.5.0-1[0m[1m (+0[0m [1m0.00) [0m
+    OCRmyPDF Papermerge plugin
+[35m429[0m [1m[34maur[0m[0m/[1mcups-ocr[0m [36m0.1.2-4[0m[1m (+2[0m [1m0.00) [0m
+    Print directly to a tiff file which feeds an OCR engine which will output a text file. Modelled after cups-pdf.
+[35m428[0m [1m[34maur[0m[0m/[1myajhfc-pdf-plugin[0m [36m0.6.3-1[0m[1m (+1[0m [1m0.00) [0m
+    PDF Plugin for (Yet another Java HylaFAX client).
+[35m427[0m [1m[34maur[0m[0m/[1mmkdocs-with-pdf[0m [36m0.9.3-2[0m[1m (+2[0m [1m0.00) [0m
+    Plugin to generate a single PDF file from a MkDocs repository
+[35m426[0m [1m[34maur[0m[0m/[1mlib32-poppler[0m [36m24.01.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-04-24)[0m[0m 
+    PDF rendering library based on xpdf 3.0 (32-bit)
+[35m425[0m [1m[34maur[0m[0m/[1mphp-pdf-version-converter[0m [36m1.0.5-1[0m[1m (+0[0m [1m0.00) [0m
+    PHP library for converting the version of PDF files (for compatibility purposes).
+[35m424[0m [1m[34maur[0m[0m/[1mjfbview-git[0m [36mr415.f46b487-1[0m[1m (+1[0m [1m0.00) [0m
+    PDF and image viewer for the Linux framebuffer
+[35m423[0m [1m[34maur[0m[0m/[1mpython-django-tex-git[0m [36m1.1.7.r0.g75ddacd-1[0m[1m (+0[0m [1m0.00) [0m
+    A simple Django app to render LaTeX templates and compile them into PDF files.
+[35m422[0m [1m[34maur[0m[0m/[1mfntsample[0m [36m5.4-1[0m[1m (+1[0m [1m0.75) [0m
+    PDF and PostScript font samples generator
+[35m421[0m [1m[34maur[0m[0m/[1mperl-pdf-reuse-barcode[0m [36m0.07-1[0m[1m (+0[0m [1m0.00) [0m
+    Perl/CPAN Module PDF::Reuse::Barcode: Create barcodes for PDF documents with PDF::Reuse
+[35m420[0m [1m[34maur[0m[0m/[1mpython-pdf2docx-git[0m [36m0.5.6.r7.g288cae8-3[0m[1m (+0[0m [1m0.00) [0m
+    A Python library for converting pdf to docx
+[35m419[0m [1m[34maur[0m[0m/[1mpotatopresenter-appimage[0m [36m1.0.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Tool to create presentation slides that can be exported as PDF.
+[35m418[0m [1m[34maur[0m[0m/[1mperl-pdf-api2-simple[0m [36m1.1.4-1[0m[1m (+0[0m [1m0.00) [0m
+    Perl/CPAN Module PDF::API2::Simple: Simplistic wrapper for the excellent PDF::API2 modules
+[35m417[0m [1m[34maur[0m[0m/[1mruby-prawn-svg[0m [36m0.34.2-1[0m[1m (+3[0m [1m0.04) [0m
+    SVG renderer for Prawn Ruby PDF library
+[35m416[0m [1m[34maur[0m[0m/[1mcajviewer[0m [36m9.0-2[0m[1m (+3[0m [1m0.00) [0m
+    CAJViewer for Linux. Document Viewer for TEB, CAJ, NH, KDH and PDF format
+[35m415[0m [1m[34maur[0m[0m/[1mscitopdf-git[0m [36mr113.91b7463-1[0m[1m (+3[0m [1m0.00) [0m
+    bash script to quickly fetch, download and open scientific papers from Sci-Hub's database
+[35m414[0m [1m[34maur[0m[0m/[1mdpsprep-git[0m [36m2.2.4-1[0m[1m (+3[0m [1m0.00) [0m
+    A DjVu to PDF converter with a focus on small output size and the ability to preserve document outlines and text layers
+[35m413[0m [1m[34maur[0m[0m/[1mtermpdf-git[0m [36mr147.4616797-2[0m[1m (+3[0m [1m0.00) [0m
+    barebones graphical pdf/djvu/cbr/image viewer that works inside some terminals, e.g. kitty
+[35m412[0m [1m[34maur[0m[0m/[1mveusz-git[0m [36m3.6.2.r0.gc690eb61-1[0m[1m (+3[0m [1m0.00) [0m
+    A scientific plotting and graphing package, designed to create publication-ready Postscript or PDF output.
+[35m411[0m [1m[34maur[0m[0m/[1mtermpdf.py-git[0m [36mr0.ge7bd082-1[0m[1m (+3[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-09-03)[0m[0m 
+    A graphical pdf (and epub, cbz, ...) reader that works inside the kitty terminal
+[35m410[0m [1m[34maur[0m[0m/[1mknock-bin[0m [36m1.3.1-8[0m[1m (+3[0m [1m0.00) [0m
+    Convert ACSM files to PDF/EPUBs with one command on Linux
+[35m409[0m [1m[34maur[0m[0m/[1memacs-pdf-tools-git[0m [36m0.91.r39.gfedd930-1[0m[1m (+3[0m [1m0.00) [0m
+    Emacs support library for PDF files.
+[35m408[0m [1m[34maur[0m[0m/[1mgv[0m [36m3.7.4-5[0m[1m (+3[0m [1m0.91) [0m
+    A program to view PostScript and PDF documents
+[35m407[0m [1m[34maur[0m[0m/[1mpython-types-fpdf2[0m [36m2.7.8.20240217-1[0m[1m (+0[0m [1m0.00) [0m
+    Typing stubs for fpdf2
+[35m406[0m [1m[34maur[0m[0m/[1mcamlpdf-git[0m [36m2.3.1.r21.g7557db5-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    PDF-processing-library for OCaml
+[35m405[0m [1m[34maur[0m[0m/[1mpython-comicon-git[0m [36mr34.53ea21d-1[0m[1m (+0[0m [1m0.00) [0m
+    Lightweight comic converter library between CBZ, PDF and EPUB
+[35m404[0m [1m[34maur[0m[0m/[1mnodejs-percollate[0m [36m2.1.0-1[0m[1m (+3[0m [1m0.31) [0m[1m[31m(Out-of-date: 2022-09-02)[0m[0m 
+    Percollate is a command-line tool that turns web pages into beautifully formatted PDF, EPUB, or HTML files.
+[35m403[0m [1m[34maur[0m[0m/[1mpython-papers-cli[0m [36m1.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A Python package to keep your PDF library organized
+[35m402[0m [1m[34maur[0m[0m/[1mkicad-pcb-diff[0m [36m2.5.4-1[0m[1m (+0[0m [1m0.00) [0m
+    Tool to generate a PDF file showing the changes between two KiCad PCB/SCH files. Also a git plug-in.
+[35m401[0m [1m[34maur[0m[0m/[1mpython-pypdfium2[0m [36m4.30.0-1[0m[1m (+0[0m [1m0.00) [0m
+    An ABI-level Python 3 binding to PDFium (unofficial AUR package)
+[35m400[0m [1m[34maur[0m[0m/[1mpython-pdfjinjax[0m [36m1.2.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Use jinja templates to fill and sign PDF forms, based on rammie/pdfjinja with a few enhancements.
+[35m399[0m [1m[34maur[0m[0m/[1mpython-pdf2video[0m [36m0.2.1-2[0m[1m (+0[0m [1m0.00) [0m
+    A tool for making videos from PDF presentations
+[35m398[0m [1m[34maur[0m[0m/[1mpython2-pdftools[0m [36m0.37-1[0m[1m (+0[0m [1m0.00) [0m
+    Basic classes for handling information in PDF files.
+[35m397[0m [1m[34maur[0m[0m/[1mpython-pdfplumber[0m [36m0.10.4-1[0m[1m (+0[0m [1m0.00) [0m
+    Plumb a PDF for detailed information about each char, rectangle, line, et cetera.
+[35m396[0m [1m[34maur[0m[0m/[1mruby-prawn[0m [36m2.5.0-2[0m[1m (+3[0m [1m0.04) [0m
+    A fast and nimble PDF generator for Ruby
+[35m395[0m [1m[34maur[0m[0m/[1mperl-pdf-fromhtml[0m [36m0.33-1[0m[1m (+0[0m [1m0.00) [0m
+    Perl/CPAN Module PDF::FromHTML: Convert HTML documents to PDF
+[35m394[0m [1m[34maur[0m[0m/[1mpython-pdfknife[0m [36m0.2.3-1[0m[1m (+0[0m [1m0.00) [0m
+    Command line tools to manipulate PDF files
+[35m393[0m [1m[34maur[0m[0m/[1mpotatopresenter[0m [36m1.0.2-2[0m[1m (+0[0m [1m0.00) [0m
+    Tool to create presentation slides that can be exported as PDF.
+[35m392[0m [1m[34maur[0m[0m/[1mpython-pdf2docx[0m [36m0.5.8-2[0m[1m (+0[0m [1m0.00) [0m
+    A Python library for converting pdf to docx
+[35m391[0m [1m[34maur[0m[0m/[1mmdbook-compress[0m [36m0.2.1-0[0m[1m (+0[0m [1m0.00) [0m
+    An mdBook single PDF generator using pure Rust and some Node.js
+[35m390[0m [1m[34maur[0m[0m/[1mperl-pdf-create[0m [36m1.46-1[0m[1m (+0[0m [1m0.00) [0m
+    This packages the perl-pdf-create distribution, containing the PDF::Create module!
+[35m389[0m [1m[34maur[0m[0m/[1muconfig-git[0m [36mr201.ec531a4-1[0m[1m (+4[0m [1m0.03) [0m
+    Extract pinout from PDF datasheets and create Kicad schematics
+[35m388[0m [1m[34maur[0m[0m/[1memail2pdf[0m [36m0.9.5.1-1[0m[1m (+4[0m [1m0.00) [0m
+    Convert EML files to PDF.
+[35m387[0m [1m[34maur[0m[0m/[1mcaj2pdf-git[0m [36m1:r188.6c4bc32-1[0m[1m (+4[0m [1m0.00) [0m
+    Convert CAJ (China Academic Journals) files to PDF.
+[35m386[0m [1m[34maur[0m[0m/[1mtext2pdf[0m [36m1.1-6[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Convert text files to PDF
+[35m385[0m [1m[34maur[0m[0m/[1mepub2pdf[0m [36m0.5-1[0m[1m (+4[0m [1m0.00) [0m
+    epub2pdf is a command-line tool that quickly generates PDF files from EPUB ebooks. It will run on any platform that supports JRE version 6 or later.
+[35m384[0m [1m[34maur[0m[0m/[1mnodejs-hackmyresume[0m [36m1.9.0_beta-1[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
+[35m383[0m [1m[34maur[0m[0m/[1mapvlv[0m [36m0.5.0-1[0m[1m (+4[0m [1m0.00) [0m
+    A PDF/DJVU/EPUB viewer which behaves like Vim
+[35m382[0m [1m[34maur[0m[0m/[1mperl-pdf-writer[0m [36m0.06-1[0m[1m (+0[0m [1m0.00) [0m
+    Perl/CPAN Module PDF::Writer: PDF writer abstraction layer
+[35m381[0m [1m[34maur[0m[0m/[1mpython-camelot-git[0m [36mv0.8.2.r26.g7709e58-5[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Camelot: PDF Table Extraction for Humans
+[35m380[0m [1m[34maur[0m[0m/[1mperl-pdf-table[0m [36m1.003-1[0m[1m (+0[0m [1m0.00) [0m
+    Perl/CPAN Module PDF::Table: A utility class for building table layouts in a PDF::API2 object.
+[35m379[0m [1m[34maur[0m[0m/[1mpolylux2pdfpc-git[0m [36mr263.c0032a0-1[0m[1m (+0[0m [1m0.00) [0m
+    pdfpc extractor for polylux, a package for creating slides in Typst
+[35m378[0m [1m[34maur[0m[0m/[1mpreflight-app[0m [36m2.0.24-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Validate PDF files against the PDF/A-1b standard.
+[35m377[0m [1m[34maur[0m[0m/[1mqdocumentview[0m [36m0.2.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Simple widget to display paged documents, like PDF and DjVu
+[35m376[0m [1m[34maur[0m[0m/[1mpython-rm2pdf[0m [36m0.1.0-2[0m[1m (+0[0m [1m0.00) [0m
+    A rendering library for *.rm files to pdf files.
+[35m375[0m [1m[34maur[0m[0m/[1mperl-pdf-reuse[0m [36m0.39-1[0m[1m (+0[0m [1m0.00) [0m
+    Perl/CPAN Module PDF::Reuse: Reuse and mass produce PDF documents
+[35m374[0m [1m[34maur[0m[0m/[1mpython-reportlab3[0m [36m3.6.12-3[0m[1m (+1[0m [1m0.65) [0m
+    A proven industry-strength PDF generating solution
+[35m373[0m [1m[34maur[0m[0m/[1mpython-sioyek[0m [36m0.31.11-2[0m[1m (+0[0m [1m0.00) [0m
+    Python wrapper and simple addons for sioyek PDF viewer
+[35m372[0m [1m[34maur[0m[0m/[1meparakstitajs3[0m [36m1.7.5-1[0m[1m (+5[0m [1m1.34) [0m
+    Application software to sign and validate documents in EDOC and PDF formats.
+[35m371[0m [1m[34maur[0m[0m/[1minkslides-git[0m [36mr41.f0b15c8-1[0m[1m (+5[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Generate a PDF presentation out of an inkscape SVG document
+[35m370[0m [1m[34maur[0m[0m/[1mjsignpdf[0m [36m2.2.2-1[0m[1m (+5[0m [1m0.00) [0m
+    Digitally sign PDF files with X.509 certificates in GUI and CLI.
+[35m369[0m [1m[34maur[0m[0m/[1mlatex-pdfpages[0m [36m0.5y-1[0m[1m (+5[0m [1m0.18) [0m
+    Inclusion of external multi-page PDF documents in LATEX documents
+[35m368[0m [1m[34maur[0m[0m/[1mpython-learnpdf[0m [36m2.0.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-03-24)[0m[0m 
+    LearnPDF is a file crawler and downloader for Moodle APIs
+[35m367[0m [1m[34maur[0m[0m/[1mdalbum[0m [36m144_177-1[0m[1m (+5[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-02-29)[0m[0m 
+    A free PHP photo album. It is small, easy to install and highly customizable at the same time. Features include slide shows, image comments, support for video and PDF files and many more.
+[35m366[0m [1m[34maur[0m[0m/[1mverapdf[0m [36m1.26.2-1[0m[1m (+5[0m [1m0.57) [0m
+    purpose-built, open source, file-format validator covering all PDF/A parts and conformance levels
+[35m365[0m [1m[34maur[0m[0m/[1mtea-qt[0m [36m63.0.2-2[0m[1m (+5[0m [1m0.00) [0m
+    Powerful text editor for Linux, *BSD, Windows, OS/2, Mac and Haiku OS with PDF and DJVU support
+[35m364[0m [1m[34maur[0m[0m/[1mpandoc-eisvogel-template-git[0m [36m1:2.4.2+1.r287.20240429.75fde9b-1[0m[1m (+3[0m [1m0.00) [0m
+    The 'eisvogel' LaTeX-template for pandoc. A clean pandoc LaTeX template to convert your markdown files to PDF or LaTeX. It is designed for lecture notes and exercises with a focus on computer science. The template is compatible with pandoc 2.
+[35m363[0m [1m[34maur[0m[0m/[1mpython-pyhanko[0m [36m0.25.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Tools for stamping and signing PDF files
+[35m362[0m [1m[34maur[0m[0m/[1mpod2pdf-git[0m [36m23.02.r21.g35b1c6b-1[0m[1m (+0[0m [1m0.00) [0m
+    Convert POD to PDF, with syntax highlighting.
+[35m361[0m [1m[34maur[0m[0m/[1mpython-fpdf[0m [36m1.7.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Simple PDF generation for Python
+[35m360[0m [1m[34maur[0m[0m/[1mmdproof-git[0m [36mr85.7cbd275-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A standalone markdown to PDF converter
+[35m359[0m [1m[34maur[0m[0m/[1mpolylux2pdfpc[0m [36m0.3.1-1[0m[1m (+0[0m [1m0.00) [0m
+    pdfpc extractor for polylux, a package for creating slides in Typst
+[35m358[0m [1m[34maur[0m[0m/[1mpython-tabula[0m [36m2.1.0-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2022-12-02)[0m[0m 
+    Simple wrapper for tabula, read tables from PDF into DataFrame
+[35m357[0m [1m[34maur[0m[0m/[1mpython2-pdfrw[0m [36m0.4-3[0m[1m (+1[0m [1m0.00) [0m
+    Convert restructured text to PDF via reportlab.
+[35m356[0m [1m[34maur[0m[0m/[1mpython2-reportlab[0m [36m3.5.34-3[0m[1m (+2[0m [1m0.00) [0m
+    A proven industry-strength PDF generating solution
+[35m355[0m [1m[34maur[0m[0m/[1mu3d[0m [36m1.4.5-2[0m[1m (+2[0m [1m0.00) [0m
+    U3D is a format for 3D models that can be embedded into PDF and viewed in Adobe Acrobat/Reader
+[35m354[0m [1m[34maur[0m[0m/[1mimg2pdf-git[0m [36m1:0.4.4.r10.gbe83693-1[0m[1m (+6[0m [1m0.00) [0m
+    Losslessly convert raster images to PDF
+[35m353[0m [1m[34maur[0m[0m/[1mzathura-ypb[0m [36m0.0.8.2.r30.gbef9bc4-3[0m[1m (+6[0m [1m0.00) [0m
+    A lightweight GTK2 PDF viewer
+[35m352[0m [1m[34maur[0m[0m/[1mruby-pdf-reader[0m [36m2.12.0-2[0m[1m (+6[0m [1m0.31) [0m
+    Ruby library that implements a PDF parser conforming as much as possible to the PDF specification from Adobe
+[35m351[0m [1m[34maur[0m[0m/[1mtexlive-minionpro-git[0m [36mr134.165b4a7-4[0m[1m (+6[0m [1m0.01) [0m
+    generate all necessary files to use Adobe Minion Pro and Adobe Myriad Pro with (pdf)latex.
+[35m350[0m [1m[34maur[0m[0m/[1mphp-dompdf[0m [36m1.1.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-08-26)[0m[0m 
+    HTML to PDF converter
+[35m349[0m [1m[34maur[0m[0m/[1mraktpdf[0m [36m20080320-4[0m[1m (+6[0m [1m0.00) [0m
+    A GTK+ based PDF viewer
+[35m348[0m [1m[34maur[0m[0m/[1mxreader-git[0m [36m3.8.2.r5.g31c9f12-1[0m[1m (+6[0m [1m0.00) [0m
+    Document viewer for files like PDF and Postscript. X-Apps Project (git version).
+[35m347[0m [1m[34maur[0m[0m/[1mtexlive-myriadpro-git[0m [36mr134.165b4a7-4[0m[1m (+6[0m [1m0.01) [0m
+    generate all necessary files to use Adobe Minion Pro and Adobe Myriad Pro with (pdf)latex.
+[35m346[0m [1m[34maur[0m[0m/[1mpaperboy-bin[0m [36m1.4-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2021-09-26)[0m[0m 
+    A small .pdf management utility
+[35m345[0m [1m[34maur[0m[0m/[1mperl-pdf-tk[0m [36m0.02-1[0m[1m (+0[0m [1m0.00) [0m
+    Perl integration for the pdf toolkit (pdftk)
+[35m344[0m [1m[34maur[0m[0m/[1mttf-barcodes[0m [36m2.0.1-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Several barcode fonts: for EAN-13/8, 3 of 9, code 128, 2 of 5 interleaved, pdf417 and datamatrix
+[35m343[0m [1m[34maur[0m[0m/[1mpstoedit-emf[0m [36m3.78-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Translates PostScript and PDF graphics into other vector formats, with EMF support
+[35m342[0m [1m[34maur[0m[0m/[1mperl-text-pdf[0m [36m0.31-2[0m[1m (+1[0m [1m0.00) [0m
+    Perl/CPAN Module Text::PDF: Module for manipulating PDF files
+[35m341[0m [1m[34maur[0m[0m/[1mpapers-lib-docs[0m [36m46.0-1[0m[1m (+2[0m [1m0.31) [0m
+    Document viewer (PDF, PostScript, XPS, djvu, dvi, tiff, cbr, cbz, cb7, cbt) (library API documentation)
+[35m340[0m [1m[34maur[0m[0m/[1mpython-pdfgpt[0m [36m0.2.2-1[0m[1m (+1[0m [1m0.00) [0m
+    pdfgpt is a Python package that provides users with the ability to engage in natural language conversations with their PDF documents.
+[35m339[0m [1m[34maur[0m[0m/[1mdynapdf[0m [36m4.0.47.134-1[0m[1m (+0[0m [1m0.00) [0m
+    PDF library
+[35m338[0m [1m[34maur[0m[0m/[1mppm2pwg-git[0m [36mr225.32960d3-1[0m[1m (+1[0m [1m0.16) [0m
+    Misc printing format conversion utilities: ppm2pwg, pwg2ppm, pdf2printable, baselinify, ippposter
+[35m337[0m [1m[34maur[0m[0m/[1mnodejs-decktape[0m [36m3.10.0-1[0m[1m (+5[0m [1m0.00) [0m
+    PDF exporter for HTML presentation frameworks
+[35m336[0m [1m[34maur[0m[0m/[1mvim-live-latex-preview[0m [36m0.9-1[0m[1m (+7[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Vim plugin and helper scripts to provide a live-updating PDF preview of LaTeX documents with MuPDF
+[35m335[0m [1m[34maur[0m[0m/[1mcpdf-bin[0m [36m2.5.1-2[0m[1m (+7[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2024-01-05)[0m[0m 
+    Coherent PDF commandline tool binary to manipulate PDF files including merge, encrypt, decrypt, scale, crop, rotate, bookmarks, stamp, logos, page numbers, compress, etc.
+[35m334[0m [1m[34maur[0m[0m/[1mvisual-pdf-diff-git[0m [36mv1.0.0-2[0m[1m (+7[0m [1m0.00) [0m
+    Merges two PDF files into one PDF file and highlights their visual differences.
+[35m333[0m [1m[34maur[0m[0m/[1mnoteshrink[0m [36m0.1.1-3[0m[1m (+7[0m [1m0.00) [0m
+    Convert scans of handwritten notes to beautiful, compact PDFs
+[35m332[0m [1m[34maur[0m[0m/[1mgtk-vector-screenshot[0m [36m0.3.3-1[0m[1m (+7[0m [1m0.00) [0m
+    A GTK module for taking vector graphic screenshots (PDF, SVG and PostScript)
+[35m331[0m [1m[34maur[0m[0m/[1mnodejs-markdown-pdf[0m [36m10.0.0-2[0m[1m (+7[0m [1m0.00) [0m
+    Markdown to PDF converter
+[35m330[0m [1m[34maur[0m[0m/[1mpaperwork-git[0m [36m2.0.3+274+gb60a846c-1[0m[1m (+1[0m [1m0.00) [0m
+    Personal document manager for GNOME to manage scanned documents and PDFs
+[35m329[0m [1m[34maur[0m[0m/[1mswf2pdf-git[0m [36mr6.cac7b45-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Converts swf files to pdf
+[35m328[0m [1m[34maur[0m[0m/[1mmultivalent-pdf-tools[0m [36m20060102-2[0m[1m (+6[0m [1m0.00) [0m
+    PDF tools to compress, impose, decrypt/encrypt, split/merge from Multivalent
+[35m327[0m [1m[34maur[0m[0m/[1mpython-xhtml2pdf[0m [36m0.2.15-2[0m[1m (+3[0m [1m0.01) [0m
+    A library for converting HTML into PDFs using ReportLab
+[35m326[0m [1m[34maur[0m[0m/[1mplakativ-git[0m [36m0.5.2.r0.ge84aa8d-2[0m[1m (+1[0m [1m0.32) [0m
+    Stretch a PDF document or raster image across multiple pages that can then be printed.
+[35m325[0m [1m[34maur[0m[0m/[1mpython-pagelabels[0m [36m1.2.0-1[0m[1m (+3[0m [1m0.00) [0m
+    Python library to manipulate PDF page numbers and labels.
+[35m324[0m [1m[34maur[0m[0m/[1mpython-fpdf2[0m [36m2.7.9-1[0m[1m (+2[0m [1m0.02) [0m
+    Simple PDF generation for Python
+[35m323[0m [1m[34maur[0m[0m/[1mpaperbackup-git[0m [36mr27.7c3f064-1[0m[1m (+3[0m [1m0.00) [0m
+    Create a pdf with barcodes to backup text files on paper. Designed to backup ASCII-armored GnuPG and SSH key files and ciphertext.
+[35m322[0m [1m[34maur[0m[0m/[1ma2pdf[0m [36m1.13-6[0m[1m (+8[0m [1m0.00) [0m
+    Converts ASCII text to PDF format, with optional page/line numbering
+[35m321[0m [1m[34maur[0m[0m/[1mllpp[0m [36m42-1[0m[1m (+8[0m [1m0.11) [0m
+    opengl accelerated pdf viewer based on mupdf
+[35m320[0m [1m[34maur[0m[0m/[1mjpdfbookmarks[0m [36m2.5.2-3[0m[1m (+8[0m [1m0.63) [0m
+    Java PDF bookmarks editor
+[35m319[0m [1m[34maur[0m[0m/[1mqpdfview-bzr[0m [36m2070-1[0m[1m (+8[0m [1m0.00) [0m
+    A tabbed PDF viewer using the poppler library. (development version)
+[35m318[0m [1m[34maur[0m[0m/[1mmoonshiner[0m [36m1.0-4[0m[1m (+8[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A graphical frontend for Ghostscript's PostScript-to-PDF converter
+[35m317[0m [1m[34maur[0m[0m/[1mtabula[0m [36m1.2.1-0[0m[1m (+8[0m [1m0.00) [0m
+    tool for liberating data tables trapped inside PDF files
+[35m316[0m [1m[34maur[0m[0m/[1mpodofo-git[0m [36m0.10.1.r2.gadfff1c-1[0m[1m (+0[0m [1m0.00) [0m
+    A C++ library to work with the PDF file format
+[35m315[0m [1m[34maur[0m[0m/[1mpdfpc-notes-current-slide[0m [36m4.4.0-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-04-30)[0m[0m 
+    PDFPC with a patch to show the current slide with notes and the next one.
+[35m314[0m [1m[34maur[0m[0m/[1mplantuml-pdf[0m [36m1.9999.0-1[0m[1m (+3[0m [1m0.00) [0m
+    Extends plantuml package to enable PDF support
+[35m313[0m [1m[34maur[0m[0m/[1mphp-tcpdf[0m [36m6.6.5-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-05-05)[0m[0m 
+    PHP library for generating PDF documents on-the-fly
+[35m312[0m [1m[34maur[0m[0m/[1mdangerzone[0m [36m0.5.1-3[0m[1m (+9[0m [1m0.02) [0m[1m[31m(Out-of-date: 2024-02-23)[0m[0m 
+    Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
+[35m311[0m [1m[34maur[0m[0m/[1mlector-git[0m [36mr344.38de0dc-1[0m[1m (+9[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-09-11)[0m[0m 
+    Qt based ebook reader with support for PDF, epub, djvu, fb2, comicbooks, mobi, azw
+[35m310[0m [1m[34maur[0m[0m/[1mmingw-w64-poppler[0m [36m24.05.0-1[0m[1m (+8[0m [1m0.00) [0m
+    PDF rendering library based on xpdf 3.0 (mingw-w64)
+[35m309[0m [1m[34maur[0m[0m/[1mtexlive-acrotex[0m [36m2021.10.03-1[0m[1m (+10[0m [1m0.00) [0m
+    A LaTeX bundle for webpages, pdf forms and includin JavaSript into LaTeX
+[35m308[0m [1m[34maur[0m[0m/[1mhtml2pdf[0m [36m1.0-2[0m[1m (+10[0m [1m0.00) [0m
+    A GTK+ HTML to PDF converter
+[35m307[0m [1m[34maur[0m[0m/[1mkoreader-appimage[0m [36m2024.04-1[0m[1m (+10[0m [1m0.00) [0m
+    An ebook reader supporting PDF, DjVu, EPUB, FB2 and many more formats.
+[35m306[0m [1m[34maur[0m[0m/[1madobe-reader-11[0m [36m11.0.23-2[0m[1m (+5[0m [1m0.12) [0m
+    The reference software for viewing, printing, annotating and digitally signing PDF files
+[35m305[0m [1m[34maur[0m[0m/[1mperl-cam-pdf[0m [36m1.60-1[0m[1m (+1[0m [1m0.00) [0m
+    PDF manipulation library
+[35m304[0m [1m[34maur[0m[0m/[1mpodofo-0.9[0m [36m0.9.8-3[0m[1m (+3[0m [1m2.28) [0m
+    A C++ library to work with the PDF file format (legacy version)
+[35m303[0m [1m[34maur[0m[0m/[1mpdf-remove-blank-pages[0m [36m0.2-3[0m[1m (+1[0m [1m0.00) [0m
+    Automatically remove blank pages from pdf. For text-pdf only, not for images-pdf (removes pages with no text in it)
+[35m302[0m [1m[34maur[0m[0m/[1mmdpdf-git[0m [36mr9.1beff75-5[0m[1m (+0[0m [1m0.00) [0m
+    a shell script for converting markdown to pdf using lowdown.
+[35m301[0m [1m[34maur[0m[0m/[1mkoreader-bin[0m [36m2024.04-1[0m[1m (+11[0m [1m1.78) [0m
+    An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+[35m300[0m [1m[34maur[0m[0m/[1mokular-backend-mupdf-git[0m [36mr81.1ba0160-1[0m[1m (+11[0m [1m0.01) [0m[1m[31m(Out-of-date: 2023-11-23)[0m[0m 
+    MuPDF-based backend for Okular (git version)
+[35m299[0m [1m[34maur[0m[0m/[1mgourou[0m [36m0.8.6-1[0m[1m (+11[0m [1m1.14) [0m
+    Download and decrypt adobe encrypted (acsm) pdf and epub files
+[35m298[0m [1m[34maur[0m[0m/[1mimpressive[0m [36m0.13.2-1[0m[1m (+11[0m [1m0.01) [0m
+    A simple presentation program that displays slideshows of PDF, image or video files
+[35m297[0m [1m[34maur[0m[0m/[1mwkhtmltopdf[0m [36m0.12.6-1[0m[1m (+11[0m [1m0.11) [0m[1m[31m(Out-of-date: 2024-05-24)[0m[0m 
+    Command line tools to render HTML into PDF and various image formats
+[35m296[0m [1m[34maur[0m[0m/[1mnaps2-bin[0m [36m7.4.2-2[0m[1m (+11[0m [1m1.43) [0m
+    NAPS2 - Not Another PDF Scanner. Scan documents to PDF and more, as simply as possible.
+[35m295[0m [1m[34maur[0m[0m/[1mpaperboy[0m [36m1.7.1-1[0m[1m (+2[0m [1m0.00) [0m
+    A small .pdf management utility
+[35m294[0m [1m[34maur[0m[0m/[1mpython-pdfnup[0m [36m0.4.2-1[0m[1m (+5[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2021-01-17)[0m[0m 
+    a Python module and CLI tool for layouting multiple pages per sheet of a PDF
+[35m293[0m [1m[34maur[0m[0m/[1mpdfannots2json-bin[0m [36m1.0.16-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Extracts annotations from PDF and converts them to a JSON list
+[35m292[0m [1m[34maur[0m[0m/[1mdspdfviewer[0m [36m1.15.1-4[0m[1m (+12[0m [1m0.00) [0m[1m[31m(Out-of-date: 2023-04-27)[0m[0m 
+    Viewer for latex-beamer presentations that are built with the «show notes on second screen»-option
+[35m291[0m [1m[34maur[0m[0m/[1mpoppler-git[0m [36m22.04.0.r43.g368465a8-1[0m[1m (+3[0m [1m0.00) [0m
+    PDF rendering library based on xpdf 3.0
+[35m290[0m [1m[34maur[0m[0m/[1mpdf-simple-sign-git[0m [36mv1.1.1.r1.gd4ff9a6-2[0m[1m (+1[0m [1m0.00) [0m
+    Simple PDF signer
+[35m289[0m [1m[34maur[0m[0m/[1masciidoctor-pdf[0m [36m2.3.17-1[0m[1m (+13[0m [1m0.08) [0m
+    Translate asciidoctor directly to pdf
+[35m288[0m [1m[34maur[0m[0m/[1mpdfium-binaries-v8[0m [36m6309-1[0m[1m (+0[0m [1m0.00) [0m
+    PDFium binaries with V8 and XFA built with scripts from pdfium-binaries
+[35m287[0m [1m[34maur[0m[0m/[1mpdo-tools-bin[0m [36m0.7-1[0m[1m (+1[0m [1m0.00) [0m
+    A small program thad reads data from Pepakura PDO format and exports the parts as SVG, pdf or obj
+[35m286[0m [1m[34maur[0m[0m/[1mpdfscissors-svn[0m [36mr28-1[0m[1m (+0[0m [1m0.00) [0m
+    A tool to crop pdf files - built from svn and with linux optimizations
+[35m285[0m [1m[34maur[0m[0m/[1mregina-rexx-doc[0m [36m1:3.9.6-4[0m[1m (+15[0m [1m0.75) [0m
+    Demo scripts and documentation for Regina REXX and regutil (PDF)
+[35m284[0m [1m[34maur[0m[0m/[1mpapers[0m [36m46.0-1[0m[1m (+2[0m [1m0.31) [0m
+    Document viewer (PDF, PostScript, XPS, djvu, dvi, tiff, cbr, cbz, cb7, cbt)
+[35m283[0m [1m[34maur[0m[0m/[1mpdfbox-preflight[0m [36m3.0.2-1[0m[1m (+1[0m [1m0.00) [0m
+    Java tool that implements a parser compliant with PDF/A-1
+[35m282[0m [1m[34maur[0m[0m/[1mdiff-pdf[0m [36m0.5.2-1[0m[1m (+5[0m [1m0.01) [0m
+    A simple tool for visually comparing two PDF files
+[35m281[0m [1m[34maur[0m[0m/[1mpdfhandoutcrop[0m [36m0.99.2-1[0m[1m (+0[0m [1m0.00) [0m
+    A tool to crop pdf handout with multiple pages per sheet
+[35m280[0m [1m[34maur[0m[0m/[1mpdf_translator[0m [36m3.0-1[0m[1m (+0[0m [1m0.00) [0m
+    this script will translate your pdf , and create a new translated PDF
+[35m279[0m [1m[34maur[0m[0m/[1mpython-pdfkit[0m [36m1.0.0-1[0m[1m (+9[0m [1m0.00) [0m
+    Wkhtmltopdf python wrapper to convert html to pdf
+[35m278[0m [1m[34maur[0m[0m/[1mzsh-doc-git[0m [36m5.9.r431.gc7ae37016-1[0m[1m (+16[0m [1m0.00) [0m
+    Info, HTML and PDF format of the ZSH documentation
+[35m277[0m [1m[34maur[0m[0m/[1mmupdf-git[0m [36m20231101.dc7489fd9-1[0m[1m (+17[0m [1m0.00) [0m[1m[32m(Installed: 20240531.cefdd83d1-1)[0m[0m
+    Lightweight PDF, XPS, and E-book viewer
+[35m276[0m [1m[34maur[0m[0m/[1mpdf_extbook-git[0m [36mr5.f0de5fa-1[0m[1m (+0[0m [1m0.00) [0m
+    Extract bookmarked PDF pages.
+[35m275[0m [1m[34maur[0m[0m/[1mpdf4teachers-bin[0m [36m1.4.1-1[0m[1m (+0[0m [1m0.00) [0m
+    PDF editing software in large quantities designed for teachers
+[35m274[0m [1m[34maur[0m[0m/[1mpython-relatorio[0m [36m0.10.1-2[0m[1m (+11[0m [1m0.00) [0m
+    A templating library able to output odt and pdf files
+[35m273[0m [1m[34maur[0m[0m/[1mlector[0m [36m0.5.1-1[0m[1m (+18[0m [1m0.00) [0m
+    Qt based ebook reader with support for PDF, epub, fb2, comicbooks, mobi, azw
+[35m272[0m [1m[34maur[0m[0m/[1mpdfbox-legacy[0m [36m0.7.3-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-29)[0m[0m 
+    An open source Java tool for working with PDF documents. (pdfbox, fontbox, jempbox)
+[35m271[0m [1m[34maur[0m[0m/[1mpdfjam-extras[0m [36mr12.622e03a-1[0m[1m (+0[0m [1m0.00) [0m
+    Wrappers around pdfjam useful for merging, selecting pages, etc. one or more PDF documents
+[35m270[0m [1m[34maur[0m[0m/[1mgsdjvu[0m [36m1.10-1[0m[1m (+19[0m [1m0.00) [0m
+    Very efficient way of converting PostScript and PDF documents into DjVu
+[35m269[0m [1m[34maur[0m[0m/[1mpidif[0m [36m0.1-0[0m[1m (+2[0m [1m0.00) [0m
+    Simple PDF Reader
+[35m268[0m [1m[34maur[0m[0m/[1mpdfium-binaries[0m [36m6309-1[0m[1m (+1[0m [1m0.00) [0m
+    PDFium binaries built with scripts from pdfium-binaries
+[35m267[0m [1m[34maur[0m[0m/[1mpdiff-git[0m [36m1-1[0m[1m (+1[0m [1m0.00) [0m
+    Find differences between PDF documents
+[35m266[0m [1m[34maur[0m[0m/[1mpdfscale-git[0m [36mr190.2c5657d-1[0m[1m (+0[0m [1m0.00) [0m
+    Bash Script to Scale and Resize PDFs using Ghostscript
+[35m265[0m [1m[34maur[0m[0m/[1mpdftoceditor[0m [36m1.0-2[0m[1m (+0[0m [1m0.00) [0m
+    Update the table of content of a PDF using a simple text file format.
+[35m264[0m [1m[34maur[0m[0m/[1mpdfpc-notimer[0m [36m4.2.1-2[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-04-30)[0m[0m 
+    PDFPC with a patch to not show the timer in the presentations.
+[35m263[0m [1m[34maur[0m[0m/[1mpdfannots-git[0m [36m0.3.r20.g43b574d-1[0m[1m (+1[0m [1m0.00) [0m
+    Extracts and formats text annotations from a PDF file
+[35m262[0m [1m[34maur[0m[0m/[1mpdfcropmargins[0m [36m2.1.2-3[0m[1m (+2[0m [1m0.00) [0m
+    Automatically crops the margins of PDF files
+[35m261[0m [1m[34maur[0m[0m/[1mpdfsam-legacy[0m [36m2.2.4-1[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A free open source tool to split and merge pdf documents
+[35m260[0m [1m[34maur[0m[0m/[1mpdfgui_tools-bin[0m [36m2.0.0-1[0m[1m (+4[0m [1m0.10) [0m
+    A user interface tool developed in Qt and Python that integrates with poppler for PDF document management (binary release)
+[35m259[0m [1m[34maur[0m[0m/[1mpdfjumbler-git[0m [36mr60.57c1b5a-1[0m[1m (+1[0m [1m0.12) [0m
+    A simple tool to rearrange/merge/delete/rotate pages from PDF files.
+[35m258[0m [1m[34maur[0m[0m/[1mpdfmixtool-git[0m [36mr601.3b3f7a4-1[0m[1m (+1[0m [1m0.00) [0m
+    An application to perform common editing operations on PDF files
+[35m257[0m [1m[34maur[0m[0m/[1mdjvu2pdf[0m [36m0.9.2-1[0m[1m (+23[0m [1m0.00) [0m
+    A small script to convert DjVu files to PDF files
+[35m256[0m [1m[34maur[0m[0m/[1mzathura-pdf-mupdf-git[0m [36m0.4.1.r8.gc742d4c-2[0m[1m (+21[0m [1m0.00) [0m[1m[32m(Installed: 0.4.1.r10.gf08f2f5-1)[0m[0m
+    PDF support for zathura (mupdf backend) (Supports PDF, ePub, and OpenXPS)
+[35m255[0m [1m[34maur[0m[0m/[1mpdf-reverse[0m [36m0.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Reverses the page order of a pdf file.
+[35m254[0m [1m[34maur[0m[0m/[1mpdf-aas-git[0m [36m4.a2f5460-1[0m[1m (+0[0m [1m0.00) [0m
+    Little webservice which converts office documents to PDF files.
+[35m253[0m [1m[34maur[0m[0m/[1mxournalpp-git[0m [36m1.2.1.r81.ge9ec03303-1[0m[1m (+25[0m [1m0.87) [0m
+    Xournal++ is a handwriting Notetaking software with PDF annotation support. Supports Pen input like Wacom Tablets.
+[35m252[0m [1m[34maur[0m[0m/[1msam2p[0m [36m0.49.4-8[0m[1m (+25[0m [1m0.75) [0m
+    A bitmap-to-eps-or-pdf-converter that produces very small files
+[35m251[0m [1m[34maur[0m[0m/[1mpdf-presentation[0m [36m1.0.0-3[0m[1m (+5[0m [1m0.00) [0m
+    A GUI of pdfpc
+[35m250[0m [1m[34maur[0m[0m/[1mpdf2htmlex-appimage[0m [36m0.18.8.rc1-1[0m[1m (+2[0m [1m0.00) [0m
+    Convert PDF to HTML without losing text or format.
+[35m249[0m [1m[34maur[0m[0m/[1mpdfrankenstein[0m [36m1-1[0m[1m (+1[0m [1m0.00) [0m
+    PDF Annotator of Nightmares
+[35m248[0m [1m[34maur[0m[0m/[1mghostpdl[0m [36m10.02.1-1[0m[1m (+26[0m [1m0.87) [0m
+    Ghostscript RIP for PS, PDF, PCL-5, PCL-XL, SVG and XPS.
+[35m247[0m [1m[34maur[0m[0m/[1mpeepdf[0m [36m1:0.3-2[0m[1m (+7[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A python tool to explore PDF files in order to find out if the file can be harmful or not
+[35m246[0m [1m[34maur[0m[0m/[1msejda-desktop[0m [36m7.6.8-1[0m[1m (+11[0m [1m0.10) [0m[1m[31m(Out-of-date: 2024-05-18)[0m[0m 
+    PDF editor
+[35m245[0m [1m[34maur[0m[0m/[1mpstoedit-nomagick[0m [36m4.01-1[0m[1m (+13[0m [1m0.00) [0m
+    Translates PS/PDF graphics to other vector formats (no ImageMagick dependency)
+[35m244[0m [1m[34maur[0m[0m/[1mdiff-pdf-git[0m [36m0.5.1.r0.g150de72-1[0m[1m (+16[0m [1m0.00) [0m
+    A simple tool for visually comparing two PDF files
+[35m243[0m [1m[34maur[0m[0m/[1mpdfposter-git[0m [36m0.8.1.r27.g2d0ed65-1[0m[1m (+3[0m [1m0.00) [0m
+    Print large posters on multiple sheets
+[35m242[0m [1m[34maur[0m[0m/[1mshrinkpdf[0m [36m1.1-1[0m[1m (+30[0m [1m0.00) [0m
+    Tiny shell script to shrink an image pdf
+[35m241[0m [1m[34maur[0m[0m/[1mpdf-diff-git[0m [36m0.9.1.r57.a0d8230-2[0m[1m (+0[0m [1m0.00) [0m
+    Finds differences between two PDF documents
+[35m240[0m [1m[34maur[0m[0m/[1mpdfjuggler[0m [36m1.1-1[0m[1m (+0[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A desktop tool to mix, reorder and select PDF pages
+[35m239[0m [1m[34maur[0m[0m/[1mpdf-append[0m [36m0.3-2[0m[1m (+0[0m [1m0.00) [0m
+    Combines an arbitrary amount of pdf documents into one by appending the documents one after another.
+[35m238[0m [1m[34maur[0m[0m/[1mmd2pdf-git[0m [36m0.0.5.r3.g5d033c3-1[0m[1m (+12[0m [1m0.27) [0m
+    A Python Markdown to PDF Converter
+[35m237[0m [1m[34maur[0m[0m/[1mttfsampler[0m [36m0.5-3[0m[1m (+16[0m [1m0.00) [0m
+    A GUI and CLI utility that takes a list of TrueType fonts and generates a sample sheet in PDF
+[35m236[0m [1m[34maur[0m[0m/[1mpdfgrep-git[0m [36m2.1.2.r47.g8101228-2[0m[1m (+2[0m [1m0.00) [0m
+    A commandline utility to search text in PDF files.
+[35m235[0m [1m[34maur[0m[0m/[1mzathura-pdf-poppler-git[0m [36m0.3.2.r1.g0990d0a-1[0m[1m (+28[0m [1m0.00) [0m
+    PDF support for zathura (poppler backend)
+[35m234[0m [1m[34maur[0m[0m/[1mpdfbooklet[0m [36m3.1.2-3[0m[1m (+1[0m [1m0.00) [0m
+    Utility to convert a PDF into a booklet, reordering pages.
+[35m233[0m [1m[34maur[0m[0m/[1mpdfquirk-git[0m [36mcontinuous.r18.g3f45dc9-1[0m[1m (+1[0m [1m0.00) [0m
+    Creating PDFs from images or scanner made easy
+[35m232[0m [1m[34maur[0m[0m/[1mpaps[0m [36m0.8.0-1[0m[1m (+4[0m [1m0.04) [0m
+    Converts Unicode text to postscript and pdf using pango
+[35m231[0m [1m[34maur[0m[0m/[1mbriss[0m [36m0.9-6[0m[1m (+36[0m [1m0.75) [0m
+    Java tool to crop pages of PDF documents to one or more regions selected with a GUI.
+[35m230[0m [1m[34maur[0m[0m/[1mmegasync-nopdfium[0m [36m5.2.1.0-1[0m[1m (+37[0m [1m1.02) [0m
+    Easy automated syncing between your computers and your MEGA cloud drive(stripped of pdfium dependency)
+[35m229[0m [1m[34maur[0m[0m/[1mpdf2laser[0m [36m0.5.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Tool for printing PDF to an Epilog laser cutter over the network
+[35m228[0m [1m[34maur[0m[0m/[1mpdftilecut[0m [36m0.6-1[0m[1m (+1[0m [1m0.00) [0m
+    pdftilecut lets you sub-divide a PDF page(s) into smaller pages
+[35m227[0m [1m[34maur[0m[0m/[1mpdfstudioviewer[0m [36m2024.0.0-1[0m[1m (+9[0m [1m0.01) [0m
+    Review, annotate, and edit PDF Documents
+[35m226[0m [1m[34maur[0m[0m/[1mpython-pdfflow[0m [36m1.2.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Parton distribution function interpolation library written in Python and based on the TensorFlow framework
+[35m225[0m [1m[34maur[0m[0m/[1mpdf-compress[0m [36m1.9.1-1[0m[1m (+6[0m [1m0.03) [0m
+    Compress an overlarge pdf file
+[35m224[0m [1m[34maur[0m[0m/[1mpdfreflow[0m [36m0.8.6-1[0m[1m (+1[0m [1m0.00) [0m
+    operates on the output of pdftohtml and reflows the texts into paragraphs.
+[35m223[0m [1m[34maur[0m[0m/[1mfbpdf-git[0m [36mr102.6276360-3[0m[1m (+43[0m [1m0.00) [0m[1m[32m(Installed)[0m[0m
+    A small framebuffer pdf viewer, based on MuPDF.
+[35m222[0m [1m[34maur[0m[0m/[1mpdf.tocgen[0m [36m1.3.4-1[0m[1m (+3[0m [1m0.00) [0m
+    Automatically generate table of contents for PDF documents.
+[35m221[0m [1m[34maur[0m[0m/[1mpdfmted-git[0m [36mr21.7d7af77-1[0m[1m (+1[0m [1m0.02) [0m
+    View and modify PDF metadata on Linux graphically
+[35m220[0m [1m[34maur[0m[0m/[1mpdftk-git[0m [36m3.3.3.r17.gd0d4a0b-1[0m[1m (+2[0m [1m0.00) [0m
+    Command-line tool for working with PDFs
+[35m219[0m [1m[34maur[0m[0m/[1mpdf2img-c[0m [36m7.3996db9-1[0m[1m (+2[0m [1m0.00) [0m
+    Easily convert PDF to multiple image formats with a single click. C version of pdf2img.
+[35m218[0m [1m[34maur[0m[0m/[1mpdfunlock[0m [36m0.1-2[0m[1m (+2[0m [1m0.00) [0m
+    Aims to remove modification restrictions from PDF files
+[35m217[0m [1m[34maur[0m[0m/[1mk2pdfopt[0m [36m2.55-2[0m[1m (+49[0m [1m0.00) [0m
+    Tool for optimizing PDF/DJVU files for mobile e-readers and smartphones.
+[35m216[0m [1m[34maur[0m[0m/[1mjpdftweak[0m [36m1.1-2[0m[1m (+52[0m [1m0.32) [0m
+    A Swiss Army Knife GUI application for PDF documents
+[35m215[0m [1m[34maur[0m[0m/[1mpdfresurrect[0m [36m0.23-1[0m[1m (+9[0m [1m0.03) [0m
+    tool aimed at analyzing PDF documents
+[35m214[0m [1m[34maur[0m[0m/[1mpdf-over[0m [36m4.4.5-1[0m[1m (+1[0m [1m0.00) [0m
+    Graphical tool for creating PAdES conforming PDF signatures
+[35m213[0m [1m[34maur[0m[0m/[1mpdfscale[0m [36m2.5.3-1[0m[1m (+1[0m [1m0.09) [0m
+    Bash Script to Scale and Resize PDFs using Ghostscript
+[35m212[0m [1m[34maur[0m[0m/[1mwkhtmltopdf-static[0m [36m0.12.6.1_r3-1[0m[1m (+60[0m [1m0.29) [0m
+    Shell utility to convert HTML to PDF using Webkit and Qt (upstream static build)
+[35m211[0m [1m[34maur[0m[0m/[1mpdfjumbler[0m [36m0.4.0-2[0m[1m (+7[0m [1m0.12) [0m
+    A simple tool to rearrange/merge/delete/rotate pages from PDF files.
+[35m210[0m [1m[34maur[0m[0m/[1mpdfmerger[0m [36m1.1.1-1[0m[1m (+5[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-06)[0m[0m 
+    A simple Qt frontend for poppler's pdfunite
+[35m209[0m [1m[34maur[0m[0m/[1mpdfcpu-bin[0m [36m0.8.0-1[0m[1m (+1[0m [1m0.00) [0m
+    A PDF processor written in Go.
+[35m208[0m [1m[34maur[0m[0m/[1mpdftoroff[0m [36mgit-1[0m[1m (+4[0m [1m0.00) [0m
+    pdf conversion, scaling and viewing by blocks of text
+[35m207[0m [1m[34maur[0m[0m/[1mpdf4qt-git[0m [36m1.3.6.r65.g53849f5-1[0m[1m (+2[0m [1m0.01) [0m
+    Open source PDF editor
+[35m206[0m [1m[34maur[0m[0m/[1mprince-bin[0m [36m15.3-1[0m[1m (+31[0m [1m0.00) [0m
+    Convert HTML documents to PDF with CSS
+[35m205[0m [1m[34maur[0m[0m/[1mpdfsizeopt-git[0m [36mr533.dc08a10-1[0m[1m (+10[0m [1m0.00) [0m
+    PDF file size optimizer
+[35m204[0m [1m[34maur[0m[0m/[1mpdfbeads[0m [36m1.1.3-2[0m[1m (+4[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-04-12)[0m[0m 
+    A small utility written in Ruby which takes scanned page images and converts them into a single PDF file
+[35m203[0m [1m[34maur[0m[0m/[1mpdf-zip[0m [36m0.2.5-1[0m[1m (+1[0m [1m0.00) [0m
+    Combines two pdf files into one while taking the pages alternating from one and the other file (shuffling them into each other). Containes a variant reversing the second file before combining.
+[35m202[0m [1m[34maur[0m[0m/[1mpdfutil[0m [36m0.4.0-1[0m[1m (+1[0m [1m0.00) [0m
+    A utility for PDF document manipulation.
+[35m201[0m [1m[34maur[0m[0m/[1mstapler[0m [36m1.0.0-4[0m[1m (+89[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    A small utility making use of the pypdf library to provide a (somewhat) lighter alternative to pdftk
+[35m200[0m [1m[34maur[0m[0m/[1mpdf4tcl[0m [36m094-1[0m[1m (+0[0m [1m0.00) [0m
+    Pdf4Tcl is a library for generating PDF documents from Tcl.
+[35m199[0m [1m[34maur[0m[0m/[1mpdf4qt-bin[0m [36m1.3.6-2[0m[1m (+3[0m [1m0.45) [0m[1m[31m(Out-of-date: 2024-01-19)[0m[0m 
+    Open source PDF editor
+[35m198[0m [1m[34maur[0m[0m/[1mstapler-git[0m [36m1.0.0-1[0m[1m (+96[0m [1m0.12) [0m
+    Manipulate PDF documents from the command line
+[35m197[0m [1m[34maur[0m[0m/[1mpdfcrop[0m [36m0.4b-1[0m[1m (+2[0m [1m0.00) [0m
+    A PDF utility for GNU/Linux that crops the white margins of PDF pages and rescales them to fit a standard size sheet of paper
+[35m196[0m [1m[34maur[0m[0m/[1mpdf2djvu[0m [36m0.9.19-2[0m[1m (+6[0m [1m0.00) [0m
+    Creates DjVu files from PDF files
+[35m195[0m [1m[34maur[0m[0m/[1mpdf2htmlex[0m [36m0.18.8.rc1-1[0m[1m (+13[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m [1m[31m(Out-of-date: 2023-01-31)[0m[0m 
+    Convert PDF to HTML without losing text or format.
+[35m194[0m [1m[34maur[0m[0m/[1mpdfsandwich[0m [36m0.1.7-1[0m[1m (+16[0m [1m0.00) [0m
+    Wrapper for tesseract OCR and hocr2pdf to generate pdf files with the recognized text put behind the image (sandwich pdfs).
+[35m193[0m [1m[34maur[0m[0m/[1mpdfalto[0m [36m0.4-2[0m[1m (+1[0m [1m0.00) [0m
+    PDF to XML ALTO file converter
+[35m192[0m [1m[34maur[0m[0m/[1mpdfadd[0m [36m2.0.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Charting wizard for pdflatex/asymptote
+[35m191[0m [1m[34maur[0m[0m/[1mpdfrrr[0m [36m1.1.1-1[0m[1m (+0[0m [1m0.00) [0m
+    Rotate pdf pages automatically
+[35m190[0m [1m[34maur[0m[0m/[1mpdflib-lite[0m [36m7.0.5p3-4[0m[1m (+3[0m [1m0.00) [0m
+    PDF manipulation library.
+[35m189[0m [1m[34maur[0m[0m/[1mpdfcmd[0m [36m1.10-1[0m[1m (+1[0m [1m0.00) [0m
+    Utility to perform commands on PDF files.
+[35m188[0m [1m[34maur[0m[0m/[1mtdf-git[0m [36m20240529.r20.1e89a93-1[0m[1m (+0[0m [1m0.00) [0m
+    A terminal-based PDF viewer
+[35m187[0m [1m[34maur[0m[0m/[1mpdf4qt[0m [36m1.3.7-2[0m[1m (+2[0m [1m0.01) [0m
+    Open source PDF editor
+[35m186[0m [1m[34maur[0m[0m/[1mpdfcpu[0m [36m0.8.0-1[0m[1m (+2[0m [1m0.00) [0m
+    A PDF processor written in Go.
+[35m185[0m [1m[34maur[0m[0m/[1mpdfstudio-bin[0m [36m2023.0.4-1[0m[1m (+37[0m [1m1.27) [0m[1m[31m(Out-of-date: 2024-04-27)[0m[0m 
+    Review, annotate, and edit PDF Documents
+[35m184[0m [1m[34maur[0m[0m/[1mpdf2book[0m [36m1-3[0m[1m (+15[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    Rearranges the pages in a PDF to be printed as a book (or booklet). Print double-sided in "short-edge" mode.
+[35m183[0m [1m[34maur[0m[0m/[1mcorepdf[0m [36m4.5.0-1[0m[1m (+1[0m [1m0.00) [0m
+    A PDF viewer from the C Suite
+[35m182[0m [1m[34maur[0m[0m/[1mexifcleaner-bin[0m [36m3.6.0-4[0m[1m (+6[0m [1m1.03) [0m[1m[31m(Orphaned)[0m[0m 
+    Desktop app to clean metadata from images, videos, PDFs, and other files.
+[35m181[0m [1m[34maur[0m[0m/[1mpdftxt[0m [36m0.7-6[0m[1m (+6[0m [1m0.00) [0m
+    Simple wrapper around libmupdf to extract text from PDF files
+[35m180[0m [1m[34maur[0m[0m/[1mqpdftools[0m [36m2.0.4-0[0m[1m (+1[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-02-14)[0m[0m 
+    Qpdf Tools is an easy-to-use Qt interface for Ghostscript and QPDF
+[35m179[0m [1m[34maur[0m[0m/[1mlibpdfium-nojs[0m [36m6367.r1.7b90b15a21-1[0m[1m (+22[0m [1m0.00) [0m
+    Open-source PDF rendering engine.
+[35m178[0m [1m[34maur[0m[0m/[1mgmsh-docs[0m [36m4.13.1-1[0m[1m (+62[0m [1m0.67) [0m
+    TXT, HMTL and PDF doc for Gmsh
+[35m177[0m [1m[34maur[0m[0m/[1mmasterpdfeditor-free[0m [36m4.3.89-1[0m[1m (+101[0m [1m0.66) [0m
+    A complete solution for creation and editing PDF files - Free version without watermark
+[35m176[0m [1m[34maur[0m[0m/[1mdensify[0m [36m0.3.1-3[0m[1m (+2[0m [1m0.00) [0m[1m[31m(Orphaned)[0m[0m 
+    GTK+ application to easily compress pdf files using Ghostscript
+[35m175[0m [1m[34maur[0m[0m/[1mepdfview-git[0m [36m0.2.0.r28.g6f907bd-2[0m[1m (+1[0m [1m0.57) [0m
+    Lightweight PDF document viewer
+[35m174[0m [1m[34maur[0m[0m/[1mr-pdftools[0m [36m3.4.0-3[0m[1m (+0[0m [1m0.00) [0m
+    Text Extraction, Rendering and Converting of PDF Documents
+[35m173[0m [1m[34maur[0m[0m/[1mr-cairo[0m [36m1.6.2-3[0m[1m (+0[0m [1m0.00) [0m
+    R Graphics Device using Cairo Graphics Library for Creating High-Quality Bitmap (PNG, JPEG, TIFF), Vector (PDF, SVG, PostScript) and Display (X11 and Win32) Output
+[35m172[0m [1m[34maur[0m[0m/[1msejda-console[0m [36m3.2.85-9[0m[1m (+1[0m [1m0.00) [0m
+    Shell interface for performing pdf manipulations
+[35m171[0m [1m[34maur[0m[0m/[1mr-qpdf[0m [36m1.3.3-1[0m[1m (+0[0m [1m0.00) [0m
+    Split, Combine and Compress PDF Files
+[35m170[0m [1m[34maur[0m[0m/[1mr-rsvg[0m [36m2.6.0-2[0m[1m (+0[0m [1m0.00) [0m
+    Render SVG Images into PDF, PNG, (Encapsulated) PostScript, or Bitmap Arrays
+[35m169[0m [1m[34maur[0m[0m/[1mr-pdfcluster[0m [36m1.0.4-3[0m[1m (+0[0m [1m0.00) [0m
+    Cluster Analysis via Nonparametric Density Estimation
+[35m168[0m [1m[34maur[0m[0m/[1mkf5-servicemenus-pdf[0m [36m2.3-4[0m[1m (+19[0m [1m0.00) [0m
+    A KDE service menus for PDF documents from dolphin
+[35m167[0m [1m[34maur[0m[0m/[1mkrop[0m [36m0.6.0-4[0m[1m (+35[0m [1m1.00) [0m[1m[31m(Out-of-date: 2024-05-27)[0m[0m 
+    A tool to crop PDF files, with an eye towards eReaders.
+[35m166[0m [1m[34maur[0m[0m/[1mqpdfview[0m [36m0.5.0-3[0m[1m (+45[0m [1m2.96) [0m
+    A tabbed PDF viewer using the poppler library
+[35m165[0m [1m[34maur[0m[0m/[1mbookletimposer[0m [36m1:0.3.1-2[0m[1m (+7[0m [1m0.00) [0m
+    Achieve some basic imposition on PDF documents
+[35m164[0m [1m[34maur[0m[0m/[1mocrmypdf[0m [36m16.3.1-1[0m[1m (+112[0m [1m3.01) [0m
+    A tool to add an OCR text layer to scanned PDF files, allowing them to be searched
+[35m163[0m [1m[34maur[0m[0m/[1mveusz[0m [36m3.6.2-1[0m[1m (+49[0m [1m0.03) [0m
+    A 2D and 3D scientific plotting package, designed to create publication-ready PDF or SVG output
+[35m162[0m [1m[34maur[0m[0m/[1mr-regionreport[0m [36m1.38.0-1[0m[1m (+0[0m [1m0.00) [0m
+    Generate HTML or PDF reports for a set of genomic regions or DESeq2/edgeR results
+[35m161[0m [1m[34maur[0m[0m/[1mcamlpdf[0m [36m2.6.2-1[0m[1m (+10[0m [1m0.24) [0m
+    Coherent Graphics OCaml library for reading, writing and modifying PDF files
+[35m160[0m [1m[34maur[0m[0m/[1mmasterpdfeditor[0m [36m5.9.84-1[0m[1m (+190[0m [1m0.19) [0m
+    A complete solution for viewing, creating and editing PDF files
+[35m159[0m [1m[34maur[0m[0m/[1mcpdf[0m [36m2.6.2-1[0m[1m (+14[0m [1m0.24) [0m
+    Coherent Graphics cpdf to manipulate PDF files including merge, encrypt, decrypt, scale, crop, rotate, bookmarks, stamp, logos, page numbers
+[35m158[0m [1m[34maur[0m[0m/[1mlua-hpdf[0m [36m2.3.0-3[0m[1m (+0[0m [1m0.00) [0m
+    Programmatically create PDF files using Lua.
+[35m157[0m [1m[34maur[0m[0m/[1mfoxitreader[0m [36m2.4.5.0727-1[0m[1m (+464[0m [1m0.33) [0m
+    A fast, secure and complete PDF viewer
+[35m156[0m [1m[34maur[0m[0m/[1mpdfio[0m [36m1.2.0-1[0m[1m (+1[0m [1m0.00) [0m
+    Simple C library for reading and writing PDF files
+[35m155[0m [1m[34maur[0m[0m/[1msioyek[0m [36m2.0.0-6[0m[1m (+24[0m [1m0.34) [0m
+    PDF viewer for research papers and technical books.
+[35m154[0m [1m[34maur[0m[0m/[1msioyek-git[0m [36m2.0.0.r890.gb312fe0-1[0m[1m (+8[0m [1m0.07) [0m
+    PDF viewer for research papers and technical books.
+[35m153[0m [1m[34maur[0m[0m/[1mjfbview[0m [36m0.6.0-3[0m[1m (+14[0m [1m0.00) [0m
+    PDF and image viewer for the Linux framebuffer
+[35m152[0m [1m[34maur[0m[0m/[1mpython-sphinxcontrib-svg2pdfconverter[0m [36m1.2.2-1[0m[1m (+0[0m [1m0.00) [0m
+    Sphinx SVG to PDF converter extension
+[35m151[0m [1m[34maur[0m[0m/[1mpdfposter[0m [36m0.8.1-1[0m[1m (+27[0m [1m0.00) [0m
+    Print large posters on multiple sheets
+[35m150[0m [1m[34maur[0m[0m/[1mpdftag[0m [36m1.0.5+4+g3c1d224-1[0m[1m (+9[0m [1m0.00) [0m
+    A simple metadata editor for PDFs
+[35m149[0m [1m[34maur[0m[0m/[1mpdfminer[0m [36m20191125-1[0m[1m (+26[0m [1m0.41) [0m[1m[31m(Out-of-date: 2024-01-10)[0m[0m 
+    python3 utils to extract, analyze text data of PDF files. Includes pdf2txt, dumppdf, and latin2ascii
+[35m148[0m [1m[34maur[0m[0m/[1mpython-pdf2image[0m [36m1.17.0-1[0m[1m (+3[0m [1m0.12) [0m
+    Python wrapper around the pdftoppm and pdftocairo command line tools to convert PDF to a PIL Image list
+[35m147[0m [1m[34maur[0m[0m/[1mpython-pdftopng[0m [36m0.2.3-5[0m[1m (+1[0m [1m0.00) [0m
+    A PDF to PNG conversion library (based on pdftoppm from poppler)
+[35m146[0m [1m[34maur[0m[0m/[1mpython-pympress[0m [36m1.8.5-2[0m[1m (+13[0m [1m0.05) [0m
+    Simple and powerful dual-screen PDF reader designed for presentations
+[35m145[0m [1m[34maur[0m[0m/[1mpython-camelot[0m [36m0.11.0-1[0m[1m (+0[0m [1m0.00) [0m
+    A Python library to extract tabular data from PDFs
+[35m144[0m [1m[34maur[0m[0m/[1mpython-pypdf2[0m [36m1:4.2.0-3[0m[1m (+32[0m [1m1.54) [0m
+    Python library for manipulating pages of PDF files (legacy v2)
+[35m143[0m [1m[34maur[0m[0m/[1mpython-pypdf3[0m [36m1.0.6-4[0m[1m (+2[0m [1m0.00) [0m
+    Pure-Python PDF library for splitting, merging, cropping, and transforming PDF pages.
+[35m142[0m [1m[34maur[0m[0m/[1mpdfchain[0m [36m0.4.4.2-5[0m[1m (+42[0m [1m0.00) [0m
+    A graphical user interface for the PDF toolkit
+[35m141[0m [1m[34maur[0m[0m/[1mpdfx[0m [36m1.4.1-1[0m[1m (+1[0m [1m0.00) [0m
+    Extract text, metadata and references from PDF.
+[35m140[0m [1m[34maur[0m[0m/[1mpdfarranger-git[0m [36m1.10.0.r1079.0a81645-1[0m[1m (+24[0m [1m0.00) [0m
+    Helps merge or split pdf documents and rotate, crop and rearrange pages.
+[35m139[0m [1m[34maur[0m[0m/[1mpdf-xchange[0m [36m10.3.0.386-1[0m[1m (+23[0m [1m0.14) [0m
+    Feature-rich PDF editor/viewer. Create, view, edit and annotate plus much more.
+[35m138[0m [1m[34maur[0m[0m/[1mpdfquirk[0m [36m0.95-1[0m[1m (+1[0m [1m0.00) [0m
+    Creating PDFs from images or scanner made easy
+[35m137[0m [1m[34maur[0m[0m/[1mpdf2png[0m [36m0.5.3-1[0m[1m (+23[0m [1m0.00) [0m
+    Convert PDFs to PNG, JPG, and other image formats
+[35m136[0m [1m[34maur[0m[0m/[1mpdfbox[0m [36m2.0.30-1[0m[1m (+16[0m [1m0.00) [0m[1m[31m(Out-of-date: 2024-01-26)[0m[0m 
+    An open source Java tool for working with PDF documents. (pdfbox, fontbox, jempbox)
+[35m135[0m [1m[34maur[0m[0m/[1mpdfsam[0m [36m5.2.3-1[0m[1m (+18[0m [1m0.01) [0m
+    A free open source tool to split and merge pdf documents
+[35m134[0m [1m[31mandontie-aur[0m[0m/[1mmasterpdfeditor-free[0m [36m4.3.89-1[0m[1m (10.1 MiB 43.5 MiB) [0m
+    A complete solution for creation and editing PDF files - Free version without watermark
+[35m133[0m [1m[31mandontie-aur[0m[0m/[1mlua-hpdf[0m [36m2.3.0-3[0m[1m (38.8 KiB 98.6 KiB) [0m
+    Programmatically create PDF files using Lua.
+[35m132[0m [1m[31mandontie-aur[0m[0m/[1mfoxitreader[0m [36m2.4.5.0727-1[0m[1m (54.2 MiB 148.2 MiB) [0m
+    A fast, secure and complete PDF viewer
+[35m131[0m [1m[35marcanisrepo[0m[0m/[1mpython-pypdf3[0m [36m1.0.6-4.1[0m[1m (137.4 KiB 776.0 KiB) [0m
+    Pure-Python PDF library for splitting, merging, cropping, and transforming PDF pages.
+[35m130[0m [1m[31mandontie-aur[0m[0m/[1mpdftk-bin[0m [36m2.02_4_b2-3[0m[1m (1.1 MiB 3.8 MiB) [0m
+    Swiss army knife for PDFs. Built from binary executables available in Debian repositories.
+[35m129[0m [1m[34mbioarchlinux[0m[0m/[1mr-rsvg[0m [36m2.6.0-2[0m[1m (263.6 KiB 410.7 KiB) [0m
+    Render SVG Images into PDF, PNG, (Encapsulated) PostScript, or Bitmap Arrays
+[35m128[0m [1m[34mbioarchlinux[0m[0m/[1mr-cairo[0m [36m1.6.2-4[0m[1m (80.1 KiB 135.2 KiB) [0m
+    R Graphics Device using Cairo Graphics Library for Creating High-Quality Bitmap (PNG, JPEG, TIFF), Vector (PDF, SVG, PostScript) and Display (X11 and Win32) Output
+[35m127[0m [1m[34mbioarchlinux[0m[0m/[1mr-pdfcluster[0m [36m1.0.4-3[0m[1m (339.2 KiB 419.2 KiB) [0m
+    Cluster Analysis via Nonparametric Density Estimation
+[35m126[0m [1m[34mbioarchlinux[0m[0m/[1mr-qpdf[0m [36m1.3.3-2[0m[1m (61.0 KiB 128.3 KiB) [0m
+    Split, Combine and Compress PDF Files
+[35m125[0m [1m[34mbioarchlinux[0m[0m/[1mr-regionreport[0m [36m1.38.0-1[0m[1m (374.2 KiB 2.0 MiB) [0m
+    Generate HTML or PDF reports for a set of genomic regions or DESeq2/edgeR results
+[35m124[0m [1m[34mbioarchlinux[0m[0m/[1mveusz[0m [36m3.6.2-4[0m[1m (1.9 MiB 11.9 MiB) [0m
+    A 2D and 3D scientific plotting package, designed to create publication-ready PDF or SVG output
+[35m123[0m [1m[34mbioarchlinux[0m[0m/[1mr-pdftools[0m [36m3.4.0-4[0m[1m (89.7 KiB 186.4 KiB) [0m
+    Text Extraction, Rendering and Converting of PDF Documents
+[35m122[0m [1m[33mjlk[0m[0m/[1mqpdfview-debug[0m [36m0.5.0-3[0m[1m (9.3 MiB 36.1 MiB) [0m
+    Detached debugging symbols for qpdfview
+[35m121[0m [1m[33mjlk[0m[0m/[1mqpdfview[0m [36m0.5.0-3[0m[1m (760.1 KiB 3.9 MiB) [0m
+    A tabbed PDF viewer using the poppler library
+[35m120[0m [1m[33mjlk[0m[0m/[1mgmsh-docs[0m [36m4.13.1-2[0m[1m (4.1 MiB 7.4 MiB) [0m
+    TXT, HMTL and PDF doc for Gmsh
+[35m119[0m [1m[31marchlinuxcn[0m[0m/[1mmasterpdfeditor-debug[0m [36m5.9.84-1[0m[1m (10.4 KiB 54.4 KiB) [0m
+    Detached debugging symbols for masterpdfeditor
+[35m118[0m [1m[31marchlinuxcn[0m[0m/[1mmasterpdfeditor[0m [36m5.9.84-1[0m[1m (71.1 MiB 137.5 MiB) [0m
+    A complete solution for viewing, creating and editing PDF files
+[35m117[0m [1m[31marchlinuxcn[0m[0m/[1mocrmypdf[0m [36m16.3.1-1[0m[1m (282.7 KiB 1.5 MiB) [0m
+    A tool to add an OCR text layer to scanned PDF files, allowing them to be searched
+[35m116[0m [1m[31marchlinuxcn[0m[0m/[1mlibpdfium-nojs-debug[0m [36m6422.r2.94407286f4-2[0m[1m (133.4 KiB 814.1 KiB) [0m
+    Detached debugging symbols for libpdfium-nojs
+[35m115[0m [1m[31marchlinuxcn[0m[0m/[1mcpdf-debug[0m [36m2.7-1[0m[1m (815.5 KiB 3.0 MiB) [0m
+    Detached debugging symbols for cpdf
+[35m114[0m [1m[31marchlinuxcn[0m[0m/[1mcamlpdf[0m [36m2.7-1[0m[1m (4.3 MiB 8.1 MiB) [0m
+    Coherent Graphics OCaml library for reading, writing and modifying PDF files
+[35m113[0m [1m[31marchlinuxcn[0m[0m/[1mlibpdfium-nojs[0m [36m6422.r2.94407286f4-2[0m[1m (2.1 MiB 5.0 MiB) [0m
+    Open-source PDF rendering engine.
+[35m112[0m [1m[31marchlinuxcn[0m[0m/[1mcpdf[0m [36m2.7-1[0m[1m (4.2 MiB 12.8 MiB) [0m
+    Powerful, free tools to manipulate PDF files including merge, encrypt, decrypt, scale, crop, rotate, bookmarks, stamp, logos, page numbers
+[35m111[0m [1m[31marchlinuxcn[0m[0m/[1msioyek[0m [36m2.0.0-6[0m[1m (1.0 MiB 2.3 MiB) [0m
+    PDF viewer for research papers and technical books.
+[35m110[0m [1m[31marchlinuxcn[0m[0m/[1mjfbview[0m [36m0.6.0-3[0m[1m (21.8 MiB 35.8 MiB) [0m
+    PDF and image viewer for the Linux framebuffer
+[35m109[0m [1m[31marchlinuxcn[0m[0m/[1mpython-pdftopng-debug[0m [36m0.2.3-5[0m[1m (620.1 KiB 2.7 MiB) [0m
+    Detached debugging symbols for python-pdftopng
+[35m108[0m [1m[31marchlinuxcn[0m[0m/[1mpython-pdftopng[0m [36m0.2.3-5[0m[1m (65.4 KiB 158.9 KiB) [0m
+    A PDF to PNG conversion library (based on pdftoppm from poppler)
+[35m107[0m [1m[31marchlinuxcn[0m[0m/[1mpython-camelot[0m [36m0.11.0-3[0m[1m (83.1 KiB 457.5 KiB) [0m
+    A Python library to extract tabular data from PDFs
+[35m106[0m [1m[31marchlinuxcn[0m[0m/[1mpython-pypdf2[0m [36m1:2.12.1-5[0m[1m (501.8 KiB 3.3 MiB) [0m
+    A utility to read and write PDFs with Python (legacy PyPDF2 2.x)
+[35m105[0m [1m[31marchlinuxcn[0m[0m/[1mpdfarranger-git[0m [36m1.10.0.r144.ga38e057-1[0m[1m (312.9 KiB 1.6 MiB) [0m
+    Helps merge or split PDF documents and rotate, crop and rearrange pages
+[35m104[0m [1m[32mchaotic-aur[0m[0m/[1mlibpdfium-nojs[0m [36m6422.r2.94407286f4-1[0m[1m (2.1 MiB 5.0 MiB) [0m
+    Open-source PDF rendering engine.
+[35m103[0m [1m[32mchaotic-aur[0m[0m/[1mqpdftools[0m [36m2.0.4-0.3[0m[1m (88.7 KiB 154.4 KiB) [0m
+    Qpdf Tools is an easy-to-use Qt interface for Ghostscript and QPDF
+[35m102[0m [1m[32mchaotic-aur[0m[0m/[1mqpdfview[0m [36m0.5.0-3[0m[1m (758.3 KiB 3.9 MiB) [0m
+    A tabbed PDF viewer using the poppler library
+[35m101[0m [1m[32mchaotic-aur[0m[0m/[1mkrop[0m [36m0.6.0-4.1[0m[1m (89.9 KiB 645.0 KiB) [0m
+    A tool to crop PDF files, with an eye towards eReaders.
+[35m100[0m [1m[32mchaotic-aur[0m[0m/[1mmasterpdfeditor-free[0m [36m4.3.89-1.3[0m[1m (13.5 MiB 43.5 MiB) [0m
+    A complete solution for creation and editing PDF files - Free version without watermark
+[35m99[0m [1m[32mchaotic-aur[0m[0m/[1mbookletimposer[0m [36m1:0.3.1-2.1[0m[1m (116.7 KiB 527.6 KiB) [0m
+    Achieve some basic imposition on PDF documents
+[35m98[0m [1m[32mchaotic-aur[0m[0m/[1mepdfview-git[0m [36m0.2.0.r28.g6f907bd-2[0m[1m (126.0 KiB 361.0 KiB) [0m
+    Lightweight PDF document viewer
+[35m97[0m [1m[32mchaotic-aur[0m[0m/[1mexifcleaner-bin[0m [36m3.6.0-4[0m[1m (71.5 MiB 185.2 MiB) [0m
+    Desktop app to clean metadata from images, videos, PDFs, and other files.
+[35m96[0m [1m[32mchaotic-aur[0m[0m/[1msejda-console[0m [36m3.2.85-9[0m[1m (13.2 MiB 15.0 MiB) [0m
+    Shell interface for performing pdf manipulations
+[35m95[0m [1m[32mchaotic-aur[0m[0m/[1mmasterpdfeditor[0m [36m5.9.84-1[0m[1m (76.9 MiB 137.5 MiB) [0m
+    A complete solution for viewing, creating and editing PDF files
+[35m94[0m [1m[32mchaotic-aur[0m[0m/[1mocrmypdf[0m [36m16.3.1-1[0m[1m (340.3 KiB 1.5 MiB) [0m
+    A tool to add an OCR text layer to scanned PDF files, allowing them to be searched
+[35m93[0m [1m[32mchaotic-aur[0m[0m/[1mcorepdf[0m [36m4.5.0-1[0m[1m (97.3 KiB 240.2 KiB) [0m
+    A PDF viewer from the C Suite
+[35m92[0m [1m[32mchaotic-aur[0m[0m/[1mkf5-servicemenus-pdf[0m [36m2.3-4[0m[1m (35.0 KiB 205.3 KiB) [0m
+    A KDE service menus for PDF documents from dolphin
+[35m91[0m [1m[32mchaotic-aur[0m[0m/[1mdensify[0m [36m0.3.1-3.4[0m[1m (85.6 KiB 95.2 KiB) [0m
+    GTK+ application to easily compress pdf files using Ghostscript
+[35m90[0m [1m[32mchaotic-aur[0m[0m/[1mfoxitreader[0m [36m2.4.5.0727-1.3[0m[1m (54.3 MiB 148.2 MiB) [0m
+    A fast, secure and complete PDF viewer
+[35m89[0m [1m[32mchaotic-aur[0m[0m/[1msioyek-git[0m [36m2.0.0.r892.g372669f-1[0m[1m (2.1 MiB 5.3 MiB) [0m
+    PDF viewer for research papers and technical books.
+[35m88[0m [1m[32mchaotic-aur[0m[0m/[1mpython-sphinxcontrib-svg2pdfconverter[0m [36m1.2.2-1.1[0m[1m (12.1 KiB 29.6 KiB) [0m
+    Sphinx SVG to PDF converter extension
+[35m87[0m [1m[32mchaotic-aur[0m[0m/[1mpython-pdf2image[0m [36m1.17.0-1[0m[1m (27.0 KiB 103.6 KiB) [0m
+    Python wrapper around the pdftoppm and pdftocairo command line tools to convert PDF to a PIL Image list
+[35m86[0m [1m[32mchaotic-aur[0m[0m/[1mpython-pympress[0m [36m1.8.5-2[0m[1m (187.8 KiB 823.8 KiB) [0m
+    Simple and powerful dual-screen PDF reader designed for presentations
+[35m85[0m [1m[32mchaotic-aur[0m[0m/[1mpython-pypdf2[0m [36m1:4.2.0-3[0m[1m (827.1 KiB 4.0 MiB) [0m
+    Python library for manipulating pages of PDF files (legacy v2)
+[35m84[0m [1m[32mchaotic-aur[0m[0m/[1mpdf-xchange[0m [36m10.3.0.386-1[0m[1m (70.3 MiB 173.2 MiB) [0m
+    Feature-rich PDF editor/viewer. Create, view, edit and annotate plus much more.
+[35m83[0m [1m[32mchaotic-aur[0m[0m/[1mpdfquirk[0m [36m0.95-1.3[0m[1m (75.8 KiB 165.9 KiB) [0m
+    Creating PDFs from images or scanner made easy
+[35m82[0m [1m[32mchaotic-aur[0m[0m/[1mpdf2png[0m [36m0.5.3-1.3[0m[1m (14.4 KiB 27.5 KiB) [0m
+    Convert PDFs to PNG, JPG, and other image formats
+[35m81[0m [1m[32mchaotic-aur[0m[0m/[1mpdfbox[0m [36m2.0.30-1[0m[1m (10.5 MiB 11.8 MiB) [0m
+    An open source Java tool for working with PDF documents. (pdfbox, fontbox, jempbox)
+[35m80[0m [1m[32mchaotic-aur[0m[0m/[1mpdfsam[0m [36m5.2.3-1[0m[1m (44.0 MiB 48.4 MiB) [0m
+    A free open source tool to split and merge pdf documents
+[35m79[0m [1m[36mdesolve[0m[0m/[1mr-cairo[0m [36m1.6.2-1[0m[1m (78.7 KiB 131.4 KiB) [0m
+    R Graphics Device using Cairo Graphics Library for Creating High-Quality Bitmap (PNG, JPEG, TIFF), Vector (PDF, SVG, PostScript) and Display (X11 and Win32) Output
+[35m78[0m [1m[32mextra[0m[0m/[1mmupdf-gl[0m [36m1.24.2-2[0m[1m (107.0 KiB 266.0 KiB) [0m
+    Lightweight PDF and XPS viewer with OpenGL backend
+[35m77[0m [1m[32mextra[0m[0m/[1mgscan2pdf[0m [36m2.13.2-1[0m[1m (426.0 KiB 2.1 MiB) [0m
+    A GUI with OCR capability to produce PDFs or DjVus from scanned documents
+[35m76[0m [1m[32mextra[0m[0m/[1mcoq-doc[0m [36m8.19.1-3[0m[1m (1.8 MiB 62.3 MiB) [0m[coq] 
+    HTML and PDF documentation for the Coq proof assistant
+[35m75[0m [1m[32mextra[0m[0m/[1mxournalpp[0m [36m1.2.3-1[0m[1m (1.4 MiB 6.2 MiB) [0m
+    Handwriting notetaking software with PDF annotation support
+[35m74[0m [1m[32mextra[0m[0m/[1mtexlive-binextra[0m [36m2024.2-2[0m[1m (94.7 MiB 116.2 MiB) [0m[texlive] 
+    TeX Live - TeX auxiliary programs
+[35m73[0m [1m[32mextra[0m[0m/[1mqpdf[0m [36m11.9.0-1[0m[1m (975.9 KiB 3.1 MiB) [0m[1m[32m(Installed)[0m[0m
+    QPDF: A Content-Preserving PDF Transformation System
+[35m72[0m [1m[32mextra[0m[0m/[1mxpdf[0m [36m4.05-1[0m[1m (1.2 MiB 4.4 MiB) [0m
+    Viewer for Portable Document Format (PDF) files
+[35m71[0m [1m[32mextra[0m[0m/[1mtexlive-basic[0m [36m2024.2-2[0m[1m (6.6 MiB 33.4 MiB) [0m[texlive] [1m[32m(Installed)[0m[0m
+    TeX Live - Essential programs and files
+[35m70[0m [1m[32mextra[0m[0m/[1mtexlive-pictures[0m [36m2024.2-2[0m[1m (16.2 MiB 76.8 MiB) [0m[texlive] [1m[32m(Installed)[0m[0m
+    TeX Live - Graphics, pictures, diagrams
+[35m69[0m [1m[32mextra[0m[0m/[1mtexlive-fontutils[0m [36m2024.2-2[0m[1m (5.1 MiB 7.5 MiB) [0m[texlive] 
+    TeX Live - Graphics and font utilities
+[35m68[0m [1m[32mextra[0m[0m/[1mtexworks[0m [36m0.6.9-3[0m[1m (2.6 MiB 5.1 MiB) [0m
+    Unicode-based, TeX-aware editor with integrated PDF viewer
+[35m67[0m [1m[32mextra[0m[0m/[1mlhapdf[0m [36m6.5.4-3[0m[1m (406.0 KiB 1.3 MiB) [0m
+    A particle physics tool for evaluating PDFs from discretised data files
+[35m66[0m [1m[32mextra[0m[0m/[1mdeepin-reader[0m [36m5.10.29-9[0m[1m (3.2 MiB 7.4 MiB) [0m[deepin-extra] 
+    A simple PDF reader, supporting bookmarks, highlights and annotations
+[35m65[0m [1m[32mextra[0m[0m/[1mtexlive-plaingeneric[0m [36m2024.2-2[0m[1m (2.6 MiB 24.8 MiB) [0m[texlive] [1m[32m(Installed)[0m[0m
+    TeX Live - Plain (La)TeX packages
+[35m64[0m [1m[32mextra[0m[0m/[1mtexlive-latexextra[0m [36m2024.2-2[0m[1m (24.5 MiB 82.2 MiB) [0m[texlive] [1m[32m(Installed)[0m[0m
+    TeX Live - LaTeX additional packages
+[35m63[0m [1m[32mextra[0m[0m/[1mmupdf-tools[0m [36m1.24.2-2[0m[1m (169.3 KiB 533.4 KiB) [0m
+    Tools for Lightweight PDF and XPS viewer
+[35m62[0m [1m[32mextra[0m[0m/[1mlibharu[0m [36m2.4.4-1[0m[1m (910.6 KiB 3.6 MiB) [0m
+    C library for generating PDF documents
+[35m61[0m [1m[32mextra[0m[0m/[1mimg2pdf[0m [36m0.5.1-2[0m[1m (100.6 KiB 519.3 KiB) [0m
+    Losslessly convert raster images to PDF
+[35m60[0m [1m[32mextra[0m[0m/[1mevince[0m [36m46.3-1[0m[1m (1.7 MiB 11.9 MiB) [0m[gnome] 
+    Document viewer (PDF, PostScript, XPS, djvu, dvi, tiff, cbr, cbz, cb7, cbt)
+[35m59[0m [1m[32mextra[0m[0m/[1mfop[0m [36m2.9-1[0m[1m (3.9 MiB 4.3 MiB) [0m
+    XSL-FO to PDF formatter
+[35m58[0m [1m[32mextra[0m[0m/[1mmupdf[0m [36m1.24.2-2[0m[1m (56.0 KiB 145.1 KiB) [0m
+    Lightweight PDF and XPS viewer
+[35m57[0m [1m[32mextra[0m[0m/[1merlang-docs[0m [36m26.2.5-1[0m[1m (17.2 MiB 202.0 MiB) [0m
+    HTML and PDF documentation for Erlang
+[35m56[0m [1m[32mextra[0m[0m/[1mqpdf-docs[0m [36m11.9.0-1[0m[1m (3.3 MiB 5.0 MiB) [0m
+    QPDF: A Content-Preserving PDF Transformation System (documentation)
+[35m55[0m [1m[32mextra[0m[0m/[1mlibmupdf[0m [36m1.24.2-2[0m[1m (26.0 MiB 50.4 MiB) [0m[1m[32m(Installed)[0m[0m
+    Library for Lightweight PDF and XPS viewer
+[35m54[0m [1m[32mextra[0m[0m/[1mripgrep-all[0m [36m0.10.6-3[0m[1m (3.3 MiB 18.2 MiB) [0m
+    rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+[35m53[0m [1m[32mextra[0m[0m/[1msile[0m [36m0.14.17-3[0m[1m (1.3 MiB 6.6 MiB) [0m
+    a modern typesetting engine inspired by LaTeX, fully customizable in Lua
+[35m52[0m [1m[32mextra[0m[0m/[1mevince-lib-docs[0m [36m46.3-1[0m[1m (1.2 MiB 7.7 MiB) [0m[1m[32m(Installed)[0m[0m
+    Document viewer (PDF, PostScript, XPS, djvu, dvi, tiff, cbr, cbz, cb7, cbt) (library API documentation)
+[35m51[0m [1m[32mextra[0m[0m/[1mtexlive-pstricks[0m [36m2024.2-2[0m[1m (28.6 MiB 46.3 MiB) [0m[texlive] 
+    TeX Live - PSTricks
+[35m50[0m [1m[32mextra[0m[0m/[1mxreader[0m [36m4.0.2-1[0m[1m (1.1 MiB 5.7 MiB) [0m[x-apps] 
+    Document viewer for files like PDF and Postscript. X-Apps Project.
+[35m49[0m [1m[32mextra[0m[0m/[1mtexlive-latex[0m [36m2024.2-2[0m[1m (1.3 MiB 11.4 MiB) [0m[texlive] [1m[32m(Installed)[0m[0m
+    TeX Live - LaTeX fundamental packages
+[35m48[0m [1m[32mextra[0m[0m/[1mtexlive-luatex[0m [36m2024.2-2[0m[1m (3.3 MiB 17.4 MiB) [0m[texlive] [1m[32m(Installed)[0m[0m
+    TeX Live - LuaTeX packages
+[35m47[0m [1m[32mextra[0m[0m/[1mdeepin-pdfium[0m [36m1.0.2-3[0m[1m (1.7 MiB 3.5 MiB) [0m
+    Development library for pdf on Deepin
+[35m46[0m [1m[32mextra[0m[0m/[1mdblatex[0m [36m0.3.12-11[0m[1m (1.5 MiB 7.7 MiB) [0m[1m[32m(Installed)[0m[0m
+    DocBook (XML and SGML) to DVI, PDF, PostScript converter using latex.
+[35m45[0m [1m[32mextra[0m[0m/[1mtexlive-latexrecommended[0m [36m2024.2-2[0m[1m (2.3 MiB 16.9 MiB) [0m[texlive] [1m[32m(Installed)[0m[0m
+    TeX Live - LaTeX recommended packages
+[35m44[0m [1m[32mextra[0m[0m/[1mtexlive-langjapanese[0m [36m2024.2-2[0m[1m (83.2 MiB 346.2 MiB) [0m[texlive-lang] 
+    TeX Live - Japanese
+[35m43[0m [1m[32mextra[0m[0m/[1mtexlive-langenglish[0m [36m2024.2-2[0m[1m (2.6 MiB 17.1 MiB) [0m[texlive-lang] 
+    TeX Live - US and UK English
+[35m42[0m [1m[32mextra[0m[0m/[1mrst2pdf[0m [36m0.101-2[0m[1m (301.3 KiB 1.6 MiB) [0m
+    Use a text editor. Make a PDF
+[35m41[0m [1m[32mextra[0m[0m/[1mfaust[0m [36m2.72.14-1[0m[1m (35.1 MiB 78.3 MiB) [0m[pro-audio] 
+    A functional programming language for realtime audio signal processing.
+[35m40[0m [1m[32mextra[0m[0m/[1mzathura-pdf-poppler[0m [36m0.3.2-5[0m[1m (10.8 KiB 23.5 KiB) [0m
+    Adds pdf support to zathura by using the poppler engine
+[35m39[0m [1m[32mextra[0m[0m/[1mzsh-doc[0m [36m5.9-5[0m[1m (2.6 MiB 6.3 MiB) [0m
+    Info, HTML and PDF format of the ZSH documentation
+[35m38[0m [1m[32mextra[0m[0m/[1mdvisvgm[0m [36m3.3-1[0m[1m (1.0 MiB 2.1 MiB) [0m[1m[32m(Installed)[0m[0m
+    A fast DVI, EPS, and PDF to SVG converter
+[35m37[0m [1m[32mextra[0m[0m/[1mzathura-pdf-mupdf[0m [36m0.4.2-1[0m[1m (11.7 KiB 27.6 KiB) [0m
+    PDF support for Zathura (MuPDF backend) (Supports PDF, ePub, and OpenXPS)
+[35m36[0m [1m[32mextra[0m[0m/[1mpython-weasyprint[0m [36m62.1-1[0m[1m (625.9 KiB 3.4 MiB) [0m
+    Utility to render HTML and CSS to PDF
+[35m35[0m [1m[32mextra[0m[0m/[1mcups-pdf[0m [36m3.0.1-7[0m[1m (23.6 KiB 193.3 KiB) [0m
+    PDF printer for cups
+[35m34[0m [1m[32mextra[0m[0m/[1mperl-pdf-builder[0m [36m3.026-1[0m[1m (2.0 MiB 21.4 MiB) [0m
+    Facilitates the creation and modification of PDF files
+[35m33[0m [1m[32mextra[0m[0m/[1mpython-pdftotext[0m [36m2.2.2-6[0m[1m (9.5 KiB 22.5 KiB) [0m
+    Simple PDF text extraction
+[35m32[0m [1m[32mextra[0m[0m/[1mpython-reportlab[0m [36m4.1.0-2[0m[1m (2.6 MiB 11.2 MiB) [0m
+    A proven industry-strength PDF generating solution
+[35m31[0m [1m[32mextra[0m[0m/[1mpython-cairosvg[0m [36m2.7.1-3[0m[1m (101.0 KiB 496.4 KiB) [0m
+    SVG converter based on Cairo. It can export SVG files to PDF, PostScript and PNG files
+[35m30[0m [1m[32mextra[0m[0m/[1mpython-pikepdf[0m [36m9.0.0-1[0m[1m (571.0 KiB 2.0 MiB) [0m
+    Read and write PDFs with Python, powered by qpdf
+[35m29[0m [1m[32mextra[0m[0m/[1mperl-pdf-api2[0m [36m2.047-1[0m[1m (1.6 MiB 18.9 MiB) [0m
+    Faciliates the creation and modification of PDF files
+[35m28[0m [1m[32mextra[0m[0m/[1mpython-pymupdf[0m [36m1.24.5-1[0m[1m (701.4 KiB 3.8 MiB) [0m[1m[32m(Installed)[0m[0m
+    Python bindings for MuPDF's rendering library
+[35m27[0m [1m[32mextra[0m[0m/[1mpoppler-data[0m [36m0.4.12-1[0m[1m (2.0 MiB 12.3 MiB) [0m[1m[32m(Installed)[0m[0m
+    Encoding data for the poppler PDF rendering library
+[35m26[0m [1m[32mextra[0m[0m/[1mpython-mupdf[0m [36m1.24.2-2[0m[1m (1.8 MiB 12.5 MiB) [0m[1m[32m(Installed)[0m[0m
+    Library for Lightweight PDF and XPS viewer - Python bindings
+[35m25[0m [1m[32mextra[0m[0m/[1mpython-pydyf[0m [36m0.10.0-1[0m[1m (19.8 KiB 95.6 KiB) [0m
+    A low-level PDF generator
+[35m24[0m [1m[32mextra[0m[0m/[1mpython-pdfrw[0m [36m0.4-9[0m[1m (100.0 KiB 465.5 KiB) [0m
+    Convert restructured text to PDF via reportlab.
+[35m23[0m [1m[32mextra[0m[0m/[1mpodofo-tools[0m [36m0.10.3-1[0m[1m (189.1 KiB 706.4 KiB) [0m
+    A C++ library to work with the PDF file format
+[35m22[0m [1m[32mextra[0m[0m/[1mpython-pdfminer[0m [36m20231228-2[0m[1m (4.5 MiB 8.4 MiB) [0m
+    Python PDF Parser
+[35m21[0m [1m[32mextra[0m[0m/[1mpython-pypdf[0m [36m4.2.0-2[0m[1m (632.5 KiB 4.0 MiB) [0m[1m[32m(Installed)[0m[0m
+    Python library for manipulating pages of PDF files
+[35m20[0m [1m[32mextra[0m[0m/[1mgambas3-gb-poppler[0m [36m3.19.1-2[0m[1m (14.6 KiB 34.0 KiB) [0m[gambas3] 
+    PDF component
+[35m19[0m [1m[32mextra[0m[0m/[1mposterazor[0m [36m1.9.7.pre-3[0m[1m (139.9 KiB 527.0 KiB) [0m
+    Cut an image or PDF into pieces which can be printed and assembled to a poster
+[35m18[0m [1m[32mextra[0m[0m/[1mpython-pyx[0m [36m0.16-4[0m[1m (688.6 KiB 4.9 MiB) [0m
+    Python library for the creation of PostScript and PDF files
+[35m17[0m [1m[32mextra[0m[0m/[1mpaperwork[0m [36m2.2.2-3[0m[1m (3.2 MiB 12.6 MiB) [0m
+    Personal document manager for GNOME to manage scanned documents and PDFs
+[35m16[0m [1m[32mextra[0m[0m/[1mpstoedit[0m [36m4.01-2[0m[1m (743.4 KiB 2.1 MiB) [0m
+    Translates PostScript and PDF graphics into other vector formats
+[35m15[0m [1m[32mextra[0m[0m/[1mpotrace[0m [36m1.16-3[0m[1m (90.5 KiB 190.2 KiB) [0m[1m[32m(Installed)[0m[0m
+    Utility for tracing a bitmap (input: PBM,PGM,PPM,BMP; output: EPS,PS,PDF,SVG,DXF,PGM,Gimppath,XFig)
+[35m14[0m [1m[32mextra[0m[0m/[1mdiffpdf[0m [36m2.1.3.1-4[0m[1m (149.8 KiB 633.2 KiB) [0m
+    Diffing pdf files visually or textually
+[35m13[0m [1m[32mextra[0m[0m/[1mpodofo[0m [36m0.10.3-1[0m[1m (1.0 MiB 3.2 MiB) [0m
+    A C++ library to work with the PDF file format
+[35m12[0m [1m[32mextra[0m[0m/[1mpoppler[0m [36m24.05.0-1[0m[1m (1.6 MiB 5.9 MiB) [0m[1m[32m(Installed)[0m[0m
+    PDF rendering library based on xpdf 3.0
+[35m11[0m [1m[32mextra[0m[0m/[1mpdfarranger[0m [36m1.10.1-2[0m[1m (278.0 KiB 1.3 MiB) [0m
+    Helps merge or split PDF documents and rotate, crop and rearrange pages
+[35m10[0m [1m[32mextra[0m[0m/[1mpdfjs-legacy[0m [36m4.3.136-1[0m[1m (3.8 MiB 17.6 MiB) [0m
+    PDF reader in javascript - legacy distribution
+[35m9[0m [1m[32mextra[0m[0m/[1mpdfmixtool[0m [36m1.1.1-1[0m[1m (290.1 KiB 803.1 KiB) [0m
+    Application to split, merge, rotate and mix PDF files
+[35m8[0m [1m[32mextra[0m[0m/[1mpdfslicer[0m [36m1.8.8-3[0m[1m (198.4 KiB 795.7 KiB) [0m
+    Simple application to extract, merge, rotate and reorder pages of PDF documents
+[35m7[0m [1m[32mextra[0m[0m/[1mpdftricks[0m [36m0.4.1-1[0m[1m (105.3 KiB 813.8 KiB) [0m
+    Simple, efficient application for small manipulations in PDF files using Ghostscript
+[35m6[0m [1m[32mextra[0m[0m/[1mpdfcrack[0m [36m0.20-1[0m[1m (34.0 KiB 75.9 KiB) [0m
+    Password recovery tool for PDF-files
+[35m5[0m [1m[32mextra[0m[0m/[1mpdfgrep[0m [36m2.2.0-4[0m[1m (41.3 KiB 97.4 KiB) [0m
+    A tool to search text in PDF files
+[35m4[0m [1m[32mextra[0m[0m/[1mpdf2svg[0m [36m0.2.3-5[0m[1m (5.1 KiB 13.8 KiB) [0m
+    A pdf to svg converter
+[35m3[0m [1m[32mextra[0m[0m/[1mpdftk[0m [36m3.3.3-3[0m[1m (949.8 KiB 1002.2 KiB) [0m
+    Command-line tool for working with PDFs
+[35m2[0m [1m[32mextra[0m[0m/[1mpdfpc[0m [36m4.6.0-2[0m[1m (212.8 KiB 627.7 KiB) [0m
+    Presenter console with multi-monitor support for PDF files
+[35m1[0m [1m[32mextra[0m[0m/[1mpdfjs[0m [36m4.3.136-1[0m[1m (3.7 MiB 16.5 MiB) [0m
+    PDF reader in javascript
+[1m[32m==>[0m[0m Packages to install (eg: 1 2 3, 1-3 or ^4)
+[1m[32m==> [0m[0m1-  2-25
+[1mSync Explicit (21):[0m [36mpodofo-0.10.3-1[0m, [36mpdf2svg-0.2.3-5[0m, [36mpodofo-tools-0.10.3-1[0m, [36mpstoedit-4.01-2[0m, [36mpython-pdfrw-0.4-9[0m, [36mpdfgrep-2.2.0-4[0m, [36mpaperwork-2.2.2-3[0m, [36mpdfjs-legacy-4.3.136-1[0m, [36mpdfmixtool-1.1.1-1[0m, [36mpdfarranger-1.10.1-2[0m, [36mpdfpc-4.6.0-2[0m, [36mpython-pyx-0.16-4[0m, [36mpdfcrack-0.20-1[0m, [36mpdftk-3.3.3-3[0m, [36mdiffpdf-2.1.3.1-4[0m, [36mpdfslicer-1.8.8-3[0m, [36mpython-pdfminer-20231228-2[0m, [36mgambas3-gb-poppler-3.19.1-2[0m, [36mpython-pydyf-0.10.0-1[0m, [36mpdftricks-0.4.1-1[0m, [36mposterazor-1.9.7.pre-3[0m
+[1mSync Dependency (3):[0m [36mpotrace-1.16-3[0m, [36mpython-pypdf-4.2.0-2[0m, [36mpoppler-24.05.0-1[0m
+[1;33mwarning: [0mpotrace-1.16-3 is up to date -- reinstalling
+[1;33mwarning: [0mpython-pypdf-4.2.0-2 is up to date -- reinstalling
+[1;33mwarning: [0mpoppler-24.05.0-1 is up to date -- reinstalling
+[?25lresolving dependencies...
+looking for conflicting packages...
+
+[1;33mwarning: [0minsufficient columns available for table display
+[0;1mPackages (48)[0m bcprov[38;5;243m-1.73-1[0m  gambas3-runtime[38;5;243m-3.19.1-2[0m
+              java-commons-lang[38;5;243m-3.14.0-1[0m  libgphoto2[38;5;243m-2.5.31-1[0m
+              libieee1284[38;5;243m-0.2.11-16[0m  libinsane[38;5;243m-1.0.10-1[0m
+              plotutils[38;5;243m-2.6-11[0m  poppler-glib[38;5;243m-24.05.0-1[0m
+              python-distro[38;5;243m-1.9.0-2[0m  python-fabulous[38;5;243m-0.4.0-5[0m
+              python-joblib[38;5;243m-1.3.2-2[0m  python-markdown-it-py[38;5;243m-3.0.0-2[0m
+              python-mdurl[38;5;243m-0.1.2-5[0m  python-pikepdf[38;5;243m-9.0.0-1[0m
+              python-pillowfight[38;5;243m-0.3.0-9[0m  python-pycountry[38;5;243m-23.12.11-2[0m
+              python-pydbus[38;5;243m-0.6.0-11[0m  python-pyocr[38;5;243m-0.8.5-2[0m
+              python-rich[38;5;243m-13.7.1-2[0m  python-scikit-learn[38;5;243m-1.5.0-1[0m
+              python-threadpoolctl[38;5;243m-3.4.0-2[0m  python-uc-micro-py[38;5;243m-1.0.3-2[0m
+              python-whoosh[38;5;243m-2.7.4-12[0m  sane[38;5;243m-1.3.1-1[0m  diffpdf[38;5;243m-2.1.3.1-4[0m
+              gambas3-gb-poppler[38;5;243m-3.19.1-2[0m  paperwork[38;5;243m-2.2.2-3[0m
+              pdf2svg[38;5;243m-0.2.3-5[0m  pdfarranger[38;5;243m-1.10.1-2[0m  pdfcrack[38;5;243m-0.20-1[0m
+              pdfgrep[38;5;243m-2.2.0-4[0m  pdfjs-legacy[38;5;243m-4.3.136-1[0m
+              pdfmixtool[38;5;243m-1.1.1-1[0m  pdfpc[38;5;243m-4.6.0-2[0m  pdfslicer[38;5;243m-1.8.8-3[0m
+              pdftk[38;5;243m-3.3.3-3[0m  pdftricks[38;5;243m-0.4.1-1[0m  podofo[38;5;243m-0.10.3-1[0m
+              podofo-tools[38;5;243m-0.10.3-1[0m  poppler[38;5;243m-24.05.0-1[0m
+              posterazor[38;5;243m-1.9.7.pre-3[0m  potrace[38;5;243m-1.16-3[0m  pstoedit[38;5;243m-4.01-2[0m
+              python-pdfminer[38;5;243m-20231228-2[0m  python-pdfrw[38;5;243m-0.4-9[0m
+              python-pydyf[38;5;243m-0.10.0-1[0m  python-pypdf[38;5;243m-4.2.0-2[0m
+              python-pyx[38;5;243m-0.16-4[0m
+
+[0;1mTotal Download Size: [0m   48,87 MiB
+[0;1mTotal Installed Size:[0m  202,48 MiB
+[0;1mNet Upgrade Size:    [0m  192,44 MiB
+
+[1;34m::[0;1m Proceed with installation? [Y/n] [0m[?25h
+[?25l[1;34m::[0;1m Retrieving packages...
+[0m python-scikit-learn-1.5.0-1-x86_64
+ Total ( 0/44)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F bcprov-1.73-1-any
+ Total ( 0/44)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F python-pdfminer-20231228-2-any
+ Total ( 0/44)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F pdfjs-legacy-4.3.136-1-any
+ Total ( 0/44)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F sane-1.3.1-1-x86_64
+ Total ( 0/44)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[4F python-pdfminer-...     3,8 KiB  0,00   B/s --:-- [-------------]   0%[3E Total ( 0/44)           3,8 KiB  0,00   B/s --:-- [-------------]   0%[2F pdfjs-legacy-4.3...     3,8 KiB  0,00   B/s --:-- [-------------]   0%[1E sane-1.3.1-1-x86_64     3,8 KiB  0,00   B/s --:-- [-------------]   0%[4F python-scikit-le...     3,8 KiB  0,00   B/s --:-- [-------------]   0%[1E bcprov-1.73-1-any       3,8 KiB  0,00   B/s --:-- [-------------]   0%[1F python-scikit-le...  1459,2 KiB  2,26 MiB/s 00:03 [#------------]  15%[5E Total ( 0/44)           8,0 MiB  12,0 MiB/s 00:03 [##-----------]  16%[4F bcprov-1.73-1-any    1407,2 KiB  2,21 MiB/s 00:02 [##-----------]  17%[1E python-pdfminer-...     2,0 MiB  2,98 MiB/s 00:00 [#####--------]  44%[1E pdfjs-legacy-4.3...  1732,4 KiB  2,59 MiB/s 00:00 [#####--------]  45%[1E sane-1.3.1-1-x86_64  1577,3 KiB  2,39 MiB/s 00:00 [#####--------]  41%[1F python-scikit-le...  1459,2 KiB  2,26 MiB/s 00:03 [#------------]  15%[3F pdfjs-legacy-4.3...     3,8 MiB  6,40 MiB/s 00:01 [#############] 100%[4E bcprov-1.73-1-any    1407,2 KiB  2,21 MiB/s 00:02 [##-----------]  17%[3F sane-1.3.1-1-x86_64     3,7 MiB  6,23 MiB/s 00:01 [#############] 100%[4E paperwork-2.2.2-3-any
+ Total ( 2/44)           8,0 MiB  12,0 MiB/s 00:03 [##-----------]  16%
+[5F python-pdfminer-...     4,5 MiB  7,27 MiB/s 00:01 [#############] 100%[4E python-pycountry-23.12.11-2-any
+ Total ( 3/44)           8,0 MiB  12,0 MiB/s 00:03 [##-----------]  16%
+[3F paperwork-2.2.2-...    13,9 KiB  0,00   B/s --:-- [-------------]   0%[2E poppler-24.05.0-1-x86_64
+ Total ( 3/44)           8,0 MiB  12,0 MiB/s 00:03 [##-----------]  16%
+[6F python-scikit-le...     4,6 MiB  6,72 MiB/s 00:00 [######-------]  49%[5E Total ( 3/44)          21,4 MiB  30,2 MiB/s 00:00 [#####--------]  43%[4F bcprov-1.73-1-any       4,5 MiB  6,69 MiB/s 00:00 [#######------]  57%[2E python-pycountry...    11,8 KiB  0,00   B/s --:-- [-------------]   0%[1F python-scikit-le...     4,6 MiB  6,72 MiB/s 00:00 [######-------]  49%[2F paperwork-2.2.2-...     3,2 MiB  15,2 MiB/s 00:00 [#############] 100%[1E bcprov-1.73-1-any       7,9 MiB  9,34 MiB/s 00:01 [#############] 100%[3E poppler-24.05.0-...     7,8 KiB  0,00   B/s --:-- [-------------]   0%[2F python-scikit-le...     8,9 MiB  11,6 MiB/s 00:00 [############-]  96%[3E Total ( 5/44)          33,0 MiB  39,2 MiB/s 00:00 [########-----]  67%[3F python-scikit-le...     9,2 MiB  10,6 MiB/s 00:01 [#############] 100%[1E python-pycountry...     2,9 MiB  8,79 MiB/s 00:00 [#############] 100%[2E libgphoto2-2.5.31-1-x86_64
+ Total ( 7/44)          33,0 MiB  39,2 MiB/s 00:00 [########-----]  67%
+[1F plotutils-2.6-11-x86_64
+ Total ( 7/44)          33,0 MiB  39,2 MiB/s 00:00 [########-----]  67%
+[3F libgphoto2-2.5.3...     7,8 KiB  0,00   B/s --:-- [-------------]   0%[1F poppler-24.05.0-...  1614,4 KiB  4,52 MiB/s 00:00 [#############] 100%[3E podofo-0.10.3-1-x86_64
+ Total ( 8/44)          33,0 MiB  39,2 MiB/s 00:00 [########-----]  67%
+[1F pdftk-3.3.3-3-any
+ Total ( 8/44)          33,0 MiB  39,2 MiB/s 00:00 [########-----]  67%
+[4F plotutils-2.6-11...    13,9 KiB  0,00   B/s --:-- [-------------]   1%[1F libgphoto2-2.5.3...  1356,9 KiB  17,2 MiB/s 00:00 [#############] 100%[4E Total ( 9/44)          38,7 MiB  35,7 MiB/s 00:00 [##########---]  79%[1F pdftk-3.3.3-3-any      25,9 KiB  0,00   B/s --:-- [-------------]   2%[2F plotutils-2.6-11...  1094,1 KiB  8,69 MiB/s 00:00 [#############] 100%[3E python-whoosh-2.7.4-12-any
+ Total (10/44)          38,7 MiB  35,7 MiB/s 00:00 [##########---]  79%
+[3F podofo-0.10.3-1-...     0,0   B  0,00   B/s 00:00 [#############] 100%[1F pdftk-3.3.3-3-any     949,8 KiB  8,67 MiB/s 00:00 [#############] 100%[1E podofo-0.10.3-1-...    21,9 KiB  0,00   B/s --:-- [-------------]   2%[1E python-whoosh-2....    17,9 KiB  0,00   B/s --:-- [-------------]   2%[1F podofo-0.10.3-1-...  1069,8 KiB  7,63 MiB/s 00:00 [#############] 100%[2E pstoedit-4.01-2-x86_64
+ Total (12/44)          38,7 MiB  35,7 MiB/s 00:00 [##########---]  79%
+[1F python-pyx-0.16-4-any
+ Total (12/44)          38,7 MiB  35,7 MiB/s 00:00 [##########---]  79%
+[1F python-fabulous-0.4.0-5-any
+ Total (12/44)          38,7 MiB  35,7 MiB/s 00:00 [##########---]  79%
+[1F gambas3-runtime-3.19.1-2-x86_64
+ Total (12/44)          38,7 MiB  35,7 MiB/s 00:00 [##########---]  79%
+[5F pstoedit-4.01-2-...    17,9 KiB  0,00   B/s --:-- [-------------]   2%[1F python-whoosh-2....   799,2 KiB  11,1 MiB/s 00:00 [#############] 100%[2E python-pyx-0.16-...    19,8 KiB  0,00   B/s --:-- [-------------]   2%[1F pstoedit-4.01-2-...   743,4 KiB  16,9 MiB/s 00:00 [#############] 100%[2E python-fabulous-...    17,9 KiB  0,00   B/s --:-- [-------------]   2%[2E java-commons-lang-3.14.0-1-any
+ Total (14/44)          38,7 MiB  35,7 MiB/s 00:00 [##########---]  79%
+[5F python-pyx-0.16-...   688,6 KiB  11,8 MiB/s 00:00 [#############] 100%[2E gambas3-runtime-...     3,8 KiB  0,00   B/s --:-- [-------------]   0%[1F python-fabulous-...   598,7 KiB  11,0 MiB/s 00:00 [#############] 100%[2E java-commons-lan...    17,9 KiB  0,00   B/s --:-- [-------------]   3%[1E python-pikepdf-9.0.0-1-x86_64
+ Total (16/44)          38,7 MiB  35,7 MiB/s 00:00 [##########---]  79%
+[4F gambas3-runtime-...   597,2 KiB  7,57 MiB/s 00:00 [#############] 100%[3E python-joblib-1.3.2-2-any
+ Total (17/44)          38,7 MiB  35,7 MiB/s 00:00 [##########---]  79%
+[4F java-commons-lan...   573,0 KiB  11,2 MiB/s 00:00 [#############] 100%[3E python-rich-13.7.1-2-any
+ Total (18/44)          38,7 MiB  35,7 MiB/s 00:00 [##########---]  79%
+[4F python-pikepdf-9...    17,9 KiB  0,00   B/s --:-- [-------------]   3%[1E python-joblib-1....    11,8 KiB  0,00   B/s --:-- [-------------]   2%[2E pdfmixtool-1.1.1-1-x86_64
+ Total (18/44)          38,7 MiB  35,7 MiB/s 00:00 [##########---]  79%
+[5F python-pikepdf-9...   571,0 KiB  16,9 MiB/s 00:00 [#############] 100%[4E Total (19/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%[2F python-rich-13.7...    21,9 KiB  0,00   B/s --:-- [-------------]   4%[1F python-joblib-1....   518,9 KiB  15,4 MiB/s 00:00 [#############] 100%[3E pdfarranger-1.10.1-2-any
+ Total (20/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[3F pdfmixtool-1.1.1...    11,8 KiB  0,00   B/s --:-- [-------------]   4%[1F python-rich-13.7...   516,2 KiB  14,0 MiB/s 00:00 [#############] 100%[1E pdfmixtool-1.1.1...   290,1 KiB  9,44 MiB/s 00:00 [#############] 100%[2E pdfpc-4.6.0-2-x86_64
+ Total (22/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[1F pdfslicer-1.8.8-3-x86_64
+ Total (22/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[4F pdfarranger-1.10...    17,9 KiB  0,00   B/s --:-- [-------------]   6% pdfarranger-1.10...   278,0 KiB  9,05 MiB/s 00:00 [#############] 100%[3E podofo-tools-0.10.3-1-x86_64
+ Total (23/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[1F diffpdf-2.1.3.1-4-x86_64
+ Total (23/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[5F pdfpc-4.6.0-2-x86_64   13,9 KiB  0,00   B/s --:-- [-------------]   6%[1E pdfslicer-1.8.8-...     7,8 KiB  0,00   B/s --:-- [-------------]   3%[1F pdfpc-4.6.0-2-x86_64  212,8 KiB  7,70 MiB/s 00:00 [#############] 100%[1E pdfslicer-1.8.8-...   198,4 KiB  7,18 MiB/s 00:00 [#############] 100%[3E python-markdown-it-py-3.0.0-2-any
+ Total (25/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[4F podofo-tools-0.1...     3,8 KiB  0,00   B/s --:-- [-------------]   1%[1E diffpdf-2.1.3.1-...    17,9 KiB  0,00   B/s --:-- [#------------]  11%[1F podofo-tools-0.1...   189,1 KiB  7,10 MiB/s 00:00 [#############] 100%[1E diffpdf-2.1.3.1-...   149,8 KiB  6,36 MiB/s 00:00 [#############] 100%[2E posterazor-1.9.7.pre-3-x86_64
+ Total (27/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[1F libinsane-1.0.10-1-x86_64
+ Total (27/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[4F python-markdown-...    11,8 KiB  0,00   B/s --:-- [#------------]   8% python-markdown-...   140,1 KiB  5,95 MiB/s 00:00 [#############] 100%[3E pdftricks-0.4.1-1-x86_64
+ Total (28/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[1F python-pdfrw-0.4-9-any
+ Total (28/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[5F posterazor-1.9.7...    15,8 KiB  0,00   B/s --:-- [#------------]  11% posterazor-1.9.7...   139,9 KiB  5,94 MiB/s 00:00 [#############] 100%[1E libinsane-1.0.10...     3,8 KiB  0,00   B/s --:-- [-------------]   3% libinsane-1.0.10...   119,6 KiB  4,87 MiB/s 00:00 [#############] 100%[3E python-pyocr-0.8.5-2-any
+ Total (30/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[4F pdftricks-0.4.1-...    19,8 KiB  0,00   B/s --:-- [##-----------]  18% pdftricks-0.4.1-...   105,3 KiB  4,47 MiB/s 00:00 [#############] 100%[1E python-pdfrw-0.4...     3,8 KiB  0,00   B/s --:-- [-------------]   3% python-pdfrw-0.4...   100,0 KiB  4,88 MiB/s 00:00 [#############] 100%[2E libieee1284-0.2.11-16-x86_64
+ Total (32/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[1F pdfgrep-2.2.0-4-x86_64
+ Total (32/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[4F python-pyocr-0.8...    11,8 KiB  0,00   B/s --:-- [##-----------]  17% python-pyocr-0.8...    67,1 KiB  3,28 MiB/s 00:00 [#############] 100%[3E python-pydbus-0.6.0-11-any
+ Total (33/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[1F python-threadpoolctl-3.4.0-2-any
+ Total (33/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[5F libieee1284-0.2....    17,9 KiB  0,00   B/s --:-- [####---------]  31% libieee1284-0.2....    57,1 KiB  2,32 MiB/s 00:00 [#############] 100%[1E pdfgrep-2.2.0-4-...    13,9 KiB  0,00   B/s --:-- [####---------]  33% pdfgrep-2.2.0-4-...    41,3 KiB  2,02 MiB/s 00:00 [#############] 100%[3E pdfcrack-0.20-1-x86_64
+ Total (35/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[4F python-pydbus-0....    17,9 KiB  0,00   B/s --:-- [######-------]  48% python-pydbus-0....    36,9 KiB  1368 KiB/s 00:00 [#############] 100%[1E python-threadpoo...    19,8 KiB  0,00   B/s --:-- [#######------]  57% python-threadpoo...    34,4 KiB  1273 KiB/s 00:00 [#############] 100%[2E python-pillowfight-0.3.0-9-x86_64
+ Total (37/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[1F python-pydyf-0.10.0-1-any
+ Total (37/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[4F pdfcrack-0.20-1-...    19,8 KiB  0,00   B/s --:-- [#######------]  58% pdfcrack-0.20-1-...    34,0 KiB  1415 KiB/s 00:00 [#############] 100%[3E python-mdurl-0.1.2-5-any
+ Total (38/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[1F gambas3-gb-poppler-3.19.1-2-x86_64
+ Total (38/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[5F python-pillowfig...    17,9 KiB  0,00   B/s --:-- [#######------]  59% python-pillowfig...    29,9 KiB  1494 KiB/s 00:00 [#############] 100%[1E python-pydyf-0.1...    17,9 KiB  0,00   B/s --:-- [###########--]  90% python-pydyf-0.1...    19,8 KiB   659 KiB/s 00:00 [#############] 100%[3E python-uc-micro-py-1.0.3-2-any
+ Total (40/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[4F python-mdurl-0.1...    18,2 KiB  0,00   B/s 00:00 [#############] 100%[1E gambas3-gb-poppl...    14,6 KiB  0,00   B/s 00:00 [#############] 100%[1F python-mdurl-0.1...    18,2 KiB   908 KiB/s 00:00 [#############] 100%[1E gambas3-gb-poppl...    14,6 KiB   731 KiB/s 00:00 [#############] 100%[2E pdf2svg-0.2.3-5-x86_64
+ Total (42/44)          45,9 MiB  35,7 MiB/s 00:00 [############-]  93%
+[3F python-uc-micro-...     8,7 KiB  0,00   B/s 00:00 [#############] 100%[2E Total (42/44)          48,9 MiB  28,5 MiB/s 00:00 [############-]  99%[2F python-uc-micro-...     8,7 KiB   433 KiB/s 00:00 [#############] 100%[1E pdf2svg-0.2.3-5-...     5,1 KiB  0,00   B/s 00:00 [#############] 100% pdf2svg-0.2.3-5-...     5,1 KiB   256 KiB/s 00:00 [#############] 100%[1E Total (44/44)          48,9 MiB  32,4 MiB/s 00:02 [#############] 100%
+( 0/48) checking keys in keyring                   [-------------]   0%( 1/48) checking keys in keyring                   [-------------]   2%( 2/48) checking keys in keyring                   [-------------]   4%( 3/48) checking keys in keyring                   [-------------]   6%( 4/48) checking keys in keyring                   [#------------]   8%( 5/48) checking keys in keyring                   [#------------]  10%( 6/48) checking keys in keyring                   [#------------]  12%( 7/48) checking keys in keyring                   [#------------]  14%( 8/48) checking keys in keyring                   [##-----------]  16%( 9/48) checking keys in keyring                   [##-----------]  18%(10/48) checking keys in keyring                   [##-----------]  20%(11/48) checking keys in keyring                   [##-----------]  22%(12/48) checking keys in keyring                   [###----------]  25%(13/48) checking keys in keyring                   [###----------]  27%(14/48) checking keys in keyring                   [###----------]  29%(15/48) checking keys in keyring                   [####---------]  31%(16/48) checking keys in keyring                   [####---------]  33%(17/48) checking keys in keyring                   [####---------]  35%(18/48) checking keys in keyring                   [####---------]  37%(19/48) checking keys in keyring                   [#####--------]  39%(20/48) checking keys in keyring                   [#####--------]  41%(21/48) checking keys in keyring                   [#####--------]  43%(22/48) checking keys in keyring                   [#####--------]  45%(23/48) checking keys in keyring                   [######-------]  47%(24/48) checking keys in keyring                   [######-------]  50%(25/48) checking keys in keyring                   [######-------]  52%(26/48) checking keys in keyring                   [#######------]  54%(27/48) checking keys in keyring                   [#######------]  56%(28/48) checking keys in keyring                   [#######------]  58%(29/48) checking keys in keyring                   [#######------]  60%(30/48) checking keys in keyring                   [########-----]  62%(31/48) checking keys in keyring                   [########-----]  64%(32/48) checking keys in keyring                   [########-----]  66%(33/48) checking keys in keyring                   [########-----]  68%(34/48) checking keys in keyring                   [#########----]  70%(35/48) checking keys in keyring                   [#########----]  72%(36/48) checking keys in keyring                   [#########----]  75%(37/48) checking keys in keyring                   [##########---]  77%(38/48) checking keys in keyring                   [##########---]  79%(39/48) checking keys in keyring                   [##########---]  81%(40/48) checking keys in keyring                   [##########---]  83%(41/48) checking keys in keyring                   [###########--]  85%(42/48) checking keys in keyring                   [###########--]  87%(43/48) checking keys in keyring                   [###########--]  89%(44/48) checking keys in keyring                   [###########--]  91%(45/48) checking keys in keyring                   [############-]  93%(46/48) checking keys in keyring                   [############-]  95%(47/48) checking keys in keyring                   [############-]  97%(48/48) checking keys in keyring                   [#############] 100%
+( 0/48) checking package integrity                 [-------------]   0%( 1/48) checking package integrity                 [#------------]   8%( 2/48) checking package integrity                 [##-----------]  16%( 3/48) checking package integrity                 [##-----------]  16%( 4/48) checking package integrity                 [##-----------]  19%( 5/48) checking package integrity                 [##-----------]  22%( 6/48) checking package integrity                 [##-----------]  23%( 7/48) checking package integrity                 [###----------]  30%( 8/48) checking package integrity                 [###----------]  30%( 9/48) checking package integrity                 [###----------]  30%(10/48) checking package integrity                 [####---------]  32%(11/48) checking package integrity                 [####---------]  32%(12/48) checking package integrity                 [####---------]  37%(13/48) checking package integrity                 [####---------]  38%(14/48) checking package integrity                 [####---------]  38%(15/48) checking package integrity                 [#####--------]  39%(16/48) checking package integrity                 [#####--------]  40%(17/48) checking package integrity                 [#####--------]  40%(18/48) checking package integrity                 [#######------]  59%(19/48) checking package integrity                 [#######------]  59%(20/48) checking package integrity                 [#######------]  59%(21/48) checking package integrity                 [#######------]  59%(22/48) checking package integrity                 [#######------]  60%(23/48) checking package integrity                 [########-----]  66%(24/48) checking package integrity                 [########-----]  67%(25/48) checking package integrity                 [########-----]  68%(26/48) checking package integrity                 [#########----]  70%(27/48) checking package integrity                 [#########----]  71%(28/48) checking package integrity                 [#########----]  72%(29/48) checking package integrity                 [#########----]  72%(30/48) checking package integrity                 [#########----]  72%(31/48) checking package integrity                 [#########----]  73%(32/48) checking package integrity                 [#########----]  74%(33/48) checking package integrity                 [#########----]  74%(34/48) checking package integrity                 [#########----]  74%(35/48) checking package integrity                 [#########----]  75%(36/48) checking package integrity                 [##########---]  78%(37/48) checking package integrity                 [############-]  93%(38/48) checking package integrity                 [############-]  94%(39/48) checking package integrity                 [############-]  96%(40/48) checking package integrity                 [############-]  97%(41/48) checking package integrity                 [############-]  97%(42/48) checking package integrity                 [############-]  97%(43/48) checking package integrity                 [############-]  97%(44/48) checking package integrity                 [############-]  98%(45/48) checking package integrity                 [############-]  98%(46/48) checking package integrity                 [############-]  99%(47/48) checking package integrity                 [############-]  99%(48/48) checking package integrity                 [#############] 100%
+( 0/48) loading package files                      [-------------]   0%( 1/48) loading package files                      [#------------]   8%( 2/48) loading package files                      [##-----------]  16%( 3/48) loading package files                      [##-----------]  16%( 4/48) loading package files                      [##-----------]  19%( 5/48) loading package files                      [##-----------]  22%( 6/48) loading package files                      [##-----------]  23%( 7/48) loading package files                      [###----------]  30%( 8/48) loading package files                      [###----------]  30%( 9/48) loading package files                      [###----------]  30%(10/48) loading package files                      [####---------]  32%(11/48) loading package files                      [####---------]  32%(12/48) loading package files                      [####---------]  37%(13/48) loading package files                      [####---------]  38%(14/48) loading package files                      [####---------]  38%(15/48) loading package files                      [#####--------]  39%(16/48) loading package files                      [#####--------]  40%(17/48) loading package files                      [#####--------]  40%(18/48) loading package files                      [#######------]  59%(19/48) loading package files                      [#######------]  59%(20/48) loading package files                      [#######------]  59%(21/48) loading package files                      [#######------]  59%(22/48) loading package files                      [#######------]  60%(23/48) loading package files                      [########-----]  66%(24/48) loading package files                      [########-----]  67%(25/48) loading package files                      [########-----]  68%(26/48) loading package files                      [#########----]  70%(27/48) loading package files                      [#########----]  71%(28/48) loading package files                      [#########----]  72%(29/48) loading package files                      [#########----]  72%(30/48) loading package files                      [#########----]  72%(31/48) loading package files                      [#########----]  73%(32/48) loading package files                      [#########----]  74%(33/48) loading package files                      [#########----]  74%(34/48) loading package files                      [#########----]  74%(35/48) loading package files                      [#########----]  75%(36/48) loading package files                      [##########---]  78%(37/48) loading package files                      [############-]  93%(38/48) loading package files                      [############-]  94%(39/48) loading package files                      [############-]  96%(40/48) loading package files                      [############-]  97%(41/48) loading package files                      [############-]  97%(42/48) loading package files                      [############-]  97%(43/48) loading package files                      [############-]  97%(44/48) loading package files                      [############-]  98%(45/48) loading package files                      [############-]  98%(46/48) loading package files                      [############-]  99%(47/48) loading package files                      [############-]  99%(48/48) loading package files                      [#############] 100%
+( 0/48) checking for file conflicts                [-------------]   0%( 1/48) checking for file conflicts                [-------------]   2%( 2/48) checking for file conflicts                [-------------]   4%( 3/48) checking for file conflicts                [-------------]   6%( 4/48) checking for file conflicts                [#------------]   8%( 5/48) checking for file conflicts                [#------------]  10%( 6/48) checking for file conflicts                [#------------]  12%( 7/48) checking for file conflicts                [#------------]  14%( 8/48) checking for file conflicts                [##-----------]  16%( 9/48) checking for file conflicts                [##-----------]  18%(10/48) checking for file conflicts                [##-----------]  20%(11/48) checking for file conflicts                [##-----------]  22%(12/48) checking for file conflicts                [###----------]  25%(13/48) checking for file conflicts                [###----------]  27%(14/48) checking for file conflicts                [###----------]  29%(15/48) checking for file conflicts                [####---------]  31%(16/48) checking for file conflicts                [####---------]  33%(17/48) checking for file conflicts                [####---------]  35%(18/48) checking for file conflicts                [####---------]  37%(19/48) checking for file conflicts                [#####--------]  39%(20/48) checking for file conflicts                [#####--------]  41%(21/48) checking for file conflicts                [#####--------]  43%(22/48) checking for file conflicts                [#####--------]  45%(23/48) checking for file conflicts                [######-------]  47%(24/48) checking for file conflicts                [######-------]  50%(25/48) checking for file conflicts                [######-------]  52%(26/48) checking for file conflicts                [#######------]  54%(27/48) checking for file conflicts                [#######------]  56%(28/48) checking for file conflicts                [#######------]  58%(29/48) checking for file conflicts                [#######------]  60%(30/48) checking for file conflicts                [########-----]  62%(31/48) checking for file conflicts                [########-----]  64%(32/48) checking for file conflicts                [########-----]  66%(33/48) checking for file conflicts                [########-----]  68%(34/48) checking for file conflicts                [#########----]  70%(35/48) checking for file conflicts                [#########----]  72%(36/48) checking for file conflicts                [#########----]  75%(37/48) checking for file conflicts                [##########---]  77%(38/48) checking for file conflicts                [##########---]  79%(39/48) checking for file conflicts                [##########---]  81%(40/48) checking for file conflicts                [##########---]  83%(41/48) checking for file conflicts                [###########--]  85%(42/48) checking for file conflicts                [###########--]  87%(43/48) checking for file conflicts                [###########--]  89%(44/48) checking for file conflicts                [###########--]  91%(45/48) checking for file conflicts                [############-]  93%(46/48) checking for file conflicts                [############-]  95%(47/48) checking for file conflicts                [############-]  97%(48/48) checking for file conflicts                [#############] 100%
+( 0/48) checking available disk space              [-------------]   0%( 1/48) checking available disk space              [-------------]   2%( 2/48) checking available disk space              [-------------]   4%( 3/48) checking available disk space              [-------------]   6%( 4/48) checking available disk space              [#------------]   8%( 5/48) checking available disk space              [#------------]  10%( 6/48) checking available disk space              [#------------]  12%( 7/48) checking available disk space              [#------------]  14%( 8/48) checking available disk space              [##-----------]  16%( 9/48) checking available disk space              [##-----------]  18%(10/48) checking available disk space              [##-----------]  20%(11/48) checking available disk space              [##-----------]  22%(12/48) checking available disk space              [###----------]  25%(13/48) checking available disk space              [###----------]  27%(14/48) checking available disk space              [###----------]  29%(15/48) checking available disk space              [####---------]  31%(16/48) checking available disk space              [####---------]  33%(17/48) checking available disk space              [####---------]  35%(18/48) checking available disk space              [####---------]  37%(19/48) checking available disk space              [#####--------]  39%(20/48) checking available disk space              [#####--------]  41%(21/48) checking available disk space              [#####--------]  43%(22/48) checking available disk space              [#####--------]  45%(23/48) checking available disk space              [######-------]  47%(24/48) checking available disk space              [######-------]  50%(25/48) checking available disk space              [######-------]  52%(26/48) checking available disk space              [#######------]  54%(27/48) checking available disk space              [#######------]  56%(28/48) checking available disk space              [#######------]  58%(29/48) checking available disk space              [#######------]  60%(30/48) checking available disk space              [########-----]  62%(31/48) checking available disk space              [########-----]  64%(32/48) checking available disk space              [########-----]  66%(33/48) checking available disk space              [########-----]  68%(34/48) checking available disk space              [#########----]  70%(35/48) checking available disk space              [#########----]  72%(36/48) checking available disk space              [#########----]  75%(37/48) checking available disk space              [##########---]  77%(38/48) checking available disk space              [##########---]  79%(39/48) checking available disk space              [##########---]  81%(40/48) checking available disk space              [##########---]  83%(41/48) checking available disk space              [###########--]  85%(42/48) checking available disk space              [###########--]  87%(43/48) checking available disk space              [###########--]  89%(44/48) checking available disk space              [###########--]  91%(45/48) checking available disk space              [############-]  93%(46/48) checking available disk space              [############-]  95%(47/48) checking available disk space              [############-]  97%(48/48) checking available disk space              [#############] 100%
+[1;34m::[0;1m Processing package changes...
+[0m( 1/48) installing python-pdfminer                 [-------------]   0%( 1/48) installing python-pdfminer                 [#############] 100%
+( 2/48) installing pdfjs-legacy                    [-------------]   0%( 2/48) installing pdfjs-legacy                    [#############] 100%
+( 3/48) installing libieee1284                     [-------------]   0%( 3/48) installing libieee1284                     [#############] 100%
+Optional dependencies for libieee1284
+[0;1m   [0m python: for python module [installed]
+( 4/48) installing libgphoto2                      [-------------]   0%( 4/48) installing libgphoto2                      [#############] 100%
+( 5/48) reinstalling poppler                       [-------------]   0%( 5/48) reinstalling poppler                       [#############] 100%
+( 6/48) installing poppler-glib                    [-------------]   0%( 6/48) installing poppler-glib                    [#############] 100%
+( 7/48) installing sane                            [-------------]   0%( 7/48) installing sane                            [#############] 100%
+Optional dependencies for sane
+[0;1m   [0m sane-airscan: for scanners working in driverless mode
+( 8/48) installing libinsane                       [-------------]   0%( 8/48) installing libinsane                       [#############] 100%
+( 9/48) installing python-distro                   [-------------]   0%( 9/48) installing python-distro                   [#############] 100%
+(10/48) installing python-fabulous                 [-------------]   0%(10/48) installing python-fabulous                 [#############] 100%
+(11/48) installing python-pillowfight              [-------------]   0%(11/48) installing python-pillowfight              [#############] 100%
+(12/48) installing python-pycountry                [-------------]   0%(12/48) installing python-pycountry                [#############] 100%
+(13/48) installing python-pydbus                   [-------------]   0%(13/48) installing python-pydbus                   [#############] 100%
+(14/48) installing python-pyocr                    [-------------]   0%(14/48) installing python-pyocr                    [#############] 100%
+Optional dependencies for python-pyocr
+[0;1m   [0m cuneiform: OCR backend
+    tesseract: OCR backend [installed]
+(15/48) installing python-whoosh                   [-------------]   0%(15/48) installing python-whoosh                   [#############] 100%
+(16/48) installing python-joblib                   [-------------]   0%(16/48) installing python-joblib                   [#############] 100%
+Optional dependencies for python-joblib
+[0;1m   [0m python-numpy: for array manipulation [installed]
+    python-lz4: for compressed serialization
+(17/48) installing python-threadpoolctl            [-------------]   0%(17/48) installing python-threadpoolctl            [#############] 100%
+(18/48) installing python-scikit-learn             [-------------]   0%(18/48) installing python-scikit-learn             [#############] 100%
+Optional dependencies for python-scikit-learn
+[0;1m   [0m python-matplotlib: plotting capabilities [installed]
+(19/48) installing python-uc-micro-py              [-------------]   0%(19/48) installing python-uc-micro-py              [#############] 100%
+(20/48) installing python-mdurl                    [-------------]   0%(20/48) installing python-mdurl                    [#############] 100%
+(21/48) installing python-markdown-it-py           [-------------]   0%(21/48) installing python-markdown-it-py           [#############] 100%
+Optional dependencies for python-markdown-it-py
+[0;1m   [0m python-mdit_py_plugins: core plugins
+(22/48) installing python-rich                     [-------------]   0%(22/48) installing python-rich                     [#############] 100%
+(23/48) installing paperwork                       [-------------]   0%(23/48) installing paperwork                       [#############] 100%
+(24/48) reinstalling potrace                       [-------------]   0%(24/48) reinstalling potrace                       [#############] 100%
+(25/48) reinstalling python-pypdf                  [-------------]   0%(25/48) reinstalling python-pypdf                  [#############] 100%
+(26/48) installing plotutils                       [-------------]   0%(26/48) installing plotutils                       [#############] 100%
+(27/48) installing pstoedit                        [-------------]   0%(27/48) installing pstoedit                        [#############] 100%
+(28/48) installing pdfgrep                         [-------------]   0%(28/48) installing pdfgrep                         [#############] 100%
+(29/48) installing pdfcrack                        [-------------]   0%(29/48) installing pdfcrack                        [#############] 100%
+(30/48) installing diffpdf                         [-------------]   0%(30/48) installing diffpdf                         [#############] 100%
+(31/48) installing python-pikepdf                  [-------------]   0%(31/48) installing python-pikepdf                  [#############] 100%
+(32/48) installing pdfarranger                     [-------------]   0%(32/48) installing pdfarranger                     [#############] 100%
+Optional dependencies for pdfarranger
+[0;1m   [0m img2pdf: support for image files
+(33/48) installing pdftricks                       [-------------]   0%(33/48) installing pdftricks                       [#############] 100%
+(34/48) installing posterazor                      [-------------]   0%(34/48) installing posterazor                      [#############] 100%
+(35/48) installing python-pyx                      [-------------]   0%(35/48) installing python-pyx                      [#############] 100%
+(36/48) installing podofo                          [-------------]   0%(36/48) installing podofo                          [#############] 100%
+(37/48) installing bcprov                          [-------------]   0%(37/48) installing bcprov                          [#############] 100%
+(38/48) installing java-commons-lang               [-------------]   0%(38/48) installing java-commons-lang               [#############] 100%
+(39/48) installing pdftk                           [-------------]   0%(39/48) installing pdftk                           [#############] 100%
+Optional dependencies for pdftk
+[0;1m   [0m bcprov: support for AES encrypted and signed PDF documents
+    [installed]
+    java-commons-lang: burst, dump_data, dump_data_fields and
+    update_info operation support [installed]
+(40/48) installing pdfmixtool                      [-------------]   0%(40/48) installing pdfmixtool                      [#############] 100%
+(41/48) installing python-pydyf                    [-------------]   0%(41/48) installing python-pydyf                    [#############] 100%
+(42/48) installing pdfpc                           [-------------]   0%(42/48) installing pdfpc                           [#############] 100%
+Optional dependencies for pdfpc
+[0;1m   [0m gst-plugin-gtk: for video playback
+    gst-plugins-good: more codecs for video playback support
+    gst-libav: more codecs for video playback support
+(43/48) installing pdf2svg                         [-------------]   0%(43/48) installing pdf2svg                         [#############] 100%
+(44/48) installing python-pdfrw                    [-------------]   0%(44/48) installing python-pdfrw                    [#############] 100%
+(45/48) installing pdfslicer                       [-------------]   0%(45/48) installing pdfslicer                       [#############] 100%
+(46/48) installing gambas3-runtime                 [-------------]   0%(46/48) installing gambas3-runtime                 [#############] 100%
+(47/48) installing gambas3-gb-poppler              [-------------]   0%(47/48) installing gambas3-gb-poppler              [#############] 100%
+(48/48) installing podofo-tools                    [-------------]   0%(48/48) installing podofo-tools                    [#############] 100%
+[1;34m::[0;1m Running post-transaction hooks...
+[0m(1/8) Creating system user accounts...
+Creating group 'saned' with GID 958.
+Creating user 'saned' (SANE daemon user) with UID 958 and GID 958.
+(2/8) Reloading system manager configuration...
+(3/8) Updating udev hardware database...
+(4/8) Reloading device manager configuration...
+(5/8) Arming ConditionNeedsUpdate...
+(6/8) Updating icon theme caches...
+(7/8) Updating the info directory file...
+(8/8) Updating the desktop file MIME type cache...
+[?25h[?25l[?25h[?25l[?25h
+Script done on 2024-06-01 18:10:50+02:00 [COMMAND_EXIT_CODE="0"]

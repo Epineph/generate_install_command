@@ -1,0 +1,4 @@
+Script started on 2024-06-01 03:31:49+02:00 [COMMAND="okular" TERM="xterm-kitty" TTY="/dev/pts/2" COLUMNS="71" LINES="37"]
+zsh:1: command not found: okular
+
+Script done on 2024-06-01 03:31:49+02:00 [COMMAND_EXIT_CODE="127"]

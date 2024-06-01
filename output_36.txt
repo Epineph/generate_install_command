@@ -1,0 +1,106 @@
+Script started on 2024-06-01 03:46:53+02:00 [COMMAND="paru zathura" TERM="xterm-kitty" TTY="/dev/pts/8" COLUMNS="71" LINES="37"]
+[35m 1[0m [1;38;5;12mextra[0m/[1mzathura[0m [1;32m0.5.6-2[0m [[1m203.39 KiB 624.31 KiB[0m]
+    Minimalistic document viewer
+[35m 2[0m [1;38;5;12mextra[0m/[1mzathura-cb[0m [1;32m0.1.10-7[0m [[1m8.74 KiB 19.68 KiB[0m]
+    Adds comic book support to zathura
+[35m 3[0m [1;38;5;12mextra[0m/[1mzathura-djvu[0m [1;32m0.2.9-7[0m [[1m12.23 KiB 27.50 KiB[0m]
+    DjVu support for Zathura
+[35m 4[0m [1;38;5;12mextra[0m/[1mzathura-pdf-mupdf[0m [1;32m0.4.2-1[0m [[1m11.70 KiB 27.60 KiB[0m]
+    PDF support for Zathura (MuPDF backend) (Supports PDF, ePub, and 
+    OpenXPS)
+[35m 5[0m [1;38;5;12mextra[0m/[1mzathura-pdf-poppler[0m [1;32m0.3.2-5[0m [[1m10.75 KiB 23.49 KiB[0m]
+    Adds pdf support to zathura by using the poppler engine
+[35m 6[0m [1;38;5;12mextra[0m/[1mzathura-ps[0m [1;32m0.2.7-7[0m [[1m7.80 KiB 19.56 KiB[0m]
+    Adds ps support to zathura by using the libspectre library
+[35m 7[0m [1;38;5;14maur[0m/[1mzathura-git[0m [1;32m0.5.5.r1.gfb5388c-1[0m [[1m+88 ~0.00[0m] [1;36m[Installed: 0.5.5.r16.gd2156cd-1][0m
+    Minimalistic document viewer
+[35m 8[0m [1;38;5;14maur[0m/[1mzathura-pdf-poppler-git[0m [1;32m0.3.2.r1.g0990d0a-1[0m [[1m+28 ~0.00[0m]
+    PDF support for zathura (poppler backend)
+[35m 9[0m [1;38;5;14maur[0m/[1mzathura-pdf-mupdf-git[0m [1;32m0.4.1.r8.gc742d4c-2[0m [[1m+21 ~0.00[0m]
+    PDF support for zathura (mupdf backend) (Supports PDF, ePub, and 
+    OpenXPS)
+[35m10[0m [1;38;5;14maur[0m/[1mzathura-djvu-git[0m [1;32m0.2.9.r3.g56b0fd5-1[0m [[1m+20 ~0.00[0m]
+    DjVu support for zathura
+[35m11[0m [1;38;5;14maur[0m/[1mzathura-ps-git[0m [1;32m0.2.7.r2.g0d28473-2[0m [[1m+19 ~0.00[0m]
+    PostScript support for zathura
+[35m12[0m [1;38;5;14maur[0m/[1mzathura-cb-git[0m [1;32m0.1.8.r7.gd03db86-1[0m [[1m+8 ~0.00[0m]
+    Comic book support for zathura
+[35m13[0m [1;38;5;14maur[0m/[1mzathura-ypb[0m [1;32m0.0.8.2.r30.gbef9bc4-3[0m [[1m+6 ~0.00[0m]
+    A lightweight GTK2 PDF viewer
+[35m14[0m [1;38;5;14maur[0m/[1mlibzathura-git[0m [1;32m69efc7d-1[0m [[1m+2 ~0.00[0m]
+    A document library.
+[35m15[0m [1;38;5;14maur[0m/[1mzathura-pywal-git[0m [1;32mr25.e9973b8-1[0m [[1m+1 ~0.42[0m]
+    Scripts that dynamically theme zathura based on colors set by 
+    pywal.
+[35m16[0m [1;38;5;14maur[0m/[1mpython-tree-sitter-zathurarc[0m [1;32m0.0.8-1[0m [[1m+0 ~0.00[0m]
+    zathurarc grammar for tree-sitter
+[35m17[0m [1;38;5;14maur[0m/[1mzathura-gruvbox-git[0m [1;32mr7.0b49904-1[0m [[1m+0 ~0.00[0m]
+    the gruvbox color theme for zathura
+[35m18[0m [1;38;5;14maur[0m/[1mzathura-language-server[0m [1;32m0.0.12-1[0m [[1m+0 ~0.00[0m]
+    zathura's language server
+[35m19[0m [1;38;5;14maur[0m/[1mzathura-solarized-git[0m [1;32mr3.d63c710-1[0m [[1m+0 ~0.00[0m]
+    the solarized color theme for zathura
+[1;34m::[0m [1mPackages to install (eg: 1 2 3, 1-3):[0m
+[1;34m::[0m 2  18   18-9 12    9 6 7
+[1;34m::[0m [1mResolving dependencies...[0m
+[1;34m::[0m [1mCalculating conflicts...[0m
+[1;34m::[0m [1mCalculating inner conflicts...[0m
+
+[1mAur (1)[0m          [1mOld Version[0m           [1mNew Version[0m          [1mMake Only[0m
+aur/zathura-git  0.5.5.r16.gd2156cd-1  0.5.5.r1.gfb5388c-1  No
+
+[1;34m::[0m [1mProceed to review?[0m [1m[Y/n]:[0m 
+
+[1;34m::[0m [1mDownloading PKGBUILDs...[0m
+ PKGBUILDs up to date
+ nothing new to review
+fetching devel info...
+[1m[32m==>(B[m[1m Making package: zathura-git 0.5.5.r1.gfb5388c-1 (2024-06-01T03:47:54 CEST)(B[m
+[1m[32m==>(B[m[1m Retrieving sources...(B[m
+[1m[34m  ->(B[m[1m Updating zathura-git git repo...(B[m
+[1m[32m==>(B[m[1m Validating source files with md5sums...(B[m
+    zathura-git ... Skipped
+[1m[32m==>(B[m[1m Making package: zathura-git 0.5.5.r1.gfb5388c-1 (2024-06-01T03:47:56 CEST)(B[m
+[1m[32m==>(B[m[1m Checking runtime dependencies...(B[m
+[1m[32m==>(B[m[1m Checking buildtime dependencies...(B[m
+[1m[32m==>(B[m[1m Retrieving sources...(B[m
+[1m[34m  ->(B[m[1m Updating zathura-git git repo...(B[m
+[1m[32m==>(B[m[1m Validating source files with md5sums...(B[m
+    zathura-git ... Skipped
+[1m[32m==>(B[m[1m Removing existing $srcdir/ directory...(B[m
+[1m[32m==>(B[m[1m Extracting sources...(B[m
+[1m[34m  ->(B[m[1m Creating working copy of zathura-git git repo...(B[m
+Cloning into 'zathura-git'...
+done.
+Switched to a new branch 'makepkg'
+[1m[32m==>(B[m[1m Starting pkgver()...(B[m
+[1m[32m==>(B[m[1m Updated version: zathura-git 0.5.5.r16.gd2156cd-1(B[m
+[1m[32m==>(B[m[1m Sources are ready.(B[m
+zathura-git-0.5.5.r1.gfb5388c-1: parsing pkg list...
+[33m::[0m zathura-git-0.5.5.r1.gfb5388c-1 is up to date -- skipping build
+[?25lloading packages...
+[1;33mwarning: [0mzathura-git-0.5.5.r16.gd2156cd-1 is up to date -- reinstalling
+resolving dependencies...
+looking for conflicting packages...
+
+[0;1mPackage (1)[0m  [0;1mOld Version         [0m  [0;1mNew Version         [0m  [0;1mNet Change[0m
+
+zathura-git  0.5.5.r16.gd2156cd-1  0.5.5.r16.gd2156cd-1    0,00 MiB
+
+[0;1mTotal Installed Size:[0m  0,61 MiB
+[0;1mNet Upgrade Size:    [0m  0,00 MiB
+
+[1;34m::[0;1m Proceed with installation? [Y/n] [0m
+(0/1) checking keys in keyring                     [-------------]   0%(1/1) checking keys in keyring                     [#############] 100%
+(0/1) checking package integrity                   [-------------]   0%(1/1) checking package integrity                   [#############] 100%
+(0/1) loading package files                        [-------------]   0%(1/1) loading package files                        [#############] 100%
+(0/1) checking for file conflicts                  [-------------]   0%(1/1) checking for file conflicts                  [#############] 100%
+(0/1) checking available disk space                [-------------]   0%(1/1) checking available disk space                [#############] 100%
+[1;34m::[0;1m Processing package changes...
+[0m(1/1) reinstalling zathura-git                     [-------------]   0%(1/1) reinstalling zathura-git                     [#############] 100%
+[1;34m::[0;1m Running post-transaction hooks...
+[0m(1/3) Arming ConditionNeedsUpdate...
+(2/3) Updating icon theme caches...
+(3/3) Updating the desktop file MIME type cache...
+[?25h
+Script done on 2024-06-01 03:47:59+02:00 [COMMAND_EXIT_CODE="0"]

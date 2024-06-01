@@ -1,0 +1,25 @@
+Script started on 2024-06-01 04:12:37+02:00 [COMMAND="paru -S ebook-tools" TERM="xterm-kitty" TTY="/dev/pts/2" COLUMNS="71" LINES="37"]
+[31m::[0m [1mPacman is currently in use, please wait...[0m
+[1;33mwarning: [0mebook-tools-0.2.2-7 is up to date -- reinstalling
+[?25lresolving dependencies...
+looking for conflicting packages...
+
+[0;1mPackage (1)      [0m  [0;1mOld Version[0m  [0;1mNew Version[0m  [0;1mNet Change[0m
+
+extra/ebook-tools  0.2.2-7      0.2.2-7        0,00 MiB
+
+[0;1mTotal Installed Size:[0m  0,08 MiB
+[0;1mNet Upgrade Size:    [0m  0,00 MiB
+
+[1;34m::[0;1m Proceed with installation? [Y/n] [0m[?25hY
+[?25l(0/1) checking keys in keyring                     [-------------]   0%(1/1) checking keys in keyring                     [#############] 100%
+(0/1) checking package integrity                   [-------------]   0%(1/1) checking package integrity                   [#############] 100%
+(0/1) loading package files                        [-------------]   0%(1/1) loading package files                        [#############] 100%
+(0/1) checking for file conflicts                  [-------------]   0%(1/1) checking for file conflicts                  [#############] 100%
+(0/1) checking available disk space                [-------------]   0%(1/1) checking available disk space                [#############] 100%
+[1;34m::[0;1m Processing package changes...
+[0m(1/1) reinstalling ebook-tools                     [-------------]   0%(1/1) reinstalling ebook-tools                     [#############] 100%
+[1;34m::[0;1m Running post-transaction hooks...
+[0m(1/1) Arming ConditionNeedsUpdate...
+[?25h
+Script done on 2024-06-01 04:12:53+02:00 [COMMAND_EXIT_CODE="0"]

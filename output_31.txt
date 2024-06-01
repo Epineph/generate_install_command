@@ -1,0 +1,246 @@
+Script started on 2024-06-01 03:31:52+02:00 [COMMAND="paru okular" TERM="xterm-kitty" TTY="/dev/pts/2" COLUMNS="71" LINES="37"]
+[35m1[0m [1;38;5;12mextra[0m/[1mokular[0m [1;32m24.05.0-1[0m [[1m6.75 MiB 18.51 MiB[0m] [1;31m([0m[1;31mkde-applications[0m [1;31mkde-graphics[0m[1;31m)[0m
+    Document Viewer
+[35m2[0m [1;38;5;12mextra[0m/[1mokularpart5[0m [1;32m23.08.5-1[0m [[1m1.13 MiB 4.18 MiB[0m]
+    Qt5 Okular KPart
+[35m3[0m [1;38;5;14maur[0m/[1mokular-git[0m [1;32m24.04.70_r10609.gd01acce2-1[0m [[1m+44 ~0.49[0m]
+    Document Viewer
+[35m4[0m [1;38;5;14maur[0m/[1mokular-backend-mupdf-git[0m [1;32mr81.1ba0160-1[0m [[1m+11 ~0.01[0m] [1;31m[Out-of-date: 2023-11-23][0m
+    MuPDF-based backend for Okular (git version)
+[35m5[0m [1;38;5;14maur[0m/[1mokular-no-purpose[0m [1;32m24.05.0-1[0m [[1m+5 ~0.06[0m]
+    Okular, a document viewer, without the dependency on purpose. This
+    disables the share menu
+[35m6[0m [1;38;5;14maur[0m/[1mokular-vim-colemak[0m [1;32m24.02.2-1[0m [[1m+0 ~0.00[0m]
+    Document Viewer with colemak vim-binding
+[1;34m::[0m [1mPackages to install (eg: 1 2 3, 1-3):[0m
+[1;34m::[0m 2  2 6 5
+[?25lresolving dependencies...
+[1;34m::[0;1m There are 2 providers available for phonon-qt5-backend:
+[0m[1;34m::[0;1m Repository [1;35mextra
+[0m[0;1m  [0m 1) phonon-qt5-gstreamer  2) phonon-qt5-vlc
+
+Enter a number (default=1): [?25h
+[?25llooking for conflicting packages...
+[1;33mwarning: [0mdependency cycle detected:
+[1;33mwarning: [0mphonon-qt5-gstreamer will be installed before its phonon-qt5 dependency
+
+[0;1mPackage (27)              [0m  [0;1mNew Version[0m  [0;1mNet Change[0m  [0;1mDownload Size[0m
+
+extra/discount              3.0.0.d-1      0,20 MiB       0,08 MiB
+extra/karchive5             5.116.0-1      1,05 MiB       0,42 MiB
+extra/kbookmarks5           5.116.0-1      1,27 MiB       0,58 MiB
+extra/kcompletion5          5.116.0-1      1,11 MiB       0,60 MiB
+extra/kcrash5               5.116.0-1      0,22 MiB       0,12 MiB
+extra/kded5                 5.116.0-1      0,11 MiB       0,06 MiB
+extra/kglobalaccel5         5.116.0-1      0,62 MiB       0,25 MiB
+extra/kiconthemes5          5.116.0-1      1,02 MiB       0,51 MiB
+extra/kio5                  5.116.0-1     28,71 MiB       8,07 MiB
+extra/kirigami2             5.116.0-1      2,05 MiB       0,60 MiB
+extra/kitemviews5           5.116.0-1      0,88 MiB       0,49 MiB
+extra/kjobwidgets5          5.116.0-1      0,73 MiB       0,30 MiB
+extra/kparts5               5.116.0-1      2,04 MiB       0,96 MiB
+extra/kpty5                 5.116.0-1      0,40 MiB       0,20 MiB
+extra/ktextwidgets5         5.116.0-1      2,15 MiB       0,82 MiB
+extra/kxmlgui5              5.116.0-1      4,67 MiB       1,65 MiB
+extra/libkexiv2-qt5         24.05.0-1      0,41 MiB       0,14 MiB
+extra/phonon-qt5            4.12.0-4       0,94 MiB       0,23 MiB
+extra/phonon-qt5-gstreamer  4.10.0-4       0,39 MiB       0,13 MiB
+extra/poppler-qt5           24.05.0-1      0,83 MiB       0,24 MiB
+extra/purpose5              5.116.0-1      1,48 MiB       0,30 MiB
+extra/qt5-graphicaleffects  5.15.14-1      0,52 MiB       0,07 MiB
+extra/qt5-quickcontrols     5.15.14-1      4,72 MiB       0,89 MiB
+extra/solid5                5.116.0-1      2,49 MiB       0,83 MiB
+extra/sonnet5               5.116.0-1      2,26 MiB       0,63 MiB
+extra/threadweaver5         5.116.0-1      0,86 MiB       0,44 MiB
+extra/okularpart5           23.08.5-1      4,18 MiB       1,13 MiB
+
+[0;1mTotal Download Size: [0m  20,74 MiB
+[0;1mTotal Installed Size:[0m  66,28 MiB
+
+[1;34m::[0;1m Proceed with installation? [Y/n] [0m[?25h
+[?25l[1;34m::[0;1m Retrieving packages...
+[0m kio5-5.116.0-1-x86_64
+ Total ( 0/27)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F kxmlgui5-5.116.0-1-x86_64
+ Total ( 0/27)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F okularpart5-23.08.5-1-x86_64
+ Total ( 0/27)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F kparts5-5.116.0-1-x86_64
+ Total ( 0/27)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F qt5-quickcontrols-5.15.14-1-x86_64
+ Total ( 0/27)           0,0   B  0,00   B/s 00:00 [-------------]   0%
+[3F kparts5-5.116.0-...     0,0   B  0,00   B/s --:-- [-------------]   0%[2E Total ( 0/27)           0,0   B  0,00   B/s --:-- [-------------]   0%[1F qt5-quickcontrol...     0,0   B  0,00   B/s --:-- [-------------]   0%[3F kxmlgui5-5.116.0...    15,9 KiB  0,00   B/s --:-- [-------------]   0%[1F kio5-5.116.0-1-x...     0,0   B  0,00   B/s --:-- [-------------]   0%[2E okularpart5-23.0...    15,9 KiB  0,00   B/s --:-- [-------------]   1% kio5-5.116.0-1-x...     0,0   B  0,00   B/s --:-- [-------------]   0%[2F okularpart5-23.0...  1162,0 KiB  5,16 MiB/s 00:00 [#############] 100%[4E kxmlgui5-5.116.0...    15,9 KiB  0,00   B/s --:-- [-------------]   0%[3F qt5-quickcontrol...   913,7 KiB  4,06 MiB/s 00:00 [#############] 100%[2E kio5-5.116.0-1-x...     0,0   B  0,00   B/s --:-- [-------------]   0%[1F kparts5-5.116.0-...   983,4 KiB  4,37 MiB/s 00:00 [#############] 100%[2E kio5-5.116.0-1-x...     0,0   B  0,00   B/s --:-- [-------------]   0%[1F kxmlgui5-5.116.0...  1684,6 KiB  6,97 MiB/s 00:00 [#############] 100%[2E solid5-5.116.0-1-x86_64
+ Total ( 4/27)           0,0   B  0,00   B/s --:-- [-------------]   0%
+[1F ktextwidgets5-5.116.0-1-x86_64
+ Total ( 4/27)           0,0   B  0,00   B/s --:-- [-------------]   0%
+[1F sonnet5-5.116.0-1-x86_64
+ Total ( 4/27)           0,0   B  0,00   B/s --:-- [-------------]   0%
+[1F kirigami2-5.116.0-1-x86_64
+ Total ( 4/27)           0,0   B  0,00   B/s --:-- [-------------]   0%
+[5F solid5-5.116.0-1...    15,9 KiB  0,00   B/s --:-- [-------------]   1%[1E ktextwidgets5-5....    15,9 KiB  0,00   B/s --:-- [-------------]   1%[1F kio5-5.116.0-1-x...     0,0   B  0,00   B/s --:-- [-------------]   0%[1F solid5-5.116.0-1...   846,4 KiB  19,2 MiB/s 00:00 [#############] 100%[5E Total ( 5/27)           7,2 MiB  12,0 MiB/s 00:01 [####---------]  34%[4F kio5-5.116.0-1-x...  1647,9 KiB  2,68 MiB/s 00:02 [##-----------]  19%[2E sonnet5-5.116.0-...    15,9 KiB  0,00   B/s --:-- [-------------]   2%[1F kio5-5.116.0-1-x...  1647,9 KiB  2,68 MiB/s 00:02 [##-----------]  19%[1F ktextwidgets5-5....   843,7 KiB  12,3 MiB/s 00:00 [#############] 100%[3E kirigami2-5.116....    15,9 KiB  0,00   B/s --:-- [-------------]   2%[1F kio5-5.116.0-1-x...  1647,9 KiB  2,68 MiB/s 00:02 [##-----------]  19%[1F sonnet5-5.116.0-...   647,5 KiB  7,62 MiB/s 00:00 [#############] 100%[3E kcompletion5-5.116.0-1-x86_64
+ Total ( 7/27)           7,2 MiB  12,0 MiB/s 00:01 [####---------]  34%
+[1F kbookmarks5-5.116.0-1-x86_64
+ Total ( 7/27)           7,2 MiB  12,0 MiB/s 00:01 [####---------]  34%
+[4F kio5-5.116.0-1-x...  1647,9 KiB  2,68 MiB/s 00:02 [##-----------]  19%[1F kirigami2-5.116....   616,3 KiB  7,25 MiB/s 00:00 [#############] 100%[4E kiconthemes5-5.116.0-1-x86_64
+ Total ( 8/27)           7,2 MiB  12,0 MiB/s 00:01 [####---------]  34%
+[4F kcompletion5-5.1...    15,9 KiB  0,00   B/s --:-- [-------------]   2%[1E kbookmarks5-5.11...    48,0 KiB  2,00   B/s --:-- [#------------]   8%[1F kio5-5.116.0-1-x...  1647,9 KiB  2,68 MiB/s 00:02 [##-----------]  19%[1F kcompletion5-5.1...   613,9 KiB  20,0 MiB/s 00:00 [#############] 100%[3E kiconthemes5-5.1...    15,9 KiB  0,00   B/s --:-- [-------------]   3%[1F kio5-5.116.0-1-x...  1647,9 KiB  2,68 MiB/s 00:02 [##-----------]  19%[1F kbookmarks5-5.11...   592,2 KiB  11,6 MiB/s 00:00 [#############] 100%[3E kitemviews5-5.116.0-1-x86_64
+ Total (10/27)           7,2 MiB  12,0 MiB/s 00:01 [####---------]  34%
+[3F kio5-5.116.0-1-x...  1647,9 KiB  2,68 MiB/s 00:02 [##-----------]  19%[1F kiconthemes5-5.1...   521,8 KiB  8,49 MiB/s 00:00 [#############] 100%[3E threadweaver5-5.116.0-1-x86_64
+ Total (11/27)           7,2 MiB  12,0 MiB/s 00:01 [####---------]  34%
+[1F karchive5-5.116.0-1-x86_64
+ Total (11/27)           7,2 MiB  12,0 MiB/s 00:01 [####---------]  34%
+[4F kitemviews5-5.11...    15,9 KiB  0,00   B/s --:-- [-------------]   3% kio5-5.116.0-1-x...  1647,9 KiB  2,68 MiB/s 00:02 [##-----------]  19%[1F kitemviews5-5.11...   503,9 KiB  18,9 MiB/s 00:00 [#############] 100%[2E threadweaver5-5....    15,9 KiB  0,00   B/s --:-- [-------------]   3%[2E purpose5-5.116.0-1-x86_64
+ Total (12/27)           7,2 MiB  12,0 MiB/s 00:01 [####---------]  34%
+[3F karchive5-5.116....    48,0 KiB  2,00   B/s --:-- [#------------]  11%[1F kio5-5.116.0-1-x...  1647,9 KiB  2,68 MiB/s 00:02 [##-----------]  19%[1F threadweaver5-5....   455,5 KiB  12,0 MiB/s 00:00 [#############] 100%[2E kio5-5.116.0-1-x...  1647,9 KiB  2,68 MiB/s 00:02 [##-----------]  19%[1F karchive5-5.116....   427,4 KiB  10,4 MiB/s 00:00 [#############] 100%[3E kjobwidgets5-5.116.0-1-x86_64
+ Total (14/27)           7,2 MiB  12,0 MiB/s 00:01 [####---------]  34%
+[3F purpose5-5.116.0...    15,9 KiB  0,00   B/s --:-- [-------------]   5% kio5-5.116.0-1-x...  1647,9 KiB  2,68 MiB/s 00:02 [##-----------]  19%[1F purpose5-5.116.0...   310,5 KiB  11,2 MiB/s 00:00 [#############] 100%[3E kglobalaccel5-5.116.0-1-x86_64
+ Total (15/27)           7,2 MiB  12,0 MiB/s 00:01 [####---------]  34%
+[1F poppler-qt5-24.05.0-1-x86_64
+ Total (15/27)           7,2 MiB  12,0 MiB/s 00:01 [####---------]  34%
+[4F kjobwidgets5-5.1...    15,9 KiB  0,00   B/s --:-- [-------------]   5% kio5-5.116.0-1-x...  1647,9 KiB  2,68 MiB/s 00:02 [##-----------]  19%[1F kjobwidgets5-5.1...   307,5 KiB  11,1 MiB/s 00:00 [#############] 100%[4E phonon-qt5-4.12.0-4-x86_64
+ Total (16/27)           7,2 MiB  12,0 MiB/s 00:01 [####---------]  34%
+[4F kglobalaccel5-5....    15,9 KiB  0,00   B/s --:-- [-------------]   6%[3E Total (16/27)          16,5 MiB  23,5 MiB/s 00:00 [##########---]  79%[3F kio5-5.116.0-1-x...  1647,9 KiB  2,68 MiB/s 00:02 [##-----------]  19%[1F kglobalaccel5-5....   253,1 KiB  9,15 MiB/s 00:00 [#############] 100%[2E poppler-qt5-24.0...    15,9 KiB  0,00   B/s --:-- [-------------]   6%[1F kio5-5.116.0-1-x...     5,4 MiB  8,04 MiB/s 00:00 [########-----]  66%[1E kio5-5.116.0-1-x...     5,4 MiB  8,04 MiB/s 00:00 [########-----]  66%[1F poppler-qt5-24.0...   250,4 KiB  8,15 MiB/s 00:00 [#############] 100%[2E phonon-qt5-4.12....    15,9 KiB  0,00   B/s --:-- [-------------]   6%[1E kpty5-5.116.0-1-x86_64
+ Total (18/27)          16,5 MiB  23,5 MiB/s 00:00 [##########---]  79%
+[3F kio5-5.116.0-1-x...     5,4 MiB  8,04 MiB/s 00:00 [########-----]  66%[1F phonon-qt5-4.12....   236,1 KiB  8,54 MiB/s 00:00 [#############] 100%[3E libkexiv2-qt5-24.05.0-1-x86_64
+ Total (19/27)          16,5 MiB  23,5 MiB/s 00:00 [##########---]  79%
+[1F phonon-qt5-gstreamer-4.10.0-4-x86_64
+ Total (19/27)          16,5 MiB  23,5 MiB/s 00:00 [##########---]  79%
+[4F kpty5-5.116.0-1-...    15,9 KiB  0,00   B/s --:-- [-------------]   7% kio5-5.116.0-1-x...     5,4 MiB  8,04 MiB/s 00:00 [########-----]  66%[1F kpty5-5.116.0-1-...   206,6 KiB  8,41 MiB/s 00:00 [#############] 100%[4E kcrash5-5.116.0-1-x86_64
+ Total (20/27)          16,5 MiB  23,5 MiB/s 00:00 [##########---]  79%
+[4F libkexiv2-qt5-24...    31,8 KiB  1,00   B/s --:-- [##-----------]  22% kio5-5.116.0-1-x...     5,4 MiB  8,04 MiB/s 00:00 [########-----]  66%[1F libkexiv2-qt5-24...   138,8 KiB  5,21 MiB/s 00:00 [#############] 100%[2E phonon-qt5-gstre...    15,9 KiB  0,00   B/s --:-- [#------------]  12% kio5-5.116.0-1-x...     5,4 MiB  8,04 MiB/s 00:00 [########-----]  66%[1F phonon-qt5-gstre...   131,0 KiB  5,33 MiB/s 00:00 [#############] 100%[2E kcrash5-5.116.0-...    15,9 KiB  0,00   B/s --:-- [#------------]  12%[1E discount-3.0.0.d-1-x86_64
+ Total (22/27)          16,5 MiB  23,5 MiB/s 00:00 [##########---]  79%
+[3F kio5-5.116.0-1-x...     5,4 MiB  8,04 MiB/s 00:00 [########-----]  66%[1F kcrash5-5.116.0-...   122,9 KiB  6,00 MiB/s 00:00 [#############] 100%[3E qt5-graphicaleffects-5.15.14-1-x86_64
+ Total (23/27)          16,5 MiB  23,5 MiB/s 00:00 [##########---]  79%
+[1F kded5-5.116.0-1-x86_64
+ Total (23/27)          16,5 MiB  23,5 MiB/s 00:00 [##########---]  79%
+[4F discount-3.0.0.d...    15,9 KiB  0,00   B/s --:-- [##-----------]  19% kio5-5.116.0-1-x...     5,4 MiB  8,04 MiB/s 00:00 [########-----]  66%[1F discount-3.0.0.d...    80,8 KiB  3,43 MiB/s 00:00 [#############] 100%[2E qt5-graphicaleff...    15,9 KiB  0,00   B/s --:-- [##-----------]  22% kio5-5.116.0-1-x...     5,4 MiB  8,04 MiB/s 00:00 [########-----]  66%[1F qt5-graphicaleff...    71,9 KiB  3,51 MiB/s 00:00 [#############] 100%[2E kded5-5.116.0-1-...    15,9 KiB  0,00   B/s --:-- [###----------]  26% kio5-5.116.0-1-x...     5,4 MiB  8,04 MiB/s 00:00 [########-----]  66%[1F kded5-5.116.0-1-...    59,0 KiB  2,40 MiB/s 00:00 [#############] 100%[1E kio5-5.116.0-1-x...     8,1 MiB  13,5 MiB/s 00:01 [#############] 100%[1E Total (27/27)          20,7 MiB  33,6 MiB/s 00:01 [#############] 100%
+( 0/27) checking keys in keyring                   [-------------]   0%( 1/27) checking keys in keyring                   [-------------]   3%( 2/27) checking keys in keyring                   [-------------]   7%( 3/27) checking keys in keyring                   [#------------]  11%( 4/27) checking keys in keyring                   [#------------]  14%( 5/27) checking keys in keyring                   [##-----------]  18%( 6/27) checking keys in keyring                   [##-----------]  22%( 7/27) checking keys in keyring                   [###----------]  25%( 8/27) checking keys in keyring                   [###----------]  29%( 9/27) checking keys in keyring                   [####---------]  33%(10/27) checking keys in keyring                   [####---------]  37%(11/27) checking keys in keyring                   [#####--------]  40%(12/27) checking keys in keyring                   [#####--------]  44%(13/27) checking keys in keyring                   [######-------]  48%(14/27) checking keys in keyring                   [######-------]  51%(15/27) checking keys in keyring                   [#######------]  55%(16/27) checking keys in keyring                   [#######------]  59%(17/27) checking keys in keyring                   [########-----]  62%(18/27) checking keys in keyring                   [########-----]  66%(19/27) checking keys in keyring                   [#########----]  70%(20/27) checking keys in keyring                   [#########----]  74%(21/27) checking keys in keyring                   [##########---]  77%(22/27) checking keys in keyring                   [##########---]  81%(23/27) checking keys in keyring                   [###########--]  85%(24/27) checking keys in keyring                   [###########--]  88%(25/27) checking keys in keyring                   [###########--]  92%(26/27) checking keys in keyring                   [############-]  96%(27/27) checking keys in keyring                   [#############] 100%
+( 0/27) checking package integrity                 [-------------]   0%( 1/27) checking package integrity                 [-------------]   0%( 2/27) checking package integrity                 [-------------]   2%( 3/27) checking package integrity                 [-------------]   3%( 4/27) checking package integrity                 [-------------]   6%( 5/27) checking package integrity                 [#------------]   8%( 6/27) checking package integrity                 [##-----------]  16%( 7/27) checking package integrity                 [##-----------]  19%( 8/27) checking package integrity                 [##-----------]  22%( 9/27) checking package integrity                 [###----------]  26%(10/27) checking package integrity                 [###----------]  27%(11/27) checking package integrity                 [###----------]  30%(12/27) checking package integrity                 [####---------]  34%(13/27) checking package integrity                 [####---------]  35%(14/27) checking package integrity                 [####---------]  35%(15/27) checking package integrity                 [#########----]  74%(16/27) checking package integrity                 [##########---]  78%(17/27) checking package integrity                 [##########---]  79%(18/27) checking package integrity                 [##########---]  80%(19/27) checking package integrity                 [##########---]  81%(20/27) checking package integrity                 [##########---]  82%(21/27) checking package integrity                 [##########---]  83%(22/27) checking package integrity                 [###########--]  87%(23/27) checking package integrity                 [###########--]  88%(24/27) checking package integrity                 [###########--]  90%(25/27) checking package integrity                 [###########--]  92%(26/27) checking package integrity                 [############-]  94%(27/27) checking package integrity                 [#############] 100%
+( 0/27) loading package files                      [-------------]   0%( 1/27) loading package files                      [-------------]   0%( 2/27) loading package files                      [-------------]   2%( 3/27) loading package files                      [-------------]   3%( 4/27) loading package files                      [-------------]   6%( 5/27) loading package files                      [#------------]   8%( 6/27) loading package files                      [##-----------]  16%( 7/27) loading package files                      [##-----------]  19%( 8/27) loading package files                      [##-----------]  22%( 9/27) loading package files                      [###----------]  26%(10/27) loading package files                      [###----------]  27%(11/27) loading package files                      [###----------]  30%(12/27) loading package files                      [####---------]  34%(13/27) loading package files                      [####---------]  35%(14/27) loading package files                      [####---------]  35%(15/27) loading package files                      [#########----]  74%(16/27) loading package files                      [##########---]  78%(17/27) loading package files                      [##########---]  79%(18/27) loading package files                      [##########---]  80%(19/27) loading package files                      [##########---]  81%(20/27) loading package files                      [##########---]  82%(21/27) loading package files                      [##########---]  83%(22/27) loading package files                      [###########--]  87%(23/27) loading package files                      [###########--]  88%(24/27) loading package files                      [###########--]  90%(25/27) loading package files                      [###########--]  92%(26/27) loading package files                      [############-]  94%(27/27) loading package files                      [#############] 100%
+( 0/27) checking for file conflicts                [-------------]   0%( 1/27) checking for file conflicts                [-------------]   3%( 2/27) checking for file conflicts                [-------------]   7%( 3/27) checking for file conflicts                [#------------]  11%( 4/27) checking for file conflicts                [#------------]  14%( 5/27) checking for file conflicts                [##-----------]  18%( 6/27) checking for file conflicts                [##-----------]  22%( 7/27) checking for file conflicts                [###----------]  25%( 8/27) checking for file conflicts                [###----------]  29%( 9/27) checking for file conflicts                [####---------]  33%(10/27) checking for file conflicts                [####---------]  37%(11/27) checking for file conflicts                [#####--------]  40%(12/27) checking for file conflicts                [#####--------]  44%(13/27) checking for file conflicts                [######-------]  48%(14/27) checking for file conflicts                [######-------]  51%(15/27) checking for file conflicts                [#######------]  55%(16/27) checking for file conflicts                [#######------]  59%(17/27) checking for file conflicts                [########-----]  62%(18/27) checking for file conflicts                [########-----]  66%(19/27) checking for file conflicts                [#########----]  70%(20/27) checking for file conflicts                [#########----]  74%(21/27) checking for file conflicts                [##########---]  77%(22/27) checking for file conflicts                [##########---]  81%(23/27) checking for file conflicts                [###########--]  85%(24/27) checking for file conflicts                [###########--]  88%(25/27) checking for file conflicts                [###########--]  92%(26/27) checking for file conflicts                [############-]  96%(27/27) checking for file conflicts                [#############] 100%
+( 0/27) checking available disk space              [-------------]   0%( 1/27) checking available disk space              [-------------]   3%( 2/27) checking available disk space              [-------------]   7%( 3/27) checking available disk space              [#------------]  11%( 4/27) checking available disk space              [#------------]  14%( 5/27) checking available disk space              [##-----------]  18%( 6/27) checking available disk space              [##-----------]  22%( 7/27) checking available disk space              [###----------]  25%( 8/27) checking available disk space              [###----------]  29%( 9/27) checking available disk space              [####---------]  33%(10/27) checking available disk space              [####---------]  37%(11/27) checking available disk space              [#####--------]  40%(12/27) checking available disk space              [#####--------]  44%(13/27) checking available disk space              [######-------]  48%(14/27) checking available disk space              [######-------]  51%(15/27) checking available disk space              [#######------]  55%(16/27) checking available disk space              [#######------]  59%(17/27) checking available disk space              [########-----]  62%(18/27) checking available disk space              [########-----]  66%(19/27) checking available disk space              [#########----]  70%(20/27) checking available disk space              [#########----]  74%(21/27) checking available disk space              [##########---]  77%(22/27) checking available disk space              [##########---]  81%(23/27) checking available disk space              [###########--]  85%(24/27) checking available disk space              [###########--]  88%(25/27) checking available disk space              [###########--]  92%(26/27) checking available disk space              [############-]  96%(27/27) checking available disk space              [#############] 100%
+[1;34m::[0;1m Processing package changes...
+[0m( 1/27) installing discount                        [-------------]   0%( 1/27) installing discount                        [#############] 100%
+( 2/27) installing karchive5                       [-------------]   0%( 2/27) installing karchive5                       [#############] 100%
+( 3/27) installing kglobalaccel5                   [-------------]   0%( 3/27) installing kglobalaccel5                   [#############] 100%
+( 4/27) installing kiconthemes5                    [-------------]   0%( 4/27) installing kiconthemes5                    [#############] 100%
+Optional dependencies for kiconthemes5
+[0;1m   [0m breeze-icons: fallback icon theme [installed]
+( 5/27) installing kitemviews5                     [-------------]   0%( 5/27) installing kitemviews5                     [#############] 100%
+( 6/27) installing kxmlgui5                        [-------------]   0%( 6/27) installing kxmlgui5                        [#############] 100%
+( 7/27) installing kbookmarks5                     [-------------]   0%( 7/27) installing kbookmarks5                     [#############] 100%
+( 8/27) installing kcompletion5                    [-------------]   0%( 8/27) installing kcompletion5                    [#############] 100%
+( 9/27) installing solid5                          [-------------]   0%( 9/27) installing solid5                          [#############] 100%
+Optional dependencies for solid5
+[0;1m   [0m qt5-declarative: QML bindings [installed]
+(10/27) installing kjobwidgets5                    [-------------]   0%(10/27) installing kjobwidgets5                    [#############] 100%
+(11/27) installing sonnet5                         [-------------]   0%(11/27) installing sonnet5                         [#############] 100%
+Optional dependencies for sonnet5
+[0;1m   [0m hunspell: spell checking via hunspell [installed]
+    aspell: spell checking via aspell [installed]
+    hspell: spell checking for Hebrew [installed]
+    libvoikko: Finnish support via Voikko [installed]
+    qt5-declarative: QML bindings [installed]
+(12/27) installing ktextwidgets5                   [-------------]   0%(12/27) installing ktextwidgets5                   [#############] 100%
+(13/27) installing kcrash5                         [-------------]   0%(13/27) installing kcrash5                         [#############] 100%
+Optional dependencies for kcrash5
+[0;1m   [0m drkonqi: KDE crash handler application [installed]
+(14/27) installing kded5                           [-------------]   0%(14/27) installing kded5                           [#############] 100%
+(15/27) installing kio5                            [-------------]   0%(15/27) installing kio5                            [-------------]   0%(15/27) installing kio5                            [-------------]   0%(15/27) installing kio5                            [-------------]   0%(15/27) installing kio5                            [-------------]   0%(15/27) installing kio5                            [-------------]   0%(15/27) installing kio5                            [-------------]   0%(15/27) installing kio5                            [-------------]   0%(15/27) installing kio5                            [-------------]   0%(15/27) installing kio5                            [-------------]   0%(15/27) installing kio5                            [-------------]   0%(15/27) installing kio5                            [-------------]   0%(15/27) installing kio5                            [-------------]   0%(15/27) installing kio5                            [#############] 100%
+Optional dependencies for kio5
+[0;1m   [0m kio5-extras: extra protocols support (sftp, fish and more)
+    kdoctools5: for the help kioslave
+    switcheroo-control: hybrid GPU support [installed]
+(16/27) installing kparts5                         [-------------]   0%(16/27) installing kparts5                         [#############] 100%
+(17/27) installing kpty5                           [-------------]   0%(17/27) installing kpty5                           [#############] 100%
+(18/27) installing libkexiv2-qt5                   [-------------]   0%(18/27) installing libkexiv2-qt5                   [#############] 100%
+(19/27) installing phonon-qt5-gstreamer            [-------------]   0%(19/27) installing phonon-qt5-gstreamer            [#############] 100%
+Optional dependencies for phonon-qt5-gstreamer
+[0;1m   [0m pulseaudio: PulseAudio support [installed]
+    gst-plugins-good: PulseAudio support and good codecs
+    gst-plugins-bad: additional codecs
+    gst-plugins-ugly: additional codecs
+    gst-libav: libav codec
+(20/27) installing phonon-qt5                      [-------------]   0%(20/27) installing phonon-qt5                      [#############] 100%
+Optional dependencies for phonon-qt5
+[0;1m   [0m pulseaudio: PulseAudio support [installed]
+    qt5-tools: Designer plugin [installed]
+(21/27) installing poppler-qt5                     [-------------]   0%(21/27) installing poppler-qt5                     [#############] 100%
+(22/27) installing qt5-quickcontrols               [-------------]   0%(22/27) installing qt5-quickcontrols               [#############] 100%
+(23/27) installing qt5-graphicaleffects            [-------------]   0%(23/27) installing qt5-graphicaleffects            [#############] 100%
+(24/27) installing kirigami2                       [-------------]   0%(24/27) installing kirigami2                       [#############] 100%
+(25/27) installing purpose5                        [-------------]   0%(25/27) installing purpose5                        [#############] 100%
+Optional dependencies for purpose5
+[0;1m   [0m kdeconnect: sharing to smartphone via KDE Connect
+    telegram-desktop: sharing via Telegram
+    bluedevil: sharing via Bluetooth
+    prison5: QR code plugin
+(26/27) installing threadweaver5                   [-------------]   0%(26/27) installing threadweaver5                   [#############] 100%
+(27/27) installing okularpart5                     [-------------]   0%(27/27) installing okularpart5                     [#############] 100%
+Optional dependencies for okularpart5
+[0;1m   [0m ebook-tools: mobi and epub support
+    unarchiver: Comic Book Archive support (alternative)
+    unrar: Comic Book Archive support
+[1;34m::[0;1m Running post-transaction hooks...
+[0m(1/4) Reloading user manager configuration...
+(2/4) Arming ConditionNeedsUpdate...
+(3/4) Updating icon theme caches...
+(4/4) Updating the desktop file MIME type cache...
+[?25h[1;34m::[0m [1mResolving dependencies...[0m
+[1;34m::[0m [1mCalculating conflicts...[0m
+[1;34m::[0m [1mCalculating inner conflicts...[0m
+
+[1mRepo (6)[0m                      [1mOld Version[0m  [1mNew Version[0m    [1mMake Only[0m
+extra/convertlit                           1.8-11         Yes
+extra/ebook-tools                          0.2.2-7        Yes
+extra/extra-cmake-modules                  6.2.0-1        Yes
+extra/kdegraphics-mobipocket               24.05.0-1      Yes
+extra/poppler-qt6                          24.05.0-1      No
+extra/threadweaver                         6.2.0-1        No
+
+[1mAur (1)[0m                       [1mOld Version[0m  [1mNew Version[0m    [1mMake Only[0m
+aur/okular-no-purpose                      24.05.0-1      No
+
+[1;34m::[0m [1mProceed to review?[0m [1m[Y/n]:[0m 
+
+[1;34m::[0m [1mDownloading PKGBUILDs...[0m
+ (1/1) downloading: okular-no-purpose-24.05.0-1
+[?1h[1m/home/heini/.cache/paru/clone/okular-no-purpose/PKGBUILD[0m[m
+[38;2;124;120;101m#[0m[38;2;124;120;101m Maintainer: Bas Timmer <basjetimmer at yahoo dot com >[0m[m
+[m
+[38;2;255;255;255m_pkgname[0m[38;2;249;38;114m=[0m[38;2;230;219;116mokular[0m[m
+[38;2;255;255;255mpkgname[0m[38;2;249;38;114m=[0m[38;2;230;219;116mokular-no-purpose[0m[m
+[38;2;255;255;255mpkgver[0m[38;2;249;38;114m=[0m[38;2;230;219;116m24.05.0[0m[m
+[38;2;255;255;255mpkgrel[0m[38;2;249;38;114m=[0m[38;2;230;219;116m1[0m[m
+[38;2;255;255;255mpkgdesc[0m[38;2;249;38;114m=[0m[38;2;255;255;255m'[0m[38;2;230;219;116mOkular, a document viewer, without the dependency on purpose.[m[7m>[27m
+[38;2;255;255;255march[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255mx86_64[0m[38;2;255;255;255m)[0m[m
+[38;2;255;255;255murl[0m[38;2;249;38;114m=[0m[38;2;255;255;255m'[0m[38;2;230;219;116mhttps://apps.kde.org/okular/[0m[38;2;255;255;255m'[0m[m
+[38;2;255;255;255mlicense[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255mGPL-2.0-or-later LGPL-2.0-or-later[0m[38;2;255;255;255m)[0m[m
+[38;2;255;255;255mdepends[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255mdiscount[0m[m
+[38;2;255;255;255m         djvulibre[0m[m
+[38;2;255;255;255m         freetype2[0m[m
+[38;2;255;255;255m         gcc-libs[0m[m
+[38;2;255;255;255m         glibc[0m[m
+[38;2;255;255;255m         plasma-activities[0m[m
+[38;2;255;255;255m         karchive[0m[m
+[38;2;255;255;255m         kbookmarks[0m[m
+[38;2;255;255;255m         kcolorscheme[0m[m
+[38;2;255;255;255m         kcompletion[0m[m
+[38;2;255;255;255m         kconfig[0m[m
+[38;2;255;255;255m         kconfigwidgets[0m[m
+[38;2;255;255;255m         kcoreaddons[0m[m
+[38;2;255;255;255m         kcrash[0m[m
+[38;2;255;255;255m         ki18n[0m[m
+[38;2;255;255;255m         kio[0m[m
+[38;2;255;255;255m         kitemviews[0m[m
+[38;2;255;255;255m         kparts[0m[m
+[38;2;255;255;255m         kpty[0m[m
+[38;2;255;255;255m         ktextwidgets[0m[m
+[38;2;255;255;255m         kwallet[0m[m
+[38;2;255;255;255m         kwidgetsaddons[0m[m
+[38;2;255;255;255m         kwindowsystem[0m[m
+[38;2;255;255;255m         kxmlgui[0m[m
+[38;2;255;255;255m         libkexiv2[0m[m
+:[K[K:[K22[K[?1l[1;34m::[0m [1mAccept changes?[0m [1m[Y/n]:[0m u
+
+Script done on 2024-06-01 03:32:28+02:00 [COMMAND_EXIT_CODE="1"]

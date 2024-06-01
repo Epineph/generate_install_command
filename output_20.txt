@@ -1,0 +1,4 @@
+Script started on 2024-05-31 15:58:21+02:00 [COMMAND="paru -S mupdf-tools" TERM="xterm-kitty" TTY="/dev/pts/6" COLUMNS="145" LINES="37"]
+[31m::[0m [1mPacman is currently in use, please wait...[0m
+^C
+Script done on 2024-05-31 15:58:50+02:00 [COMMAND_EXIT_CODE="130"]

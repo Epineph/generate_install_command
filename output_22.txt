@@ -1,0 +1,72 @@
+Script started on 2024-05-31 18:38:31+02:00 [COMMAND="paru -S babel-cli babel-core gulp node-gyp nodejs-nopt nodejs-yaml python-playwright semver typescript" TERM="xterm-kitty" TTY="/dev/pts/6" COLUMNS="71" LINES="37"]
+[?25lresolving dependencies...
+looking for conflicting packages...
+
+[0;1mPackage (12)           [0m  [0;1mNew Version[0m  [0;1mNet Change[0m  [0;1mDownload Size[0m
+
+extra/libngtcp2          1.5.0-1        0,46 MiB       0,15 MiB
+extra/nodejs             22.2.0-1      55,79 MiB      13,39 MiB
+extra/python-pyee        11.0.1-2       0,12 MiB       0,03 MiB
+extra/babel-cli          7.21.0-1       1,72 MiB               
+extra/babel-core         7.21.4-1      10,30 MiB               
+extra/gulp               4.0.2-3        5,62 MiB       1,07 MiB
+extra/node-gyp           10.1.0-2       6,84 MiB       1,10 MiB
+extra/nodejs-nopt        7.2.0-1        0,03 MiB       0,01 MiB
+extra/nodejs-yaml        2.2.2-1        0,62 MiB               
+extra/python-playwright  1.44.0-2      15,98 MiB               
+extra/semver             7.6.2-1        0,09 MiB       0,03 MiB
+extra/typescript         5.4.5-1       30,86 MiB       2,34 MiB
+
+[0;1mTotal Download Size: [0m   18,12 MiB
+[0;1mTotal Installed Size:[0m  128,43 MiB
+
+[1;34m::[0;1m Proceed with installation? [Y/n] [0m[?25h
+[?25l[1;34m::[0;1m Retrieving packages...
+[0m nodejs-22.2.0-1-x86_64
+ Total (0/8)             0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F typescript-5.4.5-1-any
+ Total (0/8)             0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F node-gyp-10.1.0-2-any
+ Total (0/8)             0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F gulp-4.0.2-3-any
+ Total (0/8)             0,0   B  0,00   B/s 00:00 [-------------]   0%
+[1F libngtcp2-1.5.0-1-x86_64
+ Total (0/8)             0,0   B  0,00   B/s 00:00 [-------------]   0%
+[6F nodejs-22.2.0-1-...     0,0   B  0,00   B/s --:-- [-------------]   0%[5E Total (0/8)             0,0   B  0,00   B/s --:-- [-------------]   0%[4F typescript-5.4.5...    15,9 KiB  0,00   B/s --:-- [-------------]   0%[2E gulp-4.0.2-3-any       15,9 KiB  0,00   B/s --:-- [-------------]   1%[1E libngtcp2-1.5.0-...    15,9 KiB  0,00   B/s --:-- [#------------]  10% nodejs-22.2.0-1-...     0,0   B  0,00   B/s --:-- [-------------]   0%[4F libngtcp2-1.5.0-...   149,5 KiB   542 KiB/s 00:00 [#############] 100%[5E semver-7.6.2-1-any
+ Total (1/8)             0,0   B  0,00   B/s --:-- [-------------]   0%
+[4F typescript-5.4.5...    15,9 KiB  0,00   B/s --:-- [-------------]   0%[2F gulp-4.0.2-3-any     1097,3 KiB  3,25 MiB/s 00:00 [#############] 100%[4E semver-7.6.2-1-any     15,9 KiB  0,00   B/s --:-- [#######------]  54% node-gyp-10.1.0-...     0,0   B  0,00   B/s 00:00 [#############] 100%[3F semver-7.6.2-1-any     29,0 KiB   880 KiB/s 00:00 [#############] 100%[4E python-pyee-11.0.1-2-any
+ Total (3/8)             0,0   B  0,00   B/s --:-- [-------------]   0%
+[5F typescript-5.4.5...     2,3 MiB  6,45 MiB/s 00:00 [#############] 100%[4E nodejs-nopt-7.2.0-1-any
+ Total (4/8)             0,0   B  0,00   B/s --:-- [-------------]   0%
+[5F nodejs-22.2.0-1-...     3,3 MiB  5,52 MiB/s 00:01 [###----------]  24%[4E Total (4/8)             6,9 MiB  11,5 MiB/s 00:00 [####---------]  38%[2F python-pyee-11.0...    15,9 KiB  0,00   B/s --:-- [#######------]  57% nodejs-22.2.0-1-...     3,3 MiB  5,52 MiB/s 00:01 [###----------]  24%[2F python-pyee-11.0...    27,6 KiB  1201 KiB/s 00:00 [#############] 100%[3E nodejs-nopt-7.2....    13,3 KiB  0,00   B/s 00:00 [#############] 100% node-gyp-10.1.0-...     0,0   B  0,00   B/s 00:00 [#############] 100%[2F nodejs-nopt-7.2....    13,3 KiB   443 KiB/s 00:00 [#############] 100%[1E nodejs-22.2.0-1-...    13,4 MiB  20,2 MiB/s 00:00 [############-]  99%[2E Total (6/8)            17,0 MiB  24,3 MiB/s 00:00 [############-]  93%[2F nodejs-22.2.0-1-...    13,4 MiB  22,6 MiB/s 00:01 [#############] 100%[1E node-gyp-10.1.0-...     0,0   B  0,00   B/s --:-- [-------------]   0%[1E Total (7/8)            17,0 MiB  16,2 MiB/s 00:00 [############-]  93%[1F node-gyp-10.1.0-...  1129,1 KiB  4,13 MiB/s 00:00 [#############] 100%[1E Total (8/8)            18,1 MiB  16,7 MiB/s 00:01 [#############] 100%
+[1;31merror: [0mfailed retrieving file 'node-gyp-10.1.0-2-any.pkg.tar.zst' from mirror.ubrco.de : The requested URL returned error: 404
+[1;31merror: [0mfailed retrieving file 'node-gyp-10.1.0-2-any.pkg.tar.zst' from mirrors.niyawe.de : The requested URL returned error: 404
+[1;31merror: [0mfailed retrieving file 'node-gyp-10.1.0-2-any.pkg.tar.zst' from mirror.f4st.host : The requested URL returned error: 404
+[1;31merror: [0mfailed retrieving file 'node-gyp-10.1.0-2-any.pkg.tar.zst' from pkg.fef.moe : The requested URL returned error: 404
+( 0/12) checking keys in keyring                   [-------------]   0%( 1/12) checking keys in keyring                   [#------------]   8%( 2/12) checking keys in keyring                   [##-----------]  16%( 3/12) checking keys in keyring                   [###----------]  25%( 4/12) checking keys in keyring                   [####---------]  33%( 5/12) checking keys in keyring                   [#####--------]  41%( 6/12) checking keys in keyring                   [######-------]  50%( 7/12) checking keys in keyring                   [#######------]  58%( 8/12) checking keys in keyring                   [########-----]  66%( 9/12) checking keys in keyring                   [#########----]  75%(10/12) checking keys in keyring                   [##########---]  83%(11/12) checking keys in keyring                   [###########--]  91%(12/12) checking keys in keyring                   [#############] 100%
+( 0/12) checking package integrity                 [-------------]   0%( 1/12) checking package integrity                 [-------------]   0%( 2/12) checking package integrity                 [########-----]  62%( 3/12) checking package integrity                 [########-----]  62%( 4/12) checking package integrity                 [########-----]  69%( 5/12) checking package integrity                 [#########----]  70%( 6/12) checking package integrity                 [#########----]  75%( 7/12) checking package integrity                 [#########----]  75%( 8/12) checking package integrity                 [##########---]  80%( 9/12) checking package integrity                 [##########---]  81%(10/12) checking package integrity                 [##########---]  81%(11/12) checking package integrity                 [###########--]  89%(12/12) checking package integrity                 [#############] 100%
+( 0/12) loading package files                      [-------------]   0%( 1/12) loading package files                      [-------------]   0%( 2/12) loading package files                      [########-----]  62%( 3/12) loading package files                      [########-----]  62%( 4/12) loading package files                      [########-----]  69%( 5/12) loading package files                      [#########----]  70%( 6/12) loading package files                      [#########----]  75%( 7/12) loading package files                      [#########----]  75%( 8/12) loading package files                      [##########---]  80%( 9/12) loading package files                      [##########---]  81%(10/12) loading package files                      [##########---]  81%(11/12) loading package files                      [###########--]  89%(12/12) loading package files                      [#############] 100%
+( 0/12) checking for file conflicts                [-------------]   0%( 1/12) checking for file conflicts                [#------------]   8%( 2/12) checking for file conflicts                [##-----------]  16%( 3/12) checking for file conflicts                [###----------]  25%( 4/12) checking for file conflicts                [####---------]  33%( 5/12) checking for file conflicts                [#####--------]  41%( 6/12) checking for file conflicts                [######-------]  50%( 7/12) checking for file conflicts                [#######------]  58%( 8/12) checking for file conflicts                [########-----]  66%( 9/12) checking for file conflicts                [#########----]  75%(10/12) checking for file conflicts                [##########---]  83%(11/12) checking for file conflicts                [###########--]  91%(12/12) checking for file conflicts                [#############] 100%
+( 0/12) checking available disk space              [-------------]   0%( 1/12) checking available disk space              [#------------]   8%( 2/12) checking available disk space              [##-----------]  16%( 3/12) checking available disk space              [###----------]  25%( 4/12) checking available disk space              [####---------]  33%( 5/12) checking available disk space              [#####--------]  41%( 6/12) checking available disk space              [######-------]  50%( 7/12) checking available disk space              [#######------]  58%( 8/12) checking available disk space              [########-----]  66%( 9/12) checking available disk space              [#########----]  75%(10/12) checking available disk space              [##########---]  83%(11/12) checking available disk space              [###########--]  91%(12/12) checking available disk space              [#############] 100%
+[1;34m::[0;1m Processing package changes...
+[0m( 1/12) installing libngtcp2                       [-------------]   0%( 1/12) installing libngtcp2                       [#############] 100%
+( 2/12) installing nodejs                          [-------------]   0%( 2/12) installing nodejs                          [-------------]   0%( 2/12) installing nodejs                          [-------------]   0%( 2/12) installing nodejs                          [-------------]   0%( 2/12) installing nodejs                          [-------------]   0%( 2/12) installing nodejs                          [-------------]   0%( 2/12) installing nodejs                          [-------------]   0%( 2/12) installing nodejs                          [-------------]   0%( 2/12) installing nodejs                          [#############] 100%
+Optional dependencies for nodejs
+[0;1m   [0m npm: nodejs package manager
+( 3/12) installing semver                          [-------------]   0%( 3/12) installing semver                          [#############] 100%
+( 4/12) installing babel-core                      [-------------]   0%( 4/12) installing babel-core                      [#############] 100%
+( 5/12) installing babel-cli                       [-------------]   0%( 5/12) installing babel-cli                       [#############] 100%
+( 6/12) installing gulp                            [-------------]   0%( 6/12) installing gulp                            [#############] 100%
+( 7/12) installing nodejs-nopt                     [-------------]   0%( 7/12) installing nodejs-nopt                     [#############] 100%
+( 8/12) installing node-gyp                        [-------------]   0%( 8/12) installing node-gyp                        [#############] 100%
+( 9/12) installing nodejs-yaml                     [-------------]   0%( 9/12) installing nodejs-yaml                     [#############] 100%
+(10/12) installing python-pyee                     [-------------]   0%(10/12) installing python-pyee                     [#############] 100%
+Optional dependencies for python-pyee
+[0;1m   [0m python-trio
+    python-twisted [installed]
+(11/12) installing python-playwright               [-------------]   0%(11/12) installing python-playwright               [#############] 100%
+(12/12) installing typescript                      [-------------]   0%(12/12) installing typescript                      [#############] 100%
+[1;34m::[0;1m Running post-transaction hooks...
+[0m(1/1) Arming ConditionNeedsUpdate...
+[?25h
+Script done on 2024-05-31 18:38:41+02:00 [COMMAND_EXIT_CODE="0"]
