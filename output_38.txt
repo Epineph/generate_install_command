@@ -1,181 +1,0 @@
-Script started on 2024-06-01 03:52:21+02:00 [COMMAND="paru -S mupdf-bgcolor-git calligra mupdf-bgcolor-git" TERM="xterm-kitty" TTY="/dev/pts/8" COLUMNS="71" LINES="37"]
-[?25lresolving dependencies...
-looking for conflicting packages...
-
-[0;1mPackage (19)          [0m  [0;1mNew Version[0m  [0;1mNet Change[0m  [0;1mDownload Size[0m
-
-extra/cauchy            0.9.0-3        0,52 MiB       0,14 MiB
-extra/gsl               2.7.1-3        4,38 MiB       1,48 MiB
-extra/kactivities5      5.116.0-1      0,74 MiB       0,31 MiB
-extra/kcmutils5         5.116.0-1      1,60 MiB       0,67 MiB
-extra/kcontacts5        5.116.0-1      2,10 MiB       0,81 MiB
-extra/kdeclarative5     5.116.0-1      1,59 MiB       0,54 MiB
-extra/kdelibs4support   5.116.0-1     18,01 MiB       3,47 MiB
-extra/kdiagram5         2.8.0-1        2,27 MiB       0,57 MiB
-extra/kemoticons        5.116.0-1      2,49 MiB       1,79 MiB
-extra/kinit             5.116.0-1      0,49 MiB       0,13 MiB
-extra/kitemmodels5      5.116.0-1      1,02 MiB       0,56 MiB
-extra/knotifyconfig5    5.116.0-1      0,53 MiB       0,20 MiB
-extra/kpackage5         5.116.0-1      0,98 MiB       0,33 MiB
-extra/kross             5.116.0-1      1,71 MiB       0,37 MiB
-extra/kunitconversion5  5.116.0-1     10,84 MiB       1,04 MiB
-extra/libodfgen         0.1.8-2        1,72 MiB       0,30 MiB
-extra/librevenge        0.0.5-2        9,45 MiB       0,56 MiB
-extra/libspnav          1.1-1          0,05 MiB       0,02 MiB
-extra/calligra          3.2.1-59     165,86 MiB      57,71 MiB
-
-[0;1mTotal Download Size: [0m   70,99 MiB
-[0;1mTotal Installed Size:[0m  226,35 MiB
-
-[1;34m::[0;1m Proceed with installation? [Y/n] [0m[?25h
-[?25l[1;34m::[0;1m Retrieving packages...
-[0m calligra-3.2.1-59-x86_64
- Total ( 0/19)           0,0   B  0,00   B/s 00:00 [-------------]   0%
-[1F kdelibs4support-5.116.0-1-x86_64
- Total ( 0/19)           0,0   B  0,00   B/s 00:00 [-------------]   0%
-[1F kemoticons-5.116.0-1-x86_64
- Total ( 0/19)           0,0   B  0,00   B/s 00:00 [-------------]   0%
-[1F gsl-2.7.1-3-x86_64
- Total ( 0/19)           0,0   B  0,00   B/s 00:00 [-------------]   0%
-[1F kunitconversion5-5.116.0-1-x86_64
- Total ( 0/19)           0,0   B  0,00   B/s 00:00 [-------------]   0%
-[5F kdelibs4support-...    15,9 KiB  0,00   B/s --:-- [-------------]   0%[4E Total ( 0/19)          15,9 KiB  0,00   B/s --:-- [-------------]   0%[3F kemoticons-5.116...    15,9 KiB  0,00   B/s --:-- [-------------]   0%[1E gsl-2.7.1-3-x86_64     15,9 KiB  0,00   B/s --:-- [-------------]   1%[1E kunitconversion5...    15,9 KiB  0,00   B/s --:-- [-------------]   1%[4F calligra-3.2.1-5...    15,9 KiB  0,00   B/s --:-- [-------------]   0%[4E calligra-3.2.1-5...    15,9 KiB  0,00   B/s --:-- [-------------]   0%[4F kunitconversion5...  1063,8 KiB  4,52 MiB/s 00:00 [#############] 100%[2E kdelibs4support-...    15,9 KiB  0,00   B/s --:-- [-------------]   0%[1F kemoticons-5.116...  1835,2 KiB  7,38 MiB/s 00:00 [#############] 100%[2E kdelibs4support-...    15,9 KiB  0,00   B/s --:-- [-------------]   0%[1F gsl-2.7.1-3-x86_64   1515,3 KiB  5,92 MiB/s 00:00 [#############] 100%[3E kcontacts5-5.116.0-1-x86_64
- Total ( 3/19)          15,9 KiB  0,00   B/s --:-- [-------------]   0%
-[1F kcmutils5-5.116.0-1-x86_64
- Total ( 3/19)          15,9 KiB  0,00   B/s --:-- [-------------]   0%
-[1F kdiagram5-2.8.0-1-x86_64
- Total ( 3/19)          15,9 KiB  0,00   B/s --:-- [-------------]   0%
-[4F kcontacts5-5.116...    15,9 KiB  0,00   B/s --:-- [-------------]   1%[3E Total ( 3/19)           8,2 MiB  13,6 MiB/s 00:04 [#------------]  11%[5F kdelibs4support-...     2,6 MiB  4,32 MiB/s 00:00 [#########----]  75%[3E kcmutils5-5.116....    15,9 KiB  0,00   B/s --:-- [-------------]   2%[1F kdelibs4support-...     2,6 MiB  4,32 MiB/s 00:00 [#########----]  75%[2F kcontacts5-5.116...   832,0 KiB  15,3 MiB/s 00:00 [#############] 100%[1E calligra-3.2.1-5...  1056,0 KiB  1734 KiB/s 00:33 [-------------]   1%[3E kdiagram5-2.8.0-...     0,0   B  0,00   B/s --:-- [-------------]   0%[2F calligra-3.2.1-5...  1056,0 KiB  1734 KiB/s 00:33 [-------------]   1%[1F kdelibs4support-...     3,5 MiB  10,2 MiB/s 00:00 [#############] 100%[2E calligra-3.2.1-5...  1056,0 KiB  1734 KiB/s 00:33 [-------------]   1%[1F kcmutils5-5.116....   681,6 KiB  8,32 MiB/s 00:00 [#############] 100%[3E kitemmodels5-5.116.0-1-x86_64
- Total ( 6/19)           8,2 MiB  13,6 MiB/s 00:04 [#------------]  11%
-[1F librevenge-0.0.5-2-x86_64
- Total ( 6/19)           8,2 MiB  13,6 MiB/s 00:04 [#------------]  11%
-[4F calligra-3.2.1-5...  1056,0 KiB  1734 KiB/s 00:33 [-------------]   1%[1F kdiagram5-2.8.0-...   587,4 KiB  6,17 MiB/s 00:00 [#############] 100%[4E kdeclarative5-5.116.0-1-x86_64
- Total ( 7/19)           8,2 MiB  13,6 MiB/s 00:04 [#------------]  11%
-[4F kitemmodels5-5.1...    15,9 KiB  0,00   B/s --:-- [-------------]   2% calligra-3.2.1-5...  1056,0 KiB  1734 KiB/s 00:33 [-------------]   1%[1F kitemmodels5-5.1...   576,9 KiB  15,2 MiB/s 00:00 [#############] 100%[2E librevenge-0.0.5...    15,9 KiB  0,00   B/s --:-- [-------------]   2%[2E kross-5.116.0-1-x86_64
- Total ( 8/19)           8,2 MiB  13,6 MiB/s 00:04 [#------------]  11%
-[3F kdeclarative5-5....    15,9 KiB  0,00   B/s --:-- [-------------]   2%[1F calligra-3.2.1-5...  1056,0 KiB  1734 KiB/s 00:33 [-------------]   1%[1F librevenge-0.0.5...   569,1 KiB  9,75 MiB/s 00:00 [#############] 100%[2E calligra-3.2.1-5...  1056,0 KiB  1734 KiB/s 00:33 [-------------]   1%[1F kdeclarative5-5....   556,8 KiB  7,06 MiB/s 00:00 [#############] 100%[3E kpackage5-5.116.0-1-x86_64
- Total (10/19)           8,2 MiB  13,6 MiB/s 00:04 [#------------]  11%
-[3F kross-5.116.0-1-...    15,9 KiB  0,00   B/s --:-- [-------------]   4% calligra-3.2.1-5...  1056,0 KiB  1734 KiB/s 00:33 [-------------]   1%[1F kross-5.116.0-1-...   380,0 KiB  12,4 MiB/s 00:00 [#############] 100%[3E kactivities5-5.116.0-1-x86_64
- Total (11/19)           8,2 MiB  13,6 MiB/s 00:04 [#------------]  11%
-[1F libodfgen-0.1.8-2-x86_64
- Total (11/19)           8,2 MiB  13,6 MiB/s 00:04 [#------------]  11%
-[4F kpackage5-5.116....    15,9 KiB  0,00   B/s --:-- [-------------]   4% calligra-3.2.1-5...  1056,0 KiB  1734 KiB/s 00:33 [-------------]   1%[1F kpackage5-5.116....   335,3 KiB  12,1 MiB/s 00:00 [#############] 100%[4E knotifyconfig5-5.116.0-1-x86_64
- Total (12/19)           8,2 MiB  13,6 MiB/s 00:04 [#------------]  11%
-[4F kactivities5-5.1...    15,9 KiB  0,00   B/s --:-- [-------------]   5%[1E libodfgen-0.1.8-...    15,9 KiB  0,00   B/s --:-- [-------------]   5%[1F calligra-3.2.1-5...  1056,0 KiB  1734 KiB/s 00:33 [-------------]   1%[1F kactivities5-5.1...   314,1 KiB  10,2 MiB/s 00:00 [#############] 100%[2E calligra-3.2.1-5...  1056,0 KiB  1734 KiB/s 00:33 [-------------]   1%[1F libodfgen-0.1.8-...   303,4 KiB  8,98 MiB/s 00:00 [#############] 100%[3E cauchy-0.9.0-3-x86_64
- Total (14/19)           8,2 MiB  13,6 MiB/s 00:04 [#------------]  11%
-[3F knotifyconfig5-5...    15,9 KiB  0,00   B/s --:-- [-------------]   7% calligra-3.2.1-5...  1056,0 KiB  1734 KiB/s 00:33 [-------------]   1%[1F knotifyconfig5-5...   202,9 KiB  7,34 MiB/s 00:00 [#############] 100%[3E Total (15/19)          16,0 MiB  22,1 MiB/s 00:02 [##-----------]  22% kinit-5.116.0-1-x86_64
- Total (15/19)          16,0 MiB  22,1 MiB/s 00:02 [##-----------]  22%
-[1F libspnav-1.1-1-x86_64
- Total (15/19)          16,0 MiB  22,1 MiB/s 00:02 [##-----------]  22%
-[4F cauchy-0.9.0-3-x...    15,9 KiB  0,00   B/s --:-- [#------------]  11% calligra-3.2.1-5...  1056,0 KiB  1734 KiB/s 00:33 [-------------]   1%[1F cauchy-0.9.0-3-x...   142,4 KiB  6,05 MiB/s 00:00 [#############] 100%[1E calligra-3.2.1-5...     3,3 MiB  4,93 MiB/s 00:11 [-------------]   5%[1E kinit-5.116.0-1-...    15,9 KiB  0,00   B/s --:-- [#------------]  12% calligra-3.2.1-5...     3,3 MiB  4,93 MiB/s 00:11 [-------------]   5%[1F kinit-5.116.0-1-...   128,3 KiB  6,26 MiB/s 00:00 [#############] 100%[2E libspnav-1.1-1-x...    15,9 KiB  0,00   B/s 55:15 [###########--]  87% calligra-3.2.1-5...     3,3 MiB  4,93 MiB/s 00:11 [-------------]   5%[1F libspnav-1.1-1-x...    18,2 KiB   909 KiB/s 00:00 [#############] 100%[2E Total (18/19)          20,2 MiB  21,7 MiB/s 00:02 [###----------]  28%[1F calligra-3.2.1-5...     7,4 MiB  10,2 MiB/s 00:04 [#------------]  12%[1E Total (18/19)          26,6 MiB  25,1 MiB/s 00:01 [####---------]  37%[1F calligra-3.2.1-5...    14,1 MiB  17,9 MiB/s 00:02 [###----------]  24%[1E Total (18/19)          35,8 MiB  32,1 MiB/s 00:01 [######-------]  50%[1F calligra-3.2.1-5...    23,6 MiB  27,8 MiB/s 00:01 [#####--------]  40%[1E Total (18/19)          45,9 MiB  38,3 MiB/s 00:00 [########-----]  64%[1F calligra-3.2.1-5...    35,1 MiB  37,6 MiB/s 00:00 [#######------]  60%[1E Total (18/19)          57,7 MiB  45,1 MiB/s 00:00 [##########---]  81%[1F calligra-3.2.1-5...    45,2 MiB  42,0 MiB/s 00:00 [##########---]  78%[1E Total (18/19)          68,0 MiB  47,4 MiB/s 00:00 [############-]  95%[1F calligra-3.2.1-5...    56,0 MiB  45,9 MiB/s 00:00 [############-]  96% calligra-3.2.1-5...    57,7 MiB  33,0 MiB/s 00:02 [#############] 100%[1E Total (19/19)          71,0 MiB  40,2 MiB/s 00:02 [#############] 100%
-( 0/19) checking keys in keyring                   [-------------]   0%( 1/19) checking keys in keyring                   [-------------]   5%( 2/19) checking keys in keyring                   [#------------]  10%( 3/19) checking keys in keyring                   [#------------]  15%( 4/19) checking keys in keyring                   [##-----------]  21%( 5/19) checking keys in keyring                   [###----------]  26%( 6/19) checking keys in keyring                   [####---------]  31%( 7/19) checking keys in keyring                   [####---------]  36%( 8/19) checking keys in keyring                   [#####--------]  42%( 9/19) checking keys in keyring                   [######-------]  47%(10/19) checking keys in keyring                   [######-------]  52%(11/19) checking keys in keyring                   [#######------]  57%(12/19) checking keys in keyring                   [########-----]  63%(13/19) checking keys in keyring                   [########-----]  68%(14/19) checking keys in keyring                   [#########----]  73%(15/19) checking keys in keyring                   [##########---]  78%(16/19) checking keys in keyring                   [##########---]  84%(17/19) checking keys in keyring                   [###########--]  89%(18/19) checking keys in keyring                   [############-]  94%(19/19) checking keys in keyring                   [#############] 100%
-( 0/19) checking package integrity                 [-------------]   0%( 1/19) checking package integrity                 [-------------]   0%( 2/19) checking package integrity                 [-------------]   2%( 3/19) checking package integrity                 [-------------]   2%( 4/19) checking package integrity                 [-------------]   3%( 5/19) checking package integrity                 [-------------]   5%( 6/19) checking package integrity                 [-------------]   6%( 7/19) checking package integrity                 [#------------]   8%( 8/19) checking package integrity                 [#------------]  13%( 9/19) checking package integrity                 [#------------]  14%(10/19) checking package integrity                 [#------------]  14%(11/19) checking package integrity                 [#------------]  15%(12/19) checking package integrity                 [##-----------]  16%(13/19) checking package integrity                 [##-----------]  16%(14/19) checking package integrity                 [##-----------]  16%(15/19) checking package integrity                 [##-----------]  17%(16/19) checking package integrity                 [##-----------]  18%(17/19) checking package integrity                 [##-----------]  18%(18/19) checking package integrity                 [##-----------]  18%(19/19) checking package integrity                 [#############] 100%
-( 0/19) loading package files                      [-------------]   0%( 1/19) loading package files                      [-------------]   0%( 2/19) loading package files                      [-------------]   2%( 3/19) loading package files                      [-------------]   2%( 4/19) loading package files                      [-------------]   3%( 5/19) loading package files                      [-------------]   5%( 6/19) loading package files                      [-------------]   6%( 7/19) loading package files                      [#------------]   8%( 8/19) loading package files                      [#------------]  13%( 9/19) loading package files                      [#------------]  14%(10/19) loading package files                      [#------------]  14%(11/19) loading package files                      [#------------]  15%(12/19) loading package files                      [##-----------]  16%(13/19) loading package files                      [##-----------]  16%(14/19) loading package files                      [##-----------]  16%(15/19) loading package files                      [##-----------]  17%(16/19) loading package files                      [##-----------]  18%(17/19) loading package files                      [##-----------]  18%(18/19) loading package files                      [##-----------]  18%(19/19) loading package files                      [#############] 100%
-( 0/19) checking for file conflicts                [-------------]   0%( 1/19) checking for file conflicts                [-------------]   5%( 2/19) checking for file conflicts                [#------------]  10%( 3/19) checking for file conflicts                [#------------]  15%( 4/19) checking for file conflicts                [##-----------]  21%( 5/19) checking for file conflicts                [###----------]  26%( 6/19) checking for file conflicts                [####---------]  31%( 7/19) checking for file conflicts                [####---------]  36%( 8/19) checking for file conflicts                [#####--------]  42%( 9/19) checking for file conflicts                [######-------]  47%(10/19) checking for file conflicts                [######-------]  52%(11/19) checking for file conflicts                [#######------]  57%(12/19) checking for file conflicts                [########-----]  63%(13/19) checking for file conflicts                [########-----]  68%(14/19) checking for file conflicts                [#########----]  73%(15/19) checking for file conflicts                [##########---]  78%(16/19) checking for file conflicts                [##########---]  84%(17/19) checking for file conflicts                [###########--]  89%(18/19) checking for file conflicts                [############-]  94%(19/19) checking for file conflicts                [#############] 100%
-( 0/19) checking available disk space              [-------------]   0%( 1/19) checking available disk space              [-------------]   5%( 2/19) checking available disk space              [#------------]  10%( 3/19) checking available disk space              [#------------]  15%( 4/19) checking available disk space              [##-----------]  21%( 5/19) checking available disk space              [###----------]  26%( 6/19) checking available disk space              [####---------]  31%( 7/19) checking available disk space              [####---------]  36%( 8/19) checking available disk space              [#####--------]  42%( 9/19) checking available disk space              [######-------]  47%(10/19) checking available disk space              [######-------]  52%(11/19) checking available disk space              [#######------]  57%(12/19) checking available disk space              [########-----]  63%(13/19) checking available disk space              [########-----]  68%(14/19) checking available disk space              [#########----]  73%(15/19) checking available disk space              [##########---]  78%(16/19) checking available disk space              [##########---]  84%(17/19) checking available disk space              [###########--]  89%(18/19) checking available disk space              [############-]  94%(19/19) checking available disk space              [#############] 100%
-[1;34m::[0;1m Processing package changes...
-[0m( 1/19) installing cauchy                          [-------------]   0%( 1/19) installing cauchy                          [#############] 100%
-( 2/19) installing gsl                             [-------------]   0%( 2/19) installing gsl                             [#############] 100%
-( 3/19) installing kactivities5                    [-------------]   0%( 3/19) installing kactivities5                    [#############] 100%
-Optional dependencies for kactivities5
-[0;1m   [0m qt5-declarative: QML bindings [installed]
-( 4/19) installing kcontacts5                      [-------------]   0%( 4/19) installing kcontacts5                      [#############] 100%
-( 5/19) installing kunitconversion5                [-------------]   0%( 5/19) installing kunitconversion5                [#############] 100%
-( 6/19) installing kitemmodels5                    [-------------]   0%( 6/19) installing kitemmodels5                    [#############] 100%
-Optional dependencies for kitemmodels5
-[0;1m   [0m qt5-declarative: QML bindings [installed]
-( 7/19) installing kemoticons                      [-------------]   0%( 7/19) installing kemoticons                      [#############] 100%
-( 8/19) installing kdelibs4support                 [-------------]   0%( 8/19) installing kdelibs4support                 [#############] 100%
-( 9/19) installing kdiagram5                       [-------------]   0%( 9/19) installing kdiagram5                       [#############] 100%
-(10/19) installing kpackage5                       [-------------]   0%(10/19) installing kpackage5                       [#############] 100%
-(11/19) installing kdeclarative5                   [-------------]   0%(11/19) installing kdeclarative5                   [#############] 100%
-(12/19) installing kcmutils5                       [-------------]   0%(12/19) installing kcmutils5                       [#############] 100%
-(13/19) installing kinit                           [-------------]   0%(13/19) installing kinit                           [#############] 100%
-(14/19) installing knotifyconfig5                  [-------------]   0%(14/19) installing knotifyconfig5                  [#############] 100%
-(15/19) installing kross                           [-------------]   0%(15/19) installing kross                           [#############] 100%
-(16/19) installing librevenge                      [-------------]   0%(16/19) installing librevenge                      [#############] 100%
-(17/19) installing libodfgen                       [-------------]   0%(17/19) installing libodfgen                       [#############] 100%
-(18/19) installing libspnav                        [-------------]   0%(18/19) installing libspnav                        [#############] 100%
-(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [-------------]   0%(19/19) installing calligra                        [#############] 100%
-Optional dependencies for calligra
-[0;1m   [0m kirigami2: for Calligra Gemini [installed]
-    libetonyek: Apple Keynote import filter
-    libgit2: Calligra Gemini git plugin [installed]
-    libvisio: Microsoft Visio import filter
-    libwpg: Corel WordPerfect Graphics image importer
-    libwps: Microsoft Works file word processor format import
-    poppler: PDF to SVG filter [installed]
-    pstoedit: EPS to SVG filter
-    qt5-quickcontrols: for Calligra Gemini [installed]
-    qt5-webengine: for Calligra Gemini [installed]
-[1;34m::[0;1m Running post-transaction hooks...
-[0m(1/5) Arming ConditionNeedsUpdate...
-(2/5) Updating the MIME type database...
-(3/5) Updating icon theme caches...
-(4/5) Updating the info directory file...
-(5/5) Updating the desktop file MIME type cache...
-[?25h[1;34m::[0m [1mResolving dependencies...[0m
-[1;34m::[0m [1mCalculating conflicts...[0m
-[1;34m::[0m [1mCalculating inner conflicts...[0m
-
-[1mAur (1)[0m                [1mOld Version[0m  [1mNew Version[0m          [1mMake Only[0m
-aur/mupdf-bgcolor-git               20180322.90defd07-1  No
-
-[1;34m::[0m [1mProceed to review?[0m [1m[Y/n]:[0m 
-
-[1;34m::[0m [1mDownloading PKGBUILDs...[0m
- PKGBUILDs up to date
- nothing new to review
-fetching devel info...
-[1m[32m==>(B[m[1m Making package: mupdf-bgcolor-git 20180322.90defd07-1 (2024-06-01T03:52:36 CEST)(B[m
-[1m[32m==>(B[m[1m Retrieving sources...(B[m
-[1m[34m  ->(B[m[1m Updating mupdf git repo...(B[m
-[1m[34m  ->(B[m[1m Updating mujs git repo...(B[m
-[1m[34m  ->(B[m[1m Found cmm_ctx_gone.patch(B[m
-[1m[34m  ->(B[m[1m Found desktop(B[m
-[1m[34m  ->(B[m[1m Found mupdf-bgcolor.patch(B[m
-[1m[32m==>(B[m[1m Validating source files with sha256sums...(B[m
-    mupdf ... Skipped
-    mujs ... Skipped
-    cmm_ctx_gone.patch ... Passed
-    desktop ... Passed
-    mupdf-bgcolor.patch ... Passed
-[1m[32m==>(B[m[1m Making package: mupdf-bgcolor-git 20180322.90defd07-1 (2024-06-01T03:52:41 CEST)(B[m
-[1m[32m==>(B[m[1m Checking runtime dependencies...(B[m
-[1m[32m==>(B[m[1m Checking buildtime dependencies...(B[m
-[1m[32m==>(B[m[1m Retrieving sources...(B[m
-[1m[34m  ->(B[m[1m Updating mupdf git repo...(B[m
-[1m[34m  ->(B[m[1m Updating mujs git repo...(B[m
-s[1m[34m  ->(B[m[1m Found cmm_ctx_gone.patch(B[m
-[1m[34m  ->(B[m[1m Found desktop(B[m
-[1m[34m  ->(B[m[1m Found mupdf-bgcolor.patch(B[m
-[1m[32m==>(B[m[1m Validating source files with sha256sums...(B[m
-    mupdf ... Skipped
-    mujs ... Skipped
-    cmm_ctx_gone.patch ... Passed
-    desktop ... Passed
-    mupdf-bgcolor.patch ... Passed
-[1m[32m==>(B[m[1m Removing existing $srcdir/ directory...(B[m
-[1m[32m==>(B[m[1m Extracting sources...(B[m
-[1m[34m  ->(B[m[1m Creating working copy of mupdf git repo...(B[m
-Cloning into 'mupdf'...
-done.
-[1m[34m  ->(B[m[1m Creating working copy of mujs git repo...(B[m
-Cloning into 'mujs'...
-done.
-[1m[32m==>(B[m[1m Starting prepare()...(B[m
-Submodule 'thirdparty/mujs' (/home/heini/.cache/paru/clone/mupdf-bgcolor-git/src/mupdf/../mujs) registered for path 'thirdparty/mujs'
-Cloning into '/home/heini/.cache/paru/clone/mupdf-bgcolor-git/src/mupdf/thirdparty/mujs'...
-fatal: transport 'file' not allowed
-fatal: clone of '/home/heini/.cache/paru/clone/mupdf-bgcolor-git/src/mupdf/../mujs' into submodule path '/home/heini/.cache/paru/clone/mupdf-bgcolor-git/src/mupdf/thirdparty/mujs' failed
-Failed to clone 'thirdparty/mujs'. Retry scheduled
-Cloning into '/home/heini/.cache/paru/clone/mupdf-bgcolor-git/src/mupdf/thirdparty/mujs'...
-fatal: transport 'file' not allowed
-fatal: clone of '/home/heini/.cache/paru/clone/mupdf-bgcolor-git/src/mupdf/../mujs' into submodule path '/home/heini/.cache/paru/clone/mupdf-bgcolor-git/src/mupdf/thirdparty/mujs' failed
-Failed to clone 'thirdparty/mujs' a second time, aborting
-[1m[31m==> ERROR:(B[m[1m A failure occurred in prepare().(B[m
-[1m    Aborting...(B[m
-[31merror:[0m failed to build 'mupdf-bgcolor-git-20180322.90defd07-1': 
-error: packages failed to build: mupdf-bgcolor-git-20180322.90defd07-1
-
-Script done on 2024-06-01 03:52:45+02:00 [COMMAND_EXIT_CODE="1"]

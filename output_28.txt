@@ -1,5 +1,0 @@
-Script started on 2024-05-31 22:53:57+02:00 [COMMAND="yay -S darks" TERM="xterm-kitty" TTY="/dev/pts/4" COLUMNS="145" LINES="37"]
-[1m[31m -> [0m[0mNo AUR package found for darks
- there is nothing to do
-
-Script done on 2024-05-31 22:53:58+02:00 [COMMAND_EXIT_CODE="0"]

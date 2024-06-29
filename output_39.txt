@@ -1,84 +1,0 @@
-Script started on 2024-06-01 03:52:57+02:00 [COMMAND="paru mupdf" TERM="xterm-kitty" TTY="/dev/pts/8" COLUMNS="71" LINES="37"]
-[35m 1[0m [1;38;5;12mextra[0m/[1mmupdf[0m [1;32m1.24.2-2[0m [[1m56.02 KiB 145.13 KiB[0m]
-    Lightweight PDF and XPS viewer
-[35m 2[0m [1;38;5;12mextra[0m/[1mlibmupdf[0m [1;32m1.24.2-2[0m [[1m0 B 50.37 MiB[0m] [1;36m[Installed][0m
-    Library for Lightweight PDF and XPS viewer
-[35m 3[0m [1;38;5;12mextra[0m/[1mmupdf-gl[0m [1;32m1.24.2-2[0m [[1m107.05 KiB 266.04 KiB[0m]
-    Lightweight PDF and XPS viewer with OpenGL backend
-[35m 4[0m [1;38;5;12mextra[0m/[1mmupdf-tools[0m [1;32m1.24.2-2[0m [[1m169.28 KiB 533.38 KiB[0m]
-    Tools for Lightweight PDF and XPS viewer
-[35m 5[0m [1;38;5;12mextra[0m/[1mpython-mupdf[0m [1;32m1.24.2-2[0m [[1m1.84 MiB 12.51 MiB[0m]
-    Library for Lightweight PDF and XPS viewer - Python bindings
-[35m 6[0m [1;38;5;12mextra[0m/[1mpython-pymupdf[0m [1;32m1.24.5-1[0m [[1m701.44 KiB 3.82 MiB[0m]
-    Python bindings for MuPDF's rendering library
-[35m 7[0m [1;38;5;12mextra[0m/[1mzathura-pdf-mupdf[0m [1;32m0.4.2-1[0m [[1m0 B 27.60 KiB[0m] [1;36m[Installed][0m
-    PDF support for Zathura (MuPDF backend) (Supports PDF, ePub, and 
-    OpenXPS)
-[35m 8[0m [1;38;5;14maur[0m/[1mfbpdf-git[0m [1;32mr102.6276360-3[0m [[1m+43 ~0.00[0m] [1;36m[Installed][0m
-    A small framebuffer pdf viewer, based on MuPDF.
-[35m 9[0m [1;38;5;14maur[0m/[1mzathura-pdf-mupdf-git[0m [1;32m0.4.1.r8.gc742d4c-2[0m [[1m+21 ~0.00[0m]
-    PDF support for zathura (mupdf backend) (Supports PDF, ePub, and 
-    OpenXPS)
-[35m10[0m [1;38;5;14maur[0m/[1mmupdf-git[0m [1;32m20231101.dc7489fd9-1[0m [[1m+17 ~0.00[0m]
-    Lightweight PDF, XPS, and E-book viewer
-[35m11[0m [1;38;5;14maur[0m/[1mokular-backend-mupdf-git[0m [1;32mr81.1ba0160-1[0m [[1m+11 ~0.01[0m] [1;31m[Out-of-date: 2023-11-23][0m
-    MuPDF-based backend for Okular (git version)
-[35m12[0m [1;38;5;14maur[0m/[1mllpp[0m [1;32m42-1[0m [[1m+8 ~0.11[0m]
-    opengl accelerated pdf viewer based on mupdf
-[35m13[0m [1;38;5;14maur[0m/[1mvim-live-latex-preview[0m [1;32m0.9-1[0m [[1m+7 ~0.00[0m] [1;31m[Orphaned][0m
-    Vim plugin and helper scripts to provide a live-updating PDF 
-    preview of LaTeX documents with MuPDF
-[35m14[0m [1;38;5;14maur[0m/[1mpdftxt[0m [1;32m0.7-6[0m [[1m+6 ~0.00[0m]
-    Simple wrapper around libmupdf to extract text from PDF files
-[35m15[0m [1;38;5;14maur[0m/[1mmupdf-bgcolor-git[0m [1;32m20180322.90defd07-1[0m [[1m+0 ~0.00[0m]
-    Lightweight PDF, XPS, and E-book viewer. Patched to allow custom 
-    background color.
-[1;34m::[0m [1mPackages to install (eg: 1 2 3, 1-3):[0m
-[1;34m::[0m 1-7
-[1;33mwarning: [0mlibmupdf-1.24.2-2 is up to date -- reinstalling
-[1;33mwarning: [0mzathura-pdf-mupdf-0.4.2-1 is up to date -- reinstalling
-[?25lresolving dependencies...
-looking for conflicting packages...
-[1;33mwarning: [0mremoving 'mupdf-1.24.2-2' from target list because it conflicts with 'mupdf-gl-1.24.2-2'
-
-[1;33mwarning: [0minsufficient columns available for table display
-[0;1mPackages (6)[0m libmupdf[38;5;243m-1.24.2-2[0m  mupdf-gl[38;5;243m-1.24.2-2[0m
-             mupdf-tools[38;5;243m-1.24.2-2[0m  python-mupdf[38;5;243m-1.24.2-2[0m
-             python-pymupdf[38;5;243m-1.24.5-1[0m  zathura-pdf-mupdf[38;5;243m-0.4.2-1[0m
-
-[0;1mTotal Download Size: [0m   2,80 MiB
-[0;1mTotal Installed Size:[0m  67,51 MiB
-[0;1mNet Upgrade Size:    [0m  17,11 MiB
-
-[1;34m::[0;1m Proceed with installation? [Y/n] [0m[?25h
-[?25l[1;34m::[0;1m Retrieving packages...
-[0m python-mupdf-1.24.2-2-x86_64
- Total (0/4)             0,0   B  0,00   B/s 00:00 [-------------]   0%
-[1F python-pymupdf-1.24.5-1-x86_64
- Total (0/4)             0,0   B  0,00   B/s 00:00 [-------------]   0%
-[1F mupdf-tools-1.24.2-2-x86_64
- Total (0/4)             0,0   B  0,00   B/s 00:00 [-------------]   0%
-[1F mupdf-gl-1.24.2-2-x86_64
- Total (0/4)             0,0   B  0,00   B/s 00:00 [-------------]   0%
-[5F python-mupdf-1.2...     0,0   B  0,00   B/s --:-- [-------------]   0%[4E Total (0/4)             0,0   B  0,00   B/s --:-- [-------------]   0%[2F mupdf-tools-1.24...     0,0   B  0,00   B/s --:-- [-------------]   0%[1E mupdf-gl-1.24.2-...    15,9 KiB  0,00   B/s --:-- [#------------]  14%[2F python-pymupdf-1...    15,9 KiB  0,00   B/s --:-- [-------------]   2%[2E python-mupdf-1.2...     0,0   B  0,00   B/s --:-- [-------------]   0%[3F mupdf-gl-1.24.2-...   107,0 KiB   765 KiB/s 00:00 [#############] 100%[2E python-pymupdf-1...    15,9 KiB  0,00   B/s --:-- [-------------]   2%[1F mupdf-tools-1.24...   169,3 KiB  1032 KiB/s 00:00 [#############] 100%[1E python-pymupdf-1...   701,4 KiB  3,02 MiB/s 00:00 [#############] 100%[1E python-mupdf-1.2...  1886,5 KiB  7,55 MiB/s 00:00 [#############] 100%[1E Total (4/4)             2,8 MiB  10,8 MiB/s 00:00 [#############] 100%
-(0/6) checking keys in keyring                     [-------------]   0%(1/6) checking keys in keyring                     [##-----------]  16%(2/6) checking keys in keyring                     [####---------]  33%(3/6) checking keys in keyring                     [######-------]  50%(4/6) checking keys in keyring                     [########-----]  66%(5/6) checking keys in keyring                     [##########---]  83%(6/6) checking keys in keyring                     [#############] 100%
-(0/6) checking package integrity                   [-------------]   0%(1/6) checking package integrity                   [###########--]  90%(2/6) checking package integrity                   [###########--]  90%(3/6) checking package integrity                   [###########--]  91%(4/6) checking package integrity                   [############-]  97%(5/6) checking package integrity                   [############-]  99%(6/6) checking package integrity                   [#############] 100%
-(0/6) loading package files                        [-------------]   0%(1/6) loading package files                        [###########--]  90%(2/6) loading package files                        [###########--]  90%(3/6) loading package files                        [###########--]  91%(4/6) loading package files                        [############-]  97%(5/6) loading package files                        [############-]  99%(6/6) loading package files                        [#############] 100%
-(0/6) checking for file conflicts                  [-------------]   0%(1/6) checking for file conflicts                  [##-----------]  16%(2/6) checking for file conflicts                  [####---------]  33%(3/6) checking for file conflicts                  [######-------]  50%(4/6) checking for file conflicts                  [########-----]  66%(5/6) checking for file conflicts                  [##########---]  83%(6/6) checking for file conflicts                  [#############] 100%
-(0/6) checking available disk space                [-------------]   0%(1/6) checking available disk space                [##-----------]  16%(2/6) checking available disk space                [####---------]  33%(3/6) checking available disk space                [######-------]  50%(4/6) checking available disk space                [########-----]  66%(5/6) checking available disk space                [##########---]  83%(6/6) checking available disk space                [#############] 100%
-[1;34m::[0;1m Processing package changes...
-[0m(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [-------------]   0%(1/6) reinstalling libmupdf                        [#############] 100%
-(2/6) installing mupdf-gl                          [-------------]   0%(2/6) installing mupdf-gl                          [#############] 100%
-(3/6) installing mupdf-tools                       [-------------]   0%(3/6) installing mupdf-tools                       [#############] 100%
-(4/6) installing python-mupdf                      [-------------]   0%(4/6) installing python-mupdf                      [#############] 100%
-(5/6) installing python-pymupdf                    [-------------]   0%(5/6) installing python-pymupdf                    [#############] 100%
-Optional dependencies for python-pymupdf
-[0;1m   [0m python-fonttools: for building font subsets using fontTools
-    [installed]
-    python-pillow: for image file saving using pillow [installed]
-(6/6) reinstalling zathura-pdf-mupdf               [-------------]   0%(6/6) reinstalling zathura-pdf-mupdf               [#############] 100%
-[1;34m::[0;1m Running post-transaction hooks...
-[0m(1/2) Arming ConditionNeedsUpdate...
-(2/2) Updating the desktop file MIME type cache...
-[?25h
-Script done on 2024-06-01 03:53:09+02:00 [COMMAND_EXIT_CODE="0"]

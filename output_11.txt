@@ -1,50 +1,0 @@
-Script started on 2024-05-30 17:20:14+02:00 [COMMAND="paru -S breeze-icons drkonqi botan pkcs11-helper kwalletmanager kded kdoctools kio-extras kio-fuse switcheroo-control qt6-quick3d flite speech-dispatcher aspell hspell hunspell hunspell-en_GB libvoikko --needed" TERM="xterm-kitty" TTY="/dev/pts/1" COLUMNS="71" LINES="37"]
-[1;33mwarning: [0mbreeze-icons-6.2.0-1 is up to date -- skipping
-[1;33mwarning: [0mdrkonqi-6.0.5-1 is up to date -- skipping
-[1;33mwarning: [0mbotan-3.4.0-2 is up to date -- skipping
-[1;33mwarning: [0mpkcs11-helper-1.30.0-1 is up to date -- skipping
-[1;33mwarning: [0mkwalletmanager-24.05.0-1 is up to date -- skipping
-[1;33mwarning: [0mkded-6.2.0-1 is up to date -- skipping
-[1;33mwarning: [0mkdoctools-6.2.0-1 is up to date -- skipping
-[1;33mwarning: [0mkio-extras-24.05.0-1 is up to date -- skipping
-[1;33mwarning: [0mkio-fuse-5.1.0-3 is up to date -- skipping
-[1;33mwarning: [0mswitcheroo-control-2.6-4 is up to date -- skipping
-[1;33mwarning: [0mflite-2.2-1 is up to date -- skipping
-[1;33mwarning: [0mspeech-dispatcher-0.11.5-2 is up to date -- skipping
-[1;33mwarning: [0maspell-0.60.8.1-2 is up to date -- skipping
-[1;33mwarning: [0mhspell-1.4-5 is up to date -- skipping
-[1;33mwarning: [0mhunspell-1.7.2-1 is up to date -- skipping
-[1;33mwarning: [0mhunspell-en_gb-2020.12.07-5 is up to date -- skipping
-[1;33mwarning: [0mlibvoikko-4.3.2-3 is up to date -- skipping
-[?25lresolving dependencies...
-looking for conflicting packages...
-
-[0;1mPackage (2)            [0m  [0;1mNew Version[0m  [0;1mNet Change[0m  [0;1mDownload Size[0m
-
-extra/qt6-quicktimeline  6.7.1-1        0,36 MiB       0,07 MiB
-extra/qt6-quick3d        6.7.1-1       14,49 MiB       4,72 MiB
-
-[0;1mTotal Download Size: [0m   4,79 MiB
-[0;1mTotal Installed Size:[0m  14,85 MiB
-
-[1;34m::[0;1m Proceed with installation? [Y/n] [0m[?25h
-[?25l[1;34m::[0;1m Retrieving packages...
-[0m qt6-quick3d-6.7.1-1-x86_64
- Total (0/2)             0,0   B  0,00   B/s 00:00 [[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]   0%
-[1F qt6-quicktimeline-6.7.1-1-x86_64
- Total (0/2)             0,0   B  0,00   B/s 00:00 [[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]   0%
-[2F qt6-quicktimelin...    15,9 KiB  8,00   B/s --:-- [--[1;33mc[m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]  21%[1E Total (0/2)            15,9 KiB  8,00   B/s --:-- [[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]   0%[2F qt6-quick3d-6.7....    15,9 KiB  8,00   B/s --:-- [[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]   0%[1E qt6-quick3d-6.7....    15,9 KiB  8,00   B/s --:-- [[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]   0%[1F qt6-quicktimelin...    72,3 KiB   506 KiB/s 00:00 [-------------] 100%[1E qt6-quick3d-6.7....     4,7 MiB  16,7 MiB/s 00:00 [-------------] 100%[1E Total (2/2)             4,8 MiB  16,1 MiB/s 00:00 [-------------] 100%
-(0/2) checking keys in keyring                     [[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]   0%(1/2) checking keys in keyring                     [------[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]  50%(2/2) checking keys in keyring                     [-------------] 100%
-(0/2) checking package integrity                   [[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]   0%(1/2) checking package integrity                   [[1;33mc[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]   1%(2/2) checking package integrity                   [-------------] 100%
-(0/2) loading package files                        [[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]   0%(1/2) loading package files                        [[1;33mc[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]   1%(2/2) loading package files                        [-------------] 100%
-(0/2) checking for file conflicts                  [[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]   0%(1/2) checking for file conflicts                  [------[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]  50%(2/2) checking for file conflicts                  [-------------] 100%
-(0/2) checking available disk space                [[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]   0%(1/2) checking available disk space                [------[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]  50%(2/2) checking available disk space                [-------------] 100%
-[1;34m::[0;1m Processing package changes...
-[0m(1/2) installing qt6-quicktimeline                 [[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]   0%(1/2) installing qt6-quicktimeline                 [-------------] 100%
-(2/2) installing qt6-quick3d                       [[1;33mC[m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m[0;37mo[m[0;37m [m[0;37m [m]   0%(2/2) installing qt6-quick3d                       [-------------] 100%
-Optional dependencies for qt6-quick3d
-[0;1m   [0m assimp: assimp import plugin
-[1;34m::[0;1m Running post-transaction hooks...
-[0m(1/1) Arming ConditionNeedsUpdate...
-[?25h
-Script done on 2024-05-30 17:20:16+02:00 [COMMAND_EXIT_CODE="0"]

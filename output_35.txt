@@ -1,1059 +1,0 @@
-Script started on 2024-06-01 03:42:05+02:00 [COMMAND="paru zathura" TERM="xterm-kitty" TTY="/dev/pts/8" COLUMNS="71" LINES="37"]
-[35m 1[0m [1;38;5;12mextra[0m/[1mzathura[0m [1;32m0.5.6-2[0m [[1m203.39 KiB 624.31 KiB[0m]
-    Minimalistic document viewer
-[35m 2[0m [1;38;5;12mextra[0m/[1mzathura-cb[0m [1;32m0.1.10-7[0m [[1m8.74 KiB 19.68 KiB[0m]
-    Adds comic book support to zathura
-[35m 3[0m [1;38;5;12mextra[0m/[1mzathura-djvu[0m [1;32m0.2.9-7[0m [[1m12.23 KiB 27.50 KiB[0m]
-    DjVu support for Zathura
-[35m 4[0m [1;38;5;12mextra[0m/[1mzathura-pdf-mupdf[0m [1;32m0.4.2-1[0m [[1m11.70 KiB 27.60 KiB[0m]
-    PDF support for Zathura (MuPDF backend) (Supports PDF, ePub, and 
-    OpenXPS)
-[35m 5[0m [1;38;5;12mextra[0m/[1mzathura-pdf-poppler[0m [1;32m0.3.2-5[0m [[1m10.75 KiB 23.49 KiB[0m]
-    Adds pdf support to zathura by using the poppler engine
-[35m 6[0m [1;38;5;12mextra[0m/[1mzathura-ps[0m [1;32m0.2.7-7[0m [[1m7.80 KiB 19.56 KiB[0m]
-    Adds ps support to zathura by using the libspectre library
-[35m 7[0m [1;38;5;14maur[0m/[1mzathura-git[0m [1;32m0.5.5.r1.gfb5388c-1[0m [[1m+88 ~0.00[0m]
-    Minimalistic document viewer
-[35m 8[0m [1;38;5;14maur[0m/[1mzathura-pdf-poppler-git[0m [1;32m0.3.2.r1.g0990d0a-1[0m [[1m+28 ~0.00[0m]
-    PDF support for zathura (poppler backend)
-[35m 9[0m [1;38;5;14maur[0m/[1mzathura-pdf-mupdf-git[0m [1;32m0.4.1.r8.gc742d4c-2[0m [[1m+21 ~0.00[0m]
-    PDF support for zathura (mupdf backend) (Supports PDF, ePub, and 
-    OpenXPS)
-[35m10[0m [1;38;5;14maur[0m/[1mzathura-djvu-git[0m [1;32m0.2.9.r3.g56b0fd5-1[0m [[1m+20 ~0.00[0m]
-    DjVu support for zathura
-[35m11[0m [1;38;5;14maur[0m/[1mzathura-ps-git[0m [1;32m0.2.7.r2.g0d28473-2[0m [[1m+19 ~0.00[0m]
-    PostScript support for zathura
-[35m12[0m [1;38;5;14maur[0m/[1mzathura-cb-git[0m [1;32m0.1.8.r7.gd03db86-1[0m [[1m+8 ~0.00[0m]
-    Comic book support for zathura
-[35m13[0m [1;38;5;14maur[0m/[1mzathura-ypb[0m [1;32m0.0.8.2.r30.gbef9bc4-3[0m [[1m+6 ~0.00[0m]
-    A lightweight GTK2 PDF viewer
-[35m14[0m [1;38;5;14maur[0m/[1mlibzathura-git[0m [1;32m69efc7d-1[0m [[1m+2 ~0.00[0m]
-    A document library.
-[35m15[0m [1;38;5;14maur[0m/[1mzathura-pywal-git[0m [1;32mr25.e9973b8-1[0m [[1m+1 ~0.42[0m]
-    Scripts that dynamically theme zathura based on colors set by 
-    pywal.
-[35m16[0m [1;38;5;14maur[0m/[1mpython-tree-sitter-zathurarc[0m [1;32m0.0.8-1[0m [[1m+0 ~0.00[0m]
-    zathurarc grammar for tree-sitter
-[35m17[0m [1;38;5;14maur[0m/[1mzathura-gruvbox-git[0m [1;32mr7.0b49904-1[0m [[1m+0 ~0.00[0m]
-    the gruvbox color theme for zathura
-[35m18[0m [1;38;5;14maur[0m/[1mzathura-language-server[0m [1;32m0.0.12-1[0m [[1m+0 ~0.00[0m]
-    zathura's language server
-[35m19[0m [1;38;5;14maur[0m/[1mzathura-solarized-git[0m [1;32mr3.d63c710-1[0m [[1m+0 ~0.00[0m]
-    the solarized color theme for zathura
-[1;34m::[0m [1mPackages to install (eg: 1 2 3, 1-3):[0m
-[1;34m::[0m 18 9 8 7 10-18 7
-[1;34m::[0m [1mResolving dependencies...[0m
-
-[1;34m::[0m [1mThere are 128 providers available for tessdata:[0m
-[1;34m::[0m [1mRepository[0m [1;38;5;12mextra[0m:
-    1) tesseract-data-afr  2) tesseract-data-amh  3) tesseract-data-ara  4) tesseract-data-asm  5) tesseract-data-aze  6) tesseract-data-aze_cyrl  7) tesseract-data-bel  8) tesseract-data-ben  9) tesseract-data-bod  10) tesseract-data-bos  11) tesseract-data-bre  12) tesseract-data-bul  13) tesseract-data-cat  14) tesseract-data-ceb  15) tesseract-data-ces  16) tesseract-data-chi_sim  17) tesseract-data-chi_sim_vert  18) tesseract-data-chi_tra  19) tesseract-data-chi_tra_vert  20) tesseract-data-chr  21) tesseract-data-cos  22) tesseract-data-cym  23) tesseract-data-dan  24) tesseract-data-dan_frak  25) tesseract-data-deu  26) tesseract-data-deu_frak  27) tesseract-data-div  28) tesseract-data-dzo  29) tesseract-data-ell  30) tesseract-data-eng  31) tesseract-data-enm  32) tesseract-data-epo  33) tesseract-data-equ  34) tesseract-data-est  35) tesseract-data-eus  36) tesseract-data-fao  37) tesseract-data-fas  38) tesseract-data-fil  39) tesseract-data-fin  40) tesseract-data-fra  41) tesseract-data-frk  42) tesseract-data-frm  43) tesseract-data-fry  44) tesseract-data-gla  45) tesseract-data-gle  46) tesseract-data-glg  47) tesseract-data-grc  48) tesseract-data-guj  49) tesseract-data-hat  50) tesseract-data-heb  51) tesseract-data-hin  52) tesseract-data-hrv  53) tesseract-data-hun  54) tesseract-data-hye  55) tesseract-data-iku  56) tesseract-data-ind  57) tesseract-data-isl  58) tesseract-data-ita  59) tesseract-data-ita_old  60) tesseract-data-jav  61) tesseract-data-jpn  62) tesseract-data-jpn_vert  63) tesseract-data-kan  64) tesseract-data-kat  65) tesseract-data-kat_old  66) tesseract-data-kaz  67) tesseract-data-khm  68) tesseract-data-kir  69) tesseract-data-kmr  70) tesseract-data-kor  71) tesseract-data-kor_vert  72) tesseract-data-lao  73) tesseract-data-lat  74) tesseract-data-lav  75) tesseract-data-lit  76) tesseract-data-ltz  77) tesseract-data-mal  78) tesseract-data-mar  79) tesseract-data-mkd  80) tesseract-data-mlt  81) tesseract-data-mon  82) tesseract-data-mri  83) tesseract-data-msa  84) tesseract-data-mya  85) tesseract-data-nep  86) tesseract-data-nld  87) tesseract-data-nor  88) tesseract-data-oci  89) tesseract-data-ori  90) tesseract-data-pan  91) tesseract-data-pol  92) tesseract-data-por  93) tesseract-data-pus  94) tesseract-data-que  95) tesseract-data-ron  96) tesseract-data-rus  97) tesseract-data-san  98) tesseract-data-sin  99) tesseract-data-slk  100) tesseract-data-slk_frak  101) tesseract-data-slv  102) tesseract-data-snd  103) tesseract-data-spa  104) tesseract-data-spa_old  105) tesseract-data-sqi  106) tesseract-data-srp  107) tesseract-data-srp_latn  108) tesseract-data-sun  109) tesseract-data-swa  110) tesseract-data-swe  111) tesseract-data-syr  112) tesseract-data-tam  113) tesseract-data-tat  114) tesseract-data-tel  115) tesseract-data-tgk  116) tesseract-data-tgl  117) tesseract-data-tha  118) tesseract-data-tir  119) tesseract-data-ton  120) tesseract-data-tur  121) tesseract-data-uig  122) tesseract-data-ukr  123) tesseract-data-urd  124) tesseract-data-uzb  125) tesseract-data-uzb_cyrl  126) tesseract-data-vie  127) tesseract-data-yid  128) tesseract-data-yor  
-Enter a number (default=1): 
-[1;34m::[0m [1mCalculating conflicts...[0m
-[1;34m::[0m [1mCalculating inner conflicts...[0m
-
-[31m::[0m [1mInner conflicts found:[0m
-    zathura-pdf-poppler-git: zathura-pdf-mupdf-git (zathura-pdf-poppler)  zathura-pdf-mupdf-git (zathura-pdf-poppler-git)  
-
-[33m::[0m [1mConflicting packages will have to be confirmed manually[0m
-[33m::[0m insufficient columns available for table display
-
-[1mRepo (11) [0mgumbo-parser[38;5;243m-[0m[38;5;243m0.12.1-1[0m  leptonica[38;5;243m-[0m[38;5;243m1.84.1-2[0m  
-        tesseract-data-afr[38;5;243m-[0m[38;5;243m2:4.1.0-4[0m  tesseract-data-osd[38;5;243m-[0m[38;5;243m2:4.1.0-4[0m  
-        tesseract[38;5;243m-[0m[38;5;243m5.3.4-2[0m  libmupdf[38;5;243m-[0m[38;5;243m1.24.2-2[0m  python-pywal[38;5;243m-[0m[38;5;243m3.3.0-9[0m  
-        python-cattrs[38;5;243m-[0m[38;5;243m23.2.3-3[0m  python-lsprotocol[38;5;243m-[0m[38;5;243m2023.0.1-2[0m  
-        python-pygls[38;5;243m-[0m[38;5;243m1.3.1-2[0m  python-webcolors[38;5;243m-[0m[38;5;243m1.13-3[0m
-[1mRepo Make (2) [0mcheck[38;5;243m-[0m[38;5;243m0.15.2-2[0m  appstream-glib[38;5;243m-[0m[38;5;243m0.8.2-4[0m
-[1mAur (16) [0mgirara-git[38;5;243m-[0m[38;5;243m0.4.3.r3.gd173770-1[0m  
-        zathura-git[38;5;243m-[0m[38;5;243m0.5.5.r1.gfb5388c-1[0m  
-        zathura-pdf-poppler-git[38;5;243m-[0m[38;5;243m0.3.2.r1.g0990d0a-1[0m  
-        zathura-pdf-mupdf-git[38;5;243m-[0m[38;5;243m0.4.1.r8.gc742d4c-2[0m  
-        zathura-djvu-git[38;5;243m-[0m[38;5;243m0.2.9.r3.g56b0fd5-1[0m  
-        zathura-ps-git[38;5;243m-[0m[38;5;243m0.2.7.r2.g0d28473-2[0m  
-        zathura-cb-git[38;5;243m-[0m[38;5;243m0.1.8.r7.gd03db86-1[0m  
-        zathura-ypb[38;5;243m-[0m[38;5;243m0.0.8.2.r30.gbef9bc4-3[0m  libfiu[38;5;243m-[0m[38;5;243m1.00-1[0m  
-        libzathura-git[38;5;243m-[0m[38;5;243m69efc7d-1[0m  zathura-pywal-git[38;5;243m-[0m[38;5;243mr25.e9973b8-1[0m  
-        python-tree-sitter[38;5;243m-[0m[38;5;243m0.22.3-1[0m  
-        python-tree-sitter-zathurarc[38;5;243m-[0m[38;5;243m0.0.8-1[0m  
-        zathura-gruvbox-git[38;5;243m-[0m[38;5;243mr7.0b49904-1[0m  
-        python-lsp-tree-sitter[38;5;243m-[0m[38;5;243m0.0.15-1[0m  
-        zathura-language-server[38;5;243m-[0m[38;5;243m0.0.12-1[0m
-
-[1;34m::[0m [1mProceed to review?[0m [1m[Y/n]:[0m Y
-
-[1;34m::[0m [1mDownloading PKGBUILDs...[0m
- ( 1/16) downloading: zathura-pdf-mupdf-git-0.4.1.r8.gc742d4c-2
- ( 2/16) downloading: zathura-cb-git-0.1.8.r7.gd03db86-1
- ( 3/16) downloading: zathura-pdf-poppler-git-0.3.2.r1.g0990d0a-1
- ( 4/16) downloading: zathura-djvu-git-0.2.9.r3.g56b0fd5-1
- ( 5/16) downloading: girara-git-0.4.3.r3.gd173770-1
- ( 6/16) downloading: python-tree-sitter-0.22.3-1
- ( 7/16) downloading: libzathura-git-69efc7d-1
- ( 8/16) downloading: zathura-ps-git-0.2.7.r2.g0d28473-2
- ( 9/16) downloading: zathura-pywal-git-r25.e9973b8-1
- (10/16) downloading: zathura-gruvbox-git-r7.0b49904-1
- (11/16) downloading: zathura-git-0.5.5.r1.gfb5388c-1
- (12/16) downloading: libfiu-1.00-1
- (13/16) downloading: python-lsp-tree-sitter-0.0.15-1
- (14/16) downloading: zathura-ypb-0.0.8.2.r30.gbef9bc4-3
- (15/16) downloading: python-tree-sitter-zathurarc-0.0.8-1
- (16/16) downloading: zathura-language-server-0.0.12-1
-[?1h[1m/home/heini/.cache/paru/clone/girara-git/PKGBUILD[0m[m
-[38;2;124;120;101m#[0m[38;2;124;120;101m Maintainer: a821[0m[m
-[38;2;124;120;101m#[0m[38;2;124;120;101m Contributor: Moritz Lipp <mlq@pwmt.org>[0m[m
-[m
-[38;2;255;255;255mpkgname[0m[38;2;249;38;114m=[0m[38;2;230;219;116mgirara-git[0m[m
-[38;2;255;255;255mpkgver[0m[38;2;249;38;114m=[0m[38;2;230;219;116m0.4.3.r3.gd173770[0m[m
-[38;2;255;255;255mpkgrel[0m[38;2;249;38;114m=[0m[38;2;230;219;116m1[0m[m
-[38;2;255;255;255mpkgdesc[0m[38;2;249;38;114m=[0m[38;2;255;255;255m"[0m[38;2;230;219;116mUser interface library focused on simplicity and minimalism[0m[38;2;255;255;255m"[0m[m
-[38;2;255;255;255march[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m'[0m[38;2;230;219;116mx86_64[0m[38;2;255;255;255m'[0m[38;2;255;255;255m)[0m[m
-[38;2;255;255;255murl[0m[38;2;249;38;114m=[0m[38;2;255;255;255m"[0m[38;2;230;219;116mhttps://pwmt.org/projects/girara[0m[38;2;255;255;255m"[0m[m
-[38;2;255;255;255mlicense[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m'[0m[38;2;230;219;116mZlib[0m[38;2;255;255;255m'[0m[38;2;255;255;255m)[0m[m
-[38;2;255;255;255mdepends[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m'[0m[38;2;230;219;116mgtk3[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mglib2[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mjson-glib[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mpango[0m[38;2;255;255;255m'[0m[38;2;255;255;255m)[0m[m
-[38;2;255;255;255mmakedepends[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m'[0m[38;2;230;219;116mgit[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mmeson[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mninja[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mdoxygen[0m[38;2;255;255;255m'[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116mcheck[0m[38;2;255;255;255m'[0m[38;2;255;255;255m)[0m[m
-[38;2;255;255;255mconflicts[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m'[0m[38;2;230;219;116mgirara[0m[38;2;255;255;255m'[0m[38;2;255;255;255m)[0m[m
-[38;2;255;255;255mprovides[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m'[0m[38;2;230;219;116mgirara[0m[38;2;255;255;255m'[0m[38;2;255;255;255m)[0m[m
-[38;2;255;255;255msource[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m"[0m[38;2;255;255;255m$[0m[38;2;230;219;116m{[0m[38;2;255;255;255mpkgname[0m[38;2;230;219;116m}[0m[38;2;230;219;116m::git+https://git.pwmt.org/pwmt/girara.git#branch=d[m[7m>[27m
-[38;2;255;255;255mmd5sums[0m[38;2;249;38;114m=[0m[38;2;255;255;255m([0m[38;2;255;255;255m'[0m[38;2;230;219;116mSKIP[0m[38;2;255;255;255m'[0m[38;2;255;255;255m)[0m[m
-[m
-[38;2;166;226;46mpkgver[0m[38;2;255;255;255m([0m[38;2;255;255;255m)[0m[38;2;255;255;255m [0m[38;2;255;255;255m{[0m[m
-[38;2;255;255;255m  [0m[38;2;102;217;239mcd[0m[38;2;255;255;255m [0m[38;2;255;255;255m"[0m[38;2;255;255;255m$[0m[38;2;255;255;255mpkgname[0m[38;2;255;255;255m"[0m[m
-[38;2;255;255;255m  [0m[38;2;255;255;255mgit[0m[38;2;255;255;255m describe[0m[38;2;253;151;31m --[0m[38;2;253;151;31mtags[0m[38;2;253;151;31m --[0m[38;2;253;151;31mlong[0m[38;2;255;255;255m [0m[38;2;249;38;114m|[0m[38;2;255;255;255m [0m[38;2;255;255;255msed[0m[38;2;255;255;255m [0m[38;2;255;255;255m'[0m[38;2;230;219;116ms/-/.r/;s/-/./g[0m[38;2;255;255;255m'[0m[m
-[38;2;255;255;255m}[0m[m
-[m
-[38;2;166;226;46mbuild[0m[38;2;255;255;255m([0m[38;2;255;255;255m)[0m[38;2;255;255;255m [0m[38;2;255;255;255m{[0m[m
-[38;2;255;255;255m  [0m[38;2;102;217;239mcd[0m[38;2;255;255;255m [0m[38;2;255;255;255m"[0m[38;2;255;255;255m$[0m[38;2;255;255;255mpkgname[0m[38;2;255;255;255m"[0m[m
-[38;2;255;255;255m  [0m[38;2;255;255;255march-meson[0m[38;2;255;255;255m build[0m[38;2;253;151;31m -[0m[38;2;253;151;31mDtests[0m[38;2;249;38;114m=[0m[38;2;255;255;255mdisabled[0m[m
-[38;2;255;255;255m  [0m[38;2;255;255;255mninja[0m[38;2;253;151;31m -[0m[38;2;253;151;31mC[0m[38;2;255;255;255m build[0m[m
-[38;2;255;255;255m}[0m[m
-[m
-[38;2;166;226;46mpackage[0m[38;2;255;255;255m([0m[38;2;255;255;255m)[0m[38;2;255;255;255m [0m[38;2;255;255;255m{[0m[m
-[38;2;255;255;255m  [0m[38;2;102;217;239mcd[0m[38;2;255;255;255m [0m[38;2;255;255;255m"[0m[38;2;255;255;255m$[0m[38;2;255;255;255mpkgname[0m[38;2;255;255;255m"[0m[m
-[38;2;255;255;255m  [0m[38;2;255;255;255mDESTDIR[0m[38;2;249;38;114m=[0m[38;2;255;255;255m"[0m[38;2;255;255;255m$[0m[38;2;255;255;255mpkgdir[0m[38;2;230;219;116m/[0m[38;2;255;255;255m"[0m[38;2;255;255;255m [0m[38;2;255;255;255mninja[0m[38;2;253;151;31m -[0m[38;2;253;151;31mC[0m[38;2;255;255;255m build install[0m[m
-[38;2;255;255;255m  [0m[38;2;255;255;255minstall[0m[38;2;253;151;31m -[0m[38;2;253;151;31mDm644[0m[38;2;255;255;255m LICENSE[0m[38;2;253;151;31m -[0m[38;2;253;151;31mt[0m[38;2;255;255;255m [0m[38;2;255;255;255m"[0m[38;2;255;255;255m$[0m[38;2;255;255;255mpkgdir[0m[38;2;230;219;116m/usr/share/licenses/[0m[38;2;255;255;255m$[0m[38;2;255;255;255mpkgname[0m[38;2;255;255;255m"[0m[m
-[38;2;255;255;255m}[0m[m
-[m
-[38;2;124;120;101m#[0m[38;2;124;120;101m vim:set ts=2 sw=2 et:[0m[m
-:[K[K[?1l[1;34m::[0m [1mAccept changes?[0m [1m[Y/n]:[0m Y
-[?25lresolving dependencies...
-looking for conflicting packages...
-[1;33mwarning: [0mdependency cycle detected:
-[1;33mwarning: [0mtesseract will be installed before its tesseract-data-afr dependency
-
-[0;1mPackage (13)            [0m  [0;1mNew Version[0m  [0;1mNet Change[0m  [0;1mDownload Size[0m
-
-extra/appstream-glib      0.8.2-4        3,72 MiB       0,52 MiB
-extra/check               0.15.2-2       0,19 MiB       0,08 MiB
-extra/gumbo-parser        0.12.1-1       0,39 MiB       0,13 MiB
-extra/leptonica           1.84.1-2       3,52 MiB       1,17 MiB
-extra/libmupdf            1.24.2-2      50,37 MiB      26,02 MiB
-extra/python-cattrs       23.2.3-3       0,62 MiB       0,11 MiB
-extra/python-lsprotocol   2023.0.1-2     1,46 MiB       0,13 MiB
-extra/python-pygls        1.3.1-2        0,74 MiB       0,10 MiB
-extra/python-pywal        3.3.0-9        0,31 MiB       0,08 MiB
-extra/python-webcolors    1.13-3         0,12 MiB       0,02 MiB
-extra/tesseract           5.3.4-2        4,42 MiB       1,60 MiB
-extra/tesseract-data-afr  2:4.1.0-4      7,49 MiB       3,44 MiB
-extra/tesseract-data-osd  2:4.1.0-4     10,07 MiB       3,66 MiB
-
-[0;1mTotal Download Size: [0m  37,06 MiB
-[0;1mTotal Installed Size:[0m  83,41 MiB
-
-[1;34m::[0;1m Proceed with installation? [Y/n] [0m
-[1;34m::[0;1m Retrieving packages...
-[0m libmupdf-1.24.2-2-x86_64
- Total ( 0/13)           0,0   B  0,00   B/s 00:00 [-------------]   0%
-[1F tesseract-data-osd-2:4.1.0-4-any
- Total ( 0/13)           0,0   B  0,00   B/s 00:00 [-------------]   0%
-[1F tesseract-data-afr-2:4.1.0-4-any
- Total ( 0/13)           0,0   B  0,00   B/s 00:00 [-------------]   0%
-[1F tesseract-5.3.4-2-x86_64
- Total ( 0/13)           0,0   B  0,00   B/s 00:00 [-------------]   0%
-[1F leptonica-1.84.1-2-x86_64
- Total ( 0/13)           0,0   B  0,00   B/s 00:00 [-------------]   0%
-[5F tesseract-data-o...     0,0   B  0,00   B/s --:-- [-------------]   0%[4E Total ( 0/13)           0,0   B  0,00   B/s --:-- [-------------]   0%[3F tesseract-data-a...     0,0   B  0,00   B/s --:-- [-------------]   0%[1E tesseract-5.3.4-...     0,0   B  0,00   B/s --:-- [-------------]   0%[3F libmupdf-1.24.2-...     0,0   B  0,00   B/s --:-- [-------------]   0%[4E leptonica-1.84.1...    15,9 KiB  0,00   B/s --:-- [-------------]   1%[1E Total ( 0/13)           8,1 MiB  13,5 MiB/s 00:02 [##-----------]  21%[4F tesseract-data-o...     3,2 MiB  5,34 MiB/s 00:00 [###########--]  87%[1E tesseract-data-a...     2,2 MiB  3,70 MiB/s 00:00 [########-----]  64%[1E tesseract-5.3.4-...  1504,0 KiB  2,45 MiB/s 00:00 [###########--]  91%[3F libmupdf-1.24.2-...  1056,0 KiB  1760 KiB/s 00:14 [-------------]   3%[1E libmupdf-1.24.2-...  1056,0 KiB  1760 KiB/s 00:14 [-------------]   3%[1F tesseract-data-o...     3,7 MiB  12,2 MiB/s 00:00 [#############] 100%[4E leptonica-1.84.1...  1167,9 KiB  1920 KiB/s 00:00 [############-]  97% libmupdf-1.24.2-...  1056,0 KiB  1760 KiB/s 00:14 [-------------]   3%[3F leptonica-1.84.1...  1201,6 KiB  3,74 MiB/s 00:00 [#############] 100%[2E tesseract-data-a...     2,2 MiB  3,70 MiB/s 00:00 [########-----]  64%[1F tesseract-5.3.4-...  1638,0 KiB  4,94 MiB/s 00:00 [#############] 100%[3E appstream-glib-0.8.2-4-x86_64
- Total ( 3/13)           8,1 MiB  13,5 MiB/s 00:02 [##-----------]  21%
-[4F tesseract-data-a...     3,4 MiB  10,3 MiB/s 00:00 [#############] 100%[3E python-lsprotocol-2023.0.1-2-any
- Total ( 4/13)           8,1 MiB  13,5 MiB/s 00:02 [##-----------]  21%
-[1F gumbo-parser-0.12.1-1-x86_64
- Total ( 4/13)           8,1 MiB  13,5 MiB/s 00:02 [##-----------]  21%
-[4F appstream-glib-0...    15,9 KiB  0,00   B/s --:-- [-------------]   3% libmupdf-1.24.2-...  1056,0 KiB  1760 KiB/s 00:14 [-------------]   3%[1F appstream-glib-0...   527,8 KiB  8,59 MiB/s 00:00 [#############] 100%[4E python-cattrs-23.2.3-3-any
- Total ( 5/13)           8,1 MiB  13,5 MiB/s 00:02 [##-----------]  21%
-[4F python-lsprotoco...    15,9 KiB  0,00   B/s --:-- [#------------]  11% libmupdf-1.24.2-...  1056,0 KiB  1760 KiB/s 00:14 [-------------]   3%[1F python-lsprotoco...   136,0 KiB  2,66 MiB/s 00:00 [#############] 100%[2E gumbo-parser-0.1...    15,9 KiB  0,00   B/s --:-- [#------------]  12%[1E python-cattrs-23...    15,9 KiB  0,00   B/s --:-- [#------------]  14%[1E python-pygls-1.3.1-2-any
- Total ( 6/13)           8,1 MiB  13,5 MiB/s 00:02 [##-----------]  21%
-[4F libmupdf-1.24.2-...  1056,0 KiB  1760 KiB/s 00:14 [-------------]   3%[1F gumbo-parser-0.1...   129,5 KiB  2,01 MiB/s 00:00 [#############] 100%[4E check-0.15.2-2-x86_64
- Total ( 7/13)           8,1 MiB  13,5 MiB/s 00:02 [##-----------]  21%
-[4F libmupdf-1.24.2-...  1056,0 KiB  1760 KiB/s 00:14 [-------------]   3%[1F python-cattrs-23...   112,4 KiB  4,07 MiB/s 00:00 [#############] 100%[2E python-pygls-1.3...    15,9 KiB  0,00   B/s --:-- [#------------]  15% libmupdf-1.24.2-...  1056,0 KiB  1760 KiB/s 00:14 [-------------]   3%[1F python-pygls-1.3...   103,6 KiB  5,06 MiB/s 00:00 [#############] 100%[3E python-pywal-3.3.0-9-any
- Total ( 9/13)           8,1 MiB  13,5 MiB/s 00:02 [##-----------]  21%
-[3F check-0.15.2-2-x...    15,9 KiB  0,00   B/s --:-- [##-----------]  19% libmupdf-1.24.2-...  1056,0 KiB  1760 KiB/s 00:14 [-------------]   3%[1F check-0.15.2-2-x...    81,3 KiB  3,97 MiB/s 00:00 [#############] 100%[3E python-webcolors-1.13-3-any
- Total (10/13)           8,1 MiB  13,5 MiB/s 00:02 [##-----------]  21%
-[3F python-pywal-3.3...    15,9 KiB  0,00   B/s --:-- [##-----------]  20% libmupdf-1.24.2-...  1056,0 KiB  1760 KiB/s 00:14 [-------------]   3%[1F python-pywal-3.3...    78,1 KiB  3,81 MiB/s 00:00 [#############] 100%[2E python-webcolors...    15,9 KiB  0,00   B/s --:-- [########-----]  63% libmupdf-1.24.2-...  1056,0 KiB  1760 KiB/s 00:14 [-------------]   3%[1F python-webcolors...    25,0 KiB  1249 KiB/s 00:00 [#############] 100%[2E Total (12/13)          15,8 MiB  21,8 MiB/s 00:00 [#####--------]  42%[1F libmupdf-1.24.2-...     5,0 MiB  7,68 MiB/s 00:02 [##-----------]  19%[1E Total (12/13)          19,9 MiB  21,4 MiB/s 00:00 [######-------]  53%[1F libmupdf-1.24.2-...     9,2 MiB  12,1 MiB/s 00:01 [####---------]  35%[1E Total (12/13)          24,3 MiB  21,5 MiB/s 00:00 [########-----]  65%[1F libmupdf-1.24.2-...    13,6 MiB  15,4 MiB/s 00:00 [######-------]  52%[1E Total (12/13)          28,7 MiB  21,7 MiB/s 00:00 [##########---]  77%[1F libmupdf-1.24.2-...    18,0 MiB  17,7 MiB/s 00:00 [########-----]  69%[1E Total (12/13)          33,3 MiB  22,2 MiB/s 00:00 [###########--]  89%[1F libmupdf-1.24.2-...    22,5 MiB  19,4 MiB/s 00:00 [###########--]  86% libmupdf-1.24.2-...    26,0 MiB  18,0 MiB/s 00:01 [#############] 100%[1E Total (13/13)          37,1 MiB  25,4 MiB/s 00:01 [#############] 100%
-( 0/13) checking keys in keyring                   [-------------]   0%( 1/13) checking keys in keyring                   [-------------]   7%( 2/13) checking keys in keyring                   [#------------]  15%( 3/13) checking keys in keyring                   [##-----------]  23%( 4/13) checking keys in keyring                   [###----------]  30%( 5/13) checking keys in keyring                   [####---------]  38%( 6/13) checking keys in keyring                   [#####--------]  46%( 7/13) checking keys in keyring                   [######-------]  53%( 8/13) checking keys in keyring                   [#######------]  61%( 9/13) checking keys in keyring                   [########-----]  69%(10/13) checking keys in keyring                   [#########----]  76%(11/13) checking keys in keyring                   [##########---]  84%(12/13) checking keys in keyring                   [###########--]  92%(13/13) checking keys in keyring                   [#############] 100%
-( 0/13) checking package integrity                 [-------------]   0%( 1/13) checking package integrity                 [-------------]   0%( 2/13) checking package integrity                 [-------------]   1%( 3/13) checking package integrity                 [-------------]   1%( 4/13) checking package integrity                 [-------------]   5%( 5/13) checking package integrity                 [#------------]  14%( 6/13) checking package integrity                 [##-----------]  19%( 7/13) checking package integrity                 [###----------]  28%( 8/13) checking package integrity                 [############-]  98%( 9/13) checking package integrity                 [############-]  99%(10/13) checking package integrity                 [############-]  99%(11/13) checking package integrity                 [############-]  99%(12/13) checking package integrity                 [############-]  99%(13/13) checking package integrity                 [#############] 100%
-( 0/13) loading package files                      [-------------]   0%( 1/13) loading package files                      [-------------]   0%( 2/13) loading package files                      [-------------]   1%( 3/13) loading package files                      [-------------]   1%( 4/13) loading package files                      [-------------]   5%( 5/13) loading package files                      [#------------]  14%( 6/13) loading package files                      [##-----------]  19%( 7/13) loading package files                      [###----------]  28%( 8/13) loading package files                      [############-]  98%( 9/13) loading package files                      [############-]  99%(10/13) loading package files                      [############-]  99%(11/13) loading package files                      [############-]  99%(12/13) loading package files                      [############-]  99%(13/13) loading package files                      [#############] 100%
-( 0/13) checking for file conflicts                [-------------]   0%( 1/13) checking for file conflicts                [-------------]   7%( 2/13) checking for file conflicts                [#------------]  15%( 3/13) checking for file conflicts                [##-----------]  23%( 4/13) checking for file conflicts                [###----------]  30%( 5/13) checking for file conflicts                [####---------]  38%( 6/13) checking for file conflicts                [#####--------]  46%( 7/13) checking for file conflicts                [######-------]  53%( 8/13) checking for file conflicts                [#######------]  61%( 9/13) checking for file conflicts                [########-----]  69%(10/13) checking for file conflicts                [#########----]  76%(11/13) checking for file conflicts                [##########---]  84%(12/13) checking for file conflicts                [###########--]  92%(13/13) checking for file conflicts                [#############] 100%
-( 0/13) checking available disk space              [-------------]   0%( 1/13) checking available disk space              [-------------]   7%( 2/13) checking available disk space              [#------------]  15%( 3/13) checking available disk space              [##-----------]  23%( 4/13) checking available disk space              [###----------]  30%( 5/13) checking available disk space              [####---------]  38%( 6/13) checking available disk space              [#####--------]  46%( 7/13) checking available disk space              [######-------]  53%( 8/13) checking available disk space              [#######------]  61%( 9/13) checking available disk space              [########-----]  69%(10/13) checking available disk space              [#########----]  76%(11/13) checking available disk space              [##########---]  84%(12/13) checking available disk space              [###########--]  92%(13/13) checking available disk space              [#############] 100%
-[1;34m::[0;1m Processing package changes...
-[0m( 1/13) installing check                           [-------------]   0%( 1/13) installing check                           [#############] 100%
-Optional dependencies for check
-[0;1m   [0m check-docs: Documentation
-( 2/13) installing appstream-glib                  [-------------]   0%( 2/13) installing appstream-glib                  [#############] 100%
-( 3/13) installing gumbo-parser                    [-------------]   0%( 3/13) installing gumbo-parser                    [#############] 100%
-( 4/13) installing leptonica                       [-------------]   0%( 4/13) installing leptonica                       [#############] 100%
-( 5/13) installing tesseract-data-osd              [-------------]   0%( 5/13) installing tesseract-data-osd              [#############] 100%
-( 6/13) installing tesseract                       [-------------]   0%( 6/13) installing tesseract                       [#############] 100%
-Optional dependencies for tesseract
-[0;1m   [0m icu: for text2image [installed]
-    pango: for text2image [installed]
-    tesseract-data-afr: OCR data (afr) [pending]
-    tesseract-data-amh: OCR data (amh)
-    tesseract-data-ara: OCR data (ara)
-    tesseract-data-asm: OCR data (asm)
-    tesseract-data-aze: OCR data (aze)
-    tesseract-data-aze_cyrl: OCR data (aze_cyrl)
-    tesseract-data-bel: OCR data (bel)
-    tesseract-data-ben: OCR data (ben)
-    tesseract-data-bod: OCR data (bod)
-    tesseract-data-bos: OCR data (bos)
-    tesseract-data-bre: OCR data (bre)
-    tesseract-data-bul: OCR data (bul)
-    tesseract-data-cat: OCR data (cat)
-    tesseract-data-ceb: OCR data (ceb)
-    tesseract-data-ces: OCR data (ces)
-    tesseract-data-chi_sim: OCR data (chi_sim)
-    tesseract-data-chi_tra: OCR data (chi_tra)
-    tesseract-data-chr: OCR data (chr)
-    tesseract-data-cos: OCR data (cos)
-    tesseract-data-cym: OCR data (cym)
-    tesseract-data-dan: OCR data (dan)
-    tesseract-data-dan_frak: OCR data (dan_frak)
-    tesseract-data-deu: OCR data (deu)
-    tesseract-data-deu_frak: OCR data (deu_frak)
-    tesseract-data-div: OCR data (div)
-    tesseract-data-dzo: OCR data (dzo)
-    tesseract-data-ell: OCR data (ell)
-    tesseract-data-eng: OCR data (eng)
-    tesseract-data-enm: OCR data (enm)
-    tesseract-data-epo: OCR data (epo)
-    tesseract-data-equ: OCR data (equ)
-    tesseract-data-est: OCR data (est)
-    tesseract-data-eus: OCR data (eus)
-    tesseract-data-fao: OCR data (fao)
-    tesseract-data-fas: OCR data (fas)
-    tesseract-data-fil: OCR data (fil)
-    tesseract-data-fin: OCR data (fin)
-    tesseract-data-fra: OCR data (fra)
-    tesseract-data-frk: OCR data (frk)
-    tesseract-data-frm: OCR data (frm)
-    tesseract-data-fry: OCR data (fry)
-    tesseract-data-gla: OCR data (gla)
-    tesseract-data-gle: OCR data (gle)
-    tesseract-data-glg: OCR data (glg)
-    tesseract-data-grc: OCR data (grc)
-    tesseract-data-guj: OCR data (guj)
-    tesseract-data-hat: OCR data (hat)
-    tesseract-data-heb: OCR data (heb)
-    tesseract-data-hin: OCR data (hin)
-    tesseract-data-hrv: OCR data (hrv)
-    tesseract-data-hun: OCR data (hun)
-    tesseract-data-hye: OCR data (hye)
-    tesseract-data-iku: OCR data (iku)
-    tesseract-data-ind: OCR data (ind)
-    tesseract-data-isl: OCR data (isl)
-    tesseract-data-ita: OCR data (ita)
-    tesseract-data-ita_old: OCR data (ita_old)
-    tesseract-data-jav: OCR data (jav)
-    tesseract-data-jpn: OCR data (jpn)
-    tesseract-data-jpn_vert: OCR data (jpn_vert)
-    tesseract-data-kan: OCR data (kan)
-    tesseract-data-kat: OCR data (kat)
-    tesseract-data-kat_old: OCR data (kat_old)
-    tesseract-data-kaz: OCR data (kaz)
-    tesseract-data-khm: OCR data (khm)
-    tesseract-data-kir: OCR data (kir)
-    tesseract-data-kmr: OCR data (kmr)
-    tesseract-data-kor: OCR data (kor)
-    tesseract-data-kor_vert: OCR data (kor_vert)
-    tesseract-data-lao: OCR data (lao)
-    tesseract-data-lat: OCR data (lat)
-    tesseract-data-lav: OCR data (lav)
-    tesseract-data-lit: OCR data (lit)
-    tesseract-data-ltz: OCR data (ltz)
-    tesseract-data-mal: OCR data (mal)
-    tesseract-data-mar: OCR data (mar)
-    tesseract-data-mkd: OCR data (mkd)
-    tesseract-data-mlt: OCR data (mlt)
-    tesseract-data-mon: OCR data (mon)
-    tesseract-data-mri: OCR data (mri)
-    tesseract-data-msa: OCR data (msa)
-    tesseract-data-mya: OCR data (mya)
-    tesseract-data-nep: OCR data (nep)
-    tesseract-data-nld: OCR data (nld)
-    tesseract-data-nor: OCR data (nor)
-    tesseract-data-oci: OCR data (oci)
-    tesseract-data-ori: OCR data (ori)
-    tesseract-data-pan: OCR data (pan)
-    tesseract-data-pol: OCR data (pol)
-    tesseract-data-por: OCR data (por)
-    tesseract-data-pus: OCR data (pus)
-    tesseract-data-que: OCR data (que)
-    tesseract-data-ron: OCR data (ron)
-    tesseract-data-rus: OCR data (rus)
-    tesseract-data-san: OCR data (san)
-    tesseract-data-sin: OCR data (sin)
-    tesseract-data-slk: OCR data (slk)
-    tesseract-data-slk_frak: OCR data (slk_frak)
-    tesseract-data-slv: OCR data (slv)
-    tesseract-data-snd: OCR data (snd)
-    tesseract-data-spa: OCR data (spa)
-    tesseract-data-spa_old: OCR data (spa_old)
-    tesseract-data-sqi: OCR data (sqi)
-    tesseract-data-srp: OCR data (srp)
-    tesseract-data-srp_latn: OCR data (srp_latn)
-    tesseract-data-sun: OCR data (sun)
-    tesseract-data-swa: OCR data (swa)
-    tesseract-data-swe: OCR data (swe)
-    tesseract-data-syr: OCR data (syr)
-    tesseract-data-tam: OCR data (tam)
-    tesseract-data-tat: OCR data (tat)
-    tesseract-data-tel: OCR data (tel)
-    tesseract-data-tgk: OCR data (tgk)
-    tesseract-data-tgl: OCR data (tgl)
-    tesseract-data-tha: OCR data (tha)
-    tesseract-data-tir: OCR data (tir)
-    tesseract-data-ton: OCR data (ton)
-    tesseract-data-tur: OCR data (tur)
-    tesseract-data-uig: OCR data (uig)
-    tesseract-data-ukr: OCR data (ukr)
-    tesseract-data-urd: OCR data (urd)
-    tesseract-data-uzb: OCR data (uzb)
-    tesseract-data-uzb_cyrl: OCR data (uzb_cyrl)
-    tesseract-data-vie: OCR data (vie)
-    tesseract-data-yid: OCR data (yid)
-    tesseract-data-yor: OCR data (yor)
-( 7/13) installing tesseract-data-afr              [-------------]   0%( 7/13) installing tesseract-data-afr              [#############] 100%
-( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [-------------]   0%( 8/13) installing libmupdf                        [#############] 100%
-( 9/13) installing python-pywal                    [-------------]   0%( 9/13) installing python-pywal                    [#############] 100%
-Optional dependencies for python-pywal
-[0;1m   [0m feh: set wallpaper
-    nitrogen: set wallpaper
-(10/13) installing python-cattrs                   [-------------]   0%(10/13) installing python-cattrs                   [#############] 100%
-(11/13) installing python-lsprotocol               [-------------]   0%(11/13) installing python-lsprotocol               [#############] 100%
-(12/13) installing python-pygls                    [-------------]   0%(12/13) installing python-pygls                    [#############] 100%
-(13/13) installing python-webcolors                [-------------]   0%(13/13) installing python-webcolors                [#############] 100%
-[1;34m::[0;1m Running post-transaction hooks...
-[0m(1/2) Arming ConditionNeedsUpdate...
-(2/2) Updating the info directory file...
-[?25hfetching devel info...
-[1m[32m==>(B[m[1m Making package: girara-git 0.4.3.r3.gd173770-1 (2024-06-01T03:43:03 CEST)(B[m
-[1m[32m==>(B[m[1m Retrieving sources...(B[m
-[1m[34m  ->(B[m[1m Cloning girara-git git repo...(B[m
-Cloning into bare repository '/home/heini/.cache/paru/clone/girara-git/girara-git'...
-remote: Enumerating objects: 5868, done.[K
-remote: Counting objects:   0% (1/378)[Kremote: Counting objects:   1% (4/378)[Kremote: Counting objects:   2% (8/378)[Kremote: Counting objects:   3% (12/378)[Kremote: Counting objects:   4% (16/378)[Kremote: Counting objects:   5% (19/378)[Kremote: Counting objects:   6% (23/378)[Kremote: Counting objects:   7% (27/378)[Kremote: Counting objects:   8% (31/378)[Kremote: Counting objects:   9% (35/378)[Kremote: Counting objects:  10% (38/378)[Kremote: Counting objects:  11% (42/378)[Kremote: Counting objects:  12% (46/378)[Kremote: Counting objects:  13% (50/378)[Kremote: Counting objects:  14% (53/378)[Kremote: Counting objects:  15% (57/378)[Kremote: Counting objects:  16% (61/378)[Kremote: Counting objects:  17% (65/378)[Kremote: Counting objects:  18% (69/378)[Kremote: Counting objects:  19% (72/378)[Kremote: Counting objects:  20% (76/378)[Kremote: Counting objects:  21% (80/378)[Kremote: Counting objects:  22% (84/378)[Kremote: Counting objects:  23% (87/378)[Kremote: Counting objects:  24% (91/378)[Kremote: Counting objects:  25% (95/378)[Kremote: Counting objects:  26% (99/378)[Kremote: Counting objects:  27% (103/378)[Kremote: Counting objects:  28% (106/378)[Kremote: Counting objects:  29% (110/378)[Kremote: Counting objects:  30% (114/378)[Kremote: Counting objects:  31% (118/378)[Kremote: Counting objects:  32% (121/378)[Kremote: Counting objects:  33% (125/378)[Kremote: Counting objects:  34% (129/378)[Kremote: Counting objects:  35% (133/378)[Kremote: Counting objects:  36% (137/378)[Kremote: Counting objects:  37% (140/378)[Kremote: Counting objects:  38% (144/378)[Kremote: Counting objects:  39% (148/378)[Kremote: Counting objects:  40% (152/378)[Kremote: Counting objects:  41% (155/378)[Kremote: Counting objects:  42% (159/378)[Kremote: Counting objects:  43% (163/378)[Kremote: Counting objects:  44% (167/378)[Kremote: Counting objects:  45% (171/378)[Kremote: Counting objects:  46% (174/378)[Kremote: Counting objects:  47% (178/378)[Kremote: Counting objects:  48% (182/378)[Kremote: Counting objects:  49% (186/378)[Kremote: Counting objects:  50% (189/378)[Kremote: Counting objects:  51% (193/378)[Kremote: Counting objects:  52% (197/378)[Kremote: Counting objects:  53% (201/378)[Kremote: Counting objects:  54% (205/378)[Kremote: Counting objects:  55% (208/378)[Kremote: Counting objects:  56% (212/378)[Kremote: Counting objects:  57% (216/378)[Kremote: Counting objects:  58% (220/378)[Kremote: Counting objects:  59% (224/378)[Kremote: Counting objects:  60% (227/378)[Kremote: Counting objects:  61% (231/378)[Kremote: Counting objects:  62% (235/378)[Kremote: Counting objects:  63% (239/378)[Kremote: Counting objects:  64% (242/378)[Kremote: Counting objects:  65% (246/378)[Kremote: Counting objects:  66% (250/378)[Kremote: Counting objects:  67% (254/378)[Kremote: Counting objects:  68% (258/378)[Kremote: Counting objects:  69% (261/378)[Kremote: Counting objects:  70% (265/378)[Kremote: Counting objects:  71% (269/378)[Kremote: Counting objects:  72% (273/378)[Kremote: Counting objects:  73% (276/378)[Kremote: Counting objects:  74% (280/378)[Kremote: Counting objects:  75% (284/378)[Kremote: Counting objects:  76% (288/378)[Kremote: Counting objects:  77% (292/378)[Kremote: Counting objects:  78% (295/378)[Kremote: Counting objects:  79% (299/378)[Kremote: Counting objects:  80% (303/378)[Kremote: Counting objects:  81% (307/378)[Kremote: Counting objects:  82% (310/378)[Kremote: Counting objects:  83% (314/378)[Kremote: Counting objects:  84% (318/378)[Kremote: Counting objects:  85% (322/378)[Kremote: Counting objects:  86% (326/378)[Kremote: Counting objects:  87% (329/378)[Kremote: Counting objects:  88% (333/378)[Kremote: Counting objects:  89% (337/378)[Kremote: Counting objects:  90% (341/378)[Kremote: Counting objects:  91% (344/378)[Kremote: Counting objects:  92% (348/378)[Kremote: Counting objects:  93% (352/378)[Kremote: Counting objects:  94% (356/378)[Kremote: Counting objects:  95% (360/378)[Kremote: Counting objects:  96% (363/378)[Kremote: Counting objects:  97% (367/378)[Kremote: Counting objects:  98% (371/378)[Kremote: Counting objects:  99% (375/378)[Kremote: Counting objects: 100% (378/378)[Kremote: Counting objects: 100% (378/378), done.[K
-remote: Compressing objects:   0% (1/353)[Kremote: Compressing objects:   1% (4/353)[Kremote: Compressing objects:   2% (8/353)[Kremote: Compressing objects:   3% (11/353)[Kremote: Compressing objects:   4% (15/353)[Kremote: Compressing objects:   5% (18/353)[Kremote: Compressing objects:   6% (22/353)[Kremote: Compressing objects:   7% (25/353)[Kremote: Compressing objects:   8% (29/353)[Kremote: Compressing objects:   9% (32/353)[Kremote: Compressing objects:  10% (36/353)[Kremote: Compressing objects:  11% (39/353)[Kremote: Compressing objects:  12% (43/353)[Kremote: Compressing objects:  13% (46/353)[Kremote: Compressing objects:  14% (50/353)[Kremote: Compressing objects:  15% (53/353)[Kremote: Compressing objects:  16% (57/353)[Kremote: Compressing objects:  17% (61/353)[Kremote: Compressing objects:  18% (64/353)[Kremote: Compressing objects:  19% (68/353)[Kremote: Compressing objects:  20% (71/353)[Kremote: Compressing objects:  21% (75/353)[Kremote: Compressing objects:  22% (78/353)[Kremote: Compressing objects:  23% (82/353)[Kremote: Compressing objects:  24% (85/353)[Kremote: Compressing objects:  25% (89/353)[Kremote: Compressing objects:  26% (92/353)[Kremote: Compressing objects:  27% (96/353)[Kremote: Compressing objects:  28% (99/353)[Kremote: Compressing objects:  29% (103/353)[Kremote: Compressing objects:  30% (106/353)[Kremote: Compressing objects:  31% (110/353)[Kremote: Compressing objects:  32% (113/353)[Kremote: Compressing objects:  33% (117/353)[Kremote: Compressing objects:  34% (121/353)[Kremote: Compressing objects:  35% (124/353)[Kremote: Compressing objects:  36% (128/353)[Kremote: Compressing objects:  37% (131/353)[Kremote: Compressing objects:  38% (135/353)[Kremote: Compressing objects:  39% (138/353)[Kremote: Compressing objects:  40% (142/353)[Kremote: Compressing objects:  41% (145/353)[Kremote: Compressing objects:  42% (149/353)[Kremote: Compressing objects:  43% (152/353)[Kremote: Compressing objects:  44% (156/353)[Kremote: Compressing objects:  45% (159/353)[Kremote: Compressing objects:  46% (163/353)[Kremote: Compressing objects:  47% (166/353)[Kremote: Compressing objects:  48% (170/353)[Kremote: Compressing objects:  49% (173/353)[Kremote: Compressing objects:  50% (177/353)[Kremote: Compressing objects:  51% (181/353)[Kremote: Compressing objects:  52% (184/353)[Kremote: Compressing objects:  53% (188/353)[Kremote: Compressing objects:  54% (191/353)[Kremote: Compressing objects:  55% (195/353)[Kremote: Compressing objects:  56% (198/353)[Kremote: Compressing objects:  57% (202/353)[Kremote: Compressing objects:  58% (205/353)[Kremote: Compressing objects:  59% (209/353)[Kremote: Compressing objects:  60% (212/353)[Kremote: Compressing objects:  61% (216/353)[Kremote: Compressing objects:  62% (219/353)[Kremote: Compressing objects:  63% (223/353)[Kremote: Compressing objects:  64% (226/353)[Kremote: Compressing objects:  65% (230/353)[Kremote: Compressing objects:  66% (233/353)[Kremote: Compressing objects:  67% (237/353)[Kremote: Compressing objects:  68% (241/353)[Kremote: Compressing objects:  69% (244/353)[Kremote: Compressing objects:  70% (248/353)[Kremote: Compressing objects:  71% (251/353)[Kremote: Compressing objects:  72% (255/353)[Kremote: Compressing objects:  73% (258/353)[Kremote: Compressing objects:  74% (262/353)[Kremote: Compressing objects:  75% (265/353)[Kremote: Compressing objects:  76% (269/353)[Kremote: Compressing objects:  77% (272/353)[Kremote: Compressing objects:  78% (276/353)[Kremote: Compressing objects:  79% (279/353)[Kremote: Compressing objects:  80% (283/353)[Kremote: Compressing objects:  81% (286/353)[Kremote: Compressing objects:  82% (290/353)[Kremote: Compressing objects:  83% (293/353)[Kremote: Compressing objects:  84% (297/353)[Kremote: Compressing objects:  85% (301/353)[Kremote: Compressing objects:  86% (304/353)[Kremote: Compressing objects:  87% (308/353)[Kremote: Compressing objects:  88% (311/353)[Kremote: Compressing objects:  89% (315/353)[Kremote: Compressing objects:  90% (318/353)[Kremote: Compressing objects:  91% (322/353)[Kremote: Compressing objects:  92% (325/353)[Kremote: Compressing objects:  93% (329/353)[Kremote: Compressing objects:  94% (332/353)[Kremote: Compressing objects:  95% (336/353)[Kremote: Compressing objects:  96% (339/353)[Kremote: Compressing objects:  97% (343/353)[Kremote: Compressing objects:  98% (346/353)[Kremote: Compressing objects:  99% (350/353)[Kremote: Compressing objects: 100% (353/353)[Kremote: Compressing objects: 100% (353/353), done.[K
-Receiving objects:   0% (1/5868)Receiving objects:   1% (59/5868)Receiving objects:   2% (118/5868)Receiving objects:   3% (177/5868)Receiving objects:   4% (235/5868)Receiving objects:   5% (294/5868)Receiving objects:   6% (353/5868)Receiving objects:   7% (411/5868)Receiving objects:   8% (470/5868)Receiving objects:   9% (529/5868)Receiving objects:  10% (587/5868)Receiving objects:  11% (646/5868)Receiving objects:  12% (705/5868)Receiving objects:  13% (763/5868)Receiving objects:  14% (822/5868)Receiving objects:  15% (881/5868)Receiving objects:  16% (939/5868)Receiving objects:  17% (998/5868)Receiving objects:  18% (1057/5868)Receiving objects:  19% (1115/5868)Receiving objects:  20% (1174/5868)Receiving objects:  21% (1233/5868)Receiving objects:  22% (1291/5868)Receiving objects:  23% (1350/5868)Receiving objects:  24% (1409/5868)Receiving objects:  25% (1467/5868)Receiving objects:  26% (1526/5868)Receiving objects:  27% (1585/5868)Receiving objects:  28% (1644/5868)Receiving objects:  29% (1702/5868)Receiving objects:  30% (1761/5868)Receiving objects:  31% (1820/5868)Receiving objects:  32% (1878/5868)Receiving objects:  33% (1937/5868)Receiving objects:  34% (1996/5868)Receiving objects:  35% (2054/5868)Receiving objects:  36% (2113/5868)Receiving objects:  37% (2172/5868)Receiving objects:  38% (2230/5868)Receiving objects:  39% (2289/5868)Receiving objects:  40% (2348/5868)Receiving objects:  41% (2406/5868)Receiving objects:  42% (2465/5868)Receiving objects:  43% (2524/5868)Receiving objects:  44% (2582/5868)Receiving objects:  45% (2641/5868)Receiving objects:  46% (2700/5868)Receiving objects:  47% (2758/5868)Receiving objects:  48% (2817/5868)Receiving objects:  49% (2876/5868)Receiving objects:  50% (2934/5868)Receiving objects:  51% (2993/5868)Receiving objects:  52% (3052/5868)Receiving objects:  53% (3111/5868)Receiving objects:  54% (3169/5868)Receiving objects:  55% (3228/5868)Receiving objects:  56% (3287/5868)Receiving objects:  57% (3345/5868)Receiving objects:  58% (3404/5868)Receiving objects:  59% (3463/5868)Receiving objects:  60% (3521/5868)Receiving objects:  61% (3580/5868)Receiving objects:  62% (3639/5868)Receiving objects:  63% (3697/5868)Receiving objects:  64% (3756/5868)Receiving objects:  65% (3815/5868)Receiving objects:  66% (3873/5868)Receiving objects:  67% (3932/5868)Receiving objects:  68% (3991/5868)Receiving objects:  69% (4049/5868)Receiving objects:  70% (4108/5868)Receiving objects:  71% (4167/5868)Receiving objects:  72% (4225/5868)Receiving objects:  73% (4284/5868)Receiving objects:  74% (4343/5868)Receiving objects:  75% (4401/5868)Receiving objects:  76% (4460/5868)Receiving objects:  77% (4519/5868)Receiving objects:  78% (4578/5868)Receiving objects:  79% (4636/5868)Receiving objects:  80% (4695/5868)Receiving objects:  81% (4754/5868)Receiving objects:  82% (4812/5868)Receiving objects:  83% (4871/5868)Receiving objects:  84% (4930/5868)Receiving objects:  85% (4988/5868)Receiving objects:  86% (5047/5868)Receiving objects:  87% (5106/5868)Receiving objects:  88% (5164/5868)Receiving objects:  89% (5223/5868)Receiving objects:  90% (5282/5868)Receiving objects:  91% (5340/5868)Receiving objects:  92% (5399/5868)Receiving objects:  93% (5458/5868)Receiving objects:  94% (5516/5868)Receiving objects:  95% (5575/5868)Receiving objects:  96% (5634/5868)Receiving objects:  97% (5692/5868)remote: Total 5868 (delta 229), reused 48 (delta 24), pack-reused 5490[K
-Receiving objects:  98% (5751/5868)Receiving objects:  99% (5810/5868)Receiving objects: 100% (5868/5868)Receiving objects: 100% (5868/5868), 1.08 MiB | 7.35 MiB/s, done.
-Resolving deltas:   0% (0/4160)Resolving deltas:   1% (42/4160)Resolving deltas:   2% (84/4160)Resolving deltas:   3% (125/4160)Resolving deltas:   4% (167/4160)Resolving deltas:   5% (208/4160)Resolving deltas:   6% (250/4160)Resolving deltas:   7% (292/4160)Resolving deltas:   8% (333/4160)Resolving deltas:   9% (375/4160)Resolving deltas:  10% (416/4160)Resolving deltas:  11% (458/4160)Resolving deltas:  12% (500/4160)Resolving deltas:  13% (541/4160)Resolving deltas:  14% (583/4160)Resolving deltas:  15% (624/4160)Resolving deltas:  16% (667/4160)Resolving deltas:  17% (709/4160)Resolving deltas:  18% (750/4160)Resolving deltas:  19% (791/4160)Resolving deltas:  20% (832/4160)Resolving deltas:  21% (874/4160)Resolving deltas:  22% (916/4160)Resolving deltas:  23% (957/4160)Resolving deltas:  24% (999/4160)Resolving deltas:  25% (1041/4160)Resolving deltas:  26% (1082/4160)Resolving deltas:  27% (1125/4160)Resolving deltas:  28% (1165/4160)Resolving deltas:  29% (1207/4160)Resolving deltas:  30% (1248/4160)Resolving deltas:  31% (1290/4160)Resolving deltas:  32% (1332/4160)Resolving deltas:  33% (1373/4160)Resolving deltas:  34% (1415/4160)Resolving deltas:  35% (1456/4160)Resolving deltas:  36% (1498/4160)Resolving deltas:  37% (1540/4160)Resolving deltas:  38% (1582/4160)Resolving deltas:  39% (1623/4160)Resolving deltas:  40% (1664/4160)Resolving deltas:  41% (1706/4160)Resolving deltas:  42% (1749/4160)Resolving deltas:  43% (1789/4160)Resolving deltas:  44% (1831/4160)Resolving deltas:  45% (1872/4160)Resolving deltas:  46% (1914/4160)Resolving deltas:  47% (1956/4160)Resolving deltas:  48% (1997/4160)Resolving deltas:  49% (2039/4160)Resolving deltas:  50% (2081/4160)Resolving deltas:  51% (2122/4160)Resolving deltas:  52% (2164/4160)Resolving deltas:  53% (2205/4160)Resolving deltas:  54% (2247/4160)Resolving deltas:  55% (2288/4160)Resolving deltas:  56% (2330/4160)Resolving deltas:  57% (2372/4160)Resolving deltas:  58% (2413/4160)Resolving deltas:  59% (2455/4160)Resolving deltas:  60% (2497/4160)Resolving deltas:  61% (2539/4160)Resolving deltas:  62% (2580/4160)Resolving deltas:  63% (2621/4160)Resolving deltas:  64% (2663/4160)Resolving deltas:  65% (2704/4160)Resolving deltas:  66% (2747/4160)Resolving deltas:  67% (2788/4160)Resolving deltas:  68% (2829/4160)Resolving deltas:  69% (2871/4160)Resolving deltas:  70% (2912/4160)Resolving deltas:  71% (2954/4160)Resolving deltas:  72% (2998/4160)Resolving deltas:  73% (3037/4160)Resolving deltas:  74% (3081/4160)Resolving deltas:  75% (3120/4160)Resolving deltas:  76% (3162/4160)Resolving deltas:  77% (3204/4160)Resolving deltas:  78% (3245/4160)Resolving deltas:  79% (3287/4160)Resolving deltas:  80% (3328/4160)Resolving deltas:  81% (3370/4160)Resolving deltas:  82% (3413/4160)Resolving deltas:  83% (3453/4160)Resolving deltas:  84% (3495/4160)Resolving deltas:  85% (3538/4160)Resolving deltas:  86% (3578/4160)Resolving deltas:  87% (3620/4160)Resolving deltas:  88% (3661/4160)Resolving deltas:  89% (3703/4160)Resolving deltas:  90% (3744/4160)Resolving deltas:  91% (3786/4160)Resolving deltas:  92% (3828/4160)Resolving deltas:  93% (3869/4160)Resolving deltas:  94% (3911/4160)Resolving deltas:  95% (3952/4160)Resolving deltas:  96% (3994/4160)Resolving deltas:  97% (4036/4160)Resolving deltas:  98% (4077/4160)Resolving deltas:  99% (4119/4160)Resolving deltas: 100% (4160/4160)Resolving deltas: 100% (4160/4160), done.
-[1m[32m==>(B[m[1m Validating source files with md5sums...(B[m
-    girara-git ... Skipped
-[1m[32m==>(B[m[1m Making package: girara-git 0.4.3.r3.gd173770-1 (2024-06-01T03:43:06 CEST)(B[m
-[1m[32m==>(B[m[1m Checking runtime dependencies...(B[m
-[1m[32m==>(B[m[1m Checking buildtime dependencies...(B[m
-[1m[32m==>(B[m[1m Retrieving sources...(B[m
-[1m[34m  ->(B[m[1m Updating girara-git git repo...(B[m
-[1m[32m==>(B[m[1m Validating source files with md5sums...(B[m
-    girara-git ... Skipped
-[1m[32m==>(B[m[1m Removing existing $srcdir/ directory...(B[m
-[1m[32m==>(B[m[1m Extracting sources...(B[m
-[1m[34m  ->(B[m[1m Creating working copy of girara-git git repo...(B[m
-Cloning into 'girara-git'...
-done.
-Switched to a new branch 'makepkg'
-[1m[32m==>(B[m[1m Starting pkgver()...(B[m
-[1m[32m==>(B[m[1m Updated version: girara-git 0.4.3.r7.gf6d0676-1(B[m
-[1m[32m==>(B[m[1m Sources are ready.(B[m
-girara-git-0.4.3.r3.gd173770-1: parsing pkg list...
-[1m[32m==>(B[m[1m Making package: girara-git 0.4.3.r7.gf6d0676-1 (2024-06-01T03:43:10 CEST)(B[m
-[1m[32m==>(B[m[1m Checking runtime dependencies...(B[m
-[1m[32m==>(B[m[1m Checking buildtime dependencies...(B[m
-[1m[33m==> WARNING:(B[m[1m Using existing $srcdir/ tree(B[m
-[1m[32m==>(B[m[1m Starting pkgver()...(B[m
-[1m[32m==>(B[m[1m Starting build()...(B[m
-+ exec meson setup --prefix /usr --libexecdir lib --sbindir bin --buildtype plain --auto-features enabled --wrap-mode nodownload -D b_pie=true -D python.bytecompile=1 build -Dtests=disabled
-[1mThe Meson build system[0m
-Version: 1.4.1
-Source dir: [1m/home/heini/.cache/paru/clone/girara-git/src/girara-git[0m
-Build dir: [1m/home/heini/.cache/paru/clone/girara-git/src/girara-git/build[0m
-Build type: [1mnative build[0m
-Project name: [1mgirara[0m
-Project version: [1m0.4.3[0m
-C compiler for the host machine: [1mcc[0m (gcc 14.1.1 "cc (GCC) 14.1.1 20240522")
-C linker for the host machine: [1mcc[0m ld.bfd 2.42.0
-Host machine cpu family: [1mx86_64[0m
-Host machine cpu: [1mx86_64[0m
-Library [1mm[0m found: [1;32mYES[0m
-Found pkg-config: [1;32mYES[0m [1m(/usr/bin/pkg-config)[0m [1;34m2.1.1[0m
-Run-time dependency [1mglib-2.0[0m found: [1;32mYES[0m [36m2.80.2[0m
-Run-time dependency [1mgtk+-3.0[0m found: [1;32mYES[0m [36m3.24.42[0m
-Run-time dependency [1mpango[0m found: [1;32mYES[0m [36m1.52.2[0m
-Checking for function "[1mgetpwnam_r[0m" : [1;32mYES[0m 
-Compiler for C supports arguments -Wmissing-declarations: [1;32mYES[0m 
-Compiler for C supports arguments -Werror=implicit-function-declaration: [1;32mYES[0m 
-Compiler for C supports arguments -Werror=vla: [1;32mYES[0m 
-Compiler for C supports arguments -Werror=int-conversion: [1;32mYES[0m 
-Run-time dependency [1mjson-glib-1.0[0m found: [1;32mYES[0m [36m1.8.0[0m
-Configuring [1mgirara-version.h[0m using configuration
-Build-time dependency [1mgio-2.0[0m found: [1;32mYES[0m [36m2.80.2[0m
-Program [1m/usr/bin/glib-compile-resources[0m found: [1;32mYES[0m (/usr/bin/glib-compile-resources)
-Program [1mmsgfmt[0m found: [1;32mYES[0m (/usr/bin/msgfmt)
-Program [1mmsginit[0m found: [1;32mYES[0m (/usr/bin/msginit)
-Program [1mmsgmerge[0m found: [1;32mYES[0m (/usr/bin/msgmerge)
-Program [1mxgettext[0m found: [1;32mYES[0m (/usr/bin/xgettext)
-Program [1mdoxygen[0m found: [1;32mYES[0m (/usr/bin/doxygen)
-Configuring [1mDoxyfile[0m using configuration
-Dependency [1mcheck[0m skipped: feature [1mtests[0m disabled
-Build targets in project: [1m23[0m
-
-girara [36m0.4.3[0m
-
-  [1mUser defined options[0m
-    auto_features     : enabled
-    buildtype         : plain
-    libexecdir        : lib
-    prefix            : /usr
-    sbindir           : bin
-    wrap_mode         : nodownload
-    python.bytecompile: 1
-    b_pie             : true
-    tests             : disabled
-
-Found ninja-1.13.0.git at /home/heini/repos/ninja/build/ninja
-Generating targets:   0%|                                  | 0/23 eta ?                                                                       Writing build.ninja:   0%|                                 | 0/75 eta ?                                                                       ninja: Entering directory `build'
-[0/36] Generating data/css-definitions_c with a custom command[K[0/36] Generating data/css-definitions_h with a custom command[K[0/36] Building translation po/ar/LC_MESSAGES/libgirara-gtk3-4-ar.mo[K[0/36] Building translation po/de/LC_MESSAGES/libgirara-gtk3-4-de.mo[K[0/36] Building translation po/el/LC_MESSAGES/libgirara-gtk3-4-el.mo[K[0/36] Building translation po/eo/LC_MESSAGES/libgirara-gtk3-4-eo.mo[K[0/36] Building translation po/es/LC_MESSAGES/libgirara-gtk3-4-es.mo[K[0/36] Building translation po/fa_...MESSAGES/libgirara-gtk3-4-fa_IR.mo[K[0/36] Building translation po/fr/LC_MESSAGES/libgirara-gtk3-4-fr.mo[K[0/36] Building translation po/he/LC_MESSAGES/libgirara-gtk3-4-he.mo[K[1/36] Generating data/css-definitions_c with a custom command[K[1/36] Building translation po/it/LC_MESSAGES/libgirara-gtk3-4-it.mo[K[2/36] Generating data/css-definitions_h with a custom command[K[2/36] Compiling C object libgirar...erated_.._data_css-definitions.c.o[K[3/36] Building translation po/ar/LC_MESSAGES/libgirara-gtk3-4-ar.mo[K[3/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_callbacks.c.o[K[4/36] Building translation po/el/LC_MESSAGES/libgirara-gtk3-4-el.mo[K[4/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_commands.c.o[K[5/36] Building translation po/eo/LC_MESSAGES/libgirara-gtk3-4-eo.mo[K[5/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_completion.c.o[K[6/36] Building translation po/de/LC_MESSAGES/libgirara-gtk3-4-de.mo[K[6/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_config.c.o[K[7/36] Building translation po/es/LC_MESSAGES/libgirara-gtk3-4-es.mo[K[7/36] Compiling C object libgirar...so.4.0.p/girara_datastructures.c.o[K[8/36] Building translation po/fa_...MESSAGES/libgirara-gtk3-4-fa_IR.mo[K[8/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_entry.c.o[K[9/36] Building translation po/fr/LC_MESSAGES/libgirara-gtk3-4-fr.mo[K[9/36] Compiling C object libgirar....4.0.p/girara_input-history-io.c.o[K[10/36] Building translation po/he/LC_MESSAGES/libgirara-gtk3-4-he.mo[K[10/36] Compiling C object libgira....so.4.0.p/girara_input-history.c.o[K[11/36] Building translation po/it/LC_MESSAGES/libgirara-gtk3-4-it.mo[K[11/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_log.c.o[K[12/36] Compiling C object libgira....4.0.p/girara_input-history-io.c.o[K[12/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_session.c.o[K[13/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_log.c.o[K[13/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_settings.c.o[K[14/36] Compiling C object libgira...so.4.0.p/girara_datastructures.c.o[K[14/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_shortcuts.c.o[K[15/36] Compiling C object libgira...erated_.._data_css-definitions.c.o[K[15/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_statusbar.c.o[K[16/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_entry.c.o[K[16/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_template.c.o[K[17/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_commands.c.o[K[17/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_utils.c.o[K[18/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_config.c.o[K[18/36] Building translation po/nl/LC_MESSAGES/libgirara-gtk3-4-nl.mo[K[19/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_callbacks.c.o[K[19/36] Building translation po/pl/LC_MESSAGES/libgirara-gtk3-4-pl.mo[K[20/36] Building translation po/nl/LC_MESSAGES/libgirara-gtk3-4-nl.mo[K[20/36] Building translation po/pt...MESSAGES/libgirara-gtk3-4-pt_BR.mo[K[21/36] Compiling C object libgira....so.4.0.p/girara_input-history.c.o[K[21/36] Building translation po/ru/LC_MESSAGES/libgirara-gtk3-4-ru.mo[K[22/36] Building translation po/pt...MESSAGES/libgirara-gtk3-4-pt_BR.mo[K[22/36] Building translation po/sv/LC_MESSAGES/libgirara-gtk3-4-sv.mo[K[23/36] Building translation po/pl/LC_MESSAGES/libgirara-gtk3-4-pl.mo[K[23/36] Building translation po/tr/LC_MESSAGES/libgirara-gtk3-4-tr.mo[K[24/36] Building translation po/ru/LC_MESSAGES/libgirara-gtk3-4-ru.mo[K[24/36] Building translation po/uk...MESSAGES/libgirara-gtk3-4-uk_UA.mo[K[25/36] Building translation po/sv/LC_MESSAGES/libgirara-gtk3-4-sv.mo[K[25/36] Generating doc/doc with a custom command[K[26/36] Building translation po/tr/LC_MESSAGES/libgirara-gtk3-4-tr.mo[K[27/36] Building translation po/uk...MESSAGES/libgirara-gtk3-4-uk_UA.mo[K[28/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_shortcuts.c.o[K[29/36] Compiling C object libgira...tk3.so.4.0.p/girara_completion.c.o[K[30/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_statusbar.c.o[K[31/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_session.c.o[K[32/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_settings.c.o[K[33/36] Generating doc/doc with a custom command[K
-warning: source '/home/heini/.cache/paru/clone/girara-git/src/girara-git/build/libgirara-gtk3.so' is not a readable file or directory... skipping.
-warning: source '/home/heini/.cache/paru/clone/girara-git/src/girara-git/build/libgirara-gtk3.so.4' is not a readable file or directory... skipping.
-/home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/types.h:81: warning: argument 'argc' of command @param is not found in the argument list of girara_command_function_t(girara_session_t *session, girara_list_t *argument_list)
-/home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/types.h:81: warning: argument 'argv' of command @param is not found in the argument list of girara_command_function_t(girara_session_t *session, girara_list_t *argument_list)
-[34/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_template.c.o[K[35/36] Compiling C object libgirara-gtk3.so.4.0.p/girara_utils.c.o[K[35/36] Linking target libgirara-gtk3.so.4.0[K[36/36] Linking target libgirara-gtk3.so.4.0[K
-[1m[32m==>(B[m[1m Entering fakeroot environment...(B[m
-[1m[32m==>(B[m[1m Starting package()...(B[m
-ninja: Entering directory `build'
-[0/1] Installing files.[K
-Installing po/ar/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/ar/LC_MESSAGES
-Installing po/de/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/de/LC_MESSAGES
-Installing po/el/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/el/LC_MESSAGES
-Installing po/eo/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/eo/LC_MESSAGES
-Installing po/es/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/es/LC_MESSAGES
-Installing po/fa_IR/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/fa_IR/LC_MESSAGES
-Installing po/fr/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/fr/LC_MESSAGES
-Installing po/he/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/he/LC_MESSAGES
-Installing po/it/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/it/LC_MESSAGES
-Installing po/nl/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/nl/LC_MESSAGES
-Installing po/pl/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/pl/LC_MESSAGES
-Installing po/pt_BR/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/pt_BR/LC_MESSAGES
-Installing po/ru/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/ru/LC_MESSAGES
-Installing po/sv/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/sv/LC_MESSAGES
-Installing po/tr/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/tr/LC_MESSAGES
-Installing po/uk_UA/LC_MESSAGES/libgirara-gtk3-4.mo to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/share/locale/uk_UA/LC_MESSAGES
-Installing libgirara-gtk3.so.4.0 to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/lib
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/callbacks.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/commands.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/completion.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/config.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/datastructures.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/entry.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/girara.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/input-history.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/log.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/macros.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/session.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/settings.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/shortcuts.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/statusbar.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/template.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/types.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/girara/utils.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/build/girara-version.h to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/include/girara
-Installing /home/heini/.cache/paru/clone/girara-git/src/girara-git/build/meson-private/girara-gtk3.pc to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/lib/pkgconfig
-Installing symlink pointing to libgirara-gtk3.so.4.0 to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/lib/libgirara-gtk3.so.4
-Installing symlink pointing to libgirara-gtk3.so.4 to /home/heini/.cache/paru/clone/girara-git/pkg/girara-git/usr/lib/libgirara-gtk3.so
-[1m[32m==>(B[m[1m Tidying install...(B[m
-[1m[34m  ->(B[m[1m Removing libtool files...(B[m
-[1m[34m  ->(B[m[1m Purging unwanted files...(B[m
-[1m[34m  ->(B[m[1m Removing static library files...(B[m
-[1m[34m  ->(B[m[1m Stripping unneeded symbols from binaries and libraries...(B[m
-[1m[34m  ->(B[m[1m Compressing man and info pages...(B[m
-[1m[32m==>(B[m[1m Checking for packaging issues...(B[m
-[1m[32m==>(B[m[1m Creating package "girara-git"...(B[m
-[1m[34m  ->(B[m[1m Generating .PKGINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .BUILDINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .MTREE file...(B[m
-[1m[34m  ->(B[m[1m Compressing package...(B[m
-[1m[32m==>(B[m[1m Creating package "girara-git-debug"...(B[m
-[1m[34m  ->(B[m[1m Generating .PKGINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .BUILDINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .MTREE file...(B[m
-[1m[34m  ->(B[m[1m Compressing package...(B[m
-[1m[32m==>(B[m[1m Leaving fakeroot environment.(B[m
-[1m[32m==>(B[m[1m Finished making: girara-git 0.4.3.r7.gf6d0676-1 (2024-06-01T03:43:23 CEST)(B[m
-[1m[32m==>(B[m[1m Cleaning up...(B[m
-[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-
-[0;1mPackage (1)[0m  [0;1mNew Version        [0m  [0;1mNet Change[0m
-
-girara-git   0.4.3.r7.gf6d0676-1    0,24 MiB
-
-[0;1mTotal Installed Size:[0m  0,24 MiB
-
-[1;34m::[0;1m Proceed with installation? [Y/n] [0m
-(0/1) checking keys in keyring                     [-------------]   0%(1/1) checking keys in keyring                     [#############] 100%
-(0/1) checking package integrity                   [-------------]   0%(1/1) checking package integrity                   [#############] 100%
-(0/1) loading package files                        [-------------]   0%(1/1) loading package files                        [#############] 100%
-(0/1) checking for file conflicts                  [-------------]   0%(1/1) checking for file conflicts                  [#############] 100%
-(0/1) checking available disk space                [-------------]   0%(1/1) checking available disk space                [#############] 100%
-[1;34m::[0;1m Processing package changes...
-[0m(1/1) installing girara-git                        [-------------]   0%(1/1) installing girara-git                        [#############] 100%
-[1;34m::[0;1m Running post-transaction hooks...
-[0m(1/1) Arming ConditionNeedsUpdate...
-[?25h[1m[32m==>(B[m[1m Making package: zathura-git 0.5.5.r1.gfb5388c-1 (2024-06-01T03:43:25 CEST)(B[m
-[1m[32m==>(B[m[1m Retrieving sources...(B[m
-[1m[34m  ->(B[m[1m Cloning zathura-git git repo...(B[m
-Cloning into bare repository '/home/heini/.cache/paru/clone/zathura-git/zathura-git'...
-remote: Enumerating objects: 13745, done.[K
-remote: Counting objects:   0% (1/934)[Kremote: Counting objects:   1% (10/934)[Kremote: Counting objects:   2% (19/934)[Kremote: Counting objects:   3% (29/934)[Kremote: Counting objects:   4% (38/934)[Kremote: Counting objects:   5% (47/934)[Kremote: Counting objects:   6% (57/934)[Kremote: Counting objects:   7% (66/934)[Kremote: Counting objects:   8% (75/934)[Kremote: Counting objects:   9% (85/934)[Kremote: Counting objects:  10% (94/934)[Kremote: Counting objects:  11% (103/934)[Kremote: Counting objects:  12% (113/934)[Kremote: Counting objects:  13% (122/934)[Kremote: Counting objects:  14% (131/934)[Kremote: Counting objects:  15% (141/934)[Kremote: Counting objects:  16% (150/934)[Kremote: Counting objects:  17% (159/934)[Kremote: Counting objects:  18% (169/934)[Kremote: Counting objects:  19% (178/934)[Kremote: Counting objects:  20% (187/934)[Kremote: Counting objects:  21% (197/934)[Kremote: Counting objects:  22% (206/934)[Kremote: Counting objects:  23% (215/934)[Kremote: Counting objects:  24% (225/934)[Kremote: Counting objects:  25% (234/934)[Kremote: Counting objects:  26% (243/934)[Kremote: Counting objects:  27% (253/934)[Kremote: Counting objects:  28% (262/934)[Kremote: Counting objects:  29% (271/934)[Kremote: Counting objects:  30% (281/934)[Kremote: Counting objects:  31% (290/934)[Kremote: Counting objects:  32% (299/934)[Kremote: Counting objects:  33% (309/934)[Kremote: Counting objects:  34% (318/934)[Kremote: Counting objects:  35% (327/934)[Kremote: Counting objects:  36% (337/934)[Kremote: Counting objects:  37% (346/934)[Kremote: Counting objects:  38% (355/934)[Kremote: Counting objects:  39% (365/934)[Kremote: Counting objects:  40% (374/934)[Kremote: Counting objects:  41% (383/934)[Kremote: Counting objects:  42% (393/934)[Kremote: Counting objects:  43% (402/934)[Kremote: Counting objects:  44% (411/934)[Kremote: Counting objects:  45% (421/934)[Kremote: Counting objects:  46% (430/934)[Kremote: Counting objects:  47% (439/934)[Kremote: Counting objects:  48% (449/934)[Kremote: Counting objects:  49% (458/934)[Kremote: Counting objects:  50% (467/934)[Kremote: Counting objects:  51% (477/934)[Kremote: Counting objects:  52% (486/934)[Kremote: Counting objects:  53% (496/934)[Kremote: Counting objects:  54% (505/934)[Kremote: Counting objects:  55% (514/934)[Kremote: Counting objects:  56% (524/934)[Kremote: Counting objects:  57% (533/934)[Kremote: Counting objects:  58% (542/934)[Kremote: Counting objects:  59% (552/934)[Kremote: Counting objects:  60% (561/934)[Kremote: Counting objects:  61% (570/934)[Kremote: Counting objects:  62% (580/934)[Kremote: Counting objects:  63% (589/934)[Kremote: Counting objects:  64% (598/934)[Kremote: Counting objects:  65% (608/934)[Kremote: Counting objects:  66% (617/934)[Kremote: Counting objects:  67% (626/934)[Kremote: Counting objects:  68% (636/934)[Kremote: Counting objects:  69% (645/934)[Kremote: Counting objects:  70% (654/934)[Kremote: Counting objects:  71% (664/934)[Kremote: Counting objects:  72% (673/934)[Kremote: Counting objects:  73% (682/934)[Kremote: Counting objects:  74% (692/934)[Kremote: Counting objects:  75% (701/934)[Kremote: Counting objects:  76% (710/934)[Kremote: Counting objects:  77% (720/934)[Kremote: Counting objects:  78% (729/934)[Kremote: Counting objects:  79% (738/934)[Kremote: Counting objects:  80% (748/934)[Kremote: Counting objects:  81% (757/934)[Kremote: Counting objects:  82% (766/934)[Kremote: Counting objects:  83% (776/934)[Kremote: Counting objects:  84% (785/934)[Kremote: Counting objects:  85% (794/934)[Kremote: Counting objects:  86% (804/934)[Kremote: Counting objects:  87% (813/934)[Kremote: Counting objects:  88% (822/934)[Kremote: Counting objects:  89% (832/934)[Kremote: Counting objects:  90% (841/934)[Kremote: Counting objects:  91% (850/934)[Kremote: Counting objects:  92% (860/934)[Kremote: Counting objects:  93% (869/934)[Kremote: Counting objects:  94% (878/934)[Kremote: Counting objects:  95% (888/934)[Kremote: Counting objects:  96% (897/934)[Kremote: Counting objects:  97% (906/934)[Kremote: Counting objects:  98% (916/934)[Kremote: Counting objects:  99% (925/934)[Kremote: Counting objects: 100% (934/934)[Kremote: Counting objects: 100% (934/934), done.[K
-remote: Compressing objects:   0% (1/291)[Kremote: Compressing objects:   1% (3/291)[Kremote: Compressing objects:   2% (6/291)[Kremote: Compressing objects:   3% (9/291)[Kremote: Compressing objects:   4% (12/291)[Kremote: Compressing objects:   5% (15/291)[Kremote: Compressing objects:   6% (18/291)[Kremote: Compressing objects:   7% (21/291)[Kremote: Compressing objects:   8% (24/291)[Kremote: Compressing objects:   9% (27/291)[Kremote: Compressing objects:  10% (30/291)[Kremote: Compressing objects:  11% (33/291)[Kremote: Compressing objects:  12% (35/291)[Kremote: Compressing objects:  13% (38/291)[Kremote: Compressing objects:  14% (41/291)[Kremote: Compressing objects:  15% (44/291)[Kremote: Compressing objects:  16% (47/291)[Kremote: Compressing objects:  17% (50/291)[Kremote: Compressing objects:  18% (53/291)[Kremote: Compressing objects:  19% (56/291)[Kremote: Compressing objects:  20% (59/291)[Kremote: Compressing objects:  21% (62/291)[Kremote: Compressing objects:  22% (65/291)[Kremote: Compressing objects:  23% (67/291)[Kremote: Compressing objects:  24% (70/291)[Kremote: Compressing objects:  25% (73/291)[Kremote: Compressing objects:  26% (76/291)[Kremote: Compressing objects:  27% (79/291)[Kremote: Compressing objects:  28% (82/291)[Kremote: Compressing objects:  29% (85/291)[Kremote: Compressing objects:  30% (88/291)[Kremote: Compressing objects:  31% (91/291)[Kremote: Compressing objects:  32% (94/291)[Kremote: Compressing objects:  33% (97/291)[Kremote: Compressing objects:  34% (99/291)[Kremote: Compressing objects:  35% (102/291)[Kremote: Compressing objects:  36% (105/291)[Kremote: Compressing objects:  37% (108/291)[Kremote: Compressing objects:  38% (111/291)[Kremote: Compressing objects:  39% (114/291)[Kremote: Compressing objects:  40% (117/291)[Kremote: Compressing objects:  41% (120/291)[Kremote: Compressing objects:  42% (123/291)[Kremote: Compressing objects:  43% (126/291)[Kremote: Compressing objects:  44% (129/291)[Kremote: Compressing objects:  45% (131/291)[Kremote: Compressing objects:  46% (134/291)[Kremote: Compressing objects:  47% (137/291)[Kremote: Compressing objects:  48% (140/291)[Kremote: Compressing objects:  49% (143/291)[Kremote: Compressing objects:  50% (146/291)[Kremote: Compressing objects:  51% (149/291)[Kremote: Compressing objects:  52% (152/291)[Kremote: Compressing objects:  53% (155/291)[Kremote: Compressing objects:  54% (158/291)[Kremote: Compressing objects:  55% (161/291)[Kremote: Compressing objects:  56% (163/291)[Kremote: Compressing objects:  57% (166/291)[Kremote: Compressing objects:  58% (169/291)[Kremote: Compressing objects:  59% (172/291)[Kremote: Compressing objects:  60% (175/291)[Kremote: Compressing objects:  61% (178/291)[Kremote: Compressing objects:  62% (181/291)[Kremote: Compressing objects:  63% (184/291)[Kremote: Compressing objects:  64% (187/291)[Kremote: Compressing objects:  65% (190/291)[Kremote: Compressing objects:  66% (193/291)[Kremote: Compressing objects:  67% (195/291)[Kremote: Compressing objects:  68% (198/291)[Kremote: Compressing objects:  69% (201/291)[Kremote: Compressing objects:  70% (204/291)[Kremote: Compressing objects:  71% (207/291)[Kremote: Compressing objects:  72% (210/291)[Kremote: Compressing objects:  73% (213/291)[Kremote: Compressing objects:  74% (216/291)[Kremote: Compressing objects:  75% (219/291)[Kremote: Compressing objects:  76% (222/291)[Kremote: Compressing objects:  77% (225/291)[Kremote: Compressing objects:  78% (227/291)[Kremote: Compressing objects:  79% (230/291)[Kremote: Compressing objects:  80% (233/291)[Kremote: Compressing objects:  81% (236/291)[Kremote: Compressing objects:  82% (239/291)[Kremote: Compressing objects:  83% (242/291)[Kremote: Compressing objects:  84% (245/291)[Kremote: Compressing objects:  85% (248/291)[Kremote: Compressing objects:  86% (251/291)[Kremote: Compressing objects:  87% (254/291)[Kremote: Compressing objects:  88% (257/291)[Kremote: Compressing objects:  89% (259/291)[Kremote: Compressing objects:  90% (262/291)[Kremote: Compressing objects:  91% (265/291)[Kremote: Compressing objects:  92% (268/291)[Kremote: Compressing objects:  93% (271/291)[Kremote: Compressing objects:  94% (274/291)[Kremote: Compressing objects:  95% (277/291)[Kremote: Compressing objects:  96% (280/291)[Kremote: Compressing objects:  97% (283/291)[Kremote: Compressing objects:  98% (286/291)[Kremote: Compressing objects:  99% (289/291)[Kremote: Compressing objects: 100% (291/291)[Kremote: Compressing objects: 100% (291/291), done.[K
-Receiving objects:   0% (1/13745)Receiving objects:   1% (138/13745)Receiving objects:   2% (275/13745)Receiving objects:   3% (413/13745)Receiving objects:   4% (550/13745)Receiving objects:   5% (688/13745)Receiving objects:   6% (825/13745)Receiving objects:   7% (963/13745)Receiving objects:   8% (1100/13745)Receiving objects:   9% (1238/13745)Receiving objects:  10% (1375/13745)Receiving objects:  11% (1512/13745)Receiving objects:  12% (1650/13745)Receiving objects:  13% (1787/13745)Receiving objects:  14% (1925/13745)Receiving objects:  15% (2062/13745)Receiving objects:  16% (2200/13745)Receiving objects:  17% (2337/13745)Receiving objects:  18% (2475/13745)Receiving objects:  19% (2612/13745)Receiving objects:  20% (2749/13745)Receiving objects:  21% (2887/13745)Receiving objects:  22% (3024/13745)Receiving objects:  23% (3162/13745)Receiving objects:  24% (3299/13745)Receiving objects:  25% (3437/13745)Receiving objects:  26% (3574/13745)Receiving objects:  27% (3712/13745)Receiving objects:  28% (3849/13745)Receiving objects:  29% (3987/13745)Receiving objects:  30% (4124/13745)Receiving objects:  31% (4261/13745)Receiving objects:  32% (4399/13745)Receiving objects:  33% (4536/13745)Receiving objects:  34% (4674/13745)Receiving objects:  35% (4811/13745)Receiving objects:  36% (4949/13745)Receiving objects:  37% (5086/13745)Receiving objects:  38% (5224/13745)Receiving objects:  39% (5361/13745)Receiving objects:  40% (5498/13745)Receiving objects:  41% (5636/13745)Receiving objects:  42% (5773/13745)Receiving objects:  43% (5911/13745)Receiving objects:  44% (6048/13745)Receiving objects:  45% (6186/13745)Receiving objects:  46% (6323/13745)Receiving objects:  47% (6461/13745)Receiving objects:  48% (6598/13745)Receiving objects:  49% (6736/13745)Receiving objects:  50% (6873/13745)Receiving objects:  51% (7010/13745)Receiving objects:  52% (7148/13745)Receiving objects:  53% (7285/13745)Receiving objects:  54% (7423/13745)Receiving objects:  55% (7560/13745)Receiving objects:  56% (7698/13745)Receiving objects:  57% (7835/13745)Receiving objects:  58% (7973/13745)Receiving objects:  59% (8110/13745)Receiving objects:  60% (8247/13745)Receiving objects:  61% (8385/13745)Receiving objects:  62% (8522/13745)Receiving objects:  63% (8660/13745)Receiving objects:  64% (8797/13745)Receiving objects:  65% (8935/13745)Receiving objects:  66% (9072/13745)Receiving objects:  67% (9210/13745)Receiving objects:  68% (9347/13745)Receiving objects:  69% (9485/13745)Receiving objects:  70% (9622/13745)Receiving objects:  71% (9759/13745)Receiving objects:  72% (9897/13745)Receiving objects:  73% (10034/13745)Receiving objects:  74% (10172/13745)Receiving objects:  75% (10309/13745)Receiving objects:  76% (10447/13745)Receiving objects:  77% (10584/13745)Receiving objects:  78% (10722/13745)Receiving objects:  79% (10859/13745)Receiving objects:  80% (10996/13745)Receiving objects:  81% (11134/13745)Receiving objects:  82% (11271/13745)Receiving objects:  83% (11409/13745)Receiving objects:  84% (11546/13745)Receiving objects:  85% (11684/13745)Receiving objects:  86% (11821/13745)Receiving objects:  87% (11959/13745)Receiving objects:  88% (12096/13745)Receiving objects:  89% (12234/13745)Receiving objects:  90% (12371/13745)Receiving objects:  91% (12508/13745)Receiving objects:  92% (12646/13745)Receiving objects:  93% (12783/13745)Receiving objects:  94% (12921/13745)Receiving objects:  95% (13058/13745)Receiving objects:  96% (13196/13745)Receiving objects:  97% (13333/13745)remote: Total 13745 (delta 659), reused 901 (delta 642), pack-reused 12811[K
-Receiving objects:  98% (13471/13745)Receiving objects:  99% (13608/13745)Receiving objects: 100% (13745/13745)Receiving objects: 100% (13745/13745), 3.42 MiB | 13.92 MiB/s, done.
-Resolving deltas:   0% (0/10034)Resolving deltas:   1% (101/10034)Resolving deltas:   2% (201/10034)Resolving deltas:   3% (302/10034)Resolving deltas:   4% (404/10034)Resolving deltas:   5% (503/10034)Resolving deltas:   6% (603/10034)Resolving deltas:   7% (703/10034)Resolving deltas:   8% (803/10034)Resolving deltas:   9% (904/10034)Resolving deltas:  10% (1004/10034)Resolving deltas:  11% (1104/10034)Resolving deltas:  12% (1205/10034)Resolving deltas:  13% (1305/10034)Resolving deltas:  14% (1405/10034)Resolving deltas:  15% (1507/10034)Resolving deltas:  16% (1606/10034)Resolving deltas:  17% (1706/10034)Resolving deltas:  18% (1807/10034)Resolving deltas:  19% (1909/10034)Resolving deltas:  20% (2007/10034)Resolving deltas:  21% (2108/10034)Resolving deltas:  22% (2208/10034)Resolving deltas:  23% (2308/10034)Resolving deltas:  24% (2409/10034)Resolving deltas:  25% (2509/10034)Resolving deltas:  26% (2609/10034)Resolving deltas:  27% (2710/10034)Resolving deltas:  28% (2810/10034)Resolving deltas:  29% (2910/10034)Resolving deltas:  30% (3011/10034)Resolving deltas:  31% (3111/10034)Resolving deltas:  32% (3211/10034)Resolving deltas:  33% (3313/10034)Resolving deltas:  34% (3412/10034)Resolving deltas:  35% (3512/10034)Resolving deltas:  36% (3613/10034)Resolving deltas:  37% (3713/10034)Resolving deltas:  38% (3814/10034)Resolving deltas:  39% (3914/10034)Resolving deltas:  40% (4014/10034)Resolving deltas:  41% (4114/10034)Resolving deltas:  42% (4215/10034)Resolving deltas:  43% (4315/10034)Resolving deltas:  44% (4415/10034)Resolving deltas:  45% (4516/10034)Resolving deltas:  46% (4616/10034)Resolving deltas:  47% (4716/10034)Resolving deltas:  48% (4817/10034)Resolving deltas:  49% (4917/10034)Resolving deltas:  50% (5017/10034)Resolving deltas:  51% (5118/10034)Resolving deltas:  52% (5218/10034)Resolving deltas:  53% (5319/10034)Resolving deltas:  54% (5419/10034)Resolving deltas:  55% (5519/10034)Resolving deltas:  56% (5620/10034)Resolving deltas:  57% (5720/10034)Resolving deltas:  58% (5820/10034)Resolving deltas:  59% (5921/10034)Resolving deltas:  60% (6021/10034)Resolving deltas:  61% (6121/10034)Resolving deltas:  62% (6222/10034)Resolving deltas:  63% (6322/10034)Resolving deltas:  64% (6422/10034)Resolving deltas:  65% (6523/10034)Resolving deltas:  66% (6623/10034)Resolving deltas:  67% (6723/10034)Resolving deltas:  68% (6824/10034)Resolving deltas:  69% (6924/10034)Resolving deltas:  70% (7024/10034)Resolving deltas:  71% (7127/10034)Resolving deltas:  72% (7225/10034)Resolving deltas:  73% (7325/10034)Resolving deltas:  74% (7426/10034)Resolving deltas:  75% (7526/10034)Resolving deltas:  76% (7626/10034)Resolving deltas:  77% (7727/10034)Resolving deltas:  78% (7827/10034)Resolving deltas:  79% (7927/10034)Resolving deltas:  80% (8028/10034)Resolving deltas:  81% (8128/10034)Resolving deltas:  82% (8228/10034)Resolving deltas:  83% (8329/10034)Resolving deltas:  84% (8429/10034)Resolving deltas:  85% (8529/10034)Resolving deltas:  86% (8630/10034)Resolving deltas:  87% (8730/10034)Resolving deltas:  88% (8830/10034)Resolving deltas:  89% (8931/10034)Resolving deltas:  90% (9031/10034)Resolving deltas:  91% (9131/10034)Resolving deltas:  92% (9232/10034)Resolving deltas:  93% (9332/10034)Resolving deltas:  94% (9432/10034)Resolving deltas:  95% (9533/10034)Resolving deltas:  96% (9633/10034)Resolving deltas:  97% (9734/10034)Resolving deltas:  98% (9834/10034)Resolving deltas:  99% (9934/10034)Resolving deltas: 100% (10034/10034)Resolving deltas: 100% (10034/10034), done.
-[1m[32m==>(B[m[1m Validating source files with md5sums...(B[m
-    zathura-git ... Skipped
-[1m[32m==>(B[m[1m Making package: zathura-git 0.5.5.r1.gfb5388c-1 (2024-06-01T03:43:28 CEST)(B[m
-[1m[32m==>(B[m[1m Checking runtime dependencies...(B[m
-[1m[32m==>(B[m[1m Checking buildtime dependencies...(B[m
-[1m[32m==>(B[m[1m Retrieving sources...(B[m
-[1m[34m  ->(B[m[1m Updating zathura-git git repo...(B[m
-[1m[32m==>(B[m[1m Validating source files with md5sums...(B[m
-    zathura-git ... Skipped
-[1m[32m==>(B[m[1m Removing existing $srcdir/ directory...(B[m
-[1m[32m==>(B[m[1m Extracting sources...(B[m
-[1m[34m  ->(B[m[1m Creating working copy of zathura-git git repo...(B[m
-Cloning into 'zathura-git'...
-done.
-Switched to a new branch 'makepkg'
-[1m[32m==>(B[m[1m Starting pkgver()...(B[m
-[1m[32m==>(B[m[1m Updated version: zathura-git 0.5.5.r16.gd2156cd-1(B[m
-[1m[32m==>(B[m[1m Sources are ready.(B[m
-zathura-git-0.5.5.r1.gfb5388c-1: parsing pkg list...
-[1m[32m==>(B[m[1m Making package: zathura-git 0.5.5.r16.gd2156cd-1 (2024-06-01T03:43:32 CEST)(B[m
-[1m[32m==>(B[m[1m Checking runtime dependencies...(B[m
-[1m[32m==>(B[m[1m Checking buildtime dependencies...(B[m
-[1m[33m==> WARNING:(B[m[1m Using existing $srcdir/ tree(B[m
-[1m[32m==>(B[m[1m Starting pkgver()...(B[m
-[1m[32m==>(B[m[1m Starting build()...(B[m
-+ exec meson setup --prefix /usr --libexecdir lib --sbindir bin --buildtype plain --auto-features enabled --wrap-mode nodownload -D b_pie=true -D python.bytecompile=1 build -Dtests=disabled
-[1mThe Meson build system[0m
-Version: 1.4.1
-Source dir: [1m/home/heini/.cache/paru/clone/zathura-git/src/zathura-git[0m
-Build dir: [1m/home/heini/.cache/paru/clone/zathura-git/src/zathura-git/build[0m
-Build type: [1mnative build[0m
-Project name: [1mzathura[0m
-Project version: [1m0.5.5[0m
-C compiler for the host machine: [1mcc[0m (gcc 14.1.1 "cc (GCC) 14.1.1 20240522")
-C linker for the host machine: [1mcc[0m ld.bfd 2.42.0
-Host machine cpu family: [1mx86_64[0m
-Host machine cpu: [1mx86_64[0m
-Library [1mm[0m found: [1;32mYES[0m
-Found pkg-config: [1;32mYES[0m [1m(/usr/bin/pkg-config)[0m [1;34m2.1.1[0m
-Run-time dependency [1mgirara-gtk3[0m found: [1;32mYES[0m [36m0.4.3[0m
-Run-time dependency [1mglib-2.0[0m found: [1;32mYES[0m [36m2.80.2[0m
-Run-time dependency [1mgio-unix-2.0[0m found: [1;32mYES[0m [36m2.80.2[0m
-Run-time dependency [1mgthread-2.0[0m found: [1;32mYES[0m [36m2.80.2[0m
-Run-time dependency [1mgmodule-no-export-2.0[0m found: [1;32mYES[0m [36m2.80.2[0m
-Run-time dependency [1mgtk+-3.0[0m found: [1;32mYES[0m [36m3.24.42[0m
-Run-time dependency [1mjson-glib-1.0[0m found: [1;32mYES[0m [36m1.8.0[0m
-Run-time dependency [1mcairo[0m found: [1;32mYES[0m [36m1.18.0[0m
-Library [1mmagic[0m found: [1;32mYES[0m
-Run-time dependency [1msqlite3[0m found: [1;32mYES[0m [36m3.46.0[0m
-Compiler for C supports arguments -Werror=implicit-function-declaration: [1;32mYES[0m 
-Compiler for C supports arguments -Werror=vla: [1;32mYES[0m 
-Compiler for C supports arguments -fvisibility=hidden: [1;32mYES[0m 
-Compiler for C supports arguments -Werror=int-conversion: [1;32mYES[0m 
-Run-time dependency [1msynctex[0m found: [1;32mYES[0m [36m2.0.0[0m
-Run-time dependency [1mlibseccomp[0m found: [1;32mYES[0m [36m2.5.5[0m
-Configuring [1mzathura-version.h[0m using configuration
-Build-time dependency [1mgio-2.0[0m found: [1;32mYES[0m [36m2.80.2[0m
-Program [1m/usr/bin/glib-compile-resources[0m found: [1;32mYES[0m (/usr/bin/glib-compile-resources)
-Program [1mrsvg-convert[0m found: [1;32mYES[0m (/usr/bin/rsvg-convert)
-Program [1mmsgfmt[0m found: [1;32mYES[0m (/usr/bin/msgfmt)
-Program [1mdesktop-file-validate[0m skipped: feature [1mtests[0m disabled
-Program [1mappstream-util[0m skipped: feature [1mtests[0m disabled
-Configuring [1mzathura[0m using configuration
-Configuring [1m_zathura[0m using configuration
-Configuring [1mzathura.fish[0m using configuration
-Run-time dependency [1mbash-completion[0m found: [1;32mYES[0m [36m2.11[0m
-Found CMake: [1m/usr/local/bin/cmake[0m (3.29.20240530)
-Run-time dependency [1mfish[0m found: [1;31mNO[0m (tried pkgconfig and cmake)
-Program [1mmsginit[0m found: [1;32mYES[0m (/usr/bin/msginit)
-Program [1mmsgmerge[0m found: [1;32mYES[0m (/usr/bin/msgmerge)
-Program [1mxgettext[0m found: [1;32mYES[0m (/usr/bin/xgettext)
-Program [1msphinx-build[0m found: [1;32mYES[0m (/usr/bin/sphinx-build)
-Dependency [1mcheck[0m skipped: feature [1mtests[0m disabled
-Build targets in project: [1m39[0m
-
-zathura [36m0.5.5[0m
-
-  [1mUser defined options[0m
-    auto_features     : enabled
-    buildtype         : plain
-    libexecdir        : lib
-    prefix            : /usr
-    sbindir           : bin
-    wrap_mode         : nodownload
-    python.bytecompile: 1
-    b_pie             : true
-    tests             : disabled
-
-Found ninja-1.13.0.git at /home/heini/repos/ninja/build/ninja
-Generating targets:   0%|                                  | 0/39 eta ?                                                                       Writing build.ninja:   0%|                                | 0/105 eta ?                                                                       ninja: Entering directory `build'
-[0/68] Generating data/resources_c with a custom command[K[0/68] Generating data/resources_h with a custom command[K[0/68] Compiling C object zathura.p/zathura_main.c.o[K[0/68] Generating data/icon-16/org...thura_16.png with a custom command[K[0/68] Generating data/icon-32/org...thura_32.png with a custom command[K[0/68] Generating data/icon-64/org...thura_64.png with a custom command[K[0/68] Generating data/icon-128/or...hura_128.png with a custom command[K[0/68] Generating data/icon-256/or...hura_256.png with a custom command[K[0/68] Merging translations for data/org.pwmt.zathura.desktop[K[0/68] Merging translations for data/org.pwmt.zathura.appdata.xml[K[1/68] Generating data/resources_c with a custom command[K[1/68] Building translation po/ar/LC_MESSAGES/zathura-ar.mo[K[2/68] Generating data/resources_h with a custom command[K[2/68] Compiling C object libzathu...on-generated_.._data_resources.c.o[K[3/68] Building translation po/ar/LC_MESSAGES/zathura-ar.mo[K[3/68] Compiling C object libzathura.a.p/zathura_adjustment.c.o[K[4/68] Generating data/icon-64/org...thura_64.png with a custom command[K[4/68] Compiling C object libzathura.a.p/zathura_bookmarks.c.o[K[5/68] Generating data/icon-16/org...thura_16.png with a custom command[K[5/68] Compiling C object libzathura.a.p/zathura_callbacks.c.o[K[6/68] Generating data/icon-32/org...thura_32.png with a custom command[K[6/68] Compiling C object libzathu...ura_checked-integer-arithmetic.c.o[K[7/68] Generating data/icon-128/or...hura_128.png with a custom command[K[7/68] Compiling C object libzathura.a.p/zathura_commands.c.o[K[8/68] Generating data/icon-256/or...hura_256.png with a custom command[K[8/68] Compiling C object libzathura.a.p/zathura_completion.c.o[K[9/68] Compiling C object libzathu...ura_checked-integer-arithmetic.c.o[K[9/68] Compiling C object libzathura.a.p/zathura_config.c.o[K[10/68] Compiling C object libzath...on-generated_.._data_resources.c.o[K[10/68] Compiling C object libzathura.a.p/zathura_content-type.c.o[K[11/68] Merging translations for data/org.pwmt.zathura.desktop[K[11/68] Compiling C object libzathura.a.p/zathura_database.c.o[K[12/68] Merging translations for data/org.pwmt.zathura.appdata.xml[K[12/68] Compiling C object libzathura.a.p/zathura_database-sqlite.c.o[K[13/68] Compiling C object libzathura.a.p/zathura_commands.c.o[K[13/68] Compiling C object libzathura.a.p/zathura_dbus-interface.c.o[K[14/68] Compiling C object libzathura.a.p/zathura_bookmarks.c.o[K[14/68] Compiling C object libzathura.a.p/zathura_document.c.o[K[15/68] Compiling C object zathura.p/zathura_main.c.o[K[15/68] Compiling C object libzathura.a.p/zathura_file-monitor.c.o[K[16/68] Compiling C object libzathura.a.p/zathura_content-type.c.o[K[16/68] Compiling C object libzathura.a.p/zathura_file-monitor-glib.c.o[K[17/68] Compiling C object libzathura.a.p/zathura_file-monitor.c.o[K[17/68] Compiling C object libzathura.a.p/zathura_file-monitor-noop.c.o[K[18/68] Compiling C object libzathura.a.p/zathura_adjustment.c.o[K[18/68] Compiling C object libzath....p/zathura_file-monitor-signal.c.o[K[19/68] Compiling C object libzathura.a.p/zathura_config.c.o[K[19/68] Compiling C object libzathura.a.p/zathura_jumplist.c.o[K[20/68] Compiling C object libzathura.a.p/zathura_completion.c.o[K[20/68] Compiling C object libzathura.a.p/zathura_links.c.o[K[21/68] Compiling C object libzathura.a.p/zathura_file-monitor-noop.c.o[K[21/68] Compiling C object libzathura.a.p/zathura_marks.c.o[K[22/68] Compiling C object libzathura.a.p/zathura_file-monitor-glib.c.o[K[22/68] Compiling C object libzathura.a.p/zathura_page.c.o[K[23/68] Compiling C object libzath....p/zathura_file-monitor-signal.c.o[K[23/68] Compiling C object libzathura.a.p/zathura_page-widget.c.o[K[24/68] Compiling C object libzathura.a.p/zathura_dbus-interface.c.o[K[24/68] Compiling C object libzathura.a.p/zathura_plugin.c.o[K[25/68] Compiling C object libzathura.a.p/zathura_database-sqlite.c.o[K[25/68] Compiling C object libzathura.a.p/zathura_print.c.o[K[26/68] Compiling C object libzathura.a.p/zathura_callbacks.c.o[K[26/68] Compiling C object libzathura.a.p/zathura_render.c.o[K[27/68] Compiling C object libzathura.a.p/zathura_document.c.o[K[27/68] Compiling C object libzathura.a.p/zathura_shortcuts.c.o[K[28/68] Compiling C object libzathura.a.p/zathura_database.c.o[K[28/68] Compiling C object libzathura.a.p/zathura_synctex.c.o[K[29/68] Compiling C object libzathura.a.p/zathura_marks.c.o[K[29/68] Compiling C object libzathura.a.p/zathura_types.c.o[K[30/68] Compiling C object libzathura.a.p/zathura_links.c.o[K[30/68] Compiling C object libzathura.a.p/zathura_utils.c.o[K[31/68] Compiling C object libzathura.a.p/zathura_jumplist.c.o[K[31/68] Compiling C object libzathura.a.p/zathura_zathura.c.o[K[32/68] Compiling C object libzathura.a.p/zathura_print.c.o[K[32/68] Compiling C object libzathura.a.p/zathura_seccomp-filters.c.o[K[33/68] Compiling C object libzathura.a.p/zathura_types.c.o[K[33/68] Building translation po/ca/LC_MESSAGES/zathura-ca.mo[K[34/68] Compiling C object libzathura.a.p/zathura_synctex.c.o[K[34/68] Building translation po/cs/LC_MESSAGES/zathura-cs.mo[K[35/68] Building translation po/ca/LC_MESSAGES/zathura-ca.mo[K[35/68] Building translation po/de/LC_MESSAGES/zathura-de.mo[K[36/68] Building translation po/cs/LC_MESSAGES/zathura-cs.mo[K[36/68] Building translation po/el/LC_MESSAGES/zathura-el.mo[K[37/68] Building translation po/el/LC_MESSAGES/zathura-el.mo[K[37/68] Building translation po/eo/LC_MESSAGES/zathura-eo.mo[K[38/68] Building translation po/de/LC_MESSAGES/zathura-de.mo[K[38/68] Building translation po/es/LC_MESSAGES/zathura-es.mo[K[39/68] Building translation po/eo/LC_MESSAGES/zathura-eo.mo[K[39/68] Building translation po/es_CL/LC_MESSAGES/zathura-es_CL.mo[K[40/68] Compiling C object libzathura.a.p/zathura_plugin.c.o[K[40/68] Building translation po/et/LC_MESSAGES/zathura-et.mo[K[41/68] Compiling C object libzathura.a.p/zathura_page.c.o[K[41/68] Building translation po/fr/LC_MESSAGES/zathura-fr.mo[K[42/68] Building translation po/es/LC_MESSAGES/zathura-es.mo[K[42/68] Building translation po/he/LC_MESSAGES/zathura-he.mo[K[43/68] Building translation po/et/LC_MESSAGES/zathura-et.mo[K[43/68] Building translation po/hr/LC_MESSAGES/zathura-hr.mo[K[44/68] Building translation po/hr/LC_MESSAGES/zathura-hr.mo[K[44/68] Building translation po/id_ID/LC_MESSAGES/zathura-id_ID.mo[K[45/68] Building translation po/he/LC_MESSAGES/zathura-he.mo[K[45/68] Building translation po/it/LC_MESSAGES/zathura-it.mo[K[46/68] Building translation po/es_CL/LC_MESSAGES/zathura-es_CL.mo[K[46/68] Building translation po/lt/LC_MESSAGES/zathura-lt.mo[K[47/68] Building translation po/lt/LC_MESSAGES/zathura-lt.mo[K[47/68] Building translation po/nl/LC_MESSAGES/zathura-nl.mo[K[48/68] Building translation po/it/LC_MESSAGES/zathura-it.mo[K[48/68] Building translation po/no/LC_MESSAGES/zathura-no.mo[K[49/68] Compiling C object libzathura.a.p/zathura_render.c.o[K[49/68] Building translation po/pl/LC_MESSAGES/zathura-pl.mo[K[50/68] Building translation po/fr/LC_MESSAGES/zathura-fr.mo[K[50/68] Building translation po/pt_BR/LC_MESSAGES/zathura-pt_BR.mo[K[51/68] Building translation po/id_ID/LC_MESSAGES/zathura-id_ID.mo[K[51/68] Building translation po/ru/LC_MESSAGES/zathura-ru.mo[K[52/68] Building translation po/nl/LC_MESSAGES/zathura-nl.mo[K[52/68] Building translation po/sv/LC_MESSAGES/zathura-sv.mo[K[53/68] Building translation po/no/LC_MESSAGES/zathura-no.mo[K[53/68] Building translation po/ta_IN/LC_MESSAGES/zathura-ta_IN.mo[K[54/68] Building translation po/pl/LC_MESSAGES/zathura-pl.mo[K[54/68] Building translation po/tr/LC_MESSAGES/zathura-tr.mo[K[55/68] Building translation po/sv/LC_MESSAGES/zathura-sv.mo[K[55/68] Building translation po/uk_UA/LC_MESSAGES/zathura-uk_UA.mo[K[56/68] Building translation po/ta_IN/LC_MESSAGES/zathura-ta_IN.mo[K[56/68] Generating doc/man pages with a custom command[K[57/68] Building translation po/pt_BR/LC_MESSAGES/zathura-pt_BR.mo[K[58/68] Building translation po/ru/LC_MESSAGES/zathura-ru.mo[K[59/68] Building translation po/uk_UA/LC_MESSAGES/zathura-uk_UA.mo[K[60/68] Building translation po/tr/LC_MESSAGES/zathura-tr.mo[K[61/68] Compiling C object libzathura.a.p/zathura_shortcuts.c.o[K[62/68] Compiling C object libzathura.a.p/zathura_utils.c.o[K[63/68] Compiling C object libzathura.a.p/zathura_page-widget.c.o[K[64/68] Compiling C object libzathura.a.p/zathura_zathura.c.o[K[65/68] Compiling C object libzathura.a.p/zathura_seccomp-filters.c.o[K[65/68] Linking static target libzathura.a[K[66/68] Linking static target libzathura.a[K[66/68] Linking target zathura[K[67/68] Generating doc/man pages with a custom command[K
-Running Sphinx v7.3.7
-building [mo]: targets for 0 po files that are out of date
-writing output... 
-building [man]: all manpages
-updating environment: [new config] 2 added, 0 changed, 0 removed
-reading sources... [ 50%] zathura.1
-reading sources... [100%] zathurarc.5
-
-looking for now-outdated files... none found
-pickling environment... done
-checking consistency... /home/heini/.cache/paru/clone/zathura-git/src/zathura-git/doc/man/zathurarc.5.rst: WARNING: document isn't included in any toctree
-done
-writing... zathura.1 { } zathurarc.5 { } done
-build succeeded, 1 warning.
-
-The manual pages are in doc.
-[68/68] Linking target zathura[K
-[1m[32m==>(B[m[1m Entering fakeroot environment...(B[m
-[1m[32m==>(B[m[1m Starting package()...(B[m
-ninja: Entering directory `build'
-[0/1] Installing files.[K
-Installing data/icon-16/org.pwmt.zathura.png to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/icons/hicolor/16x16/apps
-Installing data/icon-32/org.pwmt.zathura.png to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/icons/hicolor/32x32/apps
-Installing data/icon-64/org.pwmt.zathura.png to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/icons/hicolor/64x64/apps
-Installing data/icon-128/org.pwmt.zathura.png to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/icons/hicolor/128x128/apps
-Installing data/icon-256/org.pwmt.zathura.png to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/icons/hicolor/256x256/apps
-Installing data/org.pwmt.zathura.desktop to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/applications
-Installing data/org.pwmt.zathura.appdata.xml to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/metainfo
-Installing po/ar/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/ar/LC_MESSAGES
-Installing po/ca/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/ca/LC_MESSAGES
-Installing po/cs/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/cs/LC_MESSAGES
-Installing po/de/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/de/LC_MESSAGES
-Installing po/el/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/el/LC_MESSAGES
-Installing po/eo/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/eo/LC_MESSAGES
-Installing po/es/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/es/LC_MESSAGES
-Installing po/es_CL/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/es_CL/LC_MESSAGES
-Installing po/et/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/et/LC_MESSAGES
-Installing po/fr/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/fr/LC_MESSAGES
-Installing po/he/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/he/LC_MESSAGES
-Installing po/hr/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/hr/LC_MESSAGES
-Installing po/id_ID/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/id_ID/LC_MESSAGES
-Installing po/it/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/it/LC_MESSAGES
-Installing po/lt/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/lt/LC_MESSAGES
-Installing po/nl/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/nl/LC_MESSAGES
-Installing po/no/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/no/LC_MESSAGES
-Installing po/pl/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/pl/LC_MESSAGES
-Installing po/pt_BR/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/pt_BR/LC_MESSAGES
-Installing po/ru/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/ru/LC_MESSAGES
-Installing po/sv/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/sv/LC_MESSAGES
-Installing po/ta_IN/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/ta_IN/LC_MESSAGES
-Installing po/tr/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/tr/LC_MESSAGES
-Installing po/uk_UA/LC_MESSAGES/zathura.mo to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/locale/uk_UA/LC_MESSAGES
-Installing zathura to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/bin
-Installing doc/zathura.1 to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/man/man1
-Installing doc/zathurarc.5 to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/man/man5
-Installing /home/heini/.cache/paru/clone/zathura-git/src/zathura-git/zathura/document.h to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/include/zathura
-Installing /home/heini/.cache/paru/clone/zathura-git/src/zathura-git/zathura/links.h to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/include/zathura
-Installing /home/heini/.cache/paru/clone/zathura-git/src/zathura-git/zathura/macros.h to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/include/zathura
-Installing /home/heini/.cache/paru/clone/zathura-git/src/zathura-git/zathura/page.h to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/include/zathura
-Installing /home/heini/.cache/paru/clone/zathura-git/src/zathura-git/zathura/plugin-api.h to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/include/zathura
-Installing /home/heini/.cache/paru/clone/zathura-git/src/zathura-git/zathura/types.h to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/include/zathura
-Installing /home/heini/.cache/paru/clone/zathura-git/src/zathura-git/build/zathura-version.h to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/include/zathura
-Installing /home/heini/.cache/paru/clone/zathura-git/src/zathura-git/data/org.pwmt.zathura.xml to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/dbus-1/interfaces
-Installing /home/heini/.cache/paru/clone/zathura-git/src/zathura-git/data/org.pwmt.zathura.svg to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/icons/hicolor/scalable/apps
-Installing /home/heini/.cache/paru/clone/zathura-git/src/zathura-git/build/data/zathura to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/bash-completion/completions
-Installing /home/heini/.cache/paru/clone/zathura-git/src/zathura-git/build/data/_zathura to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/zsh/site-functions
-Installing /home/heini/.cache/paru/clone/zathura-git/src/zathura-git/build/data/zathura.fish to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/share/fish/vendor_completions.d
-Installing /home/heini/.cache/paru/clone/zathura-git/src/zathura-git/build/meson-private/zathura.pc to /home/heini/.cache/paru/clone/zathura-git/pkg/zathura-git/usr/lib/pkgconfig
-[1m[32m==>(B[m[1m Tidying install...(B[m
-[1m[34m  ->(B[m[1m Removing libtool files...(B[m
-[1m[34m  ->(B[m[1m Purging unwanted files...(B[m
-[1m[34m  ->(B[m[1m Removing static library files...(B[m
-[1m[34m  ->(B[m[1m Stripping unneeded symbols from binaries and libraries...(B[m
-[1m[34m  ->(B[m[1m Compressing man and info pages...(B[m
-[1m[32m==>(B[m[1m Checking for packaging issues...(B[m
-[1m[32m==>(B[m[1m Creating package "zathura-git"...(B[m
-[1m[34m  ->(B[m[1m Generating .PKGINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .BUILDINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .MTREE file...(B[m
-[1m[34m  ->(B[m[1m Compressing package...(B[m
-[1m[32m==>(B[m[1m Creating package "zathura-git-debug"...(B[m
-[1m[34m  ->(B[m[1m Generating .PKGINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .BUILDINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .MTREE file...(B[m
-[1m[34m  ->(B[m[1m Compressing package...(B[m
-[1m[32m==>(B[m[1m Leaving fakeroot environment.(B[m
-[1m[32m==>(B[m[1m Finished making: zathura-git 0.5.5.r16.gd2156cd-1 (2024-06-01T03:43:53 CEST)(B[m
-[1m[32m==>(B[m[1m Cleaning up...(B[m
-[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-
-[0;1mPackage (1)[0m  [0;1mNew Version         [0m  [0;1mNet Change[0m
-
-zathura-git  0.5.5.r16.gd2156cd-1    0,61 MiB
-
-[0;1mTotal Installed Size:[0m  0,61 MiB
-
-[1;34m::[0;1m Proceed with installation? [Y/n] [0m
-(0/1) checking keys in keyring                     [-------------]   0%(1/1) checking keys in keyring                     [#############] 100%
-(0/1) checking package integrity                   [-------------]   0%(1/1) checking package integrity                   [#############] 100%
-(0/1) loading package files                        [-------------]   0%(1/1) loading package files                        [#############] 100%
-(0/1) checking for file conflicts                  [-------------]   0%(1/1) checking for file conflicts                  [#############] 100%
-(0/1) checking available disk space                [-------------]   0%(1/1) checking available disk space                [#############] 100%
-[1;34m::[0;1m Processing package changes...
-[0m(1/1) installing zathura-git                       [-------------]   0%(1/1) installing zathura-git                       [#############] 100%
-Optional dependencies for zathura-git
-[0;1m   [0m zathura-djvu-git: DjVu support
-    zathura-pdf-poppler-git: PDF support using Poppler
-    zathura-pdf-mupdf-git: PDF support using MuPDF
-    zathura-ps-git: PostSctipt support
-    zathura-cb-git: Comic book support
-[1;34m::[0;1m Running post-transaction hooks...
-[0m(1/3) Arming ConditionNeedsUpdate...
-(2/3) Updating icon theme caches...
-(3/3) Updating the desktop file MIME type cache...
-[?25h[1m[32m==>(B[m[1m Making package: zathura-pdf-poppler-git 0.3.2.r1.g0990d0a-1 (2024-06-01T03:43:55 CEST)(B[m
-[1m[32m==>(B[m[1m Retrieving sources...(B[m
-[1m[34m  ->(B[m[1m Cloning zathura-pdf-poppler-git git repo...(B[m
-Cloning into bare repository '/home/heini/.cache/paru/clone/zathura-pdf-poppler-git/zathura-pdf-poppler-git'...
-remote: Enumerating objects: 1399, done.[K
-remote: Counting objects:   0% (1/117)[Kremote: Counting objects:   1% (2/117)[Kremote: Counting objects:   2% (3/117)[Kremote: Counting objects:   3% (4/117)[Kremote: Counting objects:   4% (5/117)[Kremote: Counting objects:   5% (6/117)[Kremote: Counting objects:   6% (8/117)[Kremote: Counting objects:   7% (9/117)[Kremote: Counting objects:   8% (10/117)[Kremote: Counting objects:   9% (11/117)[Kremote: Counting objects:  10% (12/117)[Kremote: Counting objects:  11% (13/117)[Kremote: Counting objects:  12% (15/117)[Kremote: Counting objects:  13% (16/117)[Kremote: Counting objects:  14% (17/117)[Kremote: Counting objects:  15% (18/117)[Kremote: Counting objects:  16% (19/117)[Kremote: Counting objects:  17% (20/117)[Kremote: Counting objects:  18% (22/117)[Kremote: Counting objects:  19% (23/117)[Kremote: Counting objects:  20% (24/117)[Kremote: Counting objects:  21% (25/117)[Kremote: Counting objects:  22% (26/117)[Kremote: Counting objects:  23% (27/117)[Kremote: Counting objects:  24% (29/117)[Kremote: Counting objects:  25% (30/117)[Kremote: Counting objects:  26% (31/117)[Kremote: Counting objects:  27% (32/117)[Kremote: Counting objects:  28% (33/117)[Kremote: Counting objects:  29% (34/117)[Kremote: Counting objects:  30% (36/117)[Kremote: Counting objects:  31% (37/117)[Kremote: Counting objects:  32% (38/117)[Kremote: Counting objects:  33% (39/117)[Kremote: Counting objects:  34% (40/117)[Kremote: Counting objects:  35% (41/117)[Kremote: Counting objects:  36% (43/117)[Kremote: Counting objects:  37% (44/117)[Kremote: Counting objects:  38% (45/117)[Kremote: Counting objects:  39% (46/117)[Kremote: Counting objects:  40% (47/117)[Kremote: Counting objects:  41% (48/117)[Kremote: Counting objects:  42% (50/117)[Kremote: Counting objects:  43% (51/117)[Kremote: Counting objects:  44% (52/117)[Kremote: Counting objects:  45% (53/117)[Kremote: Counting objects:  46% (54/117)[Kremote: Counting objects:  47% (55/117)[Kremote: Counting objects:  48% (57/117)[Kremote: Counting objects:  49% (58/117)[Kremote: Counting objects:  50% (59/117)[Kremote: Counting objects:  51% (60/117)[Kremote: Counting objects:  52% (61/117)[Kremote: Counting objects:  53% (63/117)[Kremote: Counting objects:  54% (64/117)[Kremote: Counting objects:  55% (65/117)[Kremote: Counting objects:  56% (66/117)[Kremote: Counting objects:  57% (67/117)[Kremote: Counting objects:  58% (68/117)[Kremote: Counting objects:  59% (70/117)[Kremote: Counting objects:  60% (71/117)[Kremote: Counting objects:  61% (72/117)[Kremote: Counting objects:  62% (73/117)[Kremote: Counting objects:  63% (74/117)[Kremote: Counting objects:  64% (75/117)[Kremote: Counting objects:  65% (77/117)[Kremote: Counting objects:  66% (78/117)[Kremote: Counting objects:  67% (79/117)[Kremote: Counting objects:  68% (80/117)[Kremote: Counting objects:  69% (81/117)[Kremote: Counting objects:  70% (82/117)[Kremote: Counting objects:  71% (84/117)[Kremote: Counting objects:  72% (85/117)[Kremote: Counting objects:  73% (86/117)[Kremote: Counting objects:  74% (87/117)[Kremote: Counting objects:  75% (88/117)[Kremote: Counting objects:  76% (89/117)[Kremote: Counting objects:  77% (91/117)[Kremote: Counting objects:  78% (92/117)[Kremote: Counting objects:  79% (93/117)[Kremote: Counting objects:  80% (94/117)[Kremote: Counting objects:  81% (95/117)[Kremote: Counting objects:  82% (96/117)[Kremote: Counting objects:  83% (98/117)[Kremote: Counting objects:  84% (99/117)[Kremote: Counting objects:  85% (100/117)[Kremote: Counting objects:  86% (101/117)[Kremote: Counting objects:  87% (102/117)[Kremote: Counting objects:  88% (103/117)[Kremote: Counting objects:  89% (105/117)[Kremote: Counting objects:  90% (106/117)[Kremote: Counting objects:  91% (107/117)[Kremote: Counting objects:  92% (108/117)[Kremote: Counting objects:  93% (109/117)[Kremote: Counting objects:  94% (110/117)[Kremote: Counting objects:  95% (112/117)[Kremote: Counting objects:  96% (113/117)[Kremote: Counting objects:  97% (114/117)[Kremote: Counting objects:  98% (115/117)[Kremote: Counting objects:  99% (116/117)[Kremote: Counting objects: 100% (117/117)[Kremote: Counting objects: 100% (117/117), done.[K
-remote: Compressing objects:   0% (1/103)[Kremote: Compressing objects:   1% (2/103)[Kremote: Compressing objects:   2% (3/103)[Kremote: Compressing objects:   3% (4/103)[Kremote: Compressing objects:   4% (5/103)[Kremote: Compressing objects:   5% (6/103)[Kremote: Compressing objects:   6% (7/103)[Kremote: Compressing objects:   7% (8/103)[Kremote: Compressing objects:   8% (9/103)[Kremote: Compressing objects:   9% (10/103)[Kremote: Compressing objects:  10% (11/103)[Kremote: Compressing objects:  11% (12/103)[Kremote: Compressing objects:  12% (13/103)[Kremote: Compressing objects:  13% (14/103)[Kremote: Compressing objects:  14% (15/103)[Kremote: Compressing objects:  15% (16/103)[Kremote: Compressing objects:  16% (17/103)[Kremote: Compressing objects:  17% (18/103)[Kremote: Compressing objects:  18% (19/103)[Kremote: Compressing objects:  19% (20/103)[Kremote: Compressing objects:  20% (21/103)[Kremote: Compressing objects:  21% (22/103)[Kremote: Compressing objects:  22% (23/103)[Kremote: Compressing objects:  23% (24/103)[Kremote: Compressing objects:  24% (25/103)[Kremote: Compressing objects:  25% (26/103)[Kremote: Compressing objects:  26% (27/103)[Kremote: Compressing objects:  27% (28/103)[Kremote: Compressing objects:  28% (29/103)[Kremote: Compressing objects:  29% (30/103)[Kremote: Compressing objects:  30% (31/103)[Kremote: Compressing objects:  31% (32/103)[Kremote: Compressing objects:  32% (33/103)[Kremote: Compressing objects:  33% (34/103)[Kremote: Compressing objects:  34% (36/103)[Kremote: Compressing objects:  35% (37/103)[Kremote: Compressing objects:  36% (38/103)[Kremote: Compressing objects:  37% (39/103)[Kremote: Compressing objects:  38% (40/103)[Kremote: Compressing objects:  39% (41/103)[Kremote: Compressing objects:  40% (42/103)[Kremote: Compressing objects:  41% (43/103)[Kremote: Compressing objects:  42% (44/103)[Kremote: Compressing objects:  43% (45/103)[Kremote: Compressing objects:  44% (46/103)[Kremote: Compressing objects:  45% (47/103)[Kremote: Compressing objects:  46% (48/103)[Kremote: Compressing objects:  47% (49/103)[Kremote: Compressing objects:  48% (50/103)[Kremote: Compressing objects:  49% (51/103)[Kremote: Compressing objects:  50% (52/103)[Kremote: Compressing objects:  51% (53/103)[Kremote: Compressing objects:  52% (54/103)[Kremote: Compressing objects:  53% (55/103)[Kremote: Compressing objects:  54% (56/103)[Kremote: Compressing objects:  55% (57/103)[Kremote: Compressing objects:  56% (58/103)[Kremote: Compressing objects:  57% (59/103)[Kremote: Compressing objects:  58% (60/103)[Kremote: Compressing objects:  59% (61/103)[Kremote: Compressing objects:  60% (62/103)[Kremote: Compressing objects:  61% (63/103)[Kremote: Compressing objects:  62% (64/103)[Kremote: Compressing objects:  63% (65/103)[Kremote: Compressing objects:  64% (66/103)[Kremote: Compressing objects:  65% (67/103)[Kremote: Compressing objects:  66% (68/103)[Kremote: Compressing objects:  67% (70/103)[Kremote: Compressing objects:  68% (71/103)[Kremote: Compressing objects:  69% (72/103)[Kremote: Compressing objects:  70% (73/103)[Kremote: Compressing objects:  71% (74/103)[Kremote: Compressing objects:  72% (75/103)[Kremote: Compressing objects:  73% (76/103)[Kremote: Compressing objects:  74% (77/103)[Kremote: Compressing objects:  75% (78/103)[Kremote: Compressing objects:  76% (79/103)[Kremote: Compressing objects:  77% (80/103)[Kremote: Compressing objects:  78% (81/103)[Kremote: Compressing objects:  79% (82/103)[Kremote: Compressing objects:  80% (83/103)[Kremote: Compressing objects:  81% (84/103)[Kremote: Compressing objects:  82% (85/103)[Kremote: Compressing objects:  83% (86/103)[Kremote: Compressing objects:  84% (87/103)[Kremote: Compressing objects:  85% (88/103)[Kremote: Compressing objects:  86% (89/103)[Kremote: Compressing objects:  87% (90/103)[Kremote: Compressing objects:  88% (91/103)[Kremote: Compressing objects:  89% (92/103)[Kremote: Compressing objects:  90% (93/103)[Kremote: Compressing objects:  91% (94/103)[Kremote: Compressing objects:  92% (95/103)[Kremote: Compressing objects:  93% (96/103)[Kremote: Compressing objects:  94% (97/103)[Kremote: Compressing objects:  95% (98/103)[Kremote: Compressing objects:  96% (99/103)[Kremote: Compressing objects:  97% (100/103)[Kremote: Compressing objects:  98% (101/103)[Kremote: Compressing objects:  99% (102/103)[Kremote: Compressing objects: 100% (103/103)[Kremote: Compressing objects: 100% (103/103), done.[K
-Receiving objects:   0% (1/1399)Receiving objects:   1% (14/1399)Receiving objects:   2% (28/1399)Receiving objects:   3% (42/1399)Receiving objects:   4% (56/1399)Receiving objects:   5% (70/1399)Receiving objects:   6% (84/1399)Receiving objects:   7% (98/1399)Receiving objects:   8% (112/1399)Receiving objects:   9% (126/1399)Receiving objects:  10% (140/1399)Receiving objects:  11% (154/1399)Receiving objects:  12% (168/1399)Receiving objects:  13% (182/1399)Receiving objects:  14% (196/1399)Receiving objects:  15% (210/1399)Receiving objects:  16% (224/1399)Receiving objects:  17% (238/1399)Receiving objects:  18% (252/1399)Receiving objects:  19% (266/1399)Receiving objects:  20% (280/1399)Receiving objects:  21% (294/1399)Receiving objects:  22% (308/1399)Receiving objects:  23% (322/1399)Receiving objects:  24% (336/1399)Receiving objects:  25% (350/1399)Receiving objects:  26% (364/1399)Receiving objects:  27% (378/1399)Receiving objects:  28% (392/1399)Receiving objects:  29% (406/1399)Receiving objects:  30% (420/1399)Receiving objects:  31% (434/1399)Receiving objects:  32% (448/1399)Receiving objects:  33% (462/1399)Receiving objects:  34% (476/1399)Receiving objects:  35% (490/1399)Receiving objects:  36% (504/1399)Receiving objects:  37% (518/1399)Receiving objects:  38% (532/1399)Receiving objects:  39% (546/1399)Receiving objects:  40% (560/1399)Receiving objects:  41% (574/1399)Receiving objects:  42% (588/1399)Receiving objects:  43% (602/1399)Receiving objects:  44% (616/1399)Receiving objects:  45% (630/1399)Receiving objects:  46% (644/1399)Receiving objects:  47% (658/1399)Receiving objects:  48% (672/1399)Receiving objects:  49% (686/1399)Receiving objects:  50% (700/1399)Receiving objects:  51% (714/1399)Receiving objects:  52% (728/1399)Receiving objects:  53% (742/1399)Receiving objects:  54% (756/1399)Receiving objects:  55% (770/1399)Receiving objects:  56% (784/1399)Receiving objects:  57% (798/1399)Receiving objects:  58% (812/1399)Receiving objects:  59% (826/1399)Receiving objects:  60% (840/1399)Receiving objects:  61% (854/1399)Receiving objects:  62% (868/1399)Receiving objects:  63% (882/1399)Receiving objects:  64% (896/1399)Receiving objects:  65% (910/1399)Receiving objects:  66% (924/1399)Receiving objects:  67% (938/1399)remote: Total 1399 (delta 67), reused 28 (delta 14), pack-reused 1282[K
-Receiving objects:  68% (952/1399)Receiving objects:  69% (966/1399)Receiving objects:  70% (980/1399)Receiving objects:  71% (994/1399)Receiving objects:  72% (1008/1399)Receiving objects:  73% (1022/1399)Receiving objects:  74% (1036/1399)Receiving objects:  75% (1050/1399)Receiving objects:  76% (1064/1399)Receiving objects:  77% (1078/1399)Receiving objects:  78% (1092/1399)Receiving objects:  79% (1106/1399)Receiving objects:  80% (1120/1399)Receiving objects:  81% (1134/1399)Receiving objects:  82% (1148/1399)Receiving objects:  83% (1162/1399)Receiving objects:  84% (1176/1399)Receiving objects:  85% (1190/1399)Receiving objects:  86% (1204/1399)Receiving objects:  87% (1218/1399)Receiving objects:  88% (1232/1399)Receiving objects:  89% (1246/1399)Receiving objects:  90% (1260/1399)Receiving objects:  91% (1274/1399)Receiving objects:  92% (1288/1399)Receiving objects:  93% (1302/1399)Receiving objects:  94% (1316/1399)Receiving objects:  95% (1330/1399)Receiving objects:  96% (1344/1399)Receiving objects:  97% (1358/1399)Receiving objects:  98% (1372/1399)Receiving objects:  99% (1386/1399)Receiving objects: 100% (1399/1399)Receiving objects: 100% (1399/1399), 342.25 KiB | 3.42 MiB/s, done.
-Resolving deltas:   0% (0/892)Resolving deltas:   1% (11/892)Resolving deltas:   2% (18/892)Resolving deltas:   3% (27/892)Resolving deltas:   4% (36/892)Resolving deltas:   5% (45/892)Resolving deltas:   6% (54/892)Resolving deltas:   7% (63/892)Resolving deltas:   8% (72/892)Resolving deltas:   9% (81/892)Resolving deltas:  10% (90/892)Resolving deltas:  11% (99/892)Resolving deltas:  12% (108/892)Resolving deltas:  13% (116/892)Resolving deltas:  14% (125/892)Resolving deltas:  15% (134/892)Resolving deltas:  16% (144/892)Resolving deltas:  17% (152/892)Resolving deltas:  18% (162/892)Resolving deltas:  19% (170/892)Resolving deltas:  20% (180/892)Resolving deltas:  21% (188/892)Resolving deltas:  22% (197/892)Resolving deltas:  23% (206/892)Resolving deltas:  24% (215/892)Resolving deltas:  25% (223/892)Resolving deltas:  26% (232/892)Resolving deltas:  27% (241/892)Resolving deltas:  28% (251/892)Resolving deltas:  29% (259/892)Resolving deltas:  30% (268/892)Resolving deltas:  31% (277/892)Resolving deltas:  32% (286/892)Resolving deltas:  33% (295/892)Resolving deltas:  34% (304/892)Resolving deltas:  35% (313/892)Resolving deltas:  36% (322/892)Resolving deltas:  37% (331/892)Resolving deltas:  38% (339/892)Resolving deltas:  39% (348/892)Resolving deltas:  40% (357/892)Resolving deltas:  41% (366/892)Resolving deltas:  42% (375/892)Resolving deltas:  43% (384/892)Resolving deltas:  44% (393/892)Resolving deltas:  45% (402/892)Resolving deltas:  46% (411/892)Resolving deltas:  47% (420/892)Resolving deltas:  48% (429/892)Resolving deltas:  49% (438/892)Resolving deltas:  50% (446/892)Resolving deltas:  51% (455/892)Resolving deltas:  52% (464/892)Resolving deltas:  53% (473/892)Resolving deltas:  54% (482/892)Resolving deltas:  55% (491/892)Resolving deltas:  56% (500/892)Resolving deltas:  57% (509/892)Resolving deltas:  58% (518/892)Resolving deltas:  59% (527/892)Resolving deltas:  60% (538/892)Resolving deltas:  61% (545/892)Resolving deltas:  62% (554/892)Resolving deltas:  63% (562/892)Resolving deltas:  64% (571/892)Resolving deltas:  65% (580/892)Resolving deltas:  66% (589/892)Resolving deltas:  67% (598/892)Resolving deltas:  68% (607/892)Resolving deltas:  69% (616/892)Resolving deltas:  70% (625/892)Resolving deltas:  71% (634/892)Resolving deltas:  72% (643/892)Resolving deltas:  73% (652/892)Resolving deltas:  74% (661/892)Resolving deltas:  75% (670/892)Resolving deltas:  76% (678/892)Resolving deltas:  77% (687/892)Resolving deltas:  78% (696/892)Resolving deltas:  79% (705/892)Resolving deltas:  80% (714/892)Resolving deltas:  81% (723/892)Resolving deltas:  82% (732/892)Resolving deltas:  83% (741/892)Resolving deltas:  84% (750/892)Resolving deltas:  85% (759/892)Resolving deltas:  86% (768/892)Resolving deltas:  87% (777/892)Resolving deltas:  88% (786/892)Resolving deltas:  89% (794/892)Resolving deltas:  90% (803/892)Resolving deltas:  91% (812/892)Resolving deltas:  92% (821/892)Resolving deltas:  93% (830/892)Resolving deltas:  94% (839/892)Resolving deltas:  95% (848/892)Resolving deltas:  96% (858/892)Resolving deltas:  97% (866/892)Resolving deltas:  98% (875/892)Resolving deltas:  99% (885/892)Resolving deltas: 100% (892/892)Resolving deltas: 100% (892/892), done.
-[1m[32m==>(B[m[1m Validating source files with md5sums...(B[m
-    zathura-pdf-poppler-git ... Skipped
-[1m[32m==>(B[m[1m Making package: zathura-pdf-poppler-git 0.3.2.r1.g0990d0a-1 (2024-06-01T03:43:58 CEST)(B[m
-[1m[32m==>(B[m[1m Checking runtime dependencies...(B[m
-[1m[32m==>(B[m[1m Checking buildtime dependencies...(B[m
-[1m[32m==>(B[m[1m Retrieving sources...(B[m
-[1m[34m  ->(B[m[1m Updating zathura-pdf-poppler-git git repo...(B[m
-[1m[32m==>(B[m[1m Validating source files with md5sums...(B[m
-    zathura-pdf-poppler-git ... Skipped
-[1m[32m==>(B[m[1m Removing existing $srcdir/ directory...(B[m
-[1m[32m==>(B[m[1m Extracting sources...(B[m
-[1m[34m  ->(B[m[1m Creating working copy of zathura-pdf-poppler-git git repo...(B[m
-Cloning into 'zathura-pdf-poppler-git'...
-done.
-Switched to a new branch 'makepkg'
-[1m[32m==>(B[m[1m Starting pkgver()...(B[m
-[1m[32m==>(B[m[1m Updated version: zathura-pdf-poppler-git 0.3.2.r2.gd49bfd3-1(B[m
-[1m[32m==>(B[m[1m Sources are ready.(B[m
-zathura-pdf-poppler-git-0.3.2.r1.g0990d0a-1: parsing pkg list...
-[1m[32m==>(B[m[1m Making package: zathura-pdf-poppler-git 0.3.2.r2.gd49bfd3-1 (2024-06-01T03:44:02 CEST)(B[m
-[1m[32m==>(B[m[1m Checking runtime dependencies...(B[m
-[1m[32m==>(B[m[1m Checking buildtime dependencies...(B[m
-[1m[33m==> WARNING:(B[m[1m Using existing $srcdir/ tree(B[m
-[1m[32m==>(B[m[1m Starting pkgver()...(B[m
-[1m[32m==>(B[m[1m Starting build()...(B[m
-+ exec meson setup --prefix /usr --libexecdir lib --sbindir bin --buildtype plain --auto-features enabled --wrap-mode nodownload -D b_pie=true -D python.bytecompile=1 build
-[1mThe Meson build system[0m
-Version: 1.4.1
-Source dir: [1m/home/heini/.cache/paru/clone/zathura-pdf-poppler-git/src/zathura-pdf-poppler-git[0m
-Build dir: [1m/home/heini/.cache/paru/clone/zathura-pdf-poppler-git/src/zathura-pdf-poppler-git/build[0m
-Build type: [1mnative build[0m
-Project name: [1mzathura-pdf-poppler[0m
-Project version: [1m0.3.2[0m
-C compiler for the host machine: [1mcc[0m (gcc 14.1.1 "cc (GCC) 14.1.1 20240522")
-C linker for the host machine: [1mcc[0m ld.bfd 2.42.0
-Host machine cpu family: [1mx86_64[0m
-Host machine cpu: [1mx86_64[0m
-Found pkg-config: [1;32mYES[0m [1m(/usr/bin/pkg-config)[0m [1;34m2.1.1[0m
-Run-time dependency [1mzathura[0m found: [1;32mYES[0m [36m0.5.5[0m
-Run-time dependency [1mgirara-gtk3[0m found: [1;32mYES[0m [36m0.4.3[0m
-Run-time dependency [1mglib-2.0[0m found: [1;32mYES[0m [36m2.80.2[0m
-Run-time dependency [1mpoppler-glib[0m found: [1;32mYES[0m [36m24.05.0[0m
-Compiler for C supports arguments -Werror=implicit-function-declaration: [1;32mYES[0m 
-Compiler for C supports arguments -Werror=vla: [1;32mYES[0m 
-Build targets in project: [1m1[0m
-
-zathura-pdf-poppler [36m0.3.2[0m
-
-  [1mUser defined options[0m
-    auto_features     : enabled
-    buildtype         : plain
-    libexecdir        : lib
-    prefix            : /usr
-    sbindir           : bin
-    wrap_mode         : nodownload
-    python.bytecompile: 1
-    b_pie             : true
-
-Found ninja-1.13.0.git at /home/heini/repos/ninja/build/ninja
-Generating targets:   0%|                                   | 0/1 eta ?                                                                       Writing build.ninja:   0%|                                 | 0/46 eta ?                                                                       ninja: Entering directory `build'
-[0/15] Compiling C object libpdf-p...athura-pdf-poppler_attachments.c.o[K[0/15] Compiling C object libpdf-p...p/zathura-pdf-poppler_document.c.o[K[0/15] Compiling C object libpdf-p...so.p/zathura-pdf-poppler_forms.c.o[K[0/15] Compiling C object libpdf-p...so.p/zathura-pdf-poppler_image.c.o[K[0/15] Compiling C object libpdf-p...so.p/zathura-pdf-poppler_index.c.o[K[0/15] Compiling C object libpdf-p...so.p/zathura-pdf-poppler_links.c.o[K[0/15] Compiling C object libpdf-p....so.p/zathura-pdf-poppler_meta.c.o[K[0/15] Compiling C object libpdf-p....so.p/zathura-pdf-poppler_page.c.o[K[0/15] Compiling C object libpdf-p...o.p/zathura-pdf-poppler_plugin.c.o[K[0/15] Compiling C object libpdf-p...o.p/zathura-pdf-poppler_render.c.o[K[1/15] Compiling C object libpdf-p...so.p/zathura-pdf-poppler_image.c.o[K[1/15] Compiling C object libpdf-p...o.p/zathura-pdf-poppler_search.c.o[K[2/15] Compiling C object libpdf-p...p/zathura-pdf-poppler_document.c.o[K[2/15] Compiling C object libpdf-p...o.p/zathura-pdf-poppler_select.c.o[K[3/15] Compiling C object libpdf-p...o.p/zathura-pdf-poppler_search.c.o[K[3/15] Compiling C object libpdf-p.../zathura-pdf-poppler_signature.c.o[K[4/15] Compiling C object libpdf-p...so.p/zathura-pdf-poppler_forms.c.o[K[4/15] Compiling C object libpdf-p...so.p/zathura-pdf-poppler_utils.c.o[K[5/15] Compiling C object libpdf-p...o.p/zathura-pdf-poppler_render.c.o[K[6/15] Compiling C object libpdf-p...so.p/zathura-pdf-poppler_links.c.o[K[7/15] Compiling C object libpdf-p...athura-pdf-poppler_attachments.c.o[K[8/15] Compiling C object libpdf-p....so.p/zathura-pdf-poppler_meta.c.o[K[9/15] Compiling C object libpdf-p.../zathura-pdf-poppler_signature.c.o[K[10/15] Compiling C object libpdf-...o.p/zathura-pdf-poppler_plugin.c.o[K[11/15] Compiling C object libpdf-...o.p/zathura-pdf-poppler_select.c.o[K[12/15] Compiling C object libpdf-...so.p/zathura-pdf-poppler_index.c.o[K[13/15] Compiling C object libpdf-....so.p/zathura-pdf-poppler_page.c.o[K[14/15] Compiling C object libpdf-...so.p/zathura-pdf-poppler_utils.c.o[K[14/15] Linking target libpdf-poppler.so[K[15/15] Linking target libpdf-poppler.so[K
-[1m[32m==>(B[m[1m Entering fakeroot environment...(B[m
-[1m[32m==>(B[m[1m Starting package()...(B[m
-ninja: Entering directory `build'
-[0/1] Installing files.[K
-Installing libpdf-poppler.so to /home/heini/.cache/paru/clone/zathura-pdf-poppler-git/pkg/zathura-pdf-poppler-git/usr/lib/zathura
-Installing /home/heini/.cache/paru/clone/zathura-pdf-poppler-git/src/zathura-pdf-poppler-git/data/org.pwmt.zathura-pdf-poppler.metainfo.xml to /home/heini/.cache/paru/clone/zathura-pdf-poppler-git/pkg/zathura-pdf-poppler-git/usr/share/metainfo
-Installing /home/heini/.cache/paru/clone/zathura-pdf-poppler-git/src/zathura-pdf-poppler-git/data/org.pwmt.zathura-pdf-poppler.desktop to /home/heini/.cache/paru/clone/zathura-pdf-poppler-git/pkg/zathura-pdf-poppler-git/usr/share/applications
-[1m[32m==>(B[m[1m Tidying install...(B[m
-[1m[34m  ->(B[m[1m Removing libtool files...(B[m
-[1m[34m  ->(B[m[1m Purging unwanted files...(B[m
-[1m[34m  ->(B[m[1m Removing static library files...(B[m
-[1m[34m  ->(B[m[1m Stripping unneeded symbols from binaries and libraries...(B[m
-[1m[34m  ->(B[m[1m Compressing man and info pages...(B[m
-[1m[32m==>(B[m[1m Checking for packaging issues...(B[m
-[1m[32m==>(B[m[1m Creating package "zathura-pdf-poppler-git"...(B[m
-[1m[34m  ->(B[m[1m Generating .PKGINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .BUILDINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .MTREE file...(B[m
-[1m[34m  ->(B[m[1m Compressing package...(B[m
-[1m[32m==>(B[m[1m Creating package "zathura-pdf-poppler-git-debug"...(B[m
-[1m[34m  ->(B[m[1m Generating .PKGINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .BUILDINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .MTREE file...(B[m
-[1m[34m  ->(B[m[1m Compressing package...(B[m
-[1m[32m==>(B[m[1m Leaving fakeroot environment.(B[m
-[1m[32m==>(B[m[1m Finished making: zathura-pdf-poppler-git 0.3.2.r2.gd49bfd3-1 (2024-06-01T03:44:12 CEST)(B[m
-[1m[32m==>(B[m[1m Cleaning up...(B[m
-[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-
-[0;1mPackage (1)            [0m  [0;1mNew Version        [0m  [0;1mNet Change[0m
-
-zathura-pdf-poppler-git  0.3.2.r2.gd49bfd3-1    0,02 MiB
-
-[0;1mTotal Installed Size:[0m  0,02 MiB
-
-[1;34m::[0;1m Proceed with installation? [Y/n] [0m[?25hY
-[?25l(0/1) checking keys in keyring                     [-------------]   0%(1/1) checking keys in keyring                     [#############] 100%
-(0/1) checking package integrity                   [-------------]   0%(1/1) checking package integrity                   [#############] 100%
-(0/1) loading package files                        [-------------]   0%(1/1) loading package files                        [#############] 100%
-(0/1) checking for file conflicts                  [-------------]   0%(1/1) checking for file conflicts                  [#############] 100%
-(0/1) checking available disk space                [-------------]   0%(1/1) checking available disk space                [#############] 100%
-[1;34m::[0;1m Processing package changes...
-[0m(1/1) installing zathura-pdf-poppler-git           [-------------]   0%(1/1) installing zathura-pdf-poppler-git           [#############] 100%
-[1;34m::[0;1m Running post-transaction hooks...
-[0m(1/2) Arming ConditionNeedsUpdate...
-(2/2) Updating the desktop file MIME type cache...
-[?25h[1m[32m==>(B[m[1m Making package: zathura-pdf-mupdf-git 0.4.1.r8.gc742d4c-2 (2024-06-01T03:44:28 CEST)(B[m
-[1m[32m==>(B[m[1m Retrieving sources...(B[m
-[1m[34m  ->(B[m[1m Cloning zathura-pdf-mupdf-git git repo...(B[m
-Cloning into bare repository '/home/heini/.cache/paru/clone/zathura-pdf-mupdf-git/zathura-pdf-mupdf-git'...
-remote: Enumerating objects: 1361, done.[K
-remote: Counting objects:   1% (1/77)[Kremote: Counting objects:   2% (2/77)[Kremote: Counting objects:   3% (3/77)[Kremote: Counting objects:   5% (4/77)[Kremote: Counting objects:   6% (5/77)[Kremote: Counting objects:   7% (6/77)[Kremote: Counting objects:   9% (7/77)[Kremote: Counting objects:  10% (8/77)[Kremote: Counting objects:  11% (9/77)[Kremote: Counting objects:  12% (10/77)[Kremote: Counting objects:  14% (11/77)[Kremote: Counting objects:  15% (12/77)[Kremote: Counting objects:  16% (13/77)[Kremote: Counting objects:  18% (14/77)[Kremote: Counting objects:  19% (15/77)[Kremote: Counting objects:  20% (16/77)[Kremote: Counting objects:  22% (17/77)[Kremote: Counting objects:  23% (18/77)[Kremote: Counting objects:  24% (19/77)[Kremote: Counting objects:  25% (20/77)[Kremote: Counting objects:  27% (21/77)[Kremote: Counting objects:  28% (22/77)[Kremote: Counting objects:  29% (23/77)[Kremote: Counting objects:  31% (24/77)[Kremote: Counting objects:  32% (25/77)[Kremote: Counting objects:  33% (26/77)[Kremote: Counting objects:  35% (27/77)[Kremote: Counting objects:  36% (28/77)[Kremote: Counting objects:  37% (29/77)[Kremote: Counting objects:  38% (30/77)[Kremote: Counting objects:  40% (31/77)[Kremote: Counting objects:  41% (32/77)[Kremote: Counting objects:  42% (33/77)[Kremote: Counting objects:  44% (34/77)[Kremote: Counting objects:  45% (35/77)[Kremote: Counting objects:  46% (36/77)[Kremote: Counting objects:  48% (37/77)[Kremote: Counting objects:  49% (38/77)[Kremote: Counting objects:  50% (39/77)[Kremote: Counting objects:  51% (40/77)[Kremote: Counting objects:  53% (41/77)[Kremote: Counting objects:  54% (42/77)[Kremote: Counting objects:  55% (43/77)[Kremote: Counting objects:  57% (44/77)[Kremote: Counting objects:  58% (45/77)[Kremote: Counting objects:  59% (46/77)[Kremote: Counting objects:  61% (47/77)[Kremote: Counting objects:  62% (48/77)[Kremote: Counting objects:  63% (49/77)[Kremote: Counting objects:  64% (50/77)[Kremote: Counting objects:  66% (51/77)[Kremote: Counting objects:  67% (52/77)[Kremote: Counting objects:  68% (53/77)[Kremote: Counting objects:  70% (54/77)[Kremote: Counting objects:  71% (55/77)[Kremote: Counting objects:  72% (56/77)[Kremote: Counting objects:  74% (57/77)[Kremote: Counting objects:  75% (58/77)[Kremote: Counting objects:  76% (59/77)[Kremote: Counting objects:  77% (60/77)[Kremote: Counting objects:  79% (61/77)[Kremote: Counting objects:  80% (62/77)[Kremote: Counting objects:  81% (63/77)[Kremote: Counting objects:  83% (64/77)[Kremote: Counting objects:  84% (65/77)[Kremote: Counting objects:  85% (66/77)[Kremote: Counting objects:  87% (67/77)[Kremote: Counting objects:  88% (68/77)[Kremote: Counting objects:  89% (69/77)[Kremote: Counting objects:  90% (70/77)[Kremote: Counting objects:  92% (71/77)[Kremote: Counting objects:  93% (72/77)[Kremote: Counting objects:  94% (73/77)[Kremote: Counting objects:  96% (74/77)[Kremote: Counting objects:  97% (75/77)[Kremote: Counting objects:  98% (76/77)[Kremote: Counting objects: 100% (77/77)[Kremote: Counting objects: 100% (77/77), done.[K
-remote: Compressing objects:   2% (1/43)[Kremote: Compressing objects:   4% (2/43)[Kremote: Compressing objects:   6% (3/43)[Kremote: Compressing objects:   9% (4/43)[Kremote: Compressing objects:  11% (5/43)[Kremote: Compressing objects:  13% (6/43)[Kremote: Compressing objects:  16% (7/43)[Kremote: Compressing objects:  18% (8/43)[Kremote: Compressing objects:  20% (9/43)[Kremote: Compressing objects:  23% (10/43)[Kremote: Compressing objects:  25% (11/43)[Kremote: Compressing objects:  27% (12/43)[Kremote: Compressing objects:  30% (13/43)[Kremote: Compressing objects:  32% (14/43)[Kremote: Compressing objects:  34% (15/43)[Kremote: Compressing objects:  37% (16/43)[Kremote: Compressing objects:  39% (17/43)[Kremote: Compressing objects:  41% (18/43)[Kremote: Compressing objects:  44% (19/43)[Kremote: Compressing objects:  46% (20/43)[Kremote: Compressing objects:  48% (21/43)[Kremote: Compressing objects:  51% (22/43)[Kremote: Compressing objects:  53% (23/43)[Kremote: Compressing objects:  55% (24/43)[Kremote: Compressing objects:  58% (25/43)[Kremote: Compressing objects:  60% (26/43)[Kremote: Compressing objects:  62% (27/43)[Kremote: Compressing objects:  65% (28/43)[Kremote: Compressing objects:  67% (29/43)[Kremote: Compressing objects:  69% (30/43)[Kremote: Compressing objects:  72% (31/43)[Kremote: Compressing objects:  74% (32/43)[Kremote: Compressing objects:  76% (33/43)[Kremote: Compressing objects:  79% (34/43)[Kremote: Compressing objects:  81% (35/43)[Kremote: Compressing objects:  83% (36/43)[Kremote: Compressing objects:  86% (37/43)[Kremote: Compressing objects:  88% (38/43)[Kremote: Compressing objects:  90% (39/43)[Kremote: Compressing objects:  93% (40/43)[Kremote: Compressing objects:  95% (41/43)[Kremote: Compressing objects:  97% (42/43)[Kremote: Compressing objects: 100% (43/43)[Kremote: Compressing objects: 100% (43/43), done.[K
-Receiving objects:   0% (1/1361)Receiving objects:   1% (14/1361)Receiving objects:   2% (28/1361)Receiving objects:   3% (41/1361)Receiving objects:   4% (55/1361)Receiving objects:   5% (69/1361)Receiving objects:   6% (82/1361)Receiving objects:   7% (96/1361)Receiving objects:   8% (109/1361)Receiving objects:   9% (123/1361)Receiving objects:  10% (137/1361)Receiving objects:  11% (150/1361)Receiving objects:  12% (164/1361)Receiving objects:  13% (177/1361)Receiving objects:  14% (191/1361)Receiving objects:  15% (205/1361)Receiving objects:  16% (218/1361)Receiving objects:  17% (232/1361)Receiving objects:  18% (245/1361)Receiving objects:  19% (259/1361)Receiving objects:  20% (273/1361)Receiving objects:  21% (286/1361)Receiving objects:  22% (300/1361)Receiving objects:  23% (314/1361)Receiving objects:  24% (327/1361)Receiving objects:  25% (341/1361)Receiving objects:  26% (354/1361)Receiving objects:  27% (368/1361)Receiving objects:  28% (382/1361)Receiving objects:  29% (395/1361)Receiving objects:  30% (409/1361)Receiving objects:  31% (422/1361)Receiving objects:  32% (436/1361)Receiving objects:  33% (450/1361)Receiving objects:  34% (463/1361)Receiving objects:  35% (477/1361)Receiving objects:  36% (490/1361)Receiving objects:  37% (504/1361)Receiving objects:  38% (518/1361)Receiving objects:  39% (531/1361)Receiving objects:  40% (545/1361)Receiving objects:  41% (559/1361)Receiving objects:  42% (572/1361)Receiving objects:  43% (586/1361)Receiving objects:  44% (599/1361)Receiving objects:  45% (613/1361)Receiving objects:  46% (627/1361)Receiving objects:  47% (640/1361)Receiving objects:  48% (654/1361)Receiving objects:  49% (667/1361)Receiving objects:  50% (681/1361)Receiving objects:  51% (695/1361)Receiving objects:  52% (708/1361)Receiving objects:  53% (722/1361)Receiving objects:  54% (735/1361)Receiving objects:  55% (749/1361)Receiving objects:  56% (763/1361)Receiving objects:  57% (776/1361)Receiving objects:  58% (790/1361)Receiving objects:  59% (803/1361)Receiving objects:  60% (817/1361)Receiving objects:  61% (831/1361)Receiving objects:  62% (844/1361)Receiving objects:  63% (858/1361)Receiving objects:  64% (872/1361)Receiving objects:  65% (885/1361)Receiving objects:  66% (899/1361)Receiving objects:  67% (912/1361)Receiving objects:  68% (926/1361)Receiving objects:  69% (940/1361)Receiving objects:  70% (953/1361)Receiving objects:  71% (967/1361)Receiving objects:  72% (980/1361)Receiving objects:  73% (994/1361)Receiving objects:  74% (1008/1361)Receiving objects:  75% (1021/1361)Receiving objects:  76% (1035/1361)Receiving objects:  77% (1048/1361)Receiving objects:  78% (1062/1361)Receiving objects:  79% (1076/1361)Receiving objects:  80% (1089/1361)Receiving objects:  81% (1103/1361)Receiving objects:  82% (1117/1361)Receiving objects:  83% (1130/1361)remote: Total 1361 (delta 34), reused 76 (delta 34), pack-reused 1284[K
-Receiving objects:  84% (1144/1361)Receiving objects:  85% (1157/1361)Receiving objects:  86% (1171/1361)Receiving objects:  87% (1185/1361)Receiving objects:  88% (1198/1361)Receiving objects:  89% (1212/1361)Receiving objects:  90% (1225/1361)Receiving objects:  91% (1239/1361)Receiving objects:  92% (1253/1361)Receiving objects:  93% (1266/1361)Receiving objects:  94% (1280/1361)Receiving objects:  95% (1293/1361)Receiving objects:  96% (1307/1361)Receiving objects:  97% (1321/1361)Receiving objects:  98% (1334/1361)Receiving objects:  99% (1348/1361)Receiving objects: 100% (1361/1361)Receiving objects: 100% (1361/1361), 374.96 KiB | 3.50 MiB/s, done.
-Resolving deltas:   0% (0/860)Resolving deltas:   1% (9/860)Resolving deltas:   2% (18/860)Resolving deltas:   3% (26/860)Resolving deltas:   4% (35/860)Resolving deltas:   5% (43/860)Resolving deltas:   6% (53/860)Resolving deltas:   7% (61/860)Resolving deltas:   8% (69/860)Resolving deltas:   9% (78/860)Resolving deltas:  10% (86/860)Resolving deltas:  11% (95/860)Resolving deltas:  12% (104/860)Resolving deltas:  13% (112/860)Resolving deltas:  14% (121/860)Resolving deltas:  15% (129/860)Resolving deltas:  16% (138/860)Resolving deltas:  17% (147/860)Resolving deltas:  18% (155/860)Resolving deltas:  19% (164/860)Resolving deltas:  20% (172/860)Resolving deltas:  21% (181/860)Resolving deltas:  22% (191/860)Resolving deltas:  23% (198/860)Resolving deltas:  24% (207/860)Resolving deltas:  25% (217/860)Resolving deltas:  26% (224/860)Resolving deltas:  27% (233/860)Resolving deltas:  28% (241/860)Resolving deltas:  29% (250/860)Resolving deltas:  30% (260/860)Resolving deltas:  31% (267/860)Resolving deltas:  32% (276/860)Resolving deltas:  33% (284/860)Resolving deltas:  34% (293/860)Resolving deltas:  35% (301/860)Resolving deltas:  36% (310/860)Resolving deltas:  37% (320/860)Resolving deltas:  38% (328/860)Resolving deltas:  39% (336/860)Resolving deltas:  40% (344/860)Resolving deltas:  41% (354/860)Resolving deltas:  42% (362/860)Resolving deltas:  43% (370/860)Resolving deltas:  44% (379/860)Resolving deltas:  45% (387/860)Resolving deltas:  46% (396/860)Resolving deltas:  47% (406/860)Resolving deltas:  48% (413/860)Resolving deltas:  49% (422/860)Resolving deltas:  50% (430/860)Resolving deltas:  51% (439/860)Resolving deltas:  52% (450/860)Resolving deltas:  53% (456/860)Resolving deltas:  54% (465/860)Resolving deltas:  55% (473/860)Resolving deltas:  56% (483/860)Resolving deltas:  57% (491/860)Resolving deltas:  58% (499/860)Resolving deltas:  59% (508/860)Resolving deltas:  60% (516/860)Resolving deltas:  61% (525/860)Resolving deltas:  62% (535/860)Resolving deltas:  63% (542/860)Resolving deltas:  64% (551/860)Resolving deltas:  65% (560/860)Resolving deltas:  66% (568/860)Resolving deltas:  67% (577/860)Resolving deltas:  68% (585/860)Resolving deltas:  69% (594/860)Resolving deltas:  70% (602/860)Resolving deltas:  71% (611/860)Resolving deltas:  72% (620/860)Resolving deltas:  73% (628/860)Resolving deltas:  74% (637/860)Resolving deltas:  75% (646/860)Resolving deltas:  76% (654/860)Resolving deltas:  77% (663/860)Resolving deltas:  78% (671/860)Resolving deltas:  79% (680/860)Resolving deltas:  80% (690/860)Resolving deltas:  81% (697/860)Resolving deltas:  82% (706/860)Resolving deltas:  83% (714/860)Resolving deltas:  84% (723/860)Resolving deltas:  85% (731/860)Resolving deltas:  86% (740/860)Resolving deltas:  87% (749/860)Resolving deltas:  88% (757/860)Resolving deltas:  89% (766/860)Resolving deltas:  90% (774/860)Resolving deltas:  91% (783/860)Resolving deltas:  92% (792/860)Resolving deltas:  93% (800/860)Resolving deltas:  94% (811/860)Resolving deltas:  95% (817/860)Resolving deltas:  96% (826/860)Resolving deltas:  97% (837/860)Resolving deltas:  98% (844/860)Resolving deltas:  99% (852/860)Resolving deltas: 100% (860/860)Resolving deltas: 100% (860/860), done.
-[1m[34m  ->(B[m[1m Found 0001-Remove-mupdf-linking-detection.patch(B[m
-[1m[32m==>(B[m[1m Validating source files with sha256sums...(B[m
-    zathura-pdf-mupdf-git ... Skipped
-    0001-Remove-mupdf-linking-detection.patch ... Passed
-[1m[32m==>(B[m[1m Making package: zathura-pdf-mupdf-git 0.4.1.r8.gc742d4c-2 (2024-06-01T03:44:31 CEST)(B[m
-[1m[32m==>(B[m[1m Checking runtime dependencies...(B[m
-[1m[32m==>(B[m[1m Checking buildtime dependencies...(B[m
-[1m[32m==>(B[m[1m Retrieving sources...(B[m
-[1m[34m  ->(B[m[1m Updating zathura-pdf-mupdf-git git repo...(B[m
-[1m[34m  ->(B[m[1m Found 0001-Remove-mupdf-linking-detection.patch(B[m
-[1m[32m==>(B[m[1m Validating source files with sha256sums...(B[m
-    zathura-pdf-mupdf-git ... Skipped
-    0001-Remove-mupdf-linking-detection.patch ... Passed
-[1m[32m==>(B[m[1m Removing existing $srcdir/ directory...(B[m
-[1m[32m==>(B[m[1m Extracting sources...(B[m
-[1m[34m  ->(B[m[1m Creating working copy of zathura-pdf-mupdf-git git repo...(B[m
-Cloning into 'zathura-pdf-mupdf-git'...
-done.
-Switched to a new branch 'makepkg'
-[1m[32m==>(B[m[1m Starting prepare()...(B[m
-patching file meson.build
-[1m[32m==>(B[m[1m Starting pkgver()...(B[m
-[1m[32m==>(B[m[1m Updated version: zathura-pdf-mupdf-git 0.4.1.r10.gf08f2f5-1(B[m
-[1m[32m==>(B[m[1m Sources are ready.(B[m
-zathura-pdf-mupdf-git-0.4.1.r8.gc742d4c-2: parsing pkg list...
-[1m[32m==>(B[m[1m Making package: zathura-pdf-mupdf-git 0.4.1.r10.gf08f2f5-1 (2024-06-01T03:44:35 CEST)(B[m
-[1m[32m==>(B[m[1m Checking runtime dependencies...(B[m
-[1m[32m==>(B[m[1m Checking buildtime dependencies...(B[m
-[1m[33m==> WARNING:(B[m[1m Using existing $srcdir/ tree(B[m
-[1m[32m==>(B[m[1m Starting pkgver()...(B[m
-[1m[32m==>(B[m[1m Starting build()...(B[m
-+ exec meson setup --prefix /usr --libexecdir lib --sbindir bin --buildtype plain --auto-features enabled --wrap-mode nodownload -D b_pie=true -D python.bytecompile=1 build
-[1mThe Meson build system[0m
-Version: 1.4.1
-Source dir: [1m/home/heini/.cache/paru/clone/zathura-pdf-mupdf-git/src/zathura-pdf-mupdf-git[0m
-Build dir: [1m/home/heini/.cache/paru/clone/zathura-pdf-mupdf-git/src/zathura-pdf-mupdf-git/build[0m
-Build type: [1mnative build[0m
-Project name: [1mzathura-pdf-mupdf[0m
-Project version: [1m0.4.1[0m
-C compiler for the host machine: [1mcc[0m (gcc 14.1.1 "cc (GCC) 14.1.1 20240522")
-C linker for the host machine: [1mcc[0m ld.bfd 2.42.0
-Host machine cpu family: [1mx86_64[0m
-Host machine cpu: [1mx86_64[0m
-Found pkg-config: [1;32mYES[0m [1m(/usr/bin/pkg-config)[0m [1;34m2.1.1[0m
-Run-time dependency [1mzathura[0m found: [1;32mYES[0m [36m0.5.5[0m
-Run-time dependency [1mgirara-gtk3[0m found: [1;32mYES[0m [36m0.4.3[0m
-Run-time dependency [1mglib-2.0[0m found: [1;32mYES[0m [36m2.80.2[0m
-Run-time dependency [1mcairo[0m found: [1;32mYES[0m [36m1.18.0[0m
-Library [1mmupdf[0m found: [1;32mYES[0m
-Run-time dependency [1mlibjpeg[0m found: [1;32mYES[0m [36m3.0.3[0m
-Library [1mjbig2dec[0m found: [1;32mYES[0m
-Run-time dependency [1mlibopenjp2[0m found: [1;32mYES[0m [36m2.5.2[0m
-Run-time dependency [1mgumbo[0m found: [1;32mYES[0m [36m0.12.1[0m
-Compiler for C supports arguments -Werror=implicit-function-declaration: [1;32mYES[0m 
-Compiler for C supports arguments -Werror=vla: [1;32mYES[0m 
-Build targets in project: [1m1[0m
-
-zathura-pdf-mupdf [36m0.4.1[0m
-
-  [1mUser defined options[0m
-    auto_features     : enabled
-    buildtype         : plain
-    libexecdir        : lib
-    prefix            : /usr
-    sbindir           : bin
-    wrap_mode         : nodownload
-    python.bytecompile: 1
-    b_pie             : true
-
-Found ninja-1.13.0.git at /home/heini/repos/ninja/build/ninja
-Generating targets:   0%|                                   | 0/1 eta ?                                                                       Writing build.ninja:   0%|                                 | 0/38 eta ?                                                                       ninja: Entering directory `build'
-[0/11] Compiling C object libpdf-m...o.p/zathura-pdf-mupdf_document.c.o[K[0/11] Compiling C object libpdf-mupdf.so.p/zathura-pdf-mupdf_image.c.o[K[0/11] Compiling C object libpdf-mupdf.so.p/zathura-pdf-mupdf_index.c.o[K[0/11] Compiling C object libpdf-mupdf.so.p/zathura-pdf-mupdf_links.c.o[K[0/11] Compiling C object libpdf-mupdf.so.p/zathura-pdf-mupdf_page.c.o[K[0/11] Compiling C object libpdf-m....so.p/zathura-pdf-mupdf_plugin.c.o[K[0/11] Compiling C object libpdf-m....so.p/zathura-pdf-mupdf_render.c.o[K[0/11] Compiling C object libpdf-m....so.p/zathura-pdf-mupdf_search.c.o[K[0/11] Compiling C object libpdf-m....so.p/zathura-pdf-mupdf_select.c.o[K[0/11] Compiling C object libpdf-mupdf.so.p/zathura-pdf-mupdf_utils.c.o[K[1/11] Compiling C object libpdf-mupdf.so.p/zathura-pdf-mupdf_page.c.o[K[2/11] Compiling C object libpdf-mupdf.so.p/zathura-pdf-mupdf_utils.c.o[K[3/11] Compiling C object libpdf-m....so.p/zathura-pdf-mupdf_search.c.o[K[4/11] Compiling C object libpdf-mupdf.so.p/zathura-pdf-mupdf_links.c.o[K[5/11] Compiling C object libpdf-m....so.p/zathura-pdf-mupdf_plugin.c.o[K[6/11] Compiling C object libpdf-m....so.p/zathura-pdf-mupdf_select.c.o[K[7/11] Compiling C object libpdf-m....so.p/zathura-pdf-mupdf_render.c.o[K[8/11] Compiling C object libpdf-mupdf.so.p/zathura-pdf-mupdf_index.c.o[K[9/11] Compiling C object libpdf-mupdf.so.p/zathura-pdf-mupdf_image.c.o[K[10/11] Compiling C object libpdf-...o.p/zathura-pdf-mupdf_document.c.o[K[10/11] Linking target libpdf-mupdf.so[K[11/11] Linking target libpdf-mupdf.so[K
-[1m[32m==>(B[m[1m Entering fakeroot environment...(B[m
-[1m[32m==>(B[m[1m Starting package()...(B[m
-ninja: Entering directory `build'
-[0/1] Installing files.[K
-Installing libpdf-mupdf.so to /home/heini/.cache/paru/clone/zathura-pdf-mupdf-git/pkg/zathura-pdf-mupdf-git/usr/lib/zathura
-Installing /home/heini/.cache/paru/clone/zathura-pdf-mupdf-git/src/zathura-pdf-mupdf-git/data/org.pwmt.zathura-pdf-mupdf.metainfo.xml to /home/heini/.cache/paru/clone/zathura-pdf-mupdf-git/pkg/zathura-pdf-mupdf-git/usr/share/metainfo
-Installing /home/heini/.cache/paru/clone/zathura-pdf-mupdf-git/src/zathura-pdf-mupdf-git/data/org.pwmt.zathura-pdf-mupdf.desktop to /home/heini/.cache/paru/clone/zathura-pdf-mupdf-git/pkg/zathura-pdf-mupdf-git/usr/share/applications
-[1m[32m==>(B[m[1m Tidying install...(B[m
-[1m[34m  ->(B[m[1m Removing libtool files...(B[m
-[1m[34m  ->(B[m[1m Purging unwanted files...(B[m
-[1m[34m  ->(B[m[1m Removing static library files...(B[m
-[1m[34m  ->(B[m[1m Stripping unneeded symbols from binaries and libraries...(B[m
-[1m[34m  ->(B[m[1m Compressing man and info pages...(B[m
-[1m[32m==>(B[m[1m Checking for packaging issues...(B[m
-[1m[32m==>(B[m[1m Creating package "zathura-pdf-mupdf-git"...(B[m
-[1m[34m  ->(B[m[1m Generating .PKGINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .BUILDINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .MTREE file...(B[m
-[1m[34m  ->(B[m[1m Compressing package...(B[m
-[1m[32m==>(B[m[1m Creating package "zathura-pdf-mupdf-git-debug"...(B[m
-[1m[34m  ->(B[m[1m Generating .PKGINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .BUILDINFO file...(B[m
-[1m[34m  ->(B[m[1m Generating .MTREE file...(B[m
-[1m[34m  ->(B[m[1m Compressing package...(B[m
-[1m[32m==>(B[m[1m Leaving fakeroot environment.(B[m
-[1m[32m==>(B[m[1m Finished making: zathura-pdf-mupdf-git 0.4.1.r10.gf08f2f5-1 (2024-06-01T03:44:45 CEST)(B[m
-[1m[32m==>(B[m[1m Cleaning up...(B[m
-[31m::[0m [1mPacman is currently in use, please wait...[0m
-n [?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-[1;34m::[0;1m zathura-pdf-mupdf-git-[38;5;243m0.4.1.r10.gf08f2f5-1[0m and zathura-pdf-poppler-git-[38;5;243m0.3.2.r2.gd49bfd3-1[0m are in conflict (zathura-pdf-poppler). Remove zathura-pdf-poppler-git? [y/N] [0m
-[1;31merror: [0munresolvable package conflicts detected
-[1;31merror: [0mfailed to prepare transaction (conflicting dependencies)
-[1;34m::[0;1m zathura-pdf-mupdf-git-0.4.1.r10.gf08f2f5-1 and zathura-pdf-poppler-git-0.3.2.r2.gd49bfd3-1 are in conflict
-[0m[?25h[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-[1;34m::[0;1m zathura-pdf-mupdf-git-[38;5;243m0.4.1.r10.gf08f2f5-1[0m and zathura-pdf-poppler-git-[38;5;243m0.3.2.r2.gd49bfd3-1[0m are in conflict (zathura-pdf-poppler). Remove zathura-pdf-poppler-git? [y/N] [0m
-[1;31merror: [0munresolvable package conflicts detected
-[1;31merror: [0mfailed to prepare transaction (conflicting dependencies)
-[1;34m::[0;1m zathura-pdf-mupdf-git-0.4.1.r10.gf08f2f5-1 and zathura-pdf-poppler-git-0.3.2.r2.gd49bfd3-1 are in conflict
-[0m[?25h[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-[1;34m::[0;1m zathura-pdf-mupdf-git-[38;5;243m0.4.1.r10.gf08f2f5-1[0m and zathura-pdf-poppler-git-[38;5;243m0.3.2.r2.gd49bfd3-1[0m are in conflict (zathura-pdf-poppler). Remove zathura-pdf-poppler-git? [y/N] [0m
-[1;31merror: [0munresolvable package conflicts detected
-[1;31merror: [0mfailed to prepare transaction (conflicting dependencies)
-[1;34m::[0;1m zathura-pdf-mupdf-git-0.4.1.r10.gf08f2f5-1 and zathura-pdf-poppler-git-0.3.2.r2.gd49bfd3-1 are in conflict
-[0m[?25h[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-[1;34m::[0;1m zathura-pdf-mupdf-git-[38;5;243m0.4.1.r10.gf08f2f5-1[0m and zathura-pdf-poppler-git-[38;5;243m0.3.2.r2.gd49bfd3-1[0m are in conflict (zathura-pdf-poppler). Remove zathura-pdf-poppler-git? [y/N] [0m
-[1;31merror: [0munresolvable package conflicts detected
-[1;31merror: [0mfailed to prepare transaction (conflicting dependencies)
-[1;34m::[0;1m zathura-pdf-mupdf-git-0.4.1.r10.gf08f2f5-1 and zathura-pdf-poppler-git-0.3.2.r2.gd49bfd3-1 are in conflict
-[0m[?25h[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-[1;34m::[0;1m zathura-pdf-mupdf-git-[38;5;243m0.4.1.r10.gf08f2f5-1[0m and zathura-pdf-poppler-git-[38;5;243m0.3.2.r2.gd49bfd3-1[0m are in conflict (zathura-pdf-poppler). Remove zathura-pdf-poppler-git? [y/N] [0m
-[1;31merror: [0munresolvable package conflicts detected
-[1;31merror: [0mfailed to prepare transaction (conflicting dependencies)
-[1;34m::[0;1m zathura-pdf-mupdf-git-0.4.1.r10.gf08f2f5-1 and zathura-pdf-poppler-git-0.3.2.r2.gd49bfd3-1 are in conflict
-[0m[?25h[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-[1;34m::[0;1m zathura-pdf-mupdf-git-[38;5;243m0.4.1.r10.gf08f2f5-1[0m and zathura-pdf-poppler-git-[38;5;243m0.3.2.r2.gd49bfd3-1[0m are in conflict (zathura-pdf-poppler). Remove zathura-pdf-poppler-git? [y/N] [0m
-[1;31merror: [0munresolvable package conflicts detected
-[1;31merror: [0mfailed to prepare transaction (conflicting dependencies)
-[1;34m::[0;1m zathura-pdf-mupdf-git-0.4.1.r10.gf08f2f5-1 and zathura-pdf-poppler-git-0.3.2.r2.gd49bfd3-1 are in conflict
-[0m[?25h[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-[1;34m::[0;1m zathura-pdf-mupdf-git-[38;5;243m0.4.1.r10.gf08f2f5-1[0m and zathura-pdf-poppler-git-[38;5;243m0.3.2.r2.gd49bfd3-1[0m are in conflict (zathura-pdf-poppler). Remove zathura-pdf-poppler-git? [y/N] [0m
-[1;31merror: [0munresolvable package conflicts detected
-[1;31merror: [0mfailed to prepare transaction (conflicting dependencies)
-[1;34m::[0;1m zathura-pdf-mupdf-git-0.4.1.r10.gf08f2f5-1 and zathura-pdf-poppler-git-0.3.2.r2.gd49bfd3-1 are in conflict
-[0m[?25h[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-[1;34m::[0;1m zathura-pdf-mupdf-git-[38;5;243m0.4.1.r10.gf08f2f5-1[0m and zathura-pdf-poppler-git-[38;5;243m0.3.2.r2.gd49bfd3-1[0m are in conflict (zathura-pdf-poppler). Remove zathura-pdf-poppler-git? [y/N] [0m
-[1;31merror: [0munresolvable package conflicts detected
-[1;31merror: [0mfailed to prepare transaction (conflicting dependencies)
-[1;34m::[0;1m zathura-pdf-mupdf-git-0.4.1.r10.gf08f2f5-1 and zathura-pdf-poppler-git-0.3.2.r2.gd49bfd3-1 are in conflict
-[0m[?25h[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-[1;34m::[0;1m zathura-pdf-mupdf-git-[38;5;243m0.4.1.r10.gf08f2f5-1[0m and zathura-pdf-poppler-git-[38;5;243m0.3.2.r2.gd49bfd3-1[0m are in conflict (zathura-pdf-poppler). Remove zathura-pdf-poppler-git? [y/N] [0m
-[1;31merror: [0munresolvable package conflicts detected
-[1;31merror: [0mfailed to prepare transaction (conflicting dependencies)
-[1;34m::[0;1m zathura-pdf-mupdf-git-0.4.1.r10.gf08f2f5-1 and zathura-pdf-poppler-git-0.3.2.r2.gd49bfd3-1 are in conflict
-[0m[?25h[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-[1;34m::[0;1m zathura-pdf-mupdf-git-[38;5;243m0.4.1.r10.gf08f2f5-1[0m and zathura-pdf-poppler-git-[38;5;243m0.3.2.r2.gd49bfd3-1[0m are in conflict (zathura-pdf-poppler). Remove zathura-pdf-poppler-git? [y/N] [0m
-[1;31merror: [0munresolvable package conflicts detected
-[1;31merror: [0mfailed to prepare transaction (conflicting dependencies)
-[1;34m::[0;1m zathura-pdf-mupdf-git-0.4.1.r10.gf08f2f5-1 and zathura-pdf-poppler-git-0.3.2.r2.gd49bfd3-1 are in conflict
-[0m[?25h[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-[1;34m::[0;1m zathura-pdf-mupdf-git-[38;5;243m0.4.1.r10.gf08f2f5-1[0m and zathura-pdf-poppler-git-[38;5;243m0.3.2.r2.gd49bfd3-1[0m are in conflict (zathura-pdf-poppler). Remove zathura-pdf-poppler-git? [y/N] [0m
-[1;31merror: [0munresolvable package conflicts detected
-[1;31merror: [0mfailed to prepare transaction (conflicting dependencies)
-[1;34m::[0;1m zathura-pdf-mupdf-git-0.4.1.r10.gf08f2f5-1 and zathura-pdf-poppler-git-0.3.2.r2.gd49bfd3-1 are in conflict
-[0m[?25h[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-[1;34m::[0;1m zathura-pdf-mupdf-git-[38;5;243m0.4.1.r10.gf08f2f5-1[0m and zathura-pdf-poppler-git-[38;5;243m0.3.2.r2.gd49bfd3-1[0m are in conflict (zathura-pdf-poppler). Remove zathura-pdf-poppler-git? [y/N] [0m
-[1;31merror: [0munresolvable package conflicts detected
-[1;31merror: [0mfailed to prepare transaction (conflicting dependencies)
-[1;34m::[0;1m zathura-pdf-mupdf-git-0.4.1.r10.gf08f2f5-1 and zathura-pdf-poppler-git-0.3.2.r2.gd49bfd3-1 are in conflict
-[0m[?25h[?25lloading packages...
-resolving dependencies...
-looking for conflicting packages...
-[1;34m::[0;1m zathura-pdf-mupdf-git-[38;5;243m0.4.1.r10.gf08f2f5-1[0m and zathura-pdf-poppler-git-[38;5;243m0.3.2.r2.gd49bfd3-1[0m are in conflict (zathura-pdf-poppler). Remove zathura-pdf-poppler-git? [y/N] [0m
-[1;31merror: [0munresolvable package conflicts detected
-[1;31merror: [0mfailed to prepare transaction (conflicting dependencies)
-[1;34m::[0;1m zathura-pdf-mupdf-git-0.4.1.r10.gf08f2f5-1 and zathura-pdf-poppler-git-0.3.2.r2.gd49bfd3-1 are in conflict
-[0m[?25herror: packages failed to build: zathura-djvu-git-0.2.9.r3.g56b0fd5-1  zathura-ps-git-0.2.7.r2.g0d28473-2  zathura-cb-git-0.1.8.r7.gd03db86-1  zathura-ypb-0.0.8.2.r30.gbef9bc4-3  libfiu-1.00-1  libzathura-git-69efc7d-1  zathura-pywal-git-r25.e9973b8-1  python-tree-sitter-0.22.3-1  python-tree-sitter-zathurarc-0.0.8-1  zathura-gruvbox-git-r7.0b49904-1  python-lsp-tree-sitter-0.0.15-1  zathura-language-server-0.0.12-1
-
-Script done on 2024-06-01 03:45:32+02:00 [COMMAND_EXIT_CODE="1"]

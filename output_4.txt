@@ -1,4 +1,0 @@
-Script started on 2024-05-30 16:33:37+02:00 [COMMAND="sudo pacman xdg-user-dirs" TERM="linux" TTY="/dev/tty1" COLUMNS="240" LINES="67"]
-error: no operation specified (use -h for help)
-[?25l[?25h
-Script done on 2024-05-30 16:33:37+02:00 [COMMAND_EXIT_CODE="1"]
