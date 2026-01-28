@@ -379,21 +379,15 @@ function main() {
     inputs=("$INPUT_FILE")
   else
     if [[ "$MODE" == "latest" ]]; then
-    # Keep consuming "latest unprocessed" until none remain.
       local f
-      while :; do
-        f="$(latest_unprocessed_file "$IN_DIR")"
-        [[ -n "$f" ]] || break
-        inputs+=("$f")
-
-        # If the newest remaining candidate is output.txt, stop after it.
-        # (There can only be one output.txt.)
-        [[ "${f##*/}" == "output.txt" ]] && break
-        done
-
-        (( ${#inputs[@]} > 0 )) || die "No suitable output_*.txt / output.txt found."
+      f="$(latest_unprocessed_file "$IN_DIR")"
+      [[ -n "$f" ]] || die "No suitable output_*.txt / output.txt found."
+      inputs=("$f")
+    else
+      mapfile -t inputs < <(all_candidate_files "$IN_DIR")
+      (( ${#inputs[@]} > 0 )) || die "No suitable output_*.txt / output.txt found."
     fi
-
+  fi
 
   local in out
   for in in "${inputs[@]}"; do
